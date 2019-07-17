@@ -55,7 +55,7 @@
           "work_list": [
             {
               "uid": "dearvo01",
-              "artist": "lumiere",
+              "artist": ["lumiere"],
               "comment": "175cm、53kg、O型ってオレとスペック全く一緒だよ！って余談は置いておいて、 見目麗しいV系バンドのヴォーカル・レオ様！",
               "song_list": [
                 {
@@ -70,7 +70,7 @@
             },
             {
               "uid": "dearvo02",
-              "artist": "veronica",
+              "artist": ["veronica"],
               "comment": "忍者の末裔ということで浮世離れした見た目と裏腹に、キュートに振る舞うギャップがたまらない。",
               "song_list": [
                 {
@@ -85,7 +85,7 @@
             },
             {
               "uid": "dearvo03",
-              "artist": "kagaribi",
+              "artist": ["kagaribi"],
               "comment": "二人組バンドのキーマン。モデルもこなすオシャレさんって設定だけどどのキャラも衣装着てるから比べようがない。",
               "song_list": [
                 {
@@ -100,7 +100,7 @@
             },
             {
               "uid": "dearvo04",
-              "artist": "die_fledermaus",
+              "artist": ["die_fledermaus"],
               "comment": "真面目でストイックでイケメンでイケメンでイケメンなシエ兄！",
               "song_list": [
                 {
@@ -115,7 +115,7 @@
             },
             {
               "uid": "dearvo05",
-              "artist": "nsfw",
+              "artist": ["nsfw"],
               "comment": "カゲキな発言でおなじみエーたん。浮ついてるのにラウドとかずるい。てか公式でラウドって書いてあるけどあまりラウド感ないよね？",
               "song_list": [
                 {
@@ -130,7 +130,7 @@
             },
             {
               "uid": "dearvo06",
-              "artist": "jet_rat_fury",
+              "artist": ["jet_rat_fury"],
               "comment": "海外育ちの二世タレントだけど驕らず偉ぶらず、自分のやりたいコトをまっすぐできる子。",
               "song_list": [
                 {
@@ -151,7 +151,7 @@
           "work_list": [
             {
               "uid": "dearvo07",
-              "artist": "lumiere",
+              "artist": ["lumiere"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -165,7 +165,7 @@
             },
             {
               "uid": "dearvo08",
-              "artist": "kagaribi",
+              "artist": ["kagaribi"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -179,7 +179,7 @@
             },
             {
               "uid": "dearvo09",
-              "artist": "nsfw",
+              "artist": ["nsfw"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -193,7 +193,7 @@
             },
             {
               "uid": "dearvo10",
-              "artist": "veronica",
+              "artist": ["veronica"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -207,7 +207,7 @@
             },
             {
               "uid": "dearvo11",
-              "artist": "jet_rat_fury",
+              "artist": ["jet_rat_fury"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -221,7 +221,7 @@
             },
             {
               "uid": "dearvo12",
-              "artist": "die_fledermaus",
+              "artist": ["die_fledermaus"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -237,17 +237,17 @@
               "uid": "dearvo01c",
               "song_list": [
                 {
-                  "artist": "lumiere",
+                  "artist": ["lumiere"],
                   "track_no": 1,
                   "comment": "これまでもハズレなくカッコいい曲を歌いまくってきたレオ様だが、今まで以上のクオリティを生み出した！ シエ兄推しだけどちょっと揺らぐくらいに素晴らしい。力まずに歌うますとし最高。"
                 },
                 {
-                  "artist": "die_fledermaus",
+                  "artist": ["die_fledermaus"],
                   "track_no": 2,
                   "comment": "シエ兄にはBLACK ANTHEMという神曲があるから、どうしてもそれを超えることはできない。 でもそれに肉薄するだけのクオリティを毎度毎度突き詰めていることに変わりない。 気持ちいいくらいにテンポが良く、曲本来のかっこよさも倍増。やっぱりシエ兄最高。"
                 },
                 {
-                  "artist": "jet_rat_fury",
+                  "artist": ["jet_rat_fury"],
                   "track_no": 3,
                   "comment": "これまでのどのユゥ曲よりもグルーヴがあり、かっこよさもトップクラス。 ヘヴィなフレーズを奏でるギターが非常にいい。これだけの力強さがあれば、レオ様シエ兄の新曲と並んでも遜色ない。"
                 }
@@ -257,17 +257,17 @@
               "uid": "dearvo02c",
               "song_list": [
                 {
-                  "artist": "kagaribi",
+                  "artist": ["kagaribi"],
                   "track_no": 1,
                   "comment": "グルーヴが強調されるミドルテンポで展開し、サビではさらにテンションが上がる。 ずっと存在感を維持しているギターは、どこかのネオVで聴いたことある雰囲気（笑）。"
                 },
                 {
-                  "artist": "nsfw",
+                  "artist": ["nsfw"],
                   "track_no": 2,
                   "comment": "またまた（どちらかと言うと）ラウド寄りで攻めてきたエーたん。やっぱりこっちの方が良いって。 ただミクスチャーのような軽薄な雰囲気も多分に含まれている。 6人の曲の中でも一番若くてエネルギッシュなノリで突き進む。"
                 },
                 {
-                  "artist": "veronica",
+                  "artist": ["veronica"],
                   "track_no": 3,
                   "comment": "和を思わせるタイトルに原点回帰かと期待が高まるが、曲調にはそこまで現れていない。 ただこれまでも相当レベルの高い曲ばかりだったモモチの、最高傑作と言うべき名曲になった。 感情的な歌詞とそれを際立たせるメロディに哀愁を誘われる。"
                 }
@@ -281,7 +281,7 @@
           "work_list": [
             {
               "uid": "dearvo13",
-              "artist": "lumiere",
+              "artist": ["lumiere"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -295,7 +295,7 @@
             },
             {
               "uid": "dearvo14",
-              "artist": "brave_child",
+              "artist": ["brave_child"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -309,7 +309,7 @@
             },
             {
               "uid": "dearvo15",
-              "artist": "kagaribi",
+              "artist": ["kagaribi"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -323,7 +323,7 @@
             },
             {
               "uid": "dearvo16",
-              "artist": "nsfw",
+              "artist": ["nsfw"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -337,7 +337,7 @@
             },
             {
               "uid": "dearvo17",
-              "artist": "veronica",
+              "artist": ["veronica"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -351,7 +351,7 @@
             },
             {
               "uid": "dearvo18",
-              "artist": "jet_rat_fury",
+              "artist": ["jet_rat_fury"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -371,7 +371,7 @@
           "work_list": [
             {
               "uid": "dearvo19",
-              "artist": "lumiere",
+              "artist": ["lumiere"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -385,7 +385,7 @@
             },
             {
               "uid": "dearvo20",
-              "artist": "brave_child",
+              "artist": ["brave_child"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -399,7 +399,7 @@
             },
             {
               "uid": "dearvo21",
-              "artist": "kagaribi",
+              "artist": ["kagaribi"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -413,7 +413,7 @@
             },
             {
               "uid": "dearvo22",
-              "artist": "jet_rat_fury",
+              "artist": ["jet_rat_fury"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -427,7 +427,7 @@
             },
             {
               "uid": "dearvo23",
-              "artist": "veronica",
+              "artist": ["veronica"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -441,7 +441,7 @@
             },
             {
               "uid": "dearvo24",
-              "artist": "nsfw",
+              "artist": ["nsfw"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -458,22 +458,22 @@
               "song_list": [
                 {
                   "track_no": 1,
-                  "artist": "lumiere",
+                  "artist": ["lumiere"],
                   "comment": ""
                 },
                 {
                   "track_no": 2,
-                  "artist": "veronica",
+                  "artist": ["veronica"],
                   "comment": ""
                 },
                 {
                   "track_no": 3,
-                  "artist": "brave_child",
+                  "artist": ["brave_child"],
                   "comment": ""
                 },
                 {
                   "track_no": 9,
-                  "artist": "brave_child",
+                  "artist": ["brave_child"],
                   "comment": ""
                 }
               ]
@@ -483,22 +483,22 @@
               "song_list": [
                 {
                   "track_no": 1,
-                  "artist": "nsfw",
+                  "artist": ["nsfw"],
                   "comment": ""
                 },
                 {
                   "track_no": 2,
-                  "artist": "kagaribi",
+                  "artist": ["kagaribi"],
                   "comment": ""
                 },
                 {
                   "track_no": 3,
-                  "artist": "jet_rat_fury",
+                  "artist": ["jet_rat_fury"],
                   "comment": ""
                 },
                 {
                   "track_no": 9,
-                  "artist": "brave_child",
+                  "artist": ["brave_child"],
                   "comment": ""
                 }
               ]
@@ -511,7 +511,7 @@
           "work_list": [
             {
               "uid": "dearvo25",
-              "artist": "lumiere",
+              "artist": ["lumiere"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -525,7 +525,7 @@
             },
             {
               "uid": "dearvo26",
-              "artist": "brave_child",
+              "artist": ["brave_child"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -539,7 +539,7 @@
             },
             {
               "uid": "dearvo27",
-              "artist": "kagaribi",
+              "artist": ["kagaribi"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -553,7 +553,7 @@
             },
             {
               "uid": "dearvo28",
-              "artist": "jet_rat_fury",
+              "artist": ["jet_rat_fury"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -567,7 +567,7 @@
             },
             {
               "uid": "dearvo29",
-              "artist": "veronica",
+              "artist": ["veronica"],
               "song_list": [
                 {
                   "track_no": 1,
@@ -581,7 +581,7 @@
             },
             {
               "uid": "dearvo30",
-              "artist": "nsfw",
+              "artist": ["nsfw"],
               "song_list": [
                 {
                   "track_no": 1,

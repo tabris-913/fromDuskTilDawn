@@ -24,15 +24,19 @@ const Body = (props: BodyProps) => {
               <Row>
                 <Col>
                   <Descriptions bordered={true} column={1} size="small">
-                    <Descriptions.Item label="Artist">{content.artist}</Descriptions.Item>
+                    <Descriptions.Item label="Artist">{content.artist.join('・')}</Descriptions.Item>
                     <Descriptions.Item label="Release date">{content.date}</Descriptions.Item>
                   </Descriptions>
-                  <Rate
-                    disabled={true}
-                    allowHalf={true}
-                    defaultValue={Math.floor(content.rate / 10) / 2}
-                    style={{ paddingTop: 15 }}
-                  />
+                  {!!content.rate ? (
+                    <Rate
+                      disabled={true}
+                      allowHalf={true}
+                      defaultValue={Math.floor(content.rate / 10) / 2}
+                      style={{ paddingTop: 15 }}
+                    />
+                  ) : (
+                    undefined
+                  )}
                   <Statistic title="Favorite degree" value={content.rate} style={{ padding: 10 }} />
                 </Col>
               </Row>

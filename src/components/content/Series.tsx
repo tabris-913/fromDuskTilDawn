@@ -1,4 +1,4 @@
-import { Avatar, Col, Collapse, Icon, List, Row, Divider } from 'antd';
+import { Avatar, Col, Collapse, Divider, Icon, List, Row } from 'antd';
 import * as React from 'react';
 import ReactMarkdown from 'react-markdown';
 
@@ -46,8 +46,13 @@ const Body = (props: BodyProps) => {
               <Collapse.Panel
                 header={
                   <Row>
-                    <Col>{works.title}</Col>
-                    <Col style={{ color: '#888' }}>{getArtistName(work.artist)}</Col>
+                    <Col>「{works.title}」</Col>
+                    {work.artist ? (
+                      <Col style={{ color: '#888' }}>{work.artist.map(getArtistName).join('・')}</Col>
+                    ) : (
+                      undefined
+                    )}
+                    {works.date ? <Col>release date: {works.date}</Col> : undefined}
                   </Row>
                 }
                 key={work.uid}
@@ -73,7 +78,9 @@ const Body = (props: BodyProps) => {
                                         {works.list[song.disk_no ? song.disk_no - 1 : 0][song.track_no - 1]}
                                       </span>
                                     </Col>
-                                    <Col style={{ color: '#888', paddingLeft: 20 }}>{getArtistName(song.artist)}</Col>
+                                    <Col style={{ color: '#888', paddingLeft: 20 }}>
+                                      {(song.artist || []).map(getArtistName).join('・')}
+                                    </Col>
                                   </Row>
                                 }
                               />

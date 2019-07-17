@@ -49,6 +49,21 @@
       "name": "Brave Child",
       "ruby": "ブレイヴ・チャイルド",
       "uid": "brave_child"
+    },
+    "starish": {
+      "name": "ST☆RISH",
+      "ruby": "スターリッシュ",
+      "uid": "starish"
+    },
+    "qn": {
+      "name": "QUARTET NIGHT",
+      "ruby": "カルテット・ナイト",
+      "uid": "qn"
+    },
+    "heavens": {
+      "name": "HE☆VENS",
+      "ruby": "ヘヴンズ",
+      "uid": "heavens"
     }
   }
 }

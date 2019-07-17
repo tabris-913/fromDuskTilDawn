@@ -1,12 +1,12 @@
 export interface ISeriesSong {
-  artist?: string;
+  artist?: string[];
   disk_no?: number;
   track_no: number;
   comment: string;
 }
 
 export interface ISeriesWork {
-  artist?: string;
+  artist?: string[];
   uid: string;
   comment?: string;
   song_list: ISeriesSong[];

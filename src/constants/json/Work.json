@@ -5,7 +5,7 @@
       "description": "",
       "date": "2000-01-01",
       "year": 2000,
-      "artist": "lumiere",
+      "artist": ["lumiere"],
       "list": [["ヒヤシンス", "Dear Innocence"]],
       "comment": "comment",
       "uid": "dearvo01",
@@ -17,7 +17,7 @@
       "description": "",
       "date": "",
       "year": 2000,
-      "artist": "veronica",
+      "artist": ["veronica"],
       "list": [["泡唄", "全能感"]],
       "comment": "",
       "uid": "dearvo02",
@@ -29,7 +29,7 @@
       "description": "",
       "date": "",
       "year": 2000,
-      "artist": "kagaribi",
+      "artist": ["kagaribi"],
       "list": [["エスカレーション！", "Sweet Devil's Night"]],
       "comment": "",
       "uid": "dearvo03",
@@ -41,7 +41,7 @@
       "description": "",
       "date": "",
       "year": 2000,
-      "artist": "die_fledermaus",
+      "artist": ["die_fledermaus"],
       "list": [["BLACK ANTHEM", "LUV (Your) STiNG"]],
       "comment": "",
       "uid": "dearvo04",
@@ -53,7 +53,7 @@
       "description": "",
       "date": "",
       "year": 2000,
-      "artist": "nsfw",
+      "artist": ["nsfw"],
       "list": [["かむかむみらくる", "RE:Morse"]],
       "comment": "",
       "uid": "dearvo05",
@@ -67,7 +67,7 @@
       "year": 2000,
       "comment": "",
       "rate": 99,
-      "artist": "jet_rat_fury",
+      "artist": ["jet_rat_fury"],
       "list": [["AWKWARD?", "I need your love"]],
       "img": ["dearvo06.jpg"]
     },
@@ -78,7 +78,7 @@
       "year": 2000,
       "comment": "",
       "rate": 99,
-      "artist": "lumiere",
+      "artist": ["lumiere"],
       "list": [["アンビシャスナイト", "Rain&Pain"]],
       "img": ["dearvo07.jpg"]
     },
@@ -89,7 +89,7 @@
       "year": 2000,
       "comment": "",
       "rate": 99,
-      "artist": "kagaribi",
+      "artist": ["kagaribi"],
       "list": [["New World", "I Can't Say GoodBye"]],
       "img": ["dearvo08.jpg"]
     },
@@ -100,7 +100,7 @@
       "year": 2000,
       "comment": "",
       "rate": 99,
-      "artist": "nsfw",
+      "artist": ["nsfw"],
       "list": [["Crazy≒Nutrient", "まさかのMassacre!"]],
       "img": ["dearvo09.jpg"]
     },
@@ -111,7 +111,7 @@
       "year": 2000,
       "comment": "",
       "rate": 99,
-      "artist": "veronica",
+      "artist": ["veronica"],
       "list": [["Mi★Amigo", "Mr.BlackBlack"]],
       "img": ["dearvo10.jpg"]
     },
@@ -121,7 +121,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "jet_rat_fury",
+      "artist": ["jet_rat_fury"],
       "list": [["Keep looking", "STAR LIGHT"]],
       "img": ["dearvo11.jpg"]
     },
@@ -131,7 +131,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "die_fledermaus",
+      "artist": ["die_fledermaus"],
       "list": [["Vibes", "Ache&Deny"]],
       "img": ["dearvo12.jpg"]
     },
@@ -141,7 +141,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "",
+      "artist": [],
       "list": [["√PARANOIA", "Heaven's Door", "Relationship"]],
       "img": ["dearvo01c.jpg"]
     },
@@ -151,7 +151,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "",
+      "artist": [],
       "list": [["Judge!!!!", "KKK→E", "破れ櫻"]],
       "img": ["dearvo02c.jpg"]
     },
@@ -161,7 +161,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "lumiere",
+      "artist": ["lumiere"],
       "list": [["iNiTiaTiVe", "EGOIST?"]],
       "img": ["dearvo13.jpg"]
     },
@@ -171,7 +171,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "brave_child",
+      "artist": ["brave_child"],
       "list": [["アーティストナイト", "そばにいて"]],
       "img": ["dearvo14.jpg"]
     },
@@ -181,7 +181,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "kagaribi",
+      "artist": ["kagaribi"],
       "list": [["飛翔", "TSK!! TSK!!"]],
       "img": ["dearvo15.jpg"]
     },
@@ -191,7 +191,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "nsfw",
+      "artist": ["nsfw"],
       "list": [["S≠O≒S", "四葉CLOVER"]],
       "img": ["dearvo16.jpg"]
     },
@@ -201,7 +201,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "veronica",
+      "artist": ["veronica"],
       "list": [["キミだけのサイン", "LION"]],
       "img": ["dearvo17.jpg"]
     },
@@ -211,7 +211,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "jet_rat_fury",
+      "artist": ["jet_rat_fury"],
       "list": [["day after day", "Thank you!!"]],
       "img": ["dearvo18.jpg"]
     },
@@ -221,7 +221,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "lumiere",
+      "artist": ["lumiere"],
       "list": [["EXiT", "I am a Loser"]],
       "img": ["dearvo19.jpg"]
     },
@@ -231,7 +231,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "brave_child",
+      "artist": ["brave_child"],
       "list": [["アメィジング", "Dear..."]],
       "img": ["dearvo20.jpg"]
     },
@@ -241,7 +241,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "kagaribi",
+      "artist": ["kagaribi"],
       "list": [["(Dis)Appeared", "ロンギング"]],
       "img": ["dearvo21.jpg"]
     },
@@ -251,7 +251,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "jet_rat_fury",
+      "artist": ["jet_rat_fury"],
       "list": [["NAKED", "Miserable"]],
       "img": ["dearvo22.jpg"]
     },
@@ -261,7 +261,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "veronica",
+      "artist": ["veronica"],
       "list": [["SCARLET GAME", "Last Coffee"]],
       "img": ["dearvo23.jpg"]
     },
@@ -271,7 +271,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "nsfw",
+      "artist": ["nsfw"],
       "list": [["だからおねがいだから。", "ぱぴぷぺぽでらりるれろ"]],
       "img": ["dearvo24.jpg"]
     },
@@ -323,7 +323,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "lumiere",
+      "artist": ["lumiere"],
       "list": [["CHAMPION", "9/10"]],
       "img": ["dearvo25.jpg"]
     },
@@ -333,7 +333,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "brave_child",
+      "artist": ["brave_child"],
       "list": [["WRONG", "アイオーン"]],
       "img": ["dearvo26.jpg"]
     },
@@ -343,7 +343,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "kagaribi",
+      "artist": ["kagaribi"],
       "list": [["TBA", "TBA"]],
       "img": ["dearvo27.jpg"]
     },
@@ -353,7 +353,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "jet_rat_fury",
+      "artist": ["jet_rat_fury"],
       "list": [["TBA", "TBA"]],
       "img": ["dearvo28.jpg"]
     },
@@ -363,7 +363,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "veronica",
+      "artist": ["veronica"],
       "list": [["TBA", "TBA"]],
       "img": ["dearvo29.jpg"]
     },
@@ -373,7 +373,7 @@
       "date": "",
       "year": 2000,
       "comment": "",
-      "artist": "nsfw",
+      "artist": ["nsfw"],
       "list": [["TBA", "TBA"]],
       "img": ["dearvo30.jpg"]
     }

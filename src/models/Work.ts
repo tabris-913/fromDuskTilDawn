@@ -3,10 +3,10 @@ export interface IWork {
   date: string;
   year: number;
   description: string;
-  artist: string;
+  artist: string[];
   list: string[][];
   comment: string;
   uid: string;
   img?: string[];
-  rate: number;
+  rate?: number;
 }
