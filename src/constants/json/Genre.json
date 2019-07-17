@@ -1,0 +1,9 @@
+{
+  "genre": {
+    "hard_rock": {
+      "name": "Hard Rock",
+      "uid": "hard_rock",
+      "list": ["black_sabbath"]
+    }
+  }
+}

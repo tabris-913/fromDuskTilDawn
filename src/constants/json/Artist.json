@@ -1,0 +1,54 @@
+{
+  "artists": {
+    "blind_guardian": {
+      "name": "Blind Guardian",
+      "ruby": "ブラインド・ガーディアン",
+      "uid": "blind_guardian"
+    },
+    "black_sabbath": {
+      "name": "Black Sabbath",
+      "ruby": "ブラック・サバス",
+      "uid": "black_sabbath"
+    },
+    "seiko": {
+      "name": "松田聖子",
+      "ruby": "まつだせいこ",
+      "uid": "seiko"
+    },
+    "lumiere": {
+      "name": "LUMIERE",
+      "ruby": "ルミエール",
+      "uid": "lumiere"
+    },
+    "veronica": {
+      "name": "Veronica",
+      "ruby": "ヴェロニカ",
+      "uid": "veronica"
+    },
+    "nsfw": {
+      "name": "Not Sale For Work",
+      "ruby": "ノット・セール・フォー・ワーク",
+      "uid": "nsfw"
+    },
+    "kagaribi": {
+      "name": "篝火",
+      "ruby": "かがりび",
+      "uid": "kagaribi"
+    },
+    "die_fledermaus": {
+      "name": "Die Fledermaus",
+      "ruby": "フレーダーマウス",
+      "uid": "die_fledermaus"
+    },
+    "jet_rat_fury": {
+      "name": "JET RAT FURY",
+      "ruby": "ジェット・ラット・フュリー",
+      "uid": "jet_rat_fury"
+    },
+    "brave_child": {
+      "name": "Brave Child",
+      "ruby": "ブレイヴ・チャイルド",
+      "uid": "brave_child"
+    }
+  }
+}

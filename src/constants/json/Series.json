@@ -1,0 +1,649 @@
+{
+  "series": {
+    "utapri": {
+      "uid": "utapri",
+      "name": "うたの☆プリンスさまっ♪",
+      "content": [
+        {
+          "description": "",
+          "work_list": []
+        },
+        {
+          "description": "",
+          "subtitle": "1000%",
+          "work_list": [],
+          "disabled": true
+        },
+        {
+          "description": "",
+          "subtitle": "2000%",
+          "work_list": [],
+          "disabled": true
+        },
+        {
+          "description": "",
+          "subtitle": "Revolutions",
+          "work_list": [],
+          "disabled": true
+        },
+        {
+          "description": "",
+          "subtitle": "Legend Star",
+          "work_list": [],
+          "disabled": true
+        },
+        {
+          "description": "",
+          "subtitle": "Kingdom",
+          "work_list": [],
+          "disabled": true
+        }
+      ]
+    },
+    "ensta": {
+      "uid": "ensta",
+      "name": "あんさんぶるスターズ！",
+      "content": [],
+      "disabled": true
+    },
+    "dearvo": {
+      "uid": "dearvo",
+      "name": "ディア♡ヴォーカリスト",
+      "content": [
+        {
+          "description": "2015年にスタートしたRejetの「彼はヴォーカリスト♥CD『ディア♥ヴォーカリスト』」（[公式サイト](http://rejetweb.jp/dearvo/)）シリーズレビュー。",
+          "work_list": [
+            {
+              "uid": "dearvo01",
+              "artist": "lumiere",
+              "comment": "175cm、53kg、O型ってオレとスペック全く一緒だよ！って余談は置いておいて、 見目麗しいV系バンドのヴォーカル・レオ様！",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": "どストレートなロックチューン。「悲しみを超えた愛」を花言葉にもつヒヤシンスだが、歌詞的には悲しみよりも痛みがテーマ。サウンドは紛れもなくV系のそれで、歌い方もあまり声に感情を乗せない感じもそれっぽい。ヒヤシンスという名前の由来はギリシャ神話の美少年「ヒュアキントス」で、レオ様も美しいという一致は後付けでもいいからあるといいな。"
+                },
+                {
+                  "track_no": 2,
+                  "comment": "曲の方向性は1曲目とそれほど変わらないが、メロディの起伏は穏やかでバランスが良い。2曲目ということもあって抑え気味になってるのかもしれない。「V系バンドにしては上手すぎる」というのは贅沢すぎる文句かもしれない。ただ必要以上に掘り下げない歌詞の言葉選びは充分V系。"
+                }
+              ]
+            },
+            {
+              "uid": "dearvo02",
+              "artist": "veronica",
+              "comment": "忍者の末裔ということで浮世離れした見た目と裏腹に、キュートに振る舞うギャップがたまらない。",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": "ジャケットやタイトルの雰囲気をそのまま体現した和風ロック。ここ数年流行りのやつだよ。和楽器を取り入れているだけでなく、メロディの使い方も日本的。その分メロディの存在感は非常に強烈で、耳残りの良さはピカイチ。日本人の本能に刻み込まれた感覚を震わせる。当然どんな曲でも歌いこなしてしまうとしくんの歌唱力があってこそ。"
+                },
+                {
+                  "track_no": 2,
+                  "comment": "1曲目に比べると曲自体の日本っぽさは薄いが、メロディの節々にはしっかりと活きているのが分かる。しっかり聞かせるタイプの曲調で、それは声だけじゃなくて楽器陣にも言えること。落ち着いたのはテンポだけでなく、抑揚も穏やかになっている。ただし盛り上がりが無くなったというわけではなく、傾斜が緩やかになった。"
+                }
+              ]
+            },
+            {
+              "uid": "dearvo03",
+              "artist": "kagaribi",
+              "comment": "二人組バンドのキーマン。モデルもこなすオシャレさんって設定だけどどのキャラも衣装着てるから比べようがない。",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": "ノリの良い躍動感あるパートと、テンポダウンするブリーフパートの対比はとても良い。加えてイントロやブリッジ部分の無理矢理タテで揃える感じはあまりメジャーじゃないネオヴィジュ的雰囲気(褒め言葉かどうかは不明)。妥協しない彼の性格をちゃんと表現しているところに好感が持てる。"
+                },
+                {
+                  "track_no": 2,
+                  "comment": "系統的には1曲目と近いが、若干スローな分持ち前のグルーヴが強調されている。サビとそれ以外で大きく盛り上がり方が変わらないところは1曲目との差異。サビを勢いだけで押し通さないところは、ちゃんと曲で勝負しようとする感じがしてくる。1発でズカンと来る感じではないが、聴く度にじわじわと侵されていく。"
+                }
+              ]
+            },
+            {
+              "uid": "dearvo04",
+              "artist": "die_fledermaus",
+              "comment": "真面目でストイックでイケメンでイケメンでイケメンなシエ兄！",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": "とりあえず一言。神曲。シンフォニック・メタルを彷彿とさせるオーケストレーションとクワイア。けんぬの歌唱力を前提として作曲されたに違いないと確信させるだけのクオリティ。ただのキャラクターソングとして甘く見ていると、どこか危機感に似た感情が起こる。生オケと生バンドのコラボを生で聴きたい。きっと鳥肌どころじゃ済まない。失禁す(ry。"
+                },
+                {
+                  "track_no": 2,
+                  "comment": "1曲目とは違いバンドサウンドオンリーのハードロック。ハスキーでセクシーな面と、グルーヴに乗ったクールな面が楽しめる。Aメロの息遣いを聴け。やはりBLACK ANTHEMを聴いた後では霞んでしまうが、こちらの完成度も高い。個人的にはシンフォメタル大好き人間なのでどうしてもアンセム聴いちゃう。"
+                }
+              ]
+            },
+            {
+              "uid": "dearvo05",
+              "artist": "nsfw",
+              "comment": "カゲキな発言でおなじみエーたん。浮ついてるのにラウドとかずるい。てか公式でラウドって書いてあるけどあまりラウド感ないよね？",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": "メインのこちらはラウド、ではなくミクスチャー。 全体的にエフェクトが多用されていて、ちょっと聴くのが大変。 デジタルが嫌いなわけじゃないけれど、全体的に声いじってある曲は好きじゃない。"
+                },
+                {
+                  "track_no": 2,
+                  "comment": "1曲目よりはミクスチャー要素が薄い分、メロディがはっきりしている。とはいえやはりヴォーカルに加工は入っている。その点も1曲目よりは軽いから、明らかに聞きやすい！あと単純にメロディの質が高い。木村良平もあまり感情を乗せるタイプじゃないから、こういう曲調には合ってる。"
+                }
+              ]
+            },
+            {
+              "uid": "dearvo06",
+              "artist": "jet_rat_fury",
+              "comment": "海外育ちの二世タレントだけど驕らず偉ぶらず、自分のやりたいコトをまっすぐできる子。",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": "J-Rockにありがちなメロディや展開を多用している分、耳に馴染みやすい。ただ何かの二番煎じというような形で没個性に落ち着いているわけではなく、単純に高スペック。「ここがもうちょっとこうだったらいいのにな」ってのが全く無い。もうこれでこの曲は完璧な形だなと感じられるのがすごい。"
+                },
+                {
+                  "track_no": 2,
+                  "comment": "俺がピアノロック好きだって知っててこういう曲を作ったんだな！そうに違いない！ピアノの音色でロックの攻撃性を中和することによって、ロックのもつ美しさだけを際だたせることに成功。愛にあふれた歌詞をロックの上で伝えるのに、コレ以上に適切な方法はないだろう。サビの美しさたるや心が号泣するほど。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "description": "2015年にスタートしたRejetの人気シリーズの第2弾、「彼はヴォーカリスト♥CD『ディア♥ヴォーカリスト Riot』」（[公式サイト](http://rejetweb.jp/dearvo2/)）シリーズレビュー。",
+          "subtitle": "Riot",
+          "work_list": [
+            {
+              "uid": "dearvo07",
+              "artist": "lumiere",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": "やっぱりこのシリーズはレオ様にバシッとキメてもらって始まらないと！その開幕に相応しい、これまたハイクオリティなロックチューン。V系バンドなのに、しかもそーゆー路線ってわけでもないのに、タイトルを片仮名にしちゃったのだけはどうかと思う。最後までありきたりで行ってほしかった。"
+                },
+                {
+                  "track_no": 2,
+                  "comment": "うって変わって軽い曲調だが、Rainを表現するにはこれが丁度いい。サビに入る直前の少し荒くなる歌い方が非常にツボ。特に2番。これはなんというか、ますとし良い仕事した。サビ以外ではあまりメロディが主張していない分、サビの美しさが際立っている。"
+                }
+              ]
+            },
+            {
+              "uid": "dearvo08",
+              "artist": "kagaribi",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": "非常にポジティヴで非常に堅実。サビからもう手堅い。「エスカレーション！」みたいに少し遊んでいるような雰囲気は薄く、壮馬くんの声的にはこういう真面目系のほうがあっているかも。サビ後半はあまり攻めていないけど、あそこで攻めたらちょっとしつこいかもしれないからコレくらいがちょうどいいか。"
+                },
+                {
+                  "track_no": 2,
+                  "comment": "前回ユゥがカマしてきたピアノロックを今度はジュダがやってくるなんて。とはいえあそこまで鍵盤要素は強くない。 1曲目同様真面目路線で攻めてきているが、ジュダの音楽に対する姿勢や性格がうまく現れている。オーディエンスからの支持も厚い名曲。"
+                }
+              ]
+            },
+            {
+              "uid": "dearvo09",
+              "artist": "nsfw",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": "前作はひたすらミクスチャーで攻めてきたエーたんだが今回は違う。1曲目はミクスチャーといえばそうなのだが、エフェクトが薄い！これくらいじゃないと「音楽」が聴こえてこない。そしてなにより軽薄さが薄い。まだ10代のくせにしっとりオトナっぽさを表現できるなんて流石です。"
+                },
+                {
+                  "track_no": 2,
+                  "comment": "これを待っていた！NSFWのもう一つの面であるラウドナンバーがついに登場！エーたんはただ軽いだけの子じゃないぞ。最初からこのかっこよさを魅せてくれればもっと素直にエーたん聴けたのに。キャラソンという性質上あまりヘヴィすぎるものは作れないだろうけれど、そういった制限の中で最高水準のものだと断言できる。"
+                }
+              ]
+            },
+            {
+              "uid": "dearvo10",
+              "artist": "veronica",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": "前回は和で攻めていたが、今回は大陸風の情熱的な曲。 この振り幅の広さもモモチの魅力の一つだが、何を演らせても完璧なのが素晴らしい。 日本人の感覚にマッチしたメロディとメリハリの効いたリズムが耳から離れない。"
+                },
+                {
+                  "track_no": 2,
+                  "comment": "アダルトな妖しさを備えた曲で、1曲目と方向性は違えど洋風。 若干ミクスチャーの要素を含みながらも、劇伴のような展開も面白い。 これだけ多様な曲を扱えるということは、ひとえにとしくんの表現力の豊かさあってのものだ。"
+                }
+              ]
+            },
+            {
+              "uid": "dearvo11",
+              "artist": "jet_rat_fury",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": "おとなしめでメッセージ性の強い曲。 とはいっても誰かに向けたものというわけではなく、自分の中で感情の整理をつけるような風合いだ。 悩み事があっても命を粗末にしてはいけない、優しい歌声の奥に秘められた想いをひしひしと感じる。"
+                },
+                {
+                  "track_no": 2,
+                  "comment": "またもやアクセントにピアノを効かせた曲。前回に続いてこれで攻めてくるあたり、手応えがあったのだろう。 1曲目とほぼ同方向の曲だが、こちらの方がややグルーヴィーでロックらしさが強い。 タイトル通り目の前にある光に向かって突き進んでいく、そんな前向きさを感じる。"
+                }
+              ]
+            },
+            {
+              "uid": "dearvo12",
+              "artist": "die_fledermaus",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": "シエ兄に関してはなにやってもいい。絶対いいものになるという確信があるから。 曲調も歌詞もロックまっしぐら。彼の曲、彼の世界、彼の生き様に心の底から惚れた。 ちょっとだけ、前作のようなシンフォ路線を期待していて、それは裏切られたわけだが。"
+                },
+                {
+                  "track_no": 2,
+                  "comment": "ロックバラードとして、ここまで完璧なものとかなり久々に出会った。 静かな曲調とは裏腹に歌詞の孕む熱量とエモーショナルなメロディは、ココロだけでなく体中を熱くさせる。 シエ兄もといけんぬの表現力がこの曲の質を何倍にもふくらませる。 2017年のベストソング候補に堂々と名乗りを上げた。"
+                }
+              ]
+            },
+            {
+              "uid": "dearvo01c",
+              "song_list": [
+                {
+                  "artist": "lumiere",
+                  "track_no": 1,
+                  "comment": "これまでもハズレなくカッコいい曲を歌いまくってきたレオ様だが、今まで以上のクオリティを生み出した！ シエ兄推しだけどちょっと揺らぐくらいに素晴らしい。力まずに歌うますとし最高。"
+                },
+                {
+                  "artist": "die_fledermaus",
+                  "track_no": 2,
+                  "comment": "シエ兄にはBLACK ANTHEMという神曲があるから、どうしてもそれを超えることはできない。 でもそれに肉薄するだけのクオリティを毎度毎度突き詰めていることに変わりない。 気持ちいいくらいにテンポが良く、曲本来のかっこよさも倍増。やっぱりシエ兄最高。"
+                },
+                {
+                  "artist": "jet_rat_fury",
+                  "track_no": 3,
+                  "comment": "これまでのどのユゥ曲よりもグルーヴがあり、かっこよさもトップクラス。 ヘヴィなフレーズを奏でるギターが非常にいい。これだけの力強さがあれば、レオ様シエ兄の新曲と並んでも遜色ない。"
+                }
+              ]
+            },
+            {
+              "uid": "dearvo02c",
+              "song_list": [
+                {
+                  "artist": "kagaribi",
+                  "track_no": 1,
+                  "comment": "グルーヴが強調されるミドルテンポで展開し、サビではさらにテンションが上がる。 ずっと存在感を維持しているギターは、どこかのネオVで聴いたことある雰囲気（笑）。"
+                },
+                {
+                  "artist": "nsfw",
+                  "track_no": 2,
+                  "comment": "またまた（どちらかと言うと）ラウド寄りで攻めてきたエーたん。やっぱりこっちの方が良いって。 ただミクスチャーのような軽薄な雰囲気も多分に含まれている。 6人の曲の中でも一番若くてエネルギッシュなノリで突き進む。"
+                },
+                {
+                  "artist": "veronica",
+                  "track_no": 3,
+                  "comment": "和を思わせるタイトルに原点回帰かと期待が高まるが、曲調にはそこまで現れていない。 ただこれまでも相当レベルの高い曲ばかりだったモモチの、最高傑作と言うべき名曲になった。 感情的な歌詞とそれを際立たせるメロディに哀愁を誘われる。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "description": "2015年にスタートしたRejetの人気シリーズの第3弾、「彼はヴォーカリスト♥CD『ディア♥ヴォーカリスト Wired』」（[公式サイト](http://rejetweb.jp/dearvo3/)）シリーズレビュー。",
+          "subtitle": "Wired",
+          "work_list": [
+            {
+              "uid": "dearvo13",
+              "artist": "lumiere",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": ""
+                },
+                {
+                  "track_no": 2,
+                  "comment": ""
+                }
+              ]
+            },
+            {
+              "uid": "dearvo14",
+              "artist": "brave_child",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": ""
+                },
+                {
+                  "track_no": 2,
+                  "comment": ""
+                }
+              ]
+            },
+            {
+              "uid": "dearvo15",
+              "artist": "kagaribi",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": ""
+                },
+                {
+                  "track_no": 2,
+                  "comment": ""
+                }
+              ]
+            },
+            {
+              "uid": "dearvo16",
+              "artist": "nsfw",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": ""
+                },
+                {
+                  "track_no": 2,
+                  "comment": ""
+                }
+              ]
+            },
+            {
+              "uid": "dearvo17",
+              "artist": "veronica",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": ""
+                },
+                {
+                  "track_no": 2,
+                  "comment": ""
+                }
+              ]
+            },
+            {
+              "uid": "dearvo18",
+              "artist": "jet_rat_fury",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": ""
+                },
+                {
+                  "track_no": 2,
+                  "comment": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "description": "2015年にスタートしたRejetの人気シリーズの第4弾、「彼はヴォーカリスト♥CD『ディア♥ヴォーカリスト Xtreme』」（[公式サイト](http://rejetweb.jp/dearvox/)）シリーズレビュー。",
+          "subtitle": "Xtreme",
+          "work_list": [
+            {
+              "uid": "dearvo19",
+              "artist": "lumiere",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": ""
+                },
+                {
+                  "track_no": 2,
+                  "comment": ""
+                }
+              ]
+            },
+            {
+              "uid": "dearvo20",
+              "artist": "brave_child",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": ""
+                },
+                {
+                  "track_no": 2,
+                  "comment": ""
+                }
+              ]
+            },
+            {
+              "uid": "dearvo21",
+              "artist": "kagaribi",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": ""
+                },
+                {
+                  "track_no": 2,
+                  "comment": ""
+                }
+              ]
+            },
+            {
+              "uid": "dearvo22",
+              "artist": "jet_rat_fury",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": ""
+                },
+                {
+                  "track_no": 2,
+                  "comment": ""
+                }
+              ]
+            },
+            {
+              "uid": "dearvo23",
+              "artist": "veronica",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": ""
+                },
+                {
+                  "track_no": 2,
+                  "comment": ""
+                }
+              ]
+            },
+            {
+              "uid": "dearvo24",
+              "artist": "nsfw",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": ""
+                },
+                {
+                  "track_no": 2,
+                  "comment": ""
+                }
+              ]
+            },
+            {
+              "uid": "dearvo03c",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "artist": "lumiere",
+                  "comment": ""
+                },
+                {
+                  "track_no": 2,
+                  "artist": "veronica",
+                  "comment": ""
+                },
+                {
+                  "track_no": 3,
+                  "artist": "brave_child",
+                  "comment": ""
+                },
+                {
+                  "track_no": 9,
+                  "artist": "brave_child",
+                  "comment": ""
+                }
+              ]
+            },
+            {
+              "uid": "dearvo04c",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "artist": "nsfw",
+                  "comment": ""
+                },
+                {
+                  "track_no": 2,
+                  "artist": "kagaribi",
+                  "comment": ""
+                },
+                {
+                  "track_no": 3,
+                  "artist": "jet_rat_fury",
+                  "comment": ""
+                },
+                {
+                  "track_no": 9,
+                  "artist": "brave_child",
+                  "comment": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "description": "2015年にスタートしたRejetの人気シリーズの第5弾、「彼はヴォーカリスト♥CD『ディア♥ヴォーカリスト Evolve』」（[公式サイト](http://rejetweb.jp/dearvoevol/)）シリーズレビュー。",
+          "subtitle": "Evolve",
+          "work_list": [
+            {
+              "uid": "dearvo25",
+              "artist": "lumiere",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": ""
+                },
+                {
+                  "track_no": 2,
+                  "comment": ""
+                }
+              ]
+            },
+            {
+              "uid": "dearvo26",
+              "artist": "brave_child",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": ""
+                },
+                {
+                  "track_no": 2,
+                  "comment": ""
+                }
+              ]
+            },
+            {
+              "uid": "dearvo27",
+              "artist": "kagaribi",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": ""
+                },
+                {
+                  "track_no": 2,
+                  "comment": ""
+                }
+              ]
+            },
+            {
+              "uid": "dearvo28",
+              "artist": "jet_rat_fury",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": ""
+                },
+                {
+                  "track_no": 2,
+                  "comment": ""
+                }
+              ]
+            },
+            {
+              "uid": "dearvo29",
+              "artist": "veronica",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": ""
+                },
+                {
+                  "track_no": 2,
+                  "comment": ""
+                }
+              ]
+            },
+            {
+              "uid": "dearvo30",
+              "artist": "nsfw",
+              "song_list": [
+                {
+                  "track_no": 1,
+                  "comment": ""
+                },
+                {
+                  "track_no": 2,
+                  "comment": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "dfes": {
+      "uid": "dfes",
+      "name": "ドリフェス！",
+      "content": [],
+      "disabled": true
+    },
+    "dynar": {
+      "uid": "dynar",
+      "name": "DYNAMIC CHORD",
+      "content": [],
+      "disabled": true
+    },
+    "marginal4": {
+      "uid": "marginal4",
+      "name": "MARGINAL#4",
+      "content": [],
+      "disabled": true
+    },
+    "tsukino": {
+      "uid": "tsukino",
+      "name": "ツキウタ。",
+      "content": [],
+      "disabled": true
+    },
+    "a3": {
+      "uid": "a3",
+      "name": "A3!",
+      "content": [],
+      "disabled": true
+    },
+    "stamu": {
+      "uid": "stamu",
+      "name": "スタミュ -高校星歌劇-",
+      "content": [],
+      "disabled": true
+    },
+    "bpro": {
+      "uid": "bpro",
+      "name": "B-PROJECT",
+      "content": [],
+      "disabled": true
+    },
+    "i7": {
+      "uid": "i7",
+      "name": "アイドリッシュセブン",
+      "content": [],
+      "disabled": true
+    }
+  }
+}

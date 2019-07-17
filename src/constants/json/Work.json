@@ -1,0 +1,381 @@
+{
+  "work": {
+    "dearvo01": {
+      "title": "エントリーNo.1 RE-O-DO",
+      "description": "",
+      "date": "2000-01-01",
+      "year": 2000,
+      "artist": "lumiere",
+      "list": [["ヒヤシンス", "Dear Innocence"]],
+      "comment": "comment",
+      "uid": "dearvo01",
+      "img": ["dearvo01.jpg"],
+      "rate": 99
+    },
+    "dearvo02": {
+      "title": "エントリーNo.2 MOMOCHI",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "artist": "veronica",
+      "list": [["泡唄", "全能感"]],
+      "comment": "",
+      "uid": "dearvo02",
+      "img": ["dearvo02.jpg"],
+      "rate": 99
+    },
+    "dearvo03": {
+      "title": "エントリーNo.3 JUDAH",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "artist": "kagaribi",
+      "list": [["エスカレーション！", "Sweet Devil's Night"]],
+      "comment": "",
+      "uid": "dearvo03",
+      "img": ["dearvo03.jpg"],
+      "rate": 99
+    },
+    "dearvo04": {
+      "title": "エントリーNo.4 CIEL",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "artist": "die_fledermaus",
+      "list": [["BLACK ANTHEM", "LUV (Your) STiNG"]],
+      "comment": "",
+      "uid": "dearvo04",
+      "img": ["dearvo04.jpg"],
+      "rate": 99
+    },
+    "dearvo05": {
+      "title": "エントリーNo.5 A'",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "artist": "nsfw",
+      "list": [["かむかむみらくる", "RE:Morse"]],
+      "comment": "",
+      "uid": "dearvo05",
+      "img": ["dearvo05.jpg"],
+      "rate": 99
+    },
+    "dearvo06": {
+      "title": "エントリーNo.6 [2]YOU",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "rate": 99,
+      "artist": "jet_rat_fury",
+      "list": [["AWKWARD?", "I need your love"]],
+      "img": ["dearvo06.jpg"]
+    },
+    "dearvo07": {
+      "title": "エントリーNo.1 RE-O-DO",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "rate": 99,
+      "artist": "lumiere",
+      "list": [["アンビシャスナイト", "Rain&Pain"]],
+      "img": ["dearvo07.jpg"]
+    },
+    "dearvo08": {
+      "title": "エントリーNo.2 JUDAH",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "rate": 99,
+      "artist": "kagaribi",
+      "list": [["New World", "I Can't Say GoodBye"]],
+      "img": ["dearvo08.jpg"]
+    },
+    "dearvo09": {
+      "title": "エントリーNo.3 A'",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "rate": 99,
+      "artist": "nsfw",
+      "list": [["Crazy≒Nutrient", "まさかのMassacre!"]],
+      "img": ["dearvo09.jpg"]
+    },
+    "dearvo10": {
+      "title": "エントリーNo.4 MOMOCHI",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "rate": 99,
+      "artist": "veronica",
+      "list": [["Mi★Amigo", "Mr.BlackBlack"]],
+      "img": ["dearvo10.jpg"]
+    },
+    "dearvo11": {
+      "title": "エントリーNo.5 [2]YOU",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "jet_rat_fury",
+      "list": [["Keep looking", "STAR LIGHT"]],
+      "img": ["dearvo11.jpg"]
+    },
+    "dearvo12": {
+      "title": "エントリーNo.6 CIEL",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "die_fledermaus",
+      "list": [["Vibes", "Ache&Deny"]],
+      "img": ["dearvo12.jpg"]
+    },
+    "dearvo01c": {
+      "title": "THE BEST Rock Out!! レオード・シエル・ユゥ",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "",
+      "list": [["√PARANOIA", "Heaven's Door", "Relationship"]],
+      "img": ["dearvo01c.jpg"]
+    },
+    "dearvo02c": {
+      "title": "THE BEST Rock Out!! ジュダ・エーダッシュ・モモチ",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "",
+      "list": [["Judge!!!!", "KKK→E", "破れ櫻"]],
+      "img": ["dearvo02c.jpg"]
+    },
+    "dearvo13": {
+      "title": "エントリーNo.1 RE-O-DO",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "lumiere",
+      "list": [["iNiTiaTiVe", "EGOIST?"]],
+      "img": ["dearvo13.jpg"]
+    },
+    "dearvo14": {
+      "title": "エントリーNo.2 JOSHUA",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "brave_child",
+      "list": [["アーティストナイト", "そばにいて"]],
+      "img": ["dearvo14.jpg"]
+    },
+    "dearvo15": {
+      "title": "エントリーNo.3 JUDAH",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "kagaribi",
+      "list": [["飛翔", "TSK!! TSK!!"]],
+      "img": ["dearvo15.jpg"]
+    },
+    "dearvo16": {
+      "title": "エントリーNo.4 A'",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "nsfw",
+      "list": [["S≠O≒S", "四葉CLOVER"]],
+      "img": ["dearvo16.jpg"]
+    },
+    "dearvo17": {
+      "title": "エントリーNo.5 MOMOCHI",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "veronica",
+      "list": [["キミだけのサイン", "LION"]],
+      "img": ["dearvo17.jpg"]
+    },
+    "dearvo18": {
+      "title": "エントリーNo.6 [2]YOU",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "jet_rat_fury",
+      "list": [["day after day", "Thank you!!"]],
+      "img": ["dearvo18.jpg"]
+    },
+    "dearvo19": {
+      "title": "エントリーNo.1 RE-O-DO",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "lumiere",
+      "list": [["EXiT", "I am a Loser"]],
+      "img": ["dearvo19.jpg"]
+    },
+    "dearvo20": {
+      "title": "エントリーNo.2 JOSHUA",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "brave_child",
+      "list": [["アメィジング", "Dear..."]],
+      "img": ["dearvo20.jpg"]
+    },
+    "dearvo21": {
+      "title": "エントリーNo.3 JUDAH",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "kagaribi",
+      "list": [["(Dis)Appeared", "ロンギング"]],
+      "img": ["dearvo21.jpg"]
+    },
+    "dearvo22": {
+      "title": "エントリーNo.4 [2]YOU",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "jet_rat_fury",
+      "list": [["NAKED", "Miserable"]],
+      "img": ["dearvo22.jpg"]
+    },
+    "dearvo23": {
+      "title": "エントリーNo.5 MOMOCHI",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "veronica",
+      "list": [["SCARLET GAME", "Last Coffee"]],
+      "img": ["dearvo23.jpg"]
+    },
+    "dearvo24": {
+      "title": "エントリーNo.6 A'",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "nsfw",
+      "list": [["だからおねがいだから。", "ぱぴぷぺぽでらりるれろ"]],
+      "img": ["dearvo24.jpg"]
+    },
+    "dearvo03c": {
+      "title": "THE BEST Rock Out!!! #2 レオード・モモチ・ヨシュア",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "list": [
+        [
+          "Beyond the Limit",
+          "騙り鳥",
+          "あなたへと。",
+          "アンビシャスナイト",
+          "Crazy≒Nutrient",
+          "New World",
+          "Mi★Amigo",
+          "Keep looking",
+          "Silver Rain Saga"
+        ]
+      ],
+      "img": ["dearvo03c.jpg"]
+    },
+    "dearvo04c": {
+      "title": "THE BEST Rock Out!!! #2 エーダッシュ・ジュダ・ユゥ",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "list": [
+        [
+          "人間辞めたってよ。",
+          "2 of a Kind",
+          "橙",
+          "アンビシャスナイト",
+          "Crazy≒Nutrient",
+          "New World",
+          "Mi★Amigo",
+          "Keep looking",
+          "最終電車"
+        ]
+      ],
+      "img": ["dearvo04c.jpg"]
+    },
+    "dearvo25": {
+      "title": "エントリーNo.1 RE-O-DO",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "lumiere",
+      "list": [["CHAMPION", "9/10"]],
+      "img": ["dearvo25.jpg"]
+    },
+    "dearvo26": {
+      "title": "エントリーNo.2 JOSHUA",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "brave_child",
+      "list": [["WRONG", "アイオーン"]],
+      "img": ["dearvo26.jpg"]
+    },
+    "dearvo27": {
+      "title": "エントリーNo.3 JUDAH",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "kagaribi",
+      "list": [["TBA", "TBA"]],
+      "img": ["dearvo27.jpg"]
+    },
+    "dearvo28": {
+      "title": "エントリーNo.4 [2]YOU",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "jet_rat_fury",
+      "list": [["TBA", "TBA"]],
+      "img": ["dearvo28.jpg"]
+    },
+    "dearvo29": {
+      "title": "エントリーNo.5 MOMOCHI",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "veronica",
+      "list": [["TBA", "TBA"]],
+      "img": ["dearvo29.jpg"]
+    },
+    "dearvo30": {
+      "title": "エントリーNo.6 A'",
+      "description": "",
+      "date": "",
+      "year": 2000,
+      "comment": "",
+      "artist": "nsfw",
+      "list": [["TBA", "TBA"]],
+      "img": ["dearvo30.jpg"]
+    }
+  }
+}
