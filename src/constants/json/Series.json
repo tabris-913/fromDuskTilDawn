@@ -621,6 +621,18 @@
       "content": [],
       "disabled": true
     },
+    "sq": {
+      "uid": "sq",
+      "name": "SQ",
+      "content": [],
+      "disabled": true
+    },
+    "alive": {
+      "uid": "alive",
+      "name": "ALIVE",
+      "content": [],
+      "disabled": true
+    },
     "a3": {
       "uid": "a3",
       "name": "A3!",
@@ -642,6 +654,12 @@
     "i7": {
       "uid": "i7",
       "name": "アイドリッシュセブン",
+      "content": [],
+      "disabled": true
+    },
+    "sidem": {
+      "uid": "sidem",
+      "name": "IDOLM@STER SideM",
       "content": [],
       "disabled": true
     }
