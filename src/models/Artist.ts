@@ -4,4 +4,5 @@ export interface IArtist {
   uid: string;
   related?: string[];
   initial?: string;
+  en?: string;
 }

@@ -13,7 +13,8 @@
     "seiko": {
       "name": "松田聖子",
       "ruby": "まつだせいこ",
-      "uid": "seiko"
+      "uid": "seiko",
+      "en": "Seiko Matsuda"
     },
     "lumiere": {
       "name": "LUMIERE",
@@ -33,7 +34,8 @@
     "kagaribi": {
       "name": "篝火",
       "ruby": "かがりび",
-      "uid": "kagaribi"
+      "uid": "kagaribi",
+      "en": "Kagaribi"
     },
     "die_fledermaus": {
       "name": "Die Fledermaus",
@@ -53,60 +55,111 @@
     "starish": {
       "name": "ST☆RISH",
       "ruby": "スターリッシュ",
-      "uid": "starish"
+      "uid": "starish",
+      "related": ["otoya", "masato", "natsuki", "ren", "tokiya", "sho"]
     },
     "qn": {
       "name": "QUARTET NIGHT",
       "ruby": "カルテット・ナイト",
-      "uid": "qn"
+      "uid": "qn",
+      "related": ["reiji", "rammaru", "ai", "camus"]
     },
     "heavens": {
       "name": "HE☆VENS",
       "ruby": "ヘヴンズ",
-      "uid": "heavens"
+      "uid": "heavens",
+      "related": ["eiichi", "kira", "nagi", "eiji", "van", "yamato", "shion"]
     },
     "otoya": {
       "name": "一十木音也",
       "ruby": "いっときおとや",
-      "uid": "otoya"
+      "uid": "otoya",
+      "related": ["starish"],
+      "en": "Otoya Ittoki",
+      "initial": "あ"
     },
     "masato": {
       "name": "聖川真斗",
       "ruby": "ひじりかわまさと",
-      "uid": "masato"
+      "uid": "masato",
+      "related": ["starish"],
+      "en": "Masato Hijirikawa",
+      "initial": "は"
     },
     "natsuki": {
       "name": "四ノ宮那月",
       "ruby": "しのみやなつき",
-      "uid": "natsuki"
+      "uid": "natsuki",
+      "related": ["starish"],
+      "en": "Natsuki Shinomiya",
+      "initial": "さ"
     },
     "ren": {
       "name": "神宮寺レン",
       "ruby": "じんぐうじれん",
-      "uid": "ren"
+      "uid": "ren",
+      "related": ["starish"],
+      "en": "Ren Jinguji",
+      "initial": "さ"
     },
     "tokiya": {
       "name": "一ノ瀬トキヤ",
       "ruby": "いちのせときや",
-      "uid": "tokiya"
+      "uid": "tokiya",
+      "related": ["starish", "hayato"],
+      "en": "Tokiya Ichinose",
+      "initial": "あ"
     },
     "sho": {
       "name": "来栖翔",
       "ruby": "くるすしょう",
-      "uid": "sho"
+      "uid": "sho",
+      "related": ["starish"],
+      "en": "Sho Kurusu",
+      "initial": "か"
     },
     "hayato": {
       "name": "HAYATO",
       "ruby": "ハヤト",
-      "uid": "hayato"
+      "uid": "hayato",
+      "related": ["tokiya"]
     },
     "reiji": {
       "name": "寿嶺二",
       "ruby": "ことぶきれいじ",
-      "uid": "reiji"
+      "uid": "reiji",
+      "related": ["qn"],
+      "en": "Reiji Kotobuki",
+      "initial": "か"
     },
     "rammaru": {
-      "name": "黒崎蘭丸"
+      "name": "黒崎蘭丸",
+      "ruby": "くろさきらんまる",
+      "uid": "rammaru",
+      "related": ["qn"],
+      "en": "Rammaru Kurosaki",
+      "initial": "か"
+    },
+    "ai": {
+      "name": "美風藍",
+      "ruby": "みかぜあい",
+      "uid": "ai",
+      "related": ["qn"],
+      "en": "Ai Mikaze",
+      "initial": "ま"
+    },
+    "camus": {
+      "name": "カミュ",
+      "uid": "camus",
+      "related": ["qn"]
+    },
+    "eiichi": {
+      "name": "鳳瑛一",
+      "ruby": "おおとりえいいち",
+      "uid": "eiichi",
+      "related": ["heavens", "eiji"],
+      "en": "Eiichi Ohtori",
+      "initial": "あ"
     }
   }
 }
