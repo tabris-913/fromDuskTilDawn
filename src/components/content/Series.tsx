@@ -1,4 +1,5 @@
 import { Avatar, Col, Collapse, Divider, Icon, List, Row } from 'antd';
+import * as R from 'ramda';
 import * as React from 'react';
 import ReactMarkdown from 'react-markdown';
 
@@ -31,7 +32,7 @@ const Body = (props: BodyProps) => {
         content.work_list.map((work, idx) => {
           const arrowPos = 'left'; // idx % 2 === 0 ? 'left' : 'right';
           const works = getWorks(work.uid);
-          const img = works && works.img ? `/images/${works.img[0]}` : '';
+          const img = works && works.img ? `${process.env.REACT_APP_IMG_SRC}${works.img[0]}` : '';
           if (img === '') console.log("image can't get");
 
           return !!works ? (
@@ -47,7 +48,7 @@ const Body = (props: BodyProps) => {
                 header={
                   <Row>
                     <Col>「{works.title}」</Col>
-                    {work.artist ? (
+                    {work.artist && !R.isEmpty(work.artist) ? (
                       <Col style={{ color: '#888' }}>{work.artist.map(getArtistName).join('・')}</Col>
                     ) : (
                       undefined

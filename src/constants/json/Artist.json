@@ -64,6 +64,49 @@
       "name": "HE☆VENS",
       "ruby": "ヘヴンズ",
       "uid": "heavens"
+    },
+    "otoya": {
+      "name": "一十木音也",
+      "ruby": "いっときおとや",
+      "uid": "otoya"
+    },
+    "masato": {
+      "name": "聖川真斗",
+      "ruby": "ひじりかわまさと",
+      "uid": "masato"
+    },
+    "natsuki": {
+      "name": "四ノ宮那月",
+      "ruby": "しのみやなつき",
+      "uid": "natsuki"
+    },
+    "ren": {
+      "name": "神宮寺レン",
+      "ruby": "じんぐうじれん",
+      "uid": "ren"
+    },
+    "tokiya": {
+      "name": "一ノ瀬トキヤ",
+      "ruby": "いちのせときや",
+      "uid": "tokiya"
+    },
+    "sho": {
+      "name": "来栖翔",
+      "ruby": "くるすしょう",
+      "uid": "sho"
+    },
+    "hayato": {
+      "name": "HAYATO",
+      "ruby": "ハヤト",
+      "uid": "hayato"
+    },
+    "reiji": {
+      "name": "寿嶺二",
+      "ruby": "ことぶきれいじ",
+      "uid": "reiji"
+    },
+    "rammaru": {
+      "name": "黒崎蘭丸"
     }
   }
 }
