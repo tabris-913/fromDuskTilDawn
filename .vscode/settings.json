@@ -4,7 +4,6 @@
   "prettier.semi": true,
   "prettier.printWidth": 120,
   "prettier.trailingComma": "es5",
-  "editor.formatOnSave": true,
   "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
   "javascript.preferences.quoteStyle": "single",
   "typescript.preferences.quoteStyle": "single",

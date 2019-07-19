@@ -3,6 +3,7 @@ export interface ISeriesSong {
   disk_no?: number;
   track_no: number;
   comment: string;
+  explanation?: string;
 }
 
 export interface ISeriesWork {

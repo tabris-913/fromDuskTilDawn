@@ -82,6 +82,7 @@ const Body = (props: BodyProps) => {
                                     <Col style={{ color: '#888', paddingLeft: 20 }}>
                                       {(song.artist || []).map(getArtistName).join('・')}
                                     </Col>
+                                    <Col style={{ color: '#888', paddingLeft: 20 }}>{song.explanation}</Col>
                                   </Row>
                                 }
                               />

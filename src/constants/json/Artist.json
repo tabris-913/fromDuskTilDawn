@@ -160,6 +160,60 @@
       "related": ["heavens", "eiji"],
       "en": "Eiichi Ohtori",
       "initial": "あ"
+    },
+    "kira": {
+      "name": "皇綺羅",
+      "ruby": "すめらぎきら",
+      "uid": "kira",
+      "related": ["heavens"],
+      "en": "Kira Sumeragi",
+      "initial": "さ"
+    },
+    "nagi": {
+      "name": "帝ナギ",
+      "ruby": "みかどなぎ",
+      "uid": "nagi",
+      "related": ["heavens"],
+      "en": "Nagi Mikado",
+      "initial": "ま"
+    },
+    "eiji": {
+      "name": "鳳瑛二",
+      "ruby": "おおとりえいじ",
+      "uid": "eiji",
+      "related": ["heavens", "eiichi"],
+      "en": "Eiji Ohtori",
+      "initial": "あ"
+    },
+    "van": {
+      "name": "桐生院ヴァン",
+      "ruby": "きりゅういんゔぁん",
+      "uid": "van",
+      "related": ["heavens"],
+      "en": "Van Kiryuin",
+      "initial": "か"
+    },
+    "yamato": {
+      "name": "日向大和",
+      "ruby": "ひゅうがやまと",
+      "uid": "yamato",
+      "related": ["heavens"],
+      "en": "Yamato Hyuga",
+      "initial": "は"
+    },
+    "shion": {
+      "name": "天草シオン",
+      "ruby": "あまくさしおん",
+      "uid": "shion",
+      "related": ["heavens"],
+      "en": "Shion Amakusa"
+    },
+    "miyano": {
+      "name": "宮野真守",
+      "ruby": "みやのまもる",
+      "uid": "miyano",
+      "en": "Mamoru Miyano",
+      "initial": "ま"
     }
   }
 }
