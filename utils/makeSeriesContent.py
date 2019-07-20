@@ -3,9 +3,10 @@
 import itertools as it
 
 
-def make(work_list: list):
+def make(work_list: list, subtitle: str):
     return f'''{{
         "description": "",
+        "subtitle": "{subtitle}",
         "work_list": [{','.join(map(make_work, *it.zip_longest(*work_list)))}]
     }}'''
 
@@ -20,8 +21,35 @@ def make_work(uid: str, artist: str = None):
 
 
 if __name__ == '__main__':
-    # uids = ['utapri01sg', 'utapri02sg', 'utapri03sg', 'utapri04sg',
-    #         'utapri01ost', 'utapri05sg', 'utapri06sg', 'utapri07sg', 'utapri08sg', 'utapri01duet', 'utapri01sp', 'utapri02sp', 'utapri02duet', 'utapri09sg', 'utapri03duet']
+    uids = [
+        'utapri08theater',
+        'utapri60sg',
+        'utapri09theater',
+        'utapri10theater',
+        'utapri61sg',
+        'utapri13drama',
+        'utapri14drama',
+        'utapri62sg',
+        'utapri15drama',
+        'utapri16drama',
+        'utapri17drama',
+        'utapri18drama',
+        'utapri19drama',
+        'utapri20drama',
+        'utapri01',
+        'utapri63sg',
+        'utapri02',
+        'miyano18sg',
+        'utapri03',
+        'utapri04',
+        'utapri64sg',
+        'utapri05',
+        'utapri06',
+        'utapri07',
+        'utapri08']
 
-    content = [[('uid',), ('uid2',)]]
-    print(','.join(map(make, content)))
+    content = [map(lambda x: (x,), uids)]
+    subtitle = ["Kingdom ～"]
+
+    with open('output_series.txt', 'w', encoding='utf-8') as file:
+        file.write(','.join(map(make, content, subtitle)))

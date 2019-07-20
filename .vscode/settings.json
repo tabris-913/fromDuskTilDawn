@@ -10,5 +10,6 @@
   "typescript.preferences.importModuleSpecifier": "relative",
   "editor.tabSize": 2,
   "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
-  "editor.codeActionsOnSave": { "source.fixAll.tslint": true }
+  "editor.codeActionsOnSave": { "source.fixAll.tslint": true },
+  "python.formatting.autopep8Args": ["--aggressive", "--aggressive"]
 }

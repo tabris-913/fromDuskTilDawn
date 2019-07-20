@@ -1,6 +1,6 @@
 {
   "work": {
-    "miyano05": {
+    "miyano05sg": {
       "title": "REFRAIN",
       "description": "",
       "date": "",
@@ -8,10 +8,11 @@
       "artist": ["miyano"],
       "list": [[]],
       "comment": "",
-      "uid": "miyano05",
-      "img": ["miyano05.jpg"],
+      "uid": "miyano05sg",
+      "img": ["miyano05sg.jpg"],
       "rate": 0
     },
+
     "utapri01sg": {
       "title": "オーディションソング (1)",
       "description": "",
@@ -120,7 +121,7 @@
       "img": ["utapri08sg.jpg"],
       "rate": 0
     },
-    "utapri01duet": {
+    "utapri05drama": {
       "title": "デュエットドラマCD 那月&翔",
       "description": "",
       "date": "",
@@ -128,8 +129,8 @@
       "artist": [],
       "list": [[]],
       "comment": "",
-      "uid": "utapri01duet",
-      "img": ["utapri01duet.jpg"],
+      "uid": "utapri05drama",
+      "img": ["utapri05drama.jpg"],
       "rate": 0
     },
     "utapri01sp": {
@@ -156,7 +157,7 @@
       "img": ["utapri02sp.jpg"],
       "rate": 0
     },
-    "utapri02duet": {
+    "utapri06drama": {
       "title": "デュエットドラマCD 真斗&レン",
       "description": "",
       "date": "",
@@ -164,8 +165,8 @@
       "artist": [],
       "list": [[]],
       "comment": "",
-      "uid": "utapri02duet",
-      "img": ["utapri02duet.jpg"],
+      "uid": "utapri06drama",
+      "img": ["utapri06drama.jpg"],
       "rate": 0
     },
     "utapri09sg": {
@@ -180,7 +181,7 @@
       "img": ["utapri09sg.jpg"],
       "rate": 0
     },
-    "utapri03duet": {
+    "utapri07drama": {
       "title": "デュエットドラマCD 音也&トキヤ",
       "description": "",
       "date": "",
@@ -188,11 +189,11 @@
       "artist": [],
       "list": [[]],
       "comment": "",
-      "uid": "utapri03duet",
-      "img": ["utapri03duet.jpg"],
+      "uid": "utapri07drama",
+      "img": ["utapri07drama.jpg"],
       "rate": 0
     },
-    "miyano07": {
+    "miyano07sg": {
       "title": "オルフェ",
       "description": "",
       "date": "",
@@ -200,8 +201,8 @@
       "artist": [],
       "list": [[]],
       "comment": "",
-      "uid": "miyano07",
-      "img": ["miyano07.jpg"],
+      "uid": "miyano07sg",
+      "img": ["miyano07sg.jpg"],
       "rate": 0
     },
     "utapri10sg": {
@@ -300,7 +301,7 @@
       "img": ["utapri17sg.jpg"],
       "rate": 0
     },
-    "utapri01unit": {
+    "utapri08drama": {
       "title": "ユニットドラマCD カミュ&セシル",
       "description": "",
       "date": "",
@@ -308,11 +309,11 @@
       "artist": [],
       "list": [[]],
       "comment": "",
-      "uid": "utapri01unit",
-      "img": ["utapri01unit.jpg"],
+      "uid": "utapri08drama",
+      "img": ["utapri08drama.jpg"],
       "rate": 0
     },
-    "utapri02unit": {
+    "utapri09drama": {
       "title": "ユニットドラマCD 藍&那月&翔",
       "description": "",
       "date": "",
@@ -320,11 +321,11 @@
       "artist": [],
       "list": [[]],
       "comment": "",
-      "uid": "utapri02unit",
-      "img": ["utapri02unit.jpg"],
+      "uid": "utapri09drama",
+      "img": ["utapri09drama.jpg"],
       "rate": 0
     },
-    "miyano08": {
+    "miyano08sg": {
       "title": "DREAM FIGHTER",
       "description": "",
       "date": "",
@@ -332,11 +333,11 @@
       "artist": [],
       "list": [[]],
       "comment": "",
-      "uid": "miyano08",
-      "img": ["miyano08.jpg"],
+      "uid": "miyano08sg",
+      "img": ["miyano08sg.jpg"],
       "rate": 0
     },
-    "utapri03unit": {
+    "utapri10drama": {
       "title": "ユニットドラマCD 蘭丸&真斗&レン",
       "description": "",
       "date": "",
@@ -344,11 +345,11 @@
       "artist": [],
       "list": [[]],
       "comment": "",
-      "uid": "utapri03unit",
-      "img": ["utapri03unit.jpg"],
+      "uid": "utapri10drama",
+      "img": ["utapri10drama.jpg"],
       "rate": 0
     },
-    "utapri04unit": {
+    "utapri11drama": {
       "title": "ユニットドラマCD 嶺二&音也&トキヤ",
       "description": "",
       "date": "",
@@ -356,8 +357,8 @@
       "artist": [],
       "list": [[]],
       "comment": "",
-      "uid": "utapri04unit",
-      "img": ["utapri04unit.jpg"],
+      "uid": "utapri11drama",
+      "img": ["utapri11drama.jpg"],
       "rate": 0
     },
     "utapri05ost": {
@@ -492,7 +493,7 @@
       "img": ["utapri05shuffle.jpg"],
       "rate": 0
     },
-    "miyano10": {
+    "miyano10sg": {
       "title": "カノン",
       "description": "",
       "date": "",
@@ -500,8 +501,8 @@
       "artist": [],
       "list": [[]],
       "comment": "",
-      "uid": "miyano10",
-      "img": ["miyano10.jpg"],
+      "uid": "miyano10sg",
+      "img": ["miyano10sg.jpg"],
       "rate": 0
     },
     "utapri22sg": {
@@ -649,7 +650,7 @@
       "rate": 0
     },
     "utapri01theater": {
-      "title": "マスカレイドミラージュ",
+      "title": "劇団シャイニング マスカレイドミラージュ",
       "description": "",
       "date": "",
       "year": 0,
@@ -661,7 +662,7 @@
       "rate": 0
     },
     "utapri02theater": {
-      "title": "天下無敵の忍び道",
+      "title": "劇団シャイニング 天下無敵の忍び道",
       "description": "",
       "date": "",
       "year": 0,
@@ -673,7 +674,7 @@
       "rate": 0
     },
     "utapri03theater": {
-      "title": "JOKER TRAP",
+      "title": "劇団シャイニング JOKER TRAP",
       "description": "",
       "date": "",
       "year": 0,
@@ -889,7 +890,7 @@
       "rate": 0
     },
     "utapri04theater": {
-      "title": "BLOODY SHADOWS",
+      "title": "シアターシャイニング BLOODY SHADOWS",
       "description": "",
       "date": "",
       "year": 0,
@@ -913,7 +914,7 @@
       "rate": 0
     },
     "utapri05theater": {
-      "title": "Pirates of the Frontier",
+      "title": "シアターシャイニング Pirates of the Frontier",
       "description": "",
       "date": "",
       "year": 0,
@@ -925,7 +926,7 @@
       "rate": 0
     },
     "utapri06thater": {
-      "title": "エヴリィBuddy",
+      "title": "シアターシャイニング エヴリィBuddy",
       "description": "",
       "date": "",
       "year": 0,
@@ -937,7 +938,7 @@
       "rate": 0
     },
     "utapri07theater": {
-      "title": "ポラリス",
+      "title": "シアターシャイニング ポラリス",
       "description": "",
       "date": "",
       "year": 0,
@@ -958,6 +959,534 @@
       "comment": "",
       "uid": "utapri46sg",
       "img": ["utapri46sg.jpg"],
+      "rate": 0
+    },
+    "utapri47sg": {
+      "title": "マジLOVEレジェンドスター",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri47sg",
+      "img": ["utapri47sg.jpg"],
+      "rate": 0
+    },
+    "miyano16sg": {
+      "title": "テンペスト",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "miyano16sg",
+      "img": ["miyano16sg.jpg"],
+      "rate": 0
+    },
+    "utapri48sg": {
+      "title": "デュエットアイドルソング 一ノ瀬トキヤ&鳳瑛二",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri48sg",
+      "img": ["utapri48sg.jpg"],
+      "rate": 0
+    },
+    "utapri49sg": {
+      "title": "デュエットアイドルソング 来栖翔&日向大和",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri49sg",
+      "img": ["utapri49sg.jpg"],
+      "rate": 0
+    },
+    "utapri50sg": {
+      "title": "デュエットアイドルソング 愛島セシル&天草シオン",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri50sg",
+      "img": ["utapri50sg.jpg"],
+      "rate": 0
+    },
+    "utapri51sg": {
+      "title": "デュエットアイドルソング 神宮寺レン&桐生院ヴァン",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri51sg",
+      "img": ["utapri51sg.jpg"],
+      "rate": 0
+    },
+    "utapri52sg": {
+      "title": "デュエットアイドルソング 四ノ宮那月&帝ナギ",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri52sg",
+      "img": ["utapri52sg.jpg"],
+      "rate": 0
+    },
+    "utapri53sg": {
+      "title": "デュエットアイドルソング 聖川真斗&皇綺羅",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri53sg",
+      "img": ["utapri53sg.jpg"],
+      "rate": 0
+    },
+    "utapri54sg": {
+      "title": "デュエットアイドルソング 一十木音也&鳳瑛一",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri54sg",
+      "img": ["utapri54sg.jpg"],
+      "rate": 0
+    },
+    "utapri55sg": {
+      "title": "God's S.T.A.R.",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri55sg",
+      "img": ["utapri55sg.jpg"],
+      "rate": 0
+    },
+    "utapri56sg": {
+      "title": "不滅のインフェルノ",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri56sg",
+      "img": ["utapri56sg.jpg"],
+      "rate": 0
+    },
+    "utapri08sp": {
+      "title": "夢を歌へと...!",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri08sp",
+      "img": ["utapri08sp.jpg"],
+      "rate": 0
+    },
+    "utapri09sp": {
+      "title": "Welcome to UTA☆PRI RAINBOW World!!",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri09sp",
+      "img": ["utapri09sp.jpg"],
+      "rate": 0
+    },
+    "utapri57sg": {
+      "title": "アイドルソング 嶺二&カミュ",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri57sg",
+      "img": ["utapri57sg.jpg"],
+      "rate": 0
+    },
+    "utapri58sg": {
+      "title": "アイドルソング 蘭丸&藍",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri58sg",
+      "img": ["utapri58sg.jpg"],
+      "rate": 0
+    },
+    "utapri10sp": {
+      "title": "WE ARE ST☆RISH!!",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri10sp",
+      "img": ["utapri10sp.jpg"],
+      "rate": 0
+    },
+    "utapri12drama": {
+      "title": "HEAVEN SKY エピソードCD",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri12drama",
+      "img": ["utapri12drama.jpg"],
+      "rate": 0
+    },
+    "utapri11sp": {
+      "title": "Raibow Stars CD",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri11sp",
+      "img": ["utapri11sp.jpg"],
+      "rate": 0
+    },
+    "utapri59sg": {
+      "title": "Shining Live テーマソングCD",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri59sg",
+      "img": ["utapri59sg.jpg"],
+      "rate": 0
+    },
+    "utapri08theater": {
+      "title": "Shining Masterpiece Show Lost Alice",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri08theater",
+      "img": ["utapri08theater.jpg"],
+      "rate": 0
+    },
+    "utapri60sg": {
+      "title": "ウルトラブラスト",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri60sg",
+      "img": ["utapri60sg.jpg"],
+      "rate": 0
+    },
+    "utapri09theater": {
+      "title": "Shining Masterpiece Show トロワ",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri09theater",
+      "img": ["utapri09theater.jpg"],
+      "rate": 0
+    },
+    "utapri10theater": {
+      "title": "Shining Masterpiece Show リコリスの森",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri10theater",
+      "img": ["utapri10theater.jpg"],
+      "rate": 0
+    },
+    "utapri61sg": {
+      "title": "FLY TO THE FUTURE",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri61sg",
+      "img": ["utapri61sg.jpg"],
+      "rate": 0
+    },
+    "utapri13drama": {
+      "title": "デュエットドラマCD Fiction 嶺二&藍",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri13drama",
+      "img": ["utapri13drama.jpg"],
+      "rate": 0
+    },
+    "utapri14drama": {
+      "title": "デュエットドラマCD Non-Fiction 蘭丸&カミュ",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri14drama",
+      "img": ["utapri14drama.jpg"],
+      "rate": 0
+    },
+    "utapri62sg": {
+      "title": "Eternal Song CD 雪月花",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri62sg",
+      "img": ["utapri62sg.jpg"],
+      "rate": 0
+    },
+    "utapri15drama": {
+      "title": "スペシャルユニットドラマCD 音也・藍・ヴァン",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri15drama",
+      "img": ["utapri15drama.jpg"],
+      "rate": 0
+    },
+    "utapri16drama": {
+      "title": "スペシャルユニットドラマCD 那月・蘭丸・瑛一",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri16drama",
+      "img": ["utapri16drama.jpg"],
+      "rate": 0
+    },
+    "utapri17drama": {
+      "title": "スペシャルユニットドラマCD 真斗・カミュ・瑛二",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri17drama",
+      "img": ["utapri17drama.jpg"],
+      "rate": 0
+    },
+    "utapri18drama": {
+      "title": "スペシャルユニットドラマCD レン・嶺二・綺羅",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri18drama",
+      "img": ["utapri18drama.jpg"],
+      "rate": 0
+    },
+    "utapri19drama": {
+      "title": "スペシャルユニットドラマCD 翔・ナギ・シオン",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri19drama",
+      "img": ["utapri19drama.jpg"],
+      "rate": 0
+    },
+    "utapri20drama": {
+      "title": "スペシャルユニットドラマCD トキヤ・セシル・大和",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri20drama",
+      "img": ["utapri20drama.jpg"],
+      "rate": 0
+    },
+    "utapri01": {
+      "title": "アンセム フォー ジ エンジェル",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri01",
+      "img": ["utapri01.jpg"],
+      "rate": 0
+    },
+    "utapri63sg": {
+      "title": "愛を捧げよ ～the secret Shangri-la～",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri63sg",
+      "img": ["utapri63sg.jpg"],
+      "rate": 0
+    },
+    "utapri02": {
+      "title": "I am Here.",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri02",
+      "img": ["utapri02.jpg"],
+      "rate": 0
+    },
+    "miyano18sg": {
+      "title": "アンコール",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "miyano18sg",
+      "img": ["miyano18sg.jpg"],
+      "rate": 0
+    },
+    "utapri03": {
+      "title": "HOLY KNIGHT",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri03",
+      "img": ["utapri03.jpg"],
+      "rate": 0
+    },
+    "utapri04": {
+      "title": "SUKI×SUKIはなまる!",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri04",
+      "img": ["utapri04.jpg"],
+      "rate": 0
+    },
+    "utapri64sg": {
+      "title": "Shining LiveテーマソングCD2",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri64sg",
+      "img": ["utapri64sg.jpg"],
+      "rate": 0
+    },
+    "utapri05": {
+      "title": "Target is you!",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri05",
+      "img": ["utapri05.jpg"],
+      "rate": 0
+    },
+    "utapri06": {
+      "title": "TBA",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri06",
+      "img": ["utapri06.jpg"],
+      "rate": 0
+    },
+    "utapri07": {
+      "title": "TBA",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri07",
+      "img": ["utapri07.jpg"],
+      "rate": 0
+    },
+    "utapri08": {
+      "title": "TBA",
+      "description": "",
+      "date": "",
+      "year": 0,
+      "artist": [],
+      "list": [[]],
+      "comment": "",
+      "uid": "utapri08",
+      "img": ["utapri08.jpg"],
       "rate": 0
     },
     "dearvo01": {

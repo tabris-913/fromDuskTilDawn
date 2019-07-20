@@ -6,37 +6,776 @@
       "content": [
         {
           "description": "",
-          "work_list": []
+          "work_list": [
+            {
+              "uid": "utapri01sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri02sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri03sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri04sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri01ost",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri05sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri06sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri07sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri08sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri05drama",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri01sp",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri02sp",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri06drama",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri09sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri07drama",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            }
+          ]
         },
         {
           "description": "",
           "subtitle": "1000% ～",
-          "work_list": [],
-          "disabled": true
+          "work_list": [
+            {
+              "uid": "miyano07sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri10sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri11sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri12sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri13sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri14sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri15sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri16sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri17sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri08drama",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri09drama",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "miyano08sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri10drama",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri11drama",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri05ost",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri07ost",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri18sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri19sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri20sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri21sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri01shuffle",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri02shuffle",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri03shuffle",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri04shuffle",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri05shuffle",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            }
+          ]
         },
         {
           "description": "",
           "subtitle": "2000% ～",
-          "work_list": [],
-          "disabled": true
+          "work_list": [
+            {
+              "uid": "miyano10sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri22sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri23sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri24sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri25sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri26sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri27sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri28sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri29sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri03sp",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri10ost",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri04sp",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri05sp",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri01theater",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri02theater",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri03theater",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri30sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri31sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri32sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri33sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri34sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            }
+          ]
         },
         {
           "description": "",
           "subtitle": "Revolutions ～",
-          "work_list": [],
-          "disabled": true
+          "work_list": [
+            {
+              "uid": "utapri35sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri36sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri37sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri38sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri39sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri40sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri41sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri42sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri43sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri44sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri06sp",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri45sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri04theater",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri07sp",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri05theater",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri06thater",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri07theater",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri46sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            }
+          ]
         },
         {
           "description": "",
           "subtitle": "Legend Star ～",
-          "work_list": [],
-          "disabled": true
+          "work_list": [
+            {
+              "uid": "utapri47sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "miyano16sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri48sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri49sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri50sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri51sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri52sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri53sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri54sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri55sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri56sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri08sp",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri09sp",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri57sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri58sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri10sp",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri12drama",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri11sp",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri59sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            }
+          ]
         },
         {
           "description": "",
           "subtitle": "Kingdom ～",
-          "work_list": [],
-          "disabled": true
+          "work_list": [
+            {
+              "uid": "utapri08theater",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri60sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri09theater",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri10theater",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri61sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri13drama",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri14drama",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri62sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri15drama",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri16drama",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri17drama",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri18drama",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri19drama",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri20drama",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri01",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri63sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri02",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "miyano18sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri03",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri04",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri64sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri05",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri06",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri07",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri08",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            }
+          ]
         }
       ]
     },
