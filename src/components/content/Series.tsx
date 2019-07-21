@@ -1,19 +1,22 @@
-import { Avatar, Col, Collapse, Divider, Icon, List, Row } from 'antd';
+import { Avatar, Col, Collapse, Divider, Icon, List, Row, Typography } from 'antd';
 import * as R from 'ramda';
 import * as React from 'react';
 import ReactMarkdown from 'react-markdown';
 
 import Main from '../Main';
 
+import PageName, { toPublicUrl } from '../../constants/PageName';
 import { BodyProps, MainContentProps, TitleProps } from '../../models/Main';
 import { getArtistName } from '../../utils/ArtistUtils';
 import { getSeries } from '../../utils/SeriesUtils';
 import { getWorks } from '../../utils/WorkUtils';
+import InternalLinkList from '../InternalLinkList';
 
 const Title = (props: TitleProps) => {
   const series = getSeries(props.query.id || '');
   const content =
     series && props.query.page && series.content.length > 0 ? series.content[props.query.page - 1] : undefined;
+
   return (
     <div style={{ marginBottom: 10 }}>
       {content && <ReactMarkdown source={content.description} linkTarget="_blank" />}
@@ -42,7 +45,7 @@ const Body = (props: BodyProps) => {
               expandIcon={({ isActive }) => (
                 <Icon type="right" rotate={isActive ? 90 : arrowPos === 'left' ? 0 : 180} />
               )}
-              bordered={false}
+              bordered={true}
             >
               <Collapse.Panel
                 header={
@@ -101,6 +104,24 @@ const Body = (props: BodyProps) => {
           );
         })}
       <Divider />
+      <Typography.Title level={3}>関連コンテンツ</Typography.Title>
+      <InternalLinkList
+        {...props}
+        source={
+          series
+            ? series.content
+                .map((e, idx) => ({ e: e, idx: idx }))
+                .filter(({ e, idx }) => (!!props.query.page ? idx !== props.query.page - 1 : true))
+                .map(({ e, idx }) => {
+                  return {
+                    element: { title: `${series.name} ${e.subtitle || ''}` },
+                    linkTo: toPublicUrl(PageName.SERIES_CONTENT, undefined, { id: props.query.id, page: idx + 1 }),
+                  };
+                })
+            : undefined
+        }
+        titlePropsName="title"
+      />
     </>
   );
 };
