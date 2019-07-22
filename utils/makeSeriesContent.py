@@ -21,35 +21,34 @@ def make_work(uid: str, artist: str = None):
 
 
 if __name__ == '__main__':
-    uids = [
-        'utapri08theater',
-        'utapri60sg',
-        'utapri09theater',
-        'utapri10theater',
-        'utapri61sg',
-        'utapri13drama',
-        'utapri14drama',
-        'utapri62sg',
-        'utapri15drama',
-        'utapri16drama',
-        'utapri17drama',
-        'utapri18drama',
-        'utapri19drama',
-        'utapri20drama',
-        'utapri01',
-        'utapri63sg',
-        'utapri02',
-        'miyano18sg',
-        'utapri03',
-        'utapri04',
-        'utapri64sg',
-        'utapri05',
-        'utapri06',
-        'utapri07',
-        'utapri08']
+    uids = ['utapri08theater',
+            'utapri59sg',
+            'utapri09theater',
+            'utapri10theater',
+            'utapri60sg',
+            'utapri13drama',
+            'utapri14drama',
+            'utapri61sg',
+            'utapri15drama',
+            'utapri16drama',
+            'utapri17drama',
+            'utapri18drama',
+            'utapri19drama',
+            'utapri20drama',
+            'utapri01',
+            'utapri62sg',
+            'utapri02',
+            'miyano18sg',
+            'utapri03',
+            'utapri04',
+            'utapri63sg',
+            'utapri05',
+            'utapri06',
+            'utapri07',
+            'utapri08']
 
     content = [map(lambda x: (x,), uids)]
-    subtitle = ["Kingdom ～"]
+    subtitle = ["Kigndom ～"]
 
     with open('output_series.txt', 'w', encoding='utf-8') as file:
         file.write(','.join(map(make, content, subtitle)))

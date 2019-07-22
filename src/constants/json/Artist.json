@@ -118,6 +118,12 @@
       "en": "Sho Kurusu",
       "initial": "か"
     },
+    "cecil": {
+      "name": "愛島セシル",
+      "ruby": "あいじませしる",
+      "en": "Cecil Aijima",
+      "uid": "cecil"
+    },
     "hayato": {
       "name": "HAYATO",
       "ruby": "ハヤト",
@@ -214,6 +220,12 @@
       "uid": "miyano",
       "en": "Mamoru Miyano",
       "initial": "ま"
+    },
+    "shining": {
+      "name": "シャイニング・スターズ",
+      "uid": "shining",
+      "en": "Shining Stars",
+      "initial": "さ"
     }
   }
 }

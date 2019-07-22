@@ -80,12 +80,6 @@
               "song_list": []
             },
             {
-              "uid": "utapri02sp",
-              "artist": [],
-              "comment": "",
-              "song_list": []
-            },
-            {
               "uid": "utapri06drama",
               "artist": [],
               "comment": "",
@@ -93,6 +87,12 @@
             },
             {
               "uid": "utapri09sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri02sp",
               "artist": [],
               "comment": "",
               "song_list": []
@@ -404,6 +404,12 @@
               "song_list": []
             },
             {
+              "uid": "miyano13sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
               "uid": "utapri36sg",
               "artist": [],
               "comment": "",
@@ -452,19 +458,13 @@
               "song_list": []
             },
             {
-              "uid": "utapri44sg",
-              "artist": [],
-              "comment": "",
-              "song_list": []
-            },
-            {
               "uid": "utapri06sp",
               "artist": [],
               "comment": "",
               "song_list": []
             },
             {
-              "uid": "utapri45sg",
+              "uid": "utapri44sg",
               "artist": [],
               "comment": "",
               "song_list": []
@@ -500,7 +500,7 @@
               "song_list": []
             },
             {
-              "uid": "utapri46sg",
+              "uid": "utapri45sg",
               "artist": [],
               "comment": "",
               "song_list": []
@@ -512,13 +512,19 @@
           "subtitle": "Legend Star ～",
           "work_list": [
             {
-              "uid": "utapri47sg",
+              "uid": "utapri46sg",
               "artist": [],
               "comment": "",
               "song_list": []
             },
             {
               "uid": "miyano16sg",
+              "artist": [],
+              "comment": "",
+              "song_list": []
+            },
+            {
+              "uid": "utapri47sg",
               "artist": [],
               "comment": "",
               "song_list": []
@@ -572,12 +578,6 @@
               "song_list": []
             },
             {
-              "uid": "utapri56sg",
-              "artist": [],
-              "comment": "",
-              "song_list": []
-            },
-            {
               "uid": "utapri08sp",
               "artist": [],
               "comment": "",
@@ -590,13 +590,13 @@
               "song_list": []
             },
             {
-              "uid": "utapri57sg",
+              "uid": "utapri56sg",
               "artist": [],
               "comment": "",
               "song_list": []
             },
             {
-              "uid": "utapri58sg",
+              "uid": "utapri57sg",
               "artist": [],
               "comment": "",
               "song_list": []
@@ -620,7 +620,7 @@
               "song_list": []
             },
             {
-              "uid": "utapri59sg",
+              "uid": "utapri58sg",
               "artist": [],
               "comment": "",
               "song_list": []
@@ -629,7 +629,7 @@
         },
         {
           "description": "",
-          "subtitle": "Kingdom ～",
+          "subtitle": "Kigndom ～",
           "work_list": [
             {
               "uid": "utapri08theater",
@@ -638,7 +638,7 @@
               "song_list": []
             },
             {
-              "uid": "utapri60sg",
+              "uid": "utapri59sg",
               "artist": [],
               "comment": "",
               "song_list": []
@@ -656,7 +656,7 @@
               "song_list": []
             },
             {
-              "uid": "utapri61sg",
+              "uid": "utapri60sg",
               "artist": [],
               "comment": "",
               "song_list": []
@@ -674,7 +674,7 @@
               "song_list": []
             },
             {
-              "uid": "utapri62sg",
+              "uid": "utapri61sg",
               "artist": [],
               "comment": "",
               "song_list": []
@@ -722,7 +722,7 @@
               "song_list": []
             },
             {
-              "uid": "utapri63sg",
+              "uid": "utapri62sg",
               "artist": [],
               "comment": "",
               "song_list": []
@@ -752,7 +752,7 @@
               "song_list": []
             },
             {
-              "uid": "utapri64sg",
+              "uid": "utapri63sg",
               "artist": [],
               "comment": "",
               "song_list": []
@@ -1204,22 +1204,22 @@
                 {
                   "track_no": 1,
                   "artist": ["lumiere"],
-                  "comment": ""
+                  "comment": "インディーズ時代の曲っていう設定。その頃からこんな曲が書けるんだったらそりゃ人気も出るよ。さっすがレオ様。才能に満ち満ち溢れていますね。相変わらずのルミエール・クオリティを見せつけてくれる。フレマ無き今、着いていきますよ！"
                 },
                 {
                   "track_no": 2,
                   "artist": ["veronica"],
-                  "comment": ""
+                  "comment": "「泡唄」「破れ櫻」に続いて発表された和テイストだが、デビュー曲らしい。現代的なロックに、いやらしくない程度に和風要素を混ぜ込んだ曲調で、日本人の本能が心地よいと感じるメロディの使い方とメロディをあまり意識しないパートが共存するのも面白い。"
                 },
                 {
                   "track_no": 3,
                   "artist": ["brave_child"],
-                  "comment": ""
+                  "comment": "LA時代の未発表曲ということで、ここまで温存していたのだろう。優しさに溢れた曲調と柔らかいサウンドの中に凛としたピアノが映える曲。大サビ前からの盛り上がり方が非常に好みで、鍵盤取り入れてることも相まってかなり俺の心をゆらしてくる。"
                 },
                 {
                   "track_no": 9,
                   "artist": ["brave_child"],
-                  "comment": ""
+                  "comment": "こちらはLA時代の既発曲ということで、それをわざわざ収録するのだから自信があるのだろう。その自信にも頷ける超名曲で、聴くまでは正直他より曲数少ないからって多く入れちゃってまったく、とか思ってたけど入れてくれてよかった。ありがとう。"
                 }
               ]
             },
@@ -1229,22 +1229,22 @@
                 {
                   "track_no": 1,
                   "artist": ["nsfw"],
-                  "comment": ""
+                  "comment": "ベストアルバムのための新曲。イントロから久々のラウド系が感じられ、ほどよいミクスチャー具合で好印象。そんでもってサビで一気にメロディが生きるというなんともツボな曲。これはいつものことだがサビ以外が滑らかじゃない分、サビをこんなふうに持ってこられると余計良いと感じてしまう。"
                 },
                 {
                   "track_no": 2,
                   "artist": ["kagaribi"],
-                  "comment": ""
+                  "comment": "こちらもまた今作のための新曲。どうですかこのイントロ。そしてサビ前にも出てくるこのフレーズ。バンドサウンドだけじゃなくてストリングスかよ。最高じゃないか。そんでもってサビ後半のこのメロディと「Monster」。これまでのどの篝火曲より好きだよ。"
                 },
                 {
                   "track_no": 3,
                   "artist": ["jet_rat_fury"],
-                  "comment": ""
+                  "comment": "デビュー曲の再録ということだが、これまたやはり既に完成されている。もはやメロディ云々は言うまいとして、哀愁すら感じる歌詞とメロディ(結局言ってる)。イントロから滑らかなギターのフレーズが響き、Aメロに入ると一気にサウンドが穏やかに。そしてこのサビ。ずるいわぁ。"
                 },
                 {
                   "track_no": 9,
                   "artist": ["brave_child"],
-                  "comment": ""
+                  "comment": "「Silver Rain Saga」同様LA時代の曲だというが、曲の雰囲気は真反対でこちらはストレートなロック。細かい縦ノリのAメロが心地よい。変わったところは特になく、かなり直球で勝負をしているのが伝わってくる。流れるギターソロの雰囲気がとてもよい。"
                 }
               ]
             }
@@ -1260,11 +1260,11 @@
               "song_list": [
                 {
                   "track_no": 1,
-                  "comment": ""
+                  "comment": "イントロのドラミングなんかは、最近のちょっとメタルかじってるV系バンドっぽさがにじみ出ている。サウンドに関しては特に物申すこともないが、ヴォーカルラインはこれまでのルミエールに比べると弱い感じがする。ブリッジ部分の「ウォイ！」は蛇足。曲自体にそういうの入れるのキライ。"
                 },
                 {
                   "track_no": 2,
-                  "comment": ""
+                  "comment": "「EXiT」とは見せ方がやや違うが、アダルトな妖しさを見せる点は同じ。悪いとは言わないけどやっぱりルミエールが演る曲調じゃないんだよな。だた悔しいことにメロディの質が非常に高く、この水準を1曲目に入れることができていればもっといい曲になっただろうに。"
                 }
               ]
             },
