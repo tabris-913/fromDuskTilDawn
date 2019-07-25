@@ -12,7 +12,7 @@ const Body = () => (
     <Collapse bordered={false} defaultActiveKey={['2']}>
       <Collapse.Panel header="About Manager" key="1">
         <PageHeader title="Profile">
-          <Descriptions bordered={true} column={1} size="small">
+          <Descriptions bordered={true} column={1} size="small" style={{ width: '40%' }}>
             <Descriptions.Item label="Name">T.Black</Descriptions.Item>
             <Descriptions.Item label="Birthday">12/16</Descriptions.Item>
             <Descriptions.Item label="Age">25</Descriptions.Item>
