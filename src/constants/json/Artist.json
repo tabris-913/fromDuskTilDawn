@@ -3,76 +3,87 @@
     "blind_guardian": {
       "name": "Blind Guardian",
       "ruby": "ブラインド・ガーディアン",
-      "uid": "blind_guardian"
+      "uid": "blind_guardian",
+      "ruby4Sort": "ぶらいんど・がーでぃあん"
     },
     "black_sabbath": {
       "name": "Black Sabbath",
       "ruby": "ブラック・サバス",
-      "uid": "black_sabbath"
+      "uid": "black_sabbath",
+      "ruby4Sort": "ぶらっく・さばす"
     },
     "seiko": {
       "name": "松田聖子",
-      "ruby": "まつだせいこ",
+      "ruby4Sort": "まつだせいこ",
       "uid": "seiko",
       "en": "Seiko Matsuda"
     },
     "lumiere": {
       "name": "LUMIERE",
       "ruby": "ルミエール",
-      "uid": "lumiere"
+      "uid": "lumiere",
+      "ruby4Sort": "るみえーる"
     },
     "veronica": {
       "name": "Veronica",
       "ruby": "ヴェロニカ",
-      "uid": "veronica"
+      "uid": "veronica",
+      "ruby4Sort": "ゔぇろにか"
     },
     "nsfw": {
       "name": "Not Sale For Work",
       "ruby": "ノット・セール・フォー・ワーク",
-      "uid": "nsfw"
+      "uid": "nsfw",
+      "ruby4Sort": "のっと・せーる・ふぉー・わーく"
     },
     "kagaribi": {
       "name": "篝火",
-      "ruby": "かがりび",
+      "ruby4Sort": "かがりび",
       "uid": "kagaribi",
       "en": "Kagaribi"
     },
     "die_fledermaus": {
       "name": "Die Fledermaus",
       "ruby": "フレーダーマウス",
-      "uid": "die_fledermaus"
+      "uid": "die_fledermaus",
+      "ruby4Sort": "ふれーだーまうす"
     },
     "jet_rat_fury": {
       "name": "JET RAT FURY",
       "ruby": "ジェット・ラット・フュリー",
-      "uid": "jet_rat_fury"
+      "uid": "jet_rat_fury",
+      "ruby4Sort": "じぇっと・らっと・ふゅりー"
     },
     "brave_child": {
       "name": "Brave Child",
       "ruby": "ブレイヴ・チャイルド",
-      "uid": "brave_child"
+      "uid": "brave_child",
+      "ruby4Sort": "ぶれいゔ・ちゃいるど"
     },
     "starish": {
       "name": "ST☆RISH",
       "ruby": "スターリッシュ",
       "uid": "starish",
-      "related": ["otoya", "masato", "natsuki", "ren", "tokiya", "sho"]
+      "related": ["otoya", "masato", "natsuki", "ren", "tokiya", "sho"],
+      "ruby4Sort": "すたーりっしゅ"
     },
     "qn": {
       "name": "QUARTET NIGHT",
       "ruby": "カルテット・ナイト",
       "uid": "qn",
-      "related": ["reiji", "rammaru", "ai", "camus"]
+      "related": ["reiji", "rammaru", "ai", "camus"],
+      "ruby4Sort": "かるてっと・ないと"
     },
     "heavens": {
       "name": "HE★VENS",
       "ruby": "ヘヴンズ",
       "uid": "heavens",
-      "related": ["eiichi", "kira", "nagi", "eiji", "van", "yamato", "shion"]
+      "related": ["eiichi", "kira", "nagi", "eiji", "van", "yamato", "shion"],
+      "ruby4Sort": "へゔんず"
     },
     "otoya": {
       "name": "一十木音也",
-      "ruby": "いっときおとや",
+      "ruby4Sort": "いっときおとや",
       "uid": "otoya",
       "related": ["starish"],
       "en": "Otoya Ittoki",
@@ -80,7 +91,7 @@
     },
     "masato": {
       "name": "聖川真斗",
-      "ruby": "ひじりかわまさと",
+      "ruby4Sort": "ひじりかわまさと",
       "uid": "masato",
       "related": ["starish"],
       "en": "Masato Hijirikawa",
@@ -88,7 +99,7 @@
     },
     "natsuki": {
       "name": "四ノ宮那月",
-      "ruby": "しのみやなつき",
+      "ruby4Sort": "しのみやなつき",
       "uid": "natsuki",
       "related": ["starish"],
       "en": "Natsuki Shinomiya",
@@ -96,7 +107,7 @@
     },
     "ren": {
       "name": "神宮寺レン",
-      "ruby": "じんぐうじれん",
+      "ruby4Sort": "じんぐうじれん",
       "uid": "ren",
       "related": ["starish"],
       "en": "Ren Jinguji",
@@ -104,7 +115,7 @@
     },
     "tokiya": {
       "name": "一ノ瀬トキヤ",
-      "ruby": "いちのせときや",
+      "ruby4Sort": "いちのせときや",
       "uid": "tokiya",
       "related": ["starish", "hayato"],
       "en": "Tokiya Ichinose",
@@ -112,7 +123,7 @@
     },
     "sho": {
       "name": "来栖翔",
-      "ruby": "くるすしょう",
+      "ruby4Sort": "くるすしょう",
       "uid": "sho",
       "related": ["starish"],
       "en": "Sho Kurusu",
@@ -120,7 +131,7 @@
     },
     "cecil": {
       "name": "愛島セシル",
-      "ruby": "あいじませしる",
+      "ruby4Sort": "あいじませしる",
       "en": "Cecil Aijima",
       "uid": "cecil"
     },
@@ -128,11 +139,12 @@
       "name": "HAYATO",
       "ruby": "ハヤト",
       "uid": "hayato",
-      "related": ["tokiya"]
+      "related": ["tokiya"],
+      "ruby4Sort": "はやと"
     },
     "reiji": {
       "name": "寿嶺二",
-      "ruby": "ことぶきれいじ",
+      "ruby4Sort": "ことぶきれいじ",
       "uid": "reiji",
       "related": ["qn"],
       "en": "Reiji Kotobuki",
@@ -140,7 +152,7 @@
     },
     "rammaru": {
       "name": "黒崎蘭丸",
-      "ruby": "くろさきらんまる",
+      "ruby4Sort": "くろさきらんまる",
       "uid": "rammaru",
       "related": ["qn"],
       "en": "Rammaru Kurosaki",
@@ -148,7 +160,7 @@
     },
     "ai": {
       "name": "美風藍",
-      "ruby": "みかぜあい",
+      "ruby4Sort": "みかぜあい",
       "uid": "ai",
       "related": ["qn"],
       "en": "Ai Mikaze",
@@ -157,11 +169,12 @@
     "camus": {
       "name": "カミュ",
       "uid": "camus",
-      "related": ["qn"]
+      "related": ["qn"],
+      "ruby4Sort": "かみゅ"
     },
     "eiichi": {
       "name": "鳳瑛一",
-      "ruby": "おおとりえいいち",
+      "ruby4Sort": "おおとりえいいち",
       "uid": "eiichi",
       "related": ["heavens", "eiji"],
       "en": "Eiichi Ohtori",
@@ -169,7 +182,7 @@
     },
     "kira": {
       "name": "皇綺羅",
-      "ruby": "すめらぎきら",
+      "ruby4Sort": "すめらぎきら",
       "uid": "kira",
       "related": ["heavens"],
       "en": "Kira Sumeragi",
@@ -177,7 +190,7 @@
     },
     "nagi": {
       "name": "帝ナギ",
-      "ruby": "みかどなぎ",
+      "ruby4Sort": "みかどなぎ",
       "uid": "nagi",
       "related": ["heavens"],
       "en": "Nagi Mikado",
@@ -185,7 +198,7 @@
     },
     "eiji": {
       "name": "鳳瑛二",
-      "ruby": "おおとりえいじ",
+      "ruby4Sort": "おおとりえいじ",
       "uid": "eiji",
       "related": ["heavens", "eiichi"],
       "en": "Eiji Ohtori",
@@ -193,7 +206,7 @@
     },
     "van": {
       "name": "桐生院ヴァン",
-      "ruby": "きりゅういんゔぁん",
+      "ruby4Sort": "きりゅういんゔぁん",
       "uid": "van",
       "related": ["heavens"],
       "en": "Van Kiryuin",
@@ -201,7 +214,7 @@
     },
     "yamato": {
       "name": "日向大和",
-      "ruby": "ひゅうがやまと",
+      "ruby4Sort": "ひゅうがやまと",
       "uid": "yamato",
       "related": ["heavens"],
       "en": "Yamato Hyuga",
@@ -209,14 +222,14 @@
     },
     "shion": {
       "name": "天草シオン",
-      "ruby": "あまくさしおん",
+      "ruby4Sort": "あまくさしおん",
       "uid": "shion",
       "related": ["heavens"],
       "en": "Shion Amakusa"
     },
     "miyano": {
       "name": "宮野真守",
-      "ruby": "みやのまもる",
+      "ruby4Sort": "みやのまもる",
       "uid": "miyano",
       "en": "Mamoru Miyano",
       "initial": "ま"
@@ -225,7 +238,8 @@
       "name": "シャイニング・スターズ",
       "uid": "shining",
       "en": "Shining Stars",
-      "initial": "さ"
+      "initial": "さ",
+      "ruby4Sort": "しゃいにんぐ・すたーず"
     }
   }
 }

@@ -38,7 +38,7 @@ const Application = () => (
             .map(e => makeRoute(e))}
 
           {[
-            // [PageName.REVIEW_ARTIST, Page.ArtistsPage],
+            [PageName.REVIEW_ARTIST, Page.ArtistsPage],
             // [PageName.NEW_RELEASE, Page.NewReleasePage],
             // [PageName.REVIEW_SCHEDULE, Page.ReviewSchedulePage],
             // [PageName.SCORE, Page.ScorePage],

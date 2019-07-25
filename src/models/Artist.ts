@@ -5,4 +5,5 @@ export interface IArtist {
   related?: string[];
   initial?: string;
   en?: string;
+  ruby4Sort: string;
 }

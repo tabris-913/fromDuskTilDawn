@@ -13,14 +13,26 @@ import { sortByName } from '../../utils/ArtistUtils';
 const List: { [v: string]: IArtist[] } = {};
 Object.entries(Artists.artists as { [v: string]: IArtist }).map(([key, val]) => {
   const nameInitial = val.name[0].toUpperCase();
-  const rubyInitial = !!val.ruby ? val.ruby[0].toUpperCase() : '';
+  const rubyInitial = !!val.ruby4Sort ? val.ruby4Sort[0].toUpperCase() : '';
 
+  /**
+   * 1. initial があればそれを使う
+   * 2. name の頭文字が initialString にあればそれを使う
+   * 3. name の頭文字がカタカナならひらがなに変換して，initialString にあればそれを使う
+   * 4. ruby の頭文字が initialString にあればそれを使う
+   * 5. ruby の頭文字がカタカナならひらがなに変換して，initialString にあればそれを使う
+   * 6. それ以外は空文字 --> other
+   */
   const initial = !!val.initial
     ? val.initial
     : initialString.includes(nameInitial)
     ? nameInitial
+    : initialString.includes(String.fromCharCode(nameInitial.charCodeAt(0) - 0x60))
+    ? String.fromCharCode(nameInitial.charCodeAt(0) - 0x60)
     : initialString.includes(rubyInitial)
     ? rubyInitial
+    : initialString.includes(String.fromCharCode(rubyInitial.charCodeAt(0) - 0x60))
+    ? String.fromCharCode(rubyInitial.charCodeAt(0) - 0x60)
     : '';
 
   if (initial === '') {
@@ -68,9 +80,11 @@ const Body = (props: BodyProps) => {
     </Row>
   );
 
-  const display = Object.entries(List)
-    .filter(([key]) => (localState === '*' ? true : key === localState))
-    .map(([key, value]) => [key, sortByName(value)])
+  const display = initialString
+    .split('')
+    .filter(s => (localState === '*' ? true : s === localState))
+    .filter(s => !!List[s])
+    .map(s => [s, sortByName(List[s])] as [string, IArtist[]])
     .map(([key, value], idx) => (
       <Card title={key} key={idx} style={{ margin: 4 }}>
         {(value as IArtist[]).map((e, idx2) => (
