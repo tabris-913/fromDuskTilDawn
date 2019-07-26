@@ -1,13 +1,13 @@
+import { Descriptions, Typography } from 'antd';
 import * as React from 'react';
 
+import InternalLinkList from '../InternalLinkList';
 import Main from '../Main';
 
-import { Descriptions, Typography } from 'antd';
 import PageName, { toPublicUrl } from '../../constants/PageName';
 import { BodyProps, MainContentProps } from '../../models/Main';
 import { getArtist } from '../../utils/ArtistUtils';
 import { getWork } from '../../utils/WorkUtils';
-import InternalLinkList from '../InternalLinkList';
 
 const Title = () => <div style={{ marginBottom: 10 }}>{}</div>;
 

@@ -30,7 +30,7 @@ const InternalLinkList = (props: Props) => {
         onMouseLeave={() => setColor('#fff')}
         onClick={() => props.history.push(itemProps.linkTo)}
       >
-        <List.Item.Meta title={itemProps.title} description={itemProps.description} />
+        <List.Item.Meta title={itemProps.title} description={itemProps.description} style={{ paddingLeft: 10 }} />
       </List.Item>
     );
   };

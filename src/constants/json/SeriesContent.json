@@ -552,8 +552,8 @@
       ]
     },
     "utapri": {
-      "title": "",
-      "description": "",
+      "title": "うたの☆プリンスさまっ♪",
+      "description": "2010年に発売された乙女ゲームの金字塔「うたの☆プリンスさまっ♪」（[公式サイト](http://www.utapri.com/)）シリースの楽曲レビュー第1弾。\n\rゲームリリースに先立ってリリースされたオーディションソングからアニメ第1期が放送される以前の曲をレビュー。",
       "work_list": [
         {
           "uid": "miyano05sg",
@@ -563,19 +563,19 @@
         },
         {
           "uid": "utapri01sg",
-          "artist": [],
+          "artist": ["otoya", "tokiya"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri02sg",
-          "artist": [],
+          "artist": ["masato", "ren"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri03sg",
-          "artist": [],
+          "artist": ["natsuki", "sho"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
@@ -593,31 +593,31 @@
         },
         {
           "uid": "utapri05sg",
-          "artist": [],
+          "artist": ["otoya", "tokiya"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri06sg",
-          "artist": [],
+          "artist": ["masato", "ren"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri07sg",
-          "artist": [],
+          "artist": ["natsuki", "sho"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri08sg",
-          "artist": [],
+          "artist": ["otoya", "masato", "natsuki"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri05drama",
-          "artist": [],
+          "artist": ["natsuki", "sho"],
           "comment": "",
           "song_list": [{ "track_no": 2, "comment": "" }]
         },
@@ -629,13 +629,13 @@
         },
         {
           "uid": "utapri06drama",
-          "artist": [],
+          "artist": ["masato", "ren"],
           "comment": "",
           "song_list": [{ "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri09sg",
-          "artist": [],
+          "artist": ["tokiya", "ren", "sho"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
@@ -647,98 +647,98 @@
         },
         {
           "uid": "utapri07drama",
-          "artist": [],
+          "artist": ["otoya", "tokiya"],
           "comment": "",
           "song_list": [{ "track_no": 2, "comment": "" }]
         }
       ]
     },
     "utapri1000": {
-      "title": "",
-      "description": "",
+      "title": "うたの☆プリンスさまっ♪ マジLOVE1000% ～",
+      "description": "2010年に発売された乙女ゲームの金字塔「うたの☆プリンスさまっ♪」（[公式サイト](http://www.utapri.com/)）シリースの楽曲レビュー第2弾。\n\r2011年夏にスタートしたアニメ第1期（[公式サイト](http://archive1000.utapri.tv/)）からアニメ第2期が放送される以前の曲をレビュー。",
       "subtitle": "1000% ～",
       "work_list": [
         {
           "uid": "miyano07sg",
-          "artist": [],
+          "artist": ["miyano"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri10sg",
-          "artist": [],
+          "artist": ["starish"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri11sg",
-          "artist": [],
+          "artist": ["otoya"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri12sg",
-          "artist": [],
+          "artist": ["masato"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri13sg",
-          "artist": [],
+          "artist": ["ren"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri14sg",
-          "artist": [],
+          "artist": ["sho"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri15sg",
-          "artist": [],
+          "artist": ["natsuki"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri16sg",
-          "artist": [],
+          "artist": ["tokiya"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri17sg",
-          "artist": [],
+          "artist": ["cecil"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri08drama",
-          "artist": [],
+          "artist": ["camus", "cecil"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri09drama",
-          "artist": [],
+          "artist": ["ai", "natsuki", "sho"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "miyano08sg",
-          "artist": [],
+          "artist": ["miyano"],
           "comment": "",
           "song_list": [{ "track_no": 3, "comment": "" }]
         },
         {
           "uid": "utapri10drama",
-          "artist": [],
+          "artist": ["rammaru", "masato", "ren"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri11drama",
-          "artist": [],
+          "artist": ["reiji", "otoya", "tokiya"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
@@ -762,13 +762,13 @@
         },
         {
           "uid": "utapri19sg",
-          "artist": [],
+          "artist": ["reiji", "ai"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri20sg",
-          "artist": [],
+          "artist": ["rammaru", "camus"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
@@ -780,98 +780,98 @@
         },
         {
           "uid": "utapri01shuffle",
-          "artist": [],
+          "artist": ["reiji", "otoya"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri02shuffle",
-          "artist": [],
+          "artist": ["rammaru", "cecil"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri03shuffle",
-          "artist": [],
+          "artist": ["ai", "masato", "sho"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri04shuffle",
-          "artist": [],
+          "artist": ["camus", "ren"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri05shuffle",
-          "artist": [],
+          "artist": ["natsuki", "tokiya"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         }
       ]
     },
     "utapri2000": {
-      "title": "",
-      "description": "",
+      "title": "うたの☆プリンスさまっ♪ マジLOVE2000% ～",
+      "description": "2010年に発売された乙女ゲームの金字塔「うたの☆プリンスさまっ♪」（[公式サイト](http://www.utapri.com/)）シリースの楽曲レビュー第3弾。\n\r2013年春にスタートしたアニメ第2期（[公式サイト](http://archive2000.utapri.tv/)）からアニメ第3期が放送される以前の曲をレビュー。",
       "subtitle": "2000% ～",
       "work_list": [
         {
           "uid": "miyano10sg",
-          "artist": [],
+          "artist": ["miyano"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri22sg",
-          "artist": [],
+          "artist": ["starish"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri23sg",
-          "artist": [],
+          "artist": ["sho"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri24sg",
-          "artist": [],
+          "artist": ["masato"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri25sg",
-          "artist": [],
+          "artist": ["otoya"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri26sg",
-          "artist": [],
+          "artist": ["ren"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri27sg",
-          "artist": [],
+          "artist": ["natsuki"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri28sg",
-          "artist": [],
+          "artist": ["cecil"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri29sg",
-          "artist": [],
+          "artist": ["tokiya"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri03sp",
-          "artist": [],
+          "artist": ["qn"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
@@ -883,86 +883,86 @@
         },
         {
           "uid": "utapri04sp",
-          "artist": [],
+          "artist": ["heavens"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri05sp",
-          "artist": [],
+          "artist": ["shining"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri01theater",
-          "artist": [],
+          "artist": ["reiji", "ai", "natsuki"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri02theater",
-          "artist": [],
+          "artist": ["otoya", "masato", "sho", "cecil"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri03theater",
-          "artist": [],
+          "artist": ["rammaru", "camus", "tokiya", "ren"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri30sg",
-          "artist": [],
+          "artist": ["reiji"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri31sg",
-          "artist": [],
+          "artist": ["rammaru"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri32sg",
-          "artist": [],
+          "artist": ["ai"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri33sg",
-          "artist": [],
+          "artist": ["camus"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri34sg",
-          "artist": [],
+          "artist": ["reiji", "rammaru", "ai", "camus"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         }
       ]
     },
     "utaprir": {
-      "title": "",
-      "description": "",
+      "title": "うたの☆プリンスさまっ♪ マジLOVEレボリューションズ ～",
+      "description": "2010年に発売された乙女ゲームの金字塔「うたの☆プリンスさまっ♪」（[公式サイト](http://www.utapri.com/)）シリースの楽曲レビュー第4弾。\n\r2015年春にスタートしたアニメ第3期（[公式サイト](http://archive-r.utapri.tv/)）からアニメ第4期が放送される以前の曲をレビュー。",
       "subtitle": "Revolutions ～",
       "work_list": [
         {
           "uid": "utapri35sg",
-          "artist": [],
+          "artist": ["starish"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "miyano13sg",
-          "artist": [],
+          "artist": ["miyano"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri36sg",
-          "artist": [],
+          "artist": ["otoya", "natsuki"],
           "comment": "",
           "song_list": [
             { "track_no": 1, "comment": "" },
@@ -972,13 +972,13 @@
         },
         {
           "uid": "utapri37sg",
-          "artist": [],
+          "artist": ["ai"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri38sg",
-          "artist": [],
+          "artist": ["ren", "sho", "cecil"],
           "comment": "",
           "song_list": [
             { "track_no": 1, "comment": "" },
@@ -989,19 +989,19 @@
         },
         {
           "uid": "utapri39sg",
-          "artist": [],
+          "artist": ["camus"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri40sg",
-          "artist": [],
+          "artist": ["rammaru"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri41sg",
-          "artist": [],
+          "artist": ["masato", "tokiya"],
           "comment": "",
           "song_list": [
             { "track_no": 1, "comment": "" },
@@ -1011,19 +1011,19 @@
         },
         {
           "uid": "utapri42sg",
-          "artist": [],
+          "artist": ["reiji"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri43sg",
-          "artist": [],
+          "artist": ["qn"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri06sp",
-          "artist": [],
+          "artist": ["shining"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
@@ -1035,31 +1035,31 @@
         },
         {
           "uid": "utapri04theater",
-          "artist": [],
+          "artist": ["ai", "masato", "ren"],
           "comment": "",
           "song_list": [{ "track_no": 3, "comment": "" }]
         },
         {
           "uid": "utapri07sp",
-          "artist": [],
+          "artist": ["heavens"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri05theater",
-          "artist": [],
+          "artist": ["rammaru", "camus", "otoya"],
           "comment": "",
           "song_list": [{ "track_no": 3, "comment": "" }]
         },
         {
           "uid": "utapri06thater",
-          "artist": [],
+          "artist": ["sho", "reiji"],
           "comment": "",
           "song_list": [{ "track_no": 3, "comment": "" }]
         },
         {
           "uid": "utapri07theater",
-          "artist": [],
+          "artist": ["natsuki", "tokiya", "cecil"],
           "comment": "",
           "song_list": [{ "track_no": 3, "comment": "" }]
         },
@@ -1072,25 +1072,25 @@
       ]
     },
     "utaprils": {
-      "title": "",
-      "description": "",
+      "title": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター ～",
+      "description": "2010年に発売された乙女ゲームの金字塔「うたの☆プリンスさまっ♪」（[公式サイト](http://www.utapri.com/)）シリースの楽曲レビュー第5弾。\n\r2016年秋にスタートしたアニメ第4期（[公式サイト](http://utapri.tv/)）からShining Masterpiece前までの曲をレビュー。",
       "subtitle": "Legend Star ～",
       "work_list": [
         {
           "uid": "utapri46sg",
-          "artist": [],
+          "artist": ["starish"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "miyano16sg",
-          "artist": [],
+          "artist": ["miyano"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri47sg",
-          "artist": [],
+          "artist": ["tokiya", "eiji"],
           "comment": "",
           "song_list": [
             { "track_no": 1, "comment": "" },
@@ -1100,7 +1100,7 @@
         },
         {
           "uid": "utapri48sg",
-          "artist": [],
+          "artist": ["sho", "yamato"],
           "comment": "",
           "song_list": [
             { "track_no": 1, "comment": "" },
@@ -1110,7 +1110,7 @@
         },
         {
           "uid": "utapri49sg",
-          "artist": [],
+          "artist": ["cecil", "shion"],
           "comment": "",
           "song_list": [
             { "track_no": 1, "comment": "" },
@@ -1120,7 +1120,7 @@
         },
         {
           "uid": "utapri50sg",
-          "artist": [],
+          "artist": ["ren", "van"],
           "comment": "",
           "song_list": [
             { "track_no": 1, "comment": "" },
@@ -1130,7 +1130,7 @@
         },
         {
           "uid": "utapri51sg",
-          "artist": [],
+          "artist": ["natsuki", "nagi"],
           "comment": "",
           "song_list": [
             { "track_no": 1, "comment": "" },
@@ -1140,7 +1140,7 @@
         },
         {
           "uid": "utapri52sg",
-          "artist": [],
+          "artist": ["masato", "kira"],
           "comment": "",
           "song_list": [
             { "track_no": 1, "comment": "" },
@@ -1150,7 +1150,7 @@
         },
         {
           "uid": "utapri53sg",
-          "artist": [],
+          "artist": ["otoya", "eiichi"],
           "comment": "",
           "song_list": [
             { "track_no": 1, "comment": "" },
@@ -1160,31 +1160,31 @@
         },
         {
           "uid": "utapri54sg",
-          "artist": [],
+          "artist": ["qn"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri55sg",
-          "artist": [],
+          "artist": ["heavens"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri08sp",
-          "artist": [],
+          "artist": ["starish", "qn", "heavens"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri09sp",
-          "artist": [],
+          "artist": ["otoya", "masato", "natsuki", "tokiya", "ren", "sho", "cecil"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri56sg",
-          "artist": [],
+          "artist": ["reiji", "camus"],
           "comment": "",
           "song_list": [
             { "track_no": 1, "comment": "" },
@@ -1194,7 +1194,7 @@
         },
         {
           "uid": "utapri57sg",
-          "artist": [],
+          "artist": ["rammaru", "ai"],
           "comment": "",
           "song_list": [
             { "track_no": 1, "comment": "" },
@@ -1204,7 +1204,7 @@
         },
         {
           "uid": "utapri10sp",
-          "artist": [],
+          "artist": ["starish"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
@@ -1220,7 +1220,7 @@
         },
         {
           "uid": "utapri12drama",
-          "artist": [],
+          "artist": ["heavens"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
@@ -1233,49 +1233,49 @@
       ]
     },
     "utaprik": {
-      "title": "",
-      "description": "",
+      "title": "うたの☆プリンスさまっ♪ マジLOVEキングダム～",
+      "description": "2010年に発売された乙女ゲームの金字塔「うたの☆プリンスさまっ♪」（[公式サイト](http://www.utapri.com/)）シリースの楽曲レビュー第6弾。\n\rShining Masterpiece以降の曲をレビュー。",
       "subtitle": "Kigndom ～",
       "work_list": [
         {
           "uid": "utapri08theater",
-          "artist": [],
+          "artist": ["natsuki", "reiji", "masato", "rammaru"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri59sg",
-          "artist": [],
+          "artist": ["starish"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri09theater",
-          "artist": [],
+          "artist": ["camus", "sho", "ai"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri10theater",
-          "artist": [],
+          "artist": ["otoya", "tokiya", "ren", "cecil"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri60sg",
-          "artist": [],
+          "artist": ["qn"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "utapri13drama",
-          "artist": [],
+          "artist": ["reiji", "ai"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri14drama",
-          "artist": [],
+          "artist": ["rammaru", "camus"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
@@ -1287,43 +1287,43 @@
         },
         {
           "uid": "utapri15drama",
-          "artist": [],
+          "artist": ["otoya", "ai", "van"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri16drama",
-          "artist": [],
+          "artist": ["natsuki", "rammaru", "eiichi"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri17drama",
-          "artist": [],
+          "artist": ["masato", "camus", "eiji"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri18drama",
-          "artist": [],
+          "artist": ["ren", "reiji", "kira"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri19drama",
-          "artist": [],
+          "artist": ["sho", "nagi", "shion"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri20drama",
-          "artist": [],
+          "artist": ["tokiya", "cecil", "yamato"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri01",
-          "artist": [],
+          "artist": ["heavens"],
           "comment": "",
           "song_list": [
             { "track_no": 1, "comment": "" },
@@ -1337,31 +1337,31 @@
         },
         {
           "uid": "utapri62sg",
-          "artist": [],
+          "artist": ["heavens"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }]
         },
         {
           "uid": "miyano18sg",
-          "artist": [],
+          "artist": ["miyano"],
           "comment": "",
           "song_list": [{ "track_no": 1, "comment": "" }]
         },
         {
           "uid": "utapri02",
-          "artist": [],
+          "artist": ["otoya"],
           "comment": "",
           "song_list": [{ "track_no": 9, "comment": "" }, { "track_no": 10, "comment": "" }]
         },
         {
           "uid": "utapri03",
-          "artist": [],
+          "artist": ["masato"],
           "comment": "",
           "song_list": [{ "track_no": 9, "comment": "" }, { "track_no": 10, "comment": "" }]
         },
         {
           "uid": "utapri04",
-          "artist": [],
+          "artist": ["natsuki"],
           "comment": "",
           "song_list": [{ "track_no": 9, "comment": "" }, { "track_no": 10, "comment": "" }]
         },
@@ -1373,25 +1373,25 @@
         },
         {
           "uid": "utapri05",
-          "artist": [],
+          "artist": ["tokiya"],
           "comment": "",
           "song_list": [{ "track_no": 9, "comment": "" }, { "track_no": 10, "comment": "" }]
         },
         {
           "uid": "utapri06",
-          "artist": [],
+          "artist": ["ren"],
           "comment": "",
           "song_list": [{ "track_no": 9, "comment": "" }, { "track_no": 10, "comment": "" }]
         },
         {
           "uid": "utapri07",
-          "artist": [],
+          "artist": ["sho"],
           "comment": "",
           "song_list": [{ "track_no": 9, "comment": "" }, { "track_no": 10, "comment": "" }]
         },
         {
           "uid": "utapri08",
-          "artist": [],
+          "artist": ["cecil"],
           "comment": "",
           "song_list": [{ "track_no": 9, "comment": "" }, { "track_no": 10, "comment": "" }]
         }

@@ -81,6 +81,12 @@
       "name": "THE IDOLM@STER SideM",
       "content": [],
       "disabled": true
+    },
+    "pj": {
+      "uid": "pj",
+      "name": "Photograph Journey",
+      "content": [],
+      "disabled": true
     }
   }
 }
