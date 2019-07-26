@@ -14,15 +14,17 @@ export interface ISeriesWork {
 }
 
 export interface ISeriesContent {
+  title: string;
   description: string;
   subtitle?: string;
   work_list: ISeriesWork[];
   disabled?: boolean;
+  uid: string;
 }
 
 export interface ISeries {
   uid: string;
   name: string;
-  content: ISeriesContent[];
+  content: string[];
   disabled?: boolean;
 }

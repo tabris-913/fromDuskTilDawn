@@ -8,6 +8,7 @@ import Main from '../Main';
 import PageName, { toPublicUrl } from '../../constants/PageName';
 import { BodyProps, MainContentProps, TitleProps } from '../../models/Main';
 import { getArtistName } from '../../utils/ArtistUtils';
+import { getSeriesContent } from '../../utils/SeriesContentUtils';
 import { getSeries } from '../../utils/SeriesUtils';
 import { getWorks } from '../../utils/WorkUtils';
 import InternalLinkList from '../InternalLinkList';
@@ -15,7 +16,9 @@ import InternalLinkList from '../InternalLinkList';
 const Title = (props: TitleProps) => {
   const series = getSeries(props.query.id || '');
   const content =
-    series && props.query.page && series.content.length > 0 ? series.content[props.query.page - 1] : undefined;
+    series && props.query.page && series.content.length > 0
+      ? getSeriesContent(series.content[props.query.page - 1])
+      : undefined;
 
   return (
     <div style={{ marginBottom: 10 }}>
@@ -27,7 +30,9 @@ const Title = (props: TitleProps) => {
 const Body = (props: BodyProps) => {
   const series = getSeries(props.query.id || '');
   const content =
-    series && props.query.page && series.content.length > 0 ? series.content[props.query.page - 1] : undefined;
+    series && props.query.page && series.content.length > 0
+      ? getSeriesContent(series.content[props.query.page - 1])
+      : undefined;
 
   return (
     <>
@@ -113,8 +118,9 @@ const Body = (props: BodyProps) => {
                 .map((e, idx) => ({ e: e, idx: idx }))
                 .filter(({ e, idx }) => (!!props.query.page ? idx !== props.query.page - 1 : true))
                 .map(({ e, idx }) => {
+                  const relatedContent = getSeriesContent(e);
                   return {
-                    element: { title: `${series.name} ${e.subtitle || ''}` },
+                    element: { title: relatedContent && relatedContent.title },
                     linkTo: toPublicUrl(PageName.SERIES_CONTENT, undefined, { id: props.query.id, page: idx + 1 }),
                   };
                 })
