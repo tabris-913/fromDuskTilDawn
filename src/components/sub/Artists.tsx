@@ -4,11 +4,12 @@ import * as React from 'react';
 import Main from '../Main';
 
 import * as Artists from '../../constants/json/Artist.json';
-import { initialString } from '../../constants/Misc';
+import { alphabet, hiragana, initialString } from '../../constants/Misc';
 import PageName, { toPublicUrl } from '../../constants/PageName';
 import { IArtist } from '../../models/Artist';
 import { BodyProps, MainContentProps } from '../../models/Main';
 import { sortByName } from '../../utils/ArtistUtils';
+import { convertK2H } from '../../utils/MiscUtils';
 
 const List: { [v: string]: IArtist[] } = {};
 Object.entries(Artists.artists as { [v: string]: IArtist }).map(([key, val]) => {
@@ -27,12 +28,12 @@ Object.entries(Artists.artists as { [v: string]: IArtist }).map(([key, val]) => 
     ? val.initial
     : initialString.includes(nameInitial)
     ? nameInitial
-    : initialString.includes(String.fromCharCode(nameInitial.charCodeAt(0) - 0x60))
-    ? String.fromCharCode(nameInitial.charCodeAt(0) - 0x60)
+    : initialString.includes(convertK2H(nameInitial))
+    ? convertK2H(nameInitial)
     : initialString.includes(rubyInitial)
     ? rubyInitial
-    : initialString.includes(String.fromCharCode(rubyInitial.charCodeAt(0) - 0x60))
-    ? String.fromCharCode(rubyInitial.charCodeAt(0) - 0x60)
+    : initialString.includes(convertK2H(rubyInitial))
+    ? convertK2H(rubyInitial)
     : '';
 
   if (initial === '') {
@@ -55,7 +56,7 @@ const Body = (props: BodyProps) => {
     <Row type="flex" style={{ marginBottom: 15 }}>
       <Col>
         <Row type="flex" justify="space-around">
-          {'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').map(s => (
+          {alphabet.split('').map(s => (
             <Col key={s}>
               <Button onClick={() => setLocalState(s)}>{s}</Button>
             </Col>
@@ -64,7 +65,7 @@ const Body = (props: BodyProps) => {
       </Col>
       <Col span={12}>
         <Row type="flex" justify="space-between">
-          {'あかさたなはまやらわ'.split('').map(s => (
+          {hiragana.split('').map(s => (
             <Col key={s}>
               <Button onClick={() => setLocalState(s)}>{s}</Button>
             </Col>

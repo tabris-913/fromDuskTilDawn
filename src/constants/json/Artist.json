@@ -4,13 +4,15 @@
       "name": "Blind Guardian",
       "ruby": "ブラインド・ガーディアン",
       "uid": "blind_guardian",
-      "ruby4Sort": "ぶらいんど・がーでぃあん"
+      "ruby4Sort": "ぶらいんど・がーでぃあん",
+      "kind": "バンド"
     },
     "black_sabbath": {
       "name": "Black Sabbath",
       "ruby": "ブラック・サバス",
       "uid": "black_sabbath",
-      "ruby4Sort": "ぶらっく・さばす"
+      "ruby4Sort": "ぶらっく・さばす",
+      "kind": "バンド"
     },
     "seiko": {
       "name": "松田聖子",
@@ -22,43 +24,50 @@
       "name": "LUMIERE",
       "ruby": "ルミエール",
       "uid": "lumiere",
-      "ruby4Sort": "るみえーる"
+      "ruby4Sort": "るみえーる",
+      "kind": "バンド"
     },
     "veronica": {
       "name": "Veronica",
       "ruby": "ヴェロニカ",
       "uid": "veronica",
-      "ruby4Sort": "ゔぇろにか"
+      "ruby4Sort": "ゔぇろにか",
+      "kind": "バンド"
     },
     "nsfw": {
       "name": "Not Sale For Work",
       "ruby": "ノット・セール・フォー・ワーク",
       "uid": "nsfw",
-      "ruby4Sort": "のっと・せーる・ふぉー・わーく"
+      "ruby4Sort": "のっと・せーる・ふぉー・わーく",
+      "kind": "バンド"
     },
     "kagaribi": {
       "name": "篝火",
       "ruby4Sort": "かがりび",
       "uid": "kagaribi",
-      "en": "Kagaribi"
+      "en": "Kagaribi",
+      "kind": "バンド"
     },
     "die_fledermaus": {
       "name": "Die Fledermaus",
       "ruby": "フレーダーマウス",
       "uid": "die_fledermaus",
-      "ruby4Sort": "ふれーだーまうす"
+      "ruby4Sort": "ふれーだーまうす",
+      "kind": "バンド"
     },
     "jet_rat_fury": {
       "name": "JET RAT FURY",
       "ruby": "ジェット・ラット・フュリー",
       "uid": "jet_rat_fury",
-      "ruby4Sort": "じぇっと・らっと・ふゅりー"
+      "ruby4Sort": "じぇっと・らっと・ふゅりー",
+      "kind": "バンド"
     },
     "brave_child": {
       "name": "Brave Child",
       "ruby": "ブレイヴ・チャイルド",
       "uid": "brave_child",
-      "ruby4Sort": "ぶれいゔ・ちゃいるど"
+      "ruby4Sort": "ぶれいゔ・ちゃいるど",
+      "kind": "バンド"
     },
     "starish": {
       "name": "ST☆RISH",

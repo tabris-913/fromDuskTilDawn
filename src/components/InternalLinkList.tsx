@@ -11,6 +11,7 @@ interface Props extends MainContentProps {
     element: any;
     linkTo: string;
   }>;
+  size?: 'default' | 'large' | 'small';
 }
 
 interface ItemProps {
@@ -46,6 +47,7 @@ const InternalLinkList = (props: Props) => {
         />
       )}
       style={{ width: '40%' }}
+      size={props.size}
     />
   );
 };

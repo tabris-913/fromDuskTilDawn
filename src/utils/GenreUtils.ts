@@ -5,6 +5,8 @@ import { IGenre } from '../models/Genre.js';
 
 export const getGenre = (uid: string): IGenre | undefined => R.path([uid], Genres.genre);
 
+export const getGenres = (uids: string[]): IGenre[] => uids.map(getGenre).filter(e => !!e) as IGenre[];
+
 export const sortByName = (artists: IGenre[]) =>
   R.sortBy(
     R.compose(

@@ -10,7 +10,7 @@ import { BodyProps, MainContentProps, TitleProps } from '../../models/Main';
 import { getArtistName } from '../../utils/ArtistUtils';
 import { getSeriesContent } from '../../utils/SeriesContentUtils';
 import { getSeries } from '../../utils/SeriesUtils';
-import { getWorks } from '../../utils/WorkUtils';
+import { getWork } from '../../utils/WorkUtils';
 import InternalLinkList from '../InternalLinkList';
 
 const Title = (props: TitleProps) => {
@@ -39,7 +39,7 @@ const Body = (props: BodyProps) => {
       {content &&
         content.work_list.map((work, idx) => {
           const arrowPos = 'left'; // idx % 2 === 0 ? 'left' : 'right';
-          const works = getWorks(work.uid);
+          const works = getWork(work.uid);
           const img = works && works.img ? `${process.env.REACT_APP_IMG_SRC}${works.img[0]}` : '';
           if (img === '') console.log("image can't get");
 

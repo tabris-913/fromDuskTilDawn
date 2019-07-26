@@ -5,12 +5,12 @@ import Main from '../Main';
 
 import { BodyProps, MainContentProps } from '../../models/Main';
 import { IWork } from '../../models/Work';
-import { getWorks } from '../../utils/WorkUtils';
+import { getWork } from '../../utils/WorkUtils';
 
 const Title = () => <div style={{ marginBottom: 10 }} />;
 
 const Body = (props: BodyProps) => {
-  const content: IWork | undefined = getWorks(props.query.id || '');
+  const content: IWork | undefined = getWork(props.query.id || '');
 
   return (
     <>

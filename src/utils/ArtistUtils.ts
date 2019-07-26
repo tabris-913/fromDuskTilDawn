@@ -6,6 +6,8 @@ import { IArtist } from '../models/Artist';
 
 export const getArtist = (uid: string): IArtist | undefined => R.path([uid], Artists.artists);
 
+export const getArtists = (uids: string[]): IArtist[] => uids.map(getArtist).filter(e => !!e) as IArtist[];
+
 export const getArtistName = (uid?: string) => {
   const artist = getArtist(uid || '');
   return !!artist ? artist.name : undefined;

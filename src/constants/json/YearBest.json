@@ -2,7 +2,13 @@
   "yearBest": {
     "2018": {
       "year": 2018,
-      "cover": ""
+      "covers": [""],
+      "albums": [],
+      "tunes": [],
+      "month": [],
+      "compilations": [],
+      "amazingTopics": [],
+      "brightestHopes": []
     }
   }
 }

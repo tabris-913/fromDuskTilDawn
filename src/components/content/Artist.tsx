@@ -1,36 +1,60 @@
-import { Card } from 'antd';
 import * as React from 'react';
 
-import WorksList from '../content/WorksList';
 import Main from '../Main';
 
-import { MainContentProps } from '../../models/Main';
+import { Descriptions, Typography } from 'antd';
+import PageName, { toPublicUrl } from '../../constants/PageName';
+import { BodyProps, MainContentProps } from '../../models/Main';
+import { getArtist } from '../../utils/ArtistUtils';
+import { getWork } from '../../utils/WorkUtils';
+import InternalLinkList from '../InternalLinkList';
 
-const Title = () => (
-  <div style={{ marginBottom: 10 }}>
-    音楽、主にハード・ロック／ヘヴィ・メタルのレヴューサイト
-    <br />
-    洋邦問わず、管理人の好みでレヴューしたりしなかったりするサイトです
-    <br />
-    HR/HM以外にもグラム／プログレ／ヴィジュアル系なども扱っています
-  </div>
-);
+const Title = () => <div style={{ marginBottom: 10 }}>{}</div>;
 
-const Body = () => (
-  <Card title="What's New?" style={{ width: '100%' }}>
-    <Card type="inner" size="small" title="20XX/XX/XX">
-      <WorksList
-        dataSource={[
-          { title: 'title', description: 'description' },
-          { title: 'title', description: 'description' },
-          { title: 'title', description: 'description' },
-          { title: 'title', description: 'description' },
-          { title: 'title', description: 'description' },
-        ]}
-      />
-    </Card>
-  </Card>
-);
+const Body = (props: BodyProps) => {
+  const content = getArtist(props.query.id || '');
+
+  const Works = ({ p }: { p: string }) =>
+    content && content[p] ? (
+      <>
+        <Typography.Title level={3} underline={true}>
+          {p}
+        </Typography.Title>
+        <InternalLinkList
+          {...props}
+          size="small"
+          titlePropsName="title"
+          source={(content[p] || []).map((uid: string) => {
+            const work = getWork(uid);
+            return {
+              element: work ? { title: `${work.title} (${work.date})` } : undefined,
+              linkTo: toPublicUrl(PageName.WORK, undefined, { id: uid }),
+            };
+          })}
+        />
+      </>
+    ) : (
+      <p>なし</p>
+    );
+
+  return (
+    <>
+      {/** logoどうしようか */}
+      <Descriptions title="Info" layout="vertical" column={2}>
+        {content ? (
+          <>
+            <Descriptions.Item label="name">{content.name}</Descriptions.Item>
+            <Descriptions.Item label="ruby">{content.ruby || ''}</Descriptions.Item>
+          </>
+        ) : (
+          undefined
+        )}
+      </Descriptions>
+      <Works p="albums" />
+      <Works p="singles" />
+    </>
+  );
+};
 
 const Artist = (props: MainContentProps) => <Main {...props} Title={Title} Body={Body} />;
 

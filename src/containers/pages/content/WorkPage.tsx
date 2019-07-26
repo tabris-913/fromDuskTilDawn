@@ -10,7 +10,7 @@ import PageName, { toPublicUrl } from '../../../constants/PageName';
 import { QueryType } from '../../../models/Main';
 import { IWork } from '../../../models/Work';
 import { IStoreState } from '../../../reducers';
-import { getWorks } from '../../../utils/WorkUtils';
+import { getWork } from '../../../utils/WorkUtils';
 
 interface IOwnProps extends RouteComponentProps<{}> {}
 
@@ -34,7 +34,7 @@ const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDisp
 };
 
 const WorkPage = (props: Props) => {
-  const content: IWork | undefined = getWorks(props.query.id || '');
+  const content: IWork | undefined = getWork(props.query.id || '');
 
   return !!content ? (
     <Wireframe
