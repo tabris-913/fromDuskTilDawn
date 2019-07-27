@@ -10,4 +10,5 @@ export interface IArtist {
   logo?: string[];
   singles?: string[]; // uids
   albums?: string[]; // uids
+  others?: string[];
 }

@@ -21,6 +21,8 @@ enum PageName {
   SERIES_CONTENT = '/series',
   YEAR_BEST = '/year_best',
   WORK = '/work',
+
+  UNDEFINED = '',
 }
 
 // tslint:disable-next-line array-type

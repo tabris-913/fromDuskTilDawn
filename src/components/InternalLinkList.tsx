@@ -23,13 +23,18 @@ interface ItemProps {
 const InternalLinkList = (props: Props) => {
   const ListItem = (itemProps: ItemProps) => {
     const [color, setColor] = useColor();
+    const listItemParam =
+      itemProps.linkTo === ''
+        ? { style: { backgroundColor: color } }
+        : {
+            onMouseOver: () => setColor('#aaf'),
+            onMouseLeave: () => setColor('#fff'),
+            onClick: () => props.history.push(itemProps.linkTo),
+            style: { backgroundColor: color, cursor: 'pointer' },
+          };
+
     return (
-      <List.Item
-        style={{ backgroundColor: color }}
-        onMouseOver={() => setColor('#aaf')}
-        onMouseLeave={() => setColor('#fff')}
-        onClick={() => props.history.push(itemProps.linkTo)}
-      >
+      <List.Item style={{ backgroundColor: color }} {...listItemParam}>
         <List.Item.Meta title={itemProps.title} description={itemProps.description} style={{ paddingLeft: 10 }} />
       </List.Item>
     );

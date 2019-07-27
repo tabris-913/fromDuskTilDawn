@@ -9,4 +9,5 @@ export interface IWork {
   uid: string;
   img?: string[];
   rate?: number;
+  review_done?: boolean;
 }

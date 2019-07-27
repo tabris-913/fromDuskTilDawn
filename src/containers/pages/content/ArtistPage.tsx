@@ -37,7 +37,10 @@ const ArtistPage = (props: Props) => {
   const artistName = (artist && artist.name) || '';
 
   return (
-    <Wireframe title={artistName} breadcrump={[{ label: 'ARTIST', href: PageName.ARTIST }, { label: artistName }]}>
+    <Wireframe
+      title={artistName}
+      breadcrump={[{ label: 'ARTIST', href: PageName.REVIEW_ARTIST }, { label: artistName }]}
+    >
       <Artist {...props} />
     </Wireframe>
   );

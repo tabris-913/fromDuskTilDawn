@@ -14,44 +14,68 @@ const Title = () => <div style={{ marginBottom: 10 }}>{}</div>;
 const Body = (props: BodyProps) => {
   const content = getArtist(props.query.id || '');
 
-  const Works = ({ p }: { p: string }) =>
-    content && content[p] ? (
-      <>
-        <Typography.Title level={3} underline={true}>
-          {p}
-        </Typography.Title>
-        <InternalLinkList
-          {...props}
-          size="small"
-          titlePropsName="title"
-          source={(content[p] || []).map((uid: string) => {
-            const work = getWork(uid);
-            return {
-              element: work ? { title: `${work.title} (${work.date})` } : undefined,
-              linkTo: toPublicUrl(PageName.WORK, undefined, { id: uid }),
-            };
-          })}
-        />
-      </>
-    ) : (
-      <p>なし</p>
-    );
+  const Works = ({ p }: { p: string }) => (
+    <div style={{ marginLeft: 10 }}>
+      <Typography.Title level={4} underline={true} style={{ marginTop: 0 }}>
+        {p}
+      </Typography.Title>
+      {content && content[p] ? (
+        <>
+          <InternalLinkList
+            {...props}
+            size="small"
+            titlePropsName="title"
+            source={(content[p] || []).map((uid: string) => {
+              const work = getWork(uid);
+              return {
+                element: { title: work ? `${work.title} (${work.date})` : uid },
+                linkTo: work ? (work.review_done ? toPublicUrl(PageName.WORK, undefined, { id: work.uid }) : '') : '',
+              };
+            })}
+          />
+        </>
+      ) : (
+        <p>no {p}</p>
+      )}
+    </div>
+  );
 
   return (
     <>
       {/** logoどうしようか */}
-      <Descriptions title="Info" layout="vertical" column={2}>
-        {content ? (
-          <>
-            <Descriptions.Item label="name">{content.name}</Descriptions.Item>
-            <Descriptions.Item label="ruby">{content.ruby || ''}</Descriptions.Item>
-          </>
-        ) : (
-          undefined
-        )}
-      </Descriptions>
+      {content ? (
+        <Descriptions title="Info" bordered={true} column={1} style={{ width: '50%' }}>
+          <Descriptions.Item label="名前">{content.name}</Descriptions.Item>
+          <Descriptions.Item label="読み">{content.ruby4Sort || ''}</Descriptions.Item>
+        </Descriptions>
+      ) : (
+        undefined
+      )}
+      <Typography.Title level={3} style={{ marginTop: 20 }}>
+        Works
+      </Typography.Title>
       <Works p="albums" />
       <Works p="singles" />
+      <Works p="others" />
+      {content && content.related ? (
+        <>
+          <Typography.Title level={3} style={{ marginTop: 20 }}>
+            関連アーティスト
+          </Typography.Title>
+          <div style={{ marginLeft: 10 }}>
+            <InternalLinkList
+              {...props}
+              source={content.related.map(uid => ({
+                element: getArtist(uid),
+                linkTo: toPublicUrl(PageName.ARTIST, undefined, { id: uid }),
+              }))}
+              titlePropsName="name"
+            />
+          </div>
+        </>
+      ) : (
+        undefined
+      )}
     </>
   );
 };

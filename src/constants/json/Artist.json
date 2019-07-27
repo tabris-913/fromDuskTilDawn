@@ -25,70 +25,91 @@
       "ruby": "ルミエール",
       "uid": "lumiere",
       "ruby4Sort": "るみえーる",
-      "kind": "バンド"
+      "kind": "バンド",
+      "singles": ["dearvo01", "dearvo07", "dearvo13", "dearvo19", "dearvo25"],
+      "albums": ["dearvo01c", "dearvo02c", "dearvo03c", "dearvo04c"]
     },
     "veronica": {
       "name": "Veronica",
       "ruby": "ヴェロニカ",
       "uid": "veronica",
       "ruby4Sort": "ゔぇろにか",
-      "kind": "バンド"
+      "kind": "バンド",
+      "singles": ["dearvo02", "dearvo10", "dearvo17", "dearvo23", "dearvo29"],
+      "albums": ["dearvo01c", "dearvo02c", "dearvo03c", "dearvo04c"]
     },
     "nsfw": {
       "name": "Not Sale For Work",
       "ruby": "ノット・セール・フォー・ワーク",
       "uid": "nsfw",
       "ruby4Sort": "のっと・せーる・ふぉー・わーく",
-      "kind": "バンド"
+      "kind": "バンド",
+      "singles": ["dearvo05", "dearvo09", "dearvo16", "dearvo24", "dearvpo30"],
+      "albums": ["dearvo01c", "dearvo02c", "dearvo03c", "dearvo04c"]
     },
     "kagaribi": {
       "name": "篝火",
       "ruby4Sort": "かがりび",
       "uid": "kagaribi",
       "en": "Kagaribi",
-      "kind": "バンド"
+      "kind": "バンド",
+      "singles": ["dearvo03", "dearvo08", "dearvo15", "dearvo21", "dearvo27"],
+      "albums": ["dearvo01c", "dearvo02c", "dearvo03c", "dearvo04c"]
     },
     "die_fledermaus": {
       "name": "Die Fledermaus",
       "ruby": "フレーダーマウス",
       "uid": "die_fledermaus",
       "ruby4Sort": "ふれーだーまうす",
-      "kind": "バンド"
+      "kind": "バンド",
+      "singles": ["dearvo04", "dearvo12"],
+      "albums": ["dearvo01c", "dearvo02c"]
     },
     "jet_rat_fury": {
       "name": "JET RAT FURY",
       "ruby": "ジェット・ラット・フュリー",
       "uid": "jet_rat_fury",
       "ruby4Sort": "じぇっと・らっと・ふゅりー",
-      "kind": "バンド"
+      "kind": "バンド",
+      "singles": ["dearvo06", "dearvo11", "dearvo18", "dearvo22", "dearvo28"],
+      "albums": ["dearvo01c", "dearvo02c", "dearvo03c", "dearvo04c"]
     },
     "brave_child": {
       "name": "Brave Child",
       "ruby": "ブレイヴ・チャイルド",
       "uid": "brave_child",
       "ruby4Sort": "ぶれいゔ・ちゃいるど",
-      "kind": "バンド"
+      "kind": "バンド",
+      "singles": ["dearvo14", "dearvo20", "dearvo26"],
+      "albums": ["dearvo03c", "dearvo04c"]
     },
     "starish": {
       "name": "ST☆RISH",
       "ruby": "スターリッシュ",
       "uid": "starish",
-      "related": ["otoya", "masato", "natsuki", "ren", "tokiya", "sho"],
-      "ruby4Sort": "すたーりっしゅ"
+      "related": ["otoya", "masato", "natsuki", "tokiya", "ren", "sho", "cecil"],
+      "ruby4Sort": "すたーりっしゅ",
+      "singles": ["utapri10sg", "utapri22sg", "utapri35sg", "utapri46sg", "utapri58sg", "utapri59sg", "utapri63sg"],
+      "others": ["utapri08sp", "utapri10sp"]
     },
     "qn": {
       "name": "QUARTET NIGHT",
       "ruby": "カルテット・ナイト",
       "uid": "qn",
       "related": ["reiji", "rammaru", "ai", "camus"],
-      "ruby4Sort": "かるてっと・ないと"
+      "ruby4Sort": "かるてっと・ないと",
+      "singles": ["utapri43sg", "utapri54sg", "utapri58sg", "utapri60sg", "utapri63sg"],
+      "others": ["utapri03sp", "utapri08sp"]
     },
     "heavens": {
       "name": "HE★VENS",
       "ruby": "ヘヴンズ",
       "uid": "heavens",
       "related": ["eiichi", "kira", "nagi", "eiji", "van", "yamato", "shion"],
-      "ruby4Sort": "へゔんず"
+      "ruby4Sort": "へゔんず",
+      "singles": ["utapri55sg", "utapri62sg"],
+      "albums": ["utapri01"],
+      "others": ["utapri04sp", "utapri07sp", "utapri08sp", "utapri12drama"]
     },
     "otoya": {
       "name": "一十木音也",
@@ -96,7 +117,34 @@
       "uid": "otoya",
       "related": ["starish"],
       "en": "Otoya Ittoki",
-      "initial": "あ"
+      "initial": "あ",
+      "singles": [
+        "utapri01sg",
+        "utapri04sg",
+        "utapri05sg",
+        "utapri08sg",
+        "utapri11sg",
+        "utapri18sg",
+        "utapri25sg",
+        "utapri36sg",
+        "utapri44sg",
+        "utapri45sg",
+        "utapri53sg",
+        "utapri61sg"
+      ],
+      "albums": ["utapri02"],
+      "others": [
+        "utapri02sp",
+        "utapri07drama",
+        "utapri11drama",
+        "utapri01shuffle",
+        "utapri02theater",
+        "utapri05theater",
+        "utapri09sp",
+        "utapri11sp",
+        "utapri10theater",
+        "utapri15drama"
+      ]
     },
     "masato": {
       "name": "聖川真斗",
@@ -104,7 +152,9 @@
       "uid": "masato",
       "related": ["starish"],
       "en": "Masato Hijirikawa",
-      "initial": "は"
+      "initial": "は",
+      "singles": ["utapri12sg", "utapri24sg"],
+      "albums": ["utapri03"]
     },
     "natsuki": {
       "name": "四ノ宮那月",
@@ -112,7 +162,9 @@
       "uid": "natsuki",
       "related": ["starish"],
       "en": "Natsuki Shinomiya",
-      "initial": "さ"
+      "initial": "さ",
+      "singles": ["utapri15sg", "utapri27sg"],
+      "albums": ["utapri04"]
     },
     "ren": {
       "name": "神宮寺レン",
@@ -120,7 +172,9 @@
       "uid": "ren",
       "related": ["starish"],
       "en": "Ren Jinguji",
-      "initial": "さ"
+      "initial": "さ",
+      "singles": ["utapri13sg", "utapri26sg"],
+      "albums": ["utapri06"]
     },
     "tokiya": {
       "name": "一ノ瀬トキヤ",
@@ -128,7 +182,9 @@
       "uid": "tokiya",
       "related": ["starish", "hayato"],
       "en": "Tokiya Ichinose",
-      "initial": "あ"
+      "initial": "あ",
+      "singles": ["utapri16sg", "utapri29sg"],
+      "albums": ["utapri05"]
     },
     "sho": {
       "name": "来栖翔",
@@ -136,13 +192,19 @@
       "uid": "sho",
       "related": ["starish"],
       "en": "Sho Kurusu",
-      "initial": "か"
+      "initial": "か",
+      "singles": ["utapri14sg", "utapri23sg"],
+      "albums": ["utapri07"]
     },
     "cecil": {
       "name": "愛島セシル",
       "ruby4Sort": "あいじませしる",
       "en": "Cecil Aijima",
-      "uid": "cecil"
+      "uid": "cecil",
+      "related": ["starish"],
+      "singles": ["utapri17sg", "utapri28sg"],
+      "albums": ["utapri08"],
+      "others": ["utapri01sp"]
     },
     "hayato": {
       "name": "HAYATO",

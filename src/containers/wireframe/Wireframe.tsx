@@ -35,7 +35,9 @@ const Wireframe = (props: Props) => (
   <Layout style={{ height: '100vh' }}>
     <Sider
       pathname={props.location.pathname}
-      onClickMenu={(menuKey: PageName) => props.history.push(toPublicUrl(menuKey))}
+      onClickMenu={(menuKey: PageName) =>
+        menuKey === PageName.UNDEFINED ? null : props.history.push(toPublicUrl(menuKey))
+      }
       body={SiderLeftMenu}
       title="Menu"
       breakpoint="lg"

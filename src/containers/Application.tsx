@@ -51,7 +51,7 @@ const Application = () => (
             .map(e => makeRoute(e))}
 
           {[
-            // [PageName.ARTIST, Page.ArtistPage, true],
+            [PageName.ARTIST, Page.ArtistPage, true],
             // [PageName.GENRE, Page.GenrePage, true],
             // [PageName.SELECTION, Page.SelectionPage, true],
             [PageName.SERIES_CONTENT, Page.SeriesContentPage, true],

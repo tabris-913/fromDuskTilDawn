@@ -56,8 +56,8 @@ const Body = (props: BodyProps) => {
                 header={
                   <Row>
                     <Col>「{works.title}」</Col>
-                    {work.artist && !R.isEmpty(work.artist) ? (
-                      <Col style={{ color: '#888' }}>{work.artist.map(getArtistName).join('・')}</Col>
+                    {works.artist && !R.isEmpty(works.artist) ? (
+                      <Col style={{ color: '#888' }}>{works.artist.map(getArtistName).join('・')}</Col>
                     ) : (
                       undefined
                     )}
