@@ -87,7 +87,7 @@
       "name": "ST☆RISH",
       "ruby": "スターリッシュ",
       "uid": "starish",
-      "related": ["otoya", "masato", "natsuki", "tokiya", "ren", "sho", "cecil"],
+      "related": ["otoya", "masato", "natsuki", "tokiya", "ren", "sho", "cecil", "shining"],
       "ruby4Sort": "すたーりっしゅ",
       "singles": ["utapri10sg", "utapri22sg", "utapri35sg", "utapri46sg", "utapri58sg", "utapri59sg", "utapri63sg"],
       "others": ["utapri08sp", "utapri10sp"]
@@ -96,7 +96,7 @@
       "name": "QUARTET NIGHT",
       "ruby": "カルテット・ナイト",
       "uid": "qn",
-      "related": ["reiji", "rammaru", "ai", "camus"],
+      "related": ["reiji", "rammaru", "ai", "camus", "shining"],
       "ruby4Sort": "かるてっと・ないと",
       "singles": ["utapri43sg", "utapri54sg", "utapri58sg", "utapri60sg", "utapri63sg"],
       "others": ["utapri03sp", "utapri08sp"]
@@ -153,8 +153,31 @@
       "related": ["starish"],
       "en": "Masato Hijirikawa",
       "initial": "は",
-      "singles": ["utapri12sg", "utapri24sg"],
-      "albums": ["utapri03"]
+      "singles": [
+        "utapri02sg",
+        "utapri04sg",
+        "utapri08sg",
+        "utapri12sg",
+        "utapri18sg",
+        "utapri24sg",
+        "utapri41sg",
+        "utapri44sg",
+        "utapri45sg",
+        "utapri52sg",
+        "utapri61sg"
+      ],
+      "albums": ["utapri03"],
+      "others": [
+        "utapri06drama",
+        "utapri10drama",
+        "utapri03shuffle",
+        "utapri02theater",
+        "utapri04theater",
+        "utapri09sp",
+        "utapri11sp",
+        "utapri08theater",
+        "utapri17drama"
+      ]
     },
     "natsuki": {
       "name": "四ノ宮那月",
@@ -163,8 +186,32 @@
       "related": ["starish"],
       "en": "Natsuki Shinomiya",
       "initial": "さ",
-      "singles": ["utapri15sg", "utapri27sg"],
-      "albums": ["utapri04"]
+      "singles": [
+        "utapri03sg",
+        "utapri04sg",
+        "utapri07sg",
+        "utapri08sg",
+        "utapri15sg",
+        "utapri18sg",
+        "utapri27sg",
+        "utapri36sg",
+        "utapri44sg",
+        "utapri45sg",
+        "utapri51sg",
+        "utapri61sg"
+      ],
+      "albums": ["utapri04"],
+      "others": [
+        "utapri05drama",
+        "utapri09drama",
+        "utapri05shuffle",
+        "utapri01theater",
+        "utapri07theater",
+        "utapri09sp",
+        "utapri11sp",
+        "utapri08theater",
+        "utapri16drama"
+      ]
     },
     "ren": {
       "name": "神宮寺レン",
@@ -173,8 +220,31 @@
       "related": ["starish"],
       "en": "Ren Jinguji",
       "initial": "さ",
-      "singles": ["utapri13sg", "utapri26sg"],
-      "albums": ["utapri06"]
+      "singles": [
+        "utapri02sg",
+        "utapri04sg",
+        "utapri09sg",
+        "utapri13sg",
+        "utapri18sg",
+        "utapri26sg",
+        "utapri38sg",
+        "utapri44sg",
+        "utapri45sg",
+        "utapri50sg",
+        "utapri61sg"
+      ],
+      "albums": ["utapri06"],
+      "others": [
+        "utapri06drama",
+        "utapri10drama",
+        "utapri04shuffle",
+        "utapri03theater",
+        "utapri04theater",
+        "utapri09sp",
+        "utapri11sp",
+        "utapri10theater",
+        "utapri18drama"
+      ]
     },
     "tokiya": {
       "name": "一ノ瀬トキヤ",
@@ -183,8 +253,32 @@
       "related": ["starish", "hayato"],
       "en": "Tokiya Ichinose",
       "initial": "あ",
-      "singles": ["utapri16sg", "utapri29sg"],
-      "albums": ["utapri05"]
+      "singles": [
+        "utapri01sg",
+        "utapri04sg",
+        "utapri05sg",
+        "utapri09sg",
+        "utapri16sg",
+        "utapri18sg",
+        "utapri29sg",
+        "utapri41sg",
+        "utapri44sg",
+        "utapri47sg",
+        "utapri53sg",
+        "utapri61sg"
+      ],
+      "albums": ["utapri05"],
+      "others": [
+        "utapri07drama",
+        "utapri11drama",
+        "utapri05shuffle",
+        "utapri03theater",
+        "utapri07theater",
+        "utapri09sp",
+        "utapri11sp",
+        "utapri10theater",
+        "utapri20drama"
+      ]
     },
     "sho": {
       "name": "来栖翔",
@@ -193,8 +287,33 @@
       "related": ["starish"],
       "en": "Sho Kurusu",
       "initial": "か",
-      "singles": ["utapri14sg", "utapri23sg"],
-      "albums": ["utapri07"]
+      "singles": [
+        "utapri03sg",
+        "utapri04sg",
+        "utapri07sg",
+        "utapri09sg",
+        "utapri14sg",
+        "utapri18sg",
+        "utapri23sg",
+        "utapri38sg",
+        "utapri44sg",
+        "utapri45sg",
+        "utapri48sg",
+        "utapri61sg"
+      ],
+      "albums": ["utapri07"],
+      "others": [
+        "utapri05drama",
+        "utapri02sp",
+        "utapri09drama",
+        "utapri03shuffle",
+        "utapri02theater",
+        "utapri06theater",
+        "utapri09sp",
+        "utapri11sp",
+        "utapri09theater",
+        "utapri19drama"
+      ]
     },
     "cecil": {
       "name": "愛島セシル",
@@ -202,16 +321,36 @@
       "en": "Cecil Aijima",
       "uid": "cecil",
       "related": ["starish"],
-      "singles": ["utapri17sg", "utapri28sg"],
+      "singles": [
+        "utapri17sg",
+        "utapri18sg",
+        "utapri28sg",
+        "utapri38sg",
+        "utapri44sg",
+        "utapri45sg",
+        "utapri49sg",
+        "utapri61sg"
+      ],
       "albums": ["utapri08"],
-      "others": ["utapri01sp"]
+      "others": [
+        "utapri01sp",
+        "utapri08drama",
+        "utapri02shuffle",
+        "utapri02theater",
+        "utapri07theater",
+        "utapri09sp",
+        "utapri11sp",
+        "utapri10theater",
+        "utapri20drama"
+      ]
     },
     "hayato": {
       "name": "HAYATO",
       "ruby": "ハヤト",
       "uid": "hayato",
       "related": ["tokiya"],
-      "ruby4Sort": "はやと"
+      "ruby4Sort": "はやと",
+      "others": ["utapri05ost"]
     },
     "reiji": {
       "name": "寿嶺二",
@@ -219,7 +358,28 @@
       "uid": "reiji",
       "related": ["qn"],
       "en": "Reiji Kotobuki",
-      "initial": "か"
+      "initial": "か",
+      "singles": [
+        "utapri18sg",
+        "utapri19sg",
+        "utapri21sg",
+        "utapri30sg",
+        "utapri34sg",
+        "utapri42sg",
+        "utapri44sg",
+        "utapri45sg",
+        "utapri56sg",
+        "utapri61sg"
+      ],
+      "others": [
+        "utapri11drama",
+        "utapri01shuffle",
+        "utapri01theater",
+        "utapri06theater",
+        "utapri08theater",
+        "utapri13drama",
+        "utapri18drama"
+      ]
     },
     "rammaru": {
       "name": "黒崎蘭丸",
@@ -227,7 +387,28 @@
       "uid": "rammaru",
       "related": ["qn"],
       "en": "Rammaru Kurosaki",
-      "initial": "か"
+      "initial": "か",
+      "singles": [
+        "utapri18sg",
+        "utapri20sg",
+        "utapri21sg",
+        "utapri31sg",
+        "utapri34sg",
+        "utapri40sg",
+        "utapri44sg",
+        "utapri45sg",
+        "utapri57sg",
+        "utapri61sg"
+      ],
+      "others": [
+        "utapri10drama",
+        "utapri02shuffle",
+        "utapri03theater",
+        "utapri05theater",
+        "utapri08theater",
+        "utapri14drama",
+        "utapri16drama"
+      ]
     },
     "ai": {
       "name": "美風藍",
@@ -235,13 +416,55 @@
       "uid": "ai",
       "related": ["qn"],
       "en": "Ai Mikaze",
-      "initial": "ま"
+      "initial": "ま",
+      "singles": [
+        "utapri18sg",
+        "utapri19sg",
+        "utapri21sg",
+        "utapri32sg",
+        "utapri37sg",
+        "utapri42sg",
+        "utapri44sg",
+        "utapri45sg",
+        "utapri57sg",
+        "utapri61sg"
+      ],
+      "others": [
+        "utapri09drama",
+        "utapri03shuffle",
+        "utapri01theater",
+        "utapri04theater",
+        "utapri09theater",
+        "utapri13drama",
+        "utapri15drama"
+      ]
     },
     "camus": {
       "name": "カミュ",
       "uid": "camus",
       "related": ["qn"],
-      "ruby4Sort": "かみゅ"
+      "ruby4Sort": "かみゅ",
+      "singles": [
+        "utapri18sg",
+        "utapri20sg",
+        "utapri21sg",
+        "utapri33sg",
+        "utapri34sg",
+        "utapri39sg",
+        "utapri44sg",
+        "utapri45sg",
+        "utapri56sg",
+        "utapri61sg"
+      ],
+      "others": [
+        "utapri08drama",
+        "utapri04shuffle",
+        "utapri03theater",
+        "utapri05theater",
+        "utapri09theater",
+        "utapri14drama",
+        "utapri17drama"
+      ]
     },
     "eiichi": {
       "name": "鳳瑛一",
@@ -249,7 +472,9 @@
       "uid": "eiichi",
       "related": ["heavens", "eiji"],
       "en": "Eiichi Ohtori",
-      "initial": "あ"
+      "initial": "あ",
+      "singles": ["utapri53sg"],
+      "others": ["utapri16drama"]
     },
     "kira": {
       "name": "皇綺羅",
@@ -257,7 +482,9 @@
       "uid": "kira",
       "related": ["heavens"],
       "en": "Kira Sumeragi",
-      "initial": "さ"
+      "initial": "さ",
+      "singles": ["utapri52sg"],
+      "others": ["utapri18drama"]
     },
     "nagi": {
       "name": "帝ナギ",
@@ -265,7 +492,9 @@
       "uid": "nagi",
       "related": ["heavens"],
       "en": "Nagi Mikado",
-      "initial": "ま"
+      "initial": "ま",
+      "singles": ["utapri51sg"],
+      "others": ["utapri19drama"]
     },
     "eiji": {
       "name": "鳳瑛二",
@@ -273,7 +502,9 @@
       "uid": "eiji",
       "related": ["heavens", "eiichi"],
       "en": "Eiji Ohtori",
-      "initial": "あ"
+      "initial": "あ",
+      "singles": ["utapri47sg"],
+      "others": ["utapri17drama"]
     },
     "van": {
       "name": "桐生院ヴァン",
@@ -281,7 +512,9 @@
       "uid": "van",
       "related": ["heavens"],
       "en": "Van Kiryuin",
-      "initial": "か"
+      "initial": "か",
+      "singles": ["utapri50sg"],
+      "others": ["utapri15drama"]
     },
     "yamato": {
       "name": "日向大和",
@@ -289,28 +522,35 @@
       "uid": "yamato",
       "related": ["heavens"],
       "en": "Yamato Hyuga",
-      "initial": "は"
+      "initial": "は",
+      "singles": ["utapri48sg"],
+      "others": ["utapri20drama"]
     },
     "shion": {
       "name": "天草シオン",
       "ruby4Sort": "あまくさしおん",
       "uid": "shion",
       "related": ["heavens"],
-      "en": "Shion Amakusa"
+      "en": "Shion Amakusa",
+      "singles": ["utapri49sg"],
+      "others": ["utapri19drama"]
     },
     "miyano": {
       "name": "宮野真守",
       "ruby4Sort": "みやのまもる",
       "uid": "miyano",
       "en": "Mamoru Miyano",
-      "initial": "ま"
+      "initial": "ま",
+      "singles": ["miyano05sg", "miyano07sg", "miyano08sg", "miyano10sg", "miyano13sg", "miyano16sg", "miyano18sg"]
     },
     "shining": {
       "name": "シャイニング・スターズ",
       "uid": "shining",
       "en": "Shining Stars",
       "initial": "さ",
-      "ruby4Sort": "しゃいにんぐ・すたーず"
+      "related": ["starish", "qn"],
+      "ruby4Sort": "しゃいにんぐ・すたーず",
+      "others": ["utapri05sp", "utapri06sp"]
     }
   }
 }
