@@ -87,6 +87,12 @@
       "name": "Photograph Journey",
       "content": [],
       "disabled": true
+    },
+    "readyyy": {
+      "uid": "readyyy",
+      "name": "Readyyy!",
+      "content": [],
+      "disabled": true
     }
   }
 }
