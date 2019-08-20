@@ -11,3 +11,9 @@ export interface IWork {
   rate?: number;
   review_done?: boolean;
 }
+
+export interface ISong {
+  title: string;
+  artist: string;
+  work: IWork[];
+}
