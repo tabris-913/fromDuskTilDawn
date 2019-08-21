@@ -1,9 +1,8 @@
+import { IContent } from './content';
 import { ISong, IWork } from './Work';
 
-export interface ISelection {
-  title: string;
+export interface ISelection extends IContent {
   description?: string;
-  uid: string;
   type: 'song' | 'album';
   songs?: ISong[];
   albums?: IWork[];

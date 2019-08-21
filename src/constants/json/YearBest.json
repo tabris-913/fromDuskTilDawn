@@ -1,7 +1,8 @@
 {
   "yearBest": {
     "2018": {
-      "year": 2018,
+      "uid": 2018,
+      "name": "",
       "covers": [""],
       "albums": [],
       "tunes": [],

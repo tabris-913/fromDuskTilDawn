@@ -1,6 +1,6 @@
-export interface IArtist {
-  uid: string;
-  name: string;
+import { IContent } from './content';
+
+export interface IArtist extends IContent {
   ruby?: string;
   ruby4Sort: string;
   initial?: string;

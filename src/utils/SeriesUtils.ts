@@ -1,7 +1,7 @@
 import * as R from 'ramda';
 
 import * as Series from '../constants/json/Series.json';
-import { ISeries } from '../models/Series.js';
+import { ISeries } from '../models/content/Series.js';
 
 export const getSeries = (uid: string): ISeries | undefined => R.path([uid], Series.series);
 

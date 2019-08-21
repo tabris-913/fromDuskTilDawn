@@ -1,3 +1,5 @@
+import { IContent } from './content';
+
 export interface IAlbums {
   uid: string;
   title: string;
@@ -15,8 +17,7 @@ export interface IMonth {
   [x: string]: string[];
 }
 
-export interface IYearBest {
-  year: number;
+export interface IYearBest extends IContent {
   covers: string[];
   albums: IAlbums[];
   tunes: ITunes[];

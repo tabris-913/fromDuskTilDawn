@@ -7,8 +7,8 @@ import Wireframe from '../../wireframe/Wireframe';
 
 import Work from '../../../components/content/Work';
 import PageName, { toPublicUrl } from '../../../constants/PageName';
+import { IWork } from '../../../models/content/Work';
 import { QueryType } from '../../../models/Main';
-import { IWork } from '../../../models/Work';
 import { IStoreState } from '../../../reducers';
 import { getWork } from '../../../utils/WorkUtils';
 
@@ -38,11 +38,11 @@ const WorkPage = (props: Props) => {
 
   return !!content ? (
     <Wireframe
-      title={content.title}
+      title={content.name}
       breadcrump={[
         { label: 'ARTIST', href: PageName.REVIEW_ARTIST },
         { label: 'artistName', hrefWithId: toPublicUrl(PageName.ARTIST, undefined, { id: '' }) },
-        { label: content.title },
+        { label: content.name },
       ]}
     >
       <Work {...props} />

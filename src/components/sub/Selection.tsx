@@ -4,8 +4,8 @@ import * as React from 'react';
 import Main from '../Main';
 
 import PageName, { toPublicUrl } from '../../constants/PageName';
+import { ISelection } from '../../models/content/Selection';
 import { BodyProps, MainContentProps } from '../../models/Main';
-import { ISelection } from '../../models/Selection';
 import { useColor } from '../../utils/HooksUtils';
 import { getSelection, SelectionKeys } from '../../utils/SelectionUtils';
 
@@ -22,7 +22,7 @@ const Body = (props: BodyProps) => {
         onMouseOver={() => setColor('#aaf')}
         onMouseLeave={() => setColor('#fff')}
       >
-        <List.Item.Meta title={item.title} description={item.description} />
+        <List.Item.Meta title={item.name} description={item.description} />
       </List.Item>
     );
   };

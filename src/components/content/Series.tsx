@@ -55,7 +55,7 @@ const Body = (props: BodyProps) => {
               <Collapse.Panel
                 header={
                   <Row>
-                    <Col>「{works.title}」</Col>
+                    <Col>「{works.name}」</Col>
                     {works.artist && !R.isEmpty(works.artist) ? (
                       <Col style={{ color: '#888' }}>{works.artist.map(getArtistName).join('・')}</Col>
                     ) : (

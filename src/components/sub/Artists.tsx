@@ -6,7 +6,7 @@ import Main from '../Main';
 import * as Artists from '../../constants/json/Artist.json';
 import { alphabet, hiragana, initialString } from '../../constants/Misc';
 import PageName, { toPublicUrl } from '../../constants/PageName';
-import { IArtist } from '../../models/Artist';
+import { IArtist } from '../../models/content/Artist';
 import { BodyProps, MainContentProps } from '../../models/Main';
 import { sortByName } from '../../utils/ArtistUtils';
 import { convertK2H } from '../../utils/MiscUtils';

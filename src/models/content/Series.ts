@@ -1,3 +1,5 @@
+import { IContent } from './content';
+
 export interface ISeriesSong {
   disk_no?: number;
   track_no: number;
@@ -22,9 +24,7 @@ export interface ISeriesContent {
   disabled?: boolean;
 }
 
-export interface ISeries {
-  uid: string;
-  name: string;
+export interface ISeries extends IContent {
   content: string[];
   disabled?: boolean;
 }

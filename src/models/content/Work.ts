@@ -1,12 +1,12 @@
-export interface IWork {
-  title: string;
+import { IContent } from './content';
+
+export interface IWork extends IContent {
   date: string;
   year: number;
   description: string;
   artist: string[];
   list: string[][];
   comment: string;
-  uid: string;
   img?: string[];
   rate?: number;
   review_done?: boolean;
