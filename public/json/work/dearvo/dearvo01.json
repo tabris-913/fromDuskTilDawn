@@ -1,0 +1,12 @@
+{
+  "name": "エントリーNo.1 RE-O-DO",
+  "description": "",
+  "date": "2015-10-25",
+  "year": 2015,
+  "artist": ["lumiere"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["ヒヤシンス", "Dear Innocence"] }],
+  "comment": "comment",
+  "uid": "dearvo01",
+  "img": ["dearvo01.jpg"],
+  "rate": 99
+}
