@@ -12,8 +12,9 @@ import { ISelectionRequest, ISelectionsRequest } from '../models/request/Selecti
 import { ISeriesListRequest, ISeriesRequest } from '../models/request/SeriesRequest';
 import { IWorkRequest, IWorksRequest } from '../models/request/WorkRequest';
 import { IYearBestRequest, IYearBestsRequest } from '../models/request/YearBestRequest';
+import { ActionTypes } from './types';
 
-export interface ContentActions<C extends IContent> {
+export interface ContentActions {
   getArtist: AsyncActionCreators<IArtistRequest, IArtist, any>;
   getArtists: AsyncActionCreators<IArtistsRequest, IContent[], any>;
   getGenre: AsyncActionCreators<IGenreRequest, IGenre, any>;
@@ -28,9 +29,7 @@ export interface ContentActions<C extends IContent> {
   getYearBests: AsyncActionCreators<IYearBestsRequest, string[], any>;
 }
 
-export const contentActionsBuilder = <C extends IContent>(
-  actionTypeMap: { [P in keyof ContentActions<C>]: string }
-): ContentActions<C> => {
+export const contentActionsBuilder = (actionTypeMap: { [P in keyof ContentActions]: string }): ContentActions => {
   const actionCreator = actionCreatorFactory().async;
 
   return {
@@ -48,3 +47,18 @@ export const contentActionsBuilder = <C extends IContent>(
     getYearBests: actionCreator<IYearBestsRequest, string[], any>(actionTypeMap.getYearBests),
   };
 };
+
+export const appActions = contentActionsBuilder({
+  getArtist: ActionTypes.GET_ARTIST,
+  getArtists: ActionTypes.GET_ARTISTS,
+  getGenre: ActionTypes.GET_GENRE,
+  getGenres: ActionTypes.GET_GENRES,
+  getSelection: ActionTypes.GET_SELECTION,
+  getSelections: ActionTypes.GET_SELECTIONS,
+  getSeries: ActionTypes.GET_SERIES,
+  getSeriesList: ActionTypes.GET_SERIES_LIST,
+  getWork: ActionTypes.GET_WORK,
+  getWorks: ActionTypes.GET_WORKS,
+  getYearBest: ActionTypes.GET_YEAR_BEST,
+  getYearBests: ActionTypes.GET_YEAR_BESTS,
+});

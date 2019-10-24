@@ -28,3 +28,5 @@ export const contentGetter = (contentName: ContentName) => {
       return getYearBest;
   }
 };
+
+export type ReturnedType<T> = T extends ((...args: any[]) => infer U) ? (U extends Promise<infer R> ? R : U) : never;

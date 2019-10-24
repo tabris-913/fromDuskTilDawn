@@ -88,3 +88,5 @@ export const contentApisBuilder = (): ContentApis => {
     },
   };
 };
+
+export const appApi = contentApisBuilder();
