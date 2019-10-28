@@ -5,9 +5,11 @@ import * as Redux from 'redux';
 
 import Wireframe from '../../wireframe/Wireframe';
 
+import { appActions } from '../../../actions/content';
 import Artists from '../../../components/sub/Artists';
 import PageName from '../../../constants/PageName';
 import { QueryType } from '../../../models/Main';
+import { IArtistsRequest } from '../../../models/request/ArtistRequest';
 import { IStoreState } from '../../../reducers';
 
 interface IOwnProps extends RouteComponentProps<{}> {}
@@ -16,7 +18,11 @@ interface IStateProps {
   query: QueryType;
 }
 
-interface IDispatchProps {}
+interface IDispatchProps {
+  actions: {
+    getArtists: (req: IArtistsRequest) => void;
+  };
+}
 
 type Props = IOwnProps & IStateProps & IDispatchProps;
 
@@ -28,7 +34,11 @@ const mapState2Props = (state: IStoreState, ownProps: IOwnProps): IStateProps =>
 });
 
 const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDispatchProps => {
-  return {};
+  return {
+    actions: {
+      getArtists: (req: IArtistsRequest) => dispatch(appActions.getArtists.started(req)),
+    },
+  };
 };
 
 const ArtistsPage = (props: Props) => (

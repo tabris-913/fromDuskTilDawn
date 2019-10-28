@@ -43,42 +43,72 @@ const saga = (actions: ContentActions, apis: ContentApis) => ({
   getGenre: () =>
     function*(action: Action<IGenreRequest>): IterableIterator<any> {
       console.log();
+      const req = action.payload;
+      const res: ReturnedType<typeof apis.getGenre> = yield call(apis.getGenre, req);
+      yield put(actions.getGenre.done({ params: req, result: res }));
     },
   getGenres: () =>
     function*(action: Action<IGenresRequest>): IterableIterator<any> {
       console.log();
+      const req = action.payload;
+      const res: ReturnedType<typeof apis.getGenres> = yield call(apis.getGenres, req);
+      yield put(actions.getGenres.done({ params: req, result: res }));
     },
   getSelection: () =>
     function*(action: Action<ISelectionRequest>): IterableIterator<any> {
       console.log();
+      const req = action.payload;
+      const res: ReturnedType<typeof apis.getSelection> = yield call(apis.getSelection, req);
+      yield put(actions.getSelection.done({ params: req, result: res }));
     },
   getSelections: () =>
     function*(action: Action<ISelectionsRequest>): IterableIterator<any> {
       console.log();
+      const req = action.payload;
+      const res: ReturnedType<typeof apis.getSelections> = yield call(apis.getSelections, req);
+      yield put(actions.getSelections.done({ params: req, result: res }));
     },
   getSeries: () =>
     function*(action: Action<ISeriesRequest>): IterableIterator<any> {
       console.log();
+      const req = action.payload;
+      const res: ReturnedType<typeof apis.getSeries> = yield call(apis.getSeries, req);
+      yield put(actions.getSeries.done({ params: req, result: res }));
     },
   getSeriesList: () =>
     function*(action: Action<ISeriesListRequest>): IterableIterator<any> {
       console.log();
+      const req = action.payload;
+      const res: ReturnedType<typeof apis.getSeriesList> = yield call(apis.getSeriesList, req);
+      yield put(actions.getSeriesList.done({ params: req, result: res }));
     },
   getWork: () =>
     function*(action: Action<IWorkRequest>): IterableIterator<any> {
       console.log();
+      const req = action.payload;
+      const res: ReturnedType<typeof apis.getWork> = yield call(apis.getWork, req);
+      yield put(actions.getWork.done({ params: req, result: res }));
     },
   getWorks: () =>
     function*(action: Action<IWorksRequest>): IterableIterator<any> {
       console.log();
+      const req = action.payload;
+      const res: ReturnedType<typeof apis.getWorks> = yield call(apis.getWorks, req);
+      yield put(actions.getWorks.done({ params: req, result: res }));
     },
   getYearBest: () =>
     function*(action: Action<IYearBestRequest>): IterableIterator<any> {
       console.log();
+      const req = action.payload;
+      const res: ReturnedType<typeof apis.getYearBest> = yield call(apis.getYearBest, req);
+      yield put(actions.getYearBest.done({ params: req, result: res }));
     },
   getYearBests: () =>
     function*(action: Action<IYearBestsRequest>): IterableIterator<any> {
       console.log();
+      const req = action.payload;
+      const res: ReturnedType<typeof apis.getYearBests> = yield call(apis.getYearBests, req);
+      yield put(actions.getYearBests.done({ params: req, result: res }));
     },
 });
 
