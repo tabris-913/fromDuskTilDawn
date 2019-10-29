@@ -1,41 +1,45 @@
+import { Spin } from 'antd';
 import * as React from 'react';
 import { connect } from 'react-redux';
-import { RouteComponentProps, withRouter } from 'react-router-dom';
+import { withRouter } from 'react-router-dom';
 import * as Redux from 'redux';
 
 import Wireframe from '../../wireframe/Wireframe';
 
+import { appActions } from '../../../actions/content';
 import Series from '../../../components/sub/Series';
 import PageName from '../../../constants/PageName';
-import { QueryType } from '../../../models/Main';
+import { ISeries } from '../../../models/content/Series';
+import { IOwnProps, IStateProps, makeQuery } from '../../../models/Main';
+import { ISeriesListRequest } from '../../../models/request/SeriesRequest';
 import { IStoreState } from '../../../reducers';
 
-interface IOwnProps extends RouteComponentProps<{}> {}
+interface ILocalStateProps extends IStateProps<ISeries> {}
 
-interface IStateProps {
-  query: QueryType;
+interface IDispatchProps {
+  actions: { getSeriesList: (req: ISeriesListRequest) => void };
 }
 
-interface IDispatchProps {}
+type Props = IOwnProps & ILocalStateProps & IDispatchProps;
 
-type Props = IOwnProps & IStateProps & IDispatchProps;
-
-const mapState2Props = (state: IStoreState, ownProps: IOwnProps): IStateProps => ({
-  query: ownProps.history.location.search
-    .replace(/^\?/, '')
-    .split('&')
-    .reduce((o, s) => ({ ...o, [s.replace(/=.+$/, '')]: s.replace(/^.+=/, '') }), {}),
+const mapState2Props = (state: IStoreState, ownProps: IOwnProps): ILocalStateProps => ({
+  query: makeQuery(ownProps),
+  content: state.contents.series,
 });
 
 const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDispatchProps => {
-  return {};
+  return { actions: { getSeriesList: (req: ISeriesListRequest) => dispatch(appActions.getSeriesList.started(req)) } };
 };
 
-const SeriesPage = (props: Props) => (
-  <Wireframe title="SERIES" breadcrump={[{ label: 'REVIEW', href: PageName.REVIEW_TOP }, { label: 'SERIES' }]}>
-    <Series {...props} />
-  </Wireframe>
-);
+const SeriesPage = (props: Props) => {
+  React.useState(() => props.actions.getSeriesList({}));
+
+  return (
+    <Wireframe title="SERIES" breadcrump={[{ label: 'REVIEW', href: PageName.REVIEW_TOP }, { label: 'SERIES' }]}>
+      {props.content.list ? <Series {...props} /> : <Spin tip="loading series data..." />}
+    </Wireframe>
+  );
+};
 
 export default withRouter(
   connect(

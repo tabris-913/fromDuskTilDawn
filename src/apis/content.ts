@@ -23,6 +23,7 @@ export interface ContentApis {
   getWork: (req: IWorkRequest) => Promise<any>;
   getYearBest: (req: IYearBestRequest) => Promise<any>;
 }
+// [TODO] add score, reviewSchdule, newRelease
 
 export const contentApisBuilder = (): ContentApis => {
   const getArtists = (req: IArtistsRequest): Promise<any> => {
