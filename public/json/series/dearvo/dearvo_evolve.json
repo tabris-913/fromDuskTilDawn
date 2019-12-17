@@ -1,0 +1,91 @@
+{
+  "title": "ディア♥ヴォーカリスト Evolve",
+  "description": "2015年にスタートしたRejetの人気シリーズの第5弾、「彼はヴォーカリスト♥CD『ディア♥ヴォーカリスト Evolve』」（[公式サイト](http://rejetweb.jp/dearvoevol/)）シリーズレビュー。",
+  "subtitle": "Evolve",
+  "work_list": [
+    {
+      "uid": "dearvo25",
+      "artist": ["lumiere"],
+      "song_list": [
+        {
+          "track_no": 1,
+          "comment": "イントロのドラミングなんかは、最近のちょっとメタルかじってるV系バンドっぽさがにじみ出ている。サウンドに関しては特に物申すこともないが、ヴォーカルラインはこれまでのルミエールに比べると弱い感じがする。ブリッジ部分の「ウォイ！」は蛇足。曲自体にそういうの入れるのキライ。"
+        },
+        {
+          "track_no": 2,
+          "comment": "「EXiT」とは見せ方がやや違うが、アダルトな妖しさを見せる点は同じ。悪いとは言わないけどやっぱりルミエールが演る曲調じゃないんだよな。だた悔しいことにメロディの質が非常に高く、この水準を1曲目に入れることができていればもっといい曲になっただろうに。"
+        }
+      ]
+    },
+    {
+      "uid": "dearvo26",
+      "artist": ["brave_child"],
+      "song_list": [
+        {
+          "track_no": 1,
+          "comment": ""
+        },
+        {
+          "track_no": 2,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "uid": "dearvo27",
+      "artist": ["kagaribi"],
+      "song_list": [
+        {
+          "track_no": 1,
+          "comment": ""
+        },
+        {
+          "track_no": 2,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "uid": "dearvo28",
+      "artist": ["jet_rat_fury"],
+      "song_list": [
+        {
+          "track_no": 1,
+          "comment": ""
+        },
+        {
+          "track_no": 2,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "uid": "dearvo29",
+      "artist": ["veronica"],
+      "song_list": [
+        {
+          "track_no": 1,
+          "comment": ""
+        },
+        {
+          "track_no": 2,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "uid": "dearvo30",
+      "artist": ["nsfw"],
+      "song_list": [
+        {
+          "track_no": 1,
+          "comment": ""
+        },
+        {
+          "track_no": 2,
+          "comment": ""
+        }
+      ]
+    }
+  ]
+}

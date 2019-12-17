@@ -1,0 +1,27 @@
+{
+  "name": "カミュ",
+  "uid": "camus",
+  "related": ["qn"],
+  "ruby4Sort": "かみゅ",
+  "singles": [
+    "utapri18sg",
+    "utapri20sg",
+    "utapri21sg",
+    "utapri33sg",
+    "utapri34sg",
+    "utapri39sg",
+    "utapri44sg",
+    "utapri45sg",
+    "utapri56sg",
+    "utapri61sg"
+  ],
+  "others": [
+    "utapri08drama",
+    "utapri04shuffle",
+    "utapri03theater",
+    "utapri05theater",
+    "utapri09theater",
+    "utapri14drama",
+    "utapri17drama"
+  ]
+}
