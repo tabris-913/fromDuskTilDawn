@@ -28,7 +28,7 @@ const Body = (props: BodyProps) => {
             source={(content[p] || []).map((uid: string) => {
               const work = getWork(uid);
               return {
-                element: { title: work ? `${work.title} (${work.date})` : uid },
+                element: { title: work ? `${work.name} (${work.date})` : uid },
                 linkTo: work ? (work.review_done ? toPublicUrl(PageName.WORK, undefined, { id: work.uid }) : '') : '',
               };
             })}

@@ -1,48 +1,62 @@
 import * as React from 'react';
 import { connect } from 'react-redux';
-import { RouteComponentProps, withRouter } from 'react-router-dom';
+import { withRouter } from 'react-router-dom';
 import * as Redux from 'redux';
 
 import Wireframe from '../../wireframe/Wireframe';
 
+import { Button, Modal, Spin } from 'antd';
+import { appActions } from '../../../actions/content';
 import Artist from '../../../components/content/Artist';
 import PageName from '../../../constants/PageName';
-import { QueryType } from '../../../models/Main';
+import { IArtist } from '../../../models/content/Artist';
+import { IOwnProps, IStateProps, makeQuery } from '../../../models/Main';
+import { IArtistRequest } from '../../../models/request/ArtistRequest';
 import { IStoreState } from '../../../reducers';
-import { getArtist } from '../../../utils/ArtistUtils';
 
-interface IOwnProps extends RouteComponentProps<{}> {}
+interface ILocalStateProps extends IStateProps<IArtist> {}
 
-interface IStateProps {
-  query: QueryType;
+interface IDispatchProps {
+  actions: { getArtist: (req: IArtistRequest) => void };
 }
 
-interface IDispatchProps {}
+type Props = IOwnProps & ILocalStateProps & IDispatchProps;
 
-type Props = IOwnProps & IStateProps & IDispatchProps;
-
-const mapState2Props = (state: IStoreState, ownProps: IOwnProps): IStateProps => ({
-  query: ownProps.history.location.search
-    .replace(/^\?/, '')
-    .split('&')
-    .reduce((o, s) => ({ ...o, [s.replace(/=.+$/, '')]: s.replace(/^.+=/, '') }), {}),
+const mapState2Props = (state: IStoreState, ownProps: IOwnProps): ILocalStateProps => ({
+  query: makeQuery(ownProps),
+  content: state.contents.artist,
 });
 
 const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDispatchProps => {
-  return {};
+  return { actions: { getArtist: (req: IArtistRequest) => dispatch(appActions.getArtist.started(req)) } };
 };
 
 const ArtistPage = (props: Props) => {
-  const artist = getArtist(props.query.id || '');
-  const artistName = (artist && artist.name) || '';
+  React.useState(() => {
+    if (props.query.id) {
+      if (props.content.doc && props.content.doc.uid !== props.query.id) {
+        props.actions.getArtist({ id: props.query.id });
+      }
+    }
+  });
 
-  return (
-    <Wireframe
-      title={artistName}
-      breadcrump={[{ label: 'ARTIST', href: PageName.REVIEW_ARTIST }, { label: artistName }]}
-    >
-      <Artist {...props} />
-    </Wireframe>
+  return props.query.id ? (
+    props.content.doc ? (
+      <Wireframe
+        title={props.content.doc.name || ''}
+        breadcrump={[{ label: 'ARTIST', href: PageName.REVIEW_ARTIST }, { label: props.content.doc.name || '' }]}
+      >
+        <Artist {...props} />
+      </Wireframe>
+    ) : (
+      <Spin tip="loading artist data..." />
+    )
+  ) : (
+    <Modal
+      title="Go Back"
+      destroyOnClose={false}
+      footer={[<Button key="ok" type="primary" onClick={props.history.goBack} />]}
+    />
   );
 };
 

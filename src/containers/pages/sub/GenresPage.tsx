@@ -1,41 +1,45 @@
+import { Spin } from 'antd';
 import * as React from 'react';
 import { connect } from 'react-redux';
-import { RouteComponentProps, withRouter } from 'react-router-dom';
+import { withRouter } from 'react-router-dom';
 import * as Redux from 'redux';
 
 import Wireframe from '../../wireframe/Wireframe';
 
+import { appActions } from '../../../actions/content';
 import Genres from '../../../components/sub/Genres';
 import PageName from '../../../constants/PageName';
-import { QueryType } from '../../../models/Main';
+import { IGenre } from '../../../models/content/Genre';
+import { IOwnProps, IStateProps, makeQuery } from '../../../models/Main';
+import { IGenresRequest } from '../../../models/request/GenreRequest';
 import { IStoreState } from '../../../reducers';
 
-interface IOwnProps extends RouteComponentProps<{}> {}
+interface ILocalStateProps extends IStateProps<IGenre> {}
 
-interface IStateProps {
-  query: QueryType;
+interface IDispatchProps {
+  actions: { getGenres: (req: IGenresRequest) => void };
 }
 
-interface IDispatchProps {}
+type Props = IOwnProps & ILocalStateProps & IDispatchProps;
 
-type Props = IOwnProps & IStateProps & IDispatchProps;
-
-const mapState2Props = (state: IStoreState, ownProps: IOwnProps): IStateProps => ({
-  query: ownProps.history.location.search
-    .replace(/^\?/, '')
-    .split('&')
-    .reduce((o, s) => ({ ...o, [s.replace(/=.+$/, '')]: s.replace(/^.+=/, '') }), {}),
+const mapState2Props = (state: IStoreState, ownProps: IOwnProps): ILocalStateProps => ({
+  query: makeQuery(ownProps),
+  content: state.contents.genre,
 });
 
 const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDispatchProps => {
-  return {};
+  return { actions: { getGenres: (req: IGenresRequest) => dispatch(appActions.getGenres.started(req)) } };
 };
 
-const GenresPage = (props: Props) => (
-  <Wireframe title="GENRES" breadcrump={[{ label: 'REVIEW', href: PageName.REVIEW_TOP }, { label: 'GENRES' }]}>
-    <Genres {...props} />
-  </Wireframe>
-);
+const GenresPage = (props: Props) => {
+  React.useState(() => props.actions.getGenres({}));
+
+  return (
+    <Wireframe title="GENRES" breadcrump={[{ label: 'REVIEW', href: PageName.REVIEW_TOP }, { label: 'GENRES' }]}>
+      {props.content.list ? <Genres {...props} /> : <Spin tip="loading genres data..." />}
+    </Wireframe>
+  );
+};
 
 export default withRouter(
   connect(

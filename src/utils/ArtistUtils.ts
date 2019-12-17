@@ -2,7 +2,7 @@ import * as R from 'ramda';
 
 import * as Artists from '../constants/json/Artist.json';
 import { alphabet } from '../constants/Misc';
-import { IArtist } from '../models/Artist';
+import { IArtist } from '../models/content/Artist';
 
 export const getArtist = (uid: string): IArtist | undefined => R.path([uid], Artists.artists);
 

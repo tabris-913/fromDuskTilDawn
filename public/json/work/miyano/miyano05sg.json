@@ -1,0 +1,12 @@
+{
+  "name": "REFRAIN",
+  "description": "",
+  "date": "2009-10-21",
+  "year": 2009,
+  "artist": ["miyano"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["REFRAIN", "トロイメライ", "蒼ノ翼"] }],
+  "comment": "",
+  "uid": "miyano05sg",
+  "img": ["miyano05sg.jpg"],
+  "rate": 0
+}

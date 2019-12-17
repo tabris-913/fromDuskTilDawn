@@ -1,40 +1,44 @@
+import { Spin } from 'antd';
 import * as React from 'react';
 import { connect } from 'react-redux';
-import { RouteComponentProps, withRouter } from 'react-router-dom';
+import { withRouter } from 'react-router-dom';
 import * as Redux from 'redux';
 
 import Wireframe from '../../wireframe/Wireframe';
 
+import { appActions } from '../../../actions/content';
 import Selection from '../../../components/sub/Selection';
-import { QueryType } from '../../../models/Main';
+import { ISelection } from '../../../models/content/Selection';
+import { IOwnProps, IStateProps, makeQuery } from '../../../models/Main';
+import { ISelectionsRequest } from '../../../models/request/SelectionRequest';
 import { IStoreState } from '../../../reducers';
 
-interface IOwnProps extends RouteComponentProps<{}> {}
+interface ILocalStateProps extends IStateProps<ISelection> {}
 
-interface IStateProps {
-  query: QueryType;
+interface IDispatchProps {
+  actions: { getSelections: (req: ISelectionsRequest) => void };
 }
 
-interface IDispatchProps {}
+type Props = IOwnProps & ILocalStateProps & IDispatchProps;
 
-type Props = IOwnProps & IStateProps & IDispatchProps;
-
-const mapState2Props = (state: IStoreState, ownProps: IOwnProps): IStateProps => ({
-  query: ownProps.history.location.search
-    .replace(/^\?/, '')
-    .split('&')
-    .reduce((o, s) => ({ ...o, [s.replace(/=.+$/, '')]: s.replace(/^.+=/, '') }), {}),
+const mapState2Props = (state: IStoreState, ownProps: IOwnProps): ILocalStateProps => ({
+  query: makeQuery(ownProps),
+  content: state.contents.selection,
 });
 
 const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDispatchProps => {
-  return {};
+  return { actions: { getSelections: (req: ISelectionsRequest) => dispatch(appActions.getSelections.started(req)) } };
 };
 
-const SelectionsPage = (props: Props) => (
-  <Wireframe title="SELECTION" breadcrump={[{ label: 'SELECTION' }]}>
-    <Selection {...props} />
-  </Wireframe>
-);
+const SelectionsPage = (props: Props) => {
+  React.useState(() => props.actions.getSelections({}));
+
+  return (
+    <Wireframe title="SELECTION" breadcrump={[{ label: 'SELECTION' }]}>
+      {props.content.list ? <Selection {...props} /> : <Spin tip="loading selections data..." />}
+    </Wireframe>
+  );
+};
 
 export default withRouter(
   connect(

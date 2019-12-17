@@ -34,7 +34,7 @@ const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDisp
 
 const SelectionPage = (props: Props) => {
   const selection = getSelection(props.query.id || '');
-  const selectionTitle = (selection && selection.title) || '';
+  const selectionTitle = (selection && selection.name) || '';
 
   return (
     <Wireframe

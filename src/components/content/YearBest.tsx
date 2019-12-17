@@ -61,7 +61,7 @@ const Body = (props: BodyProps) => {
                 content.compilations.map(uid => {
                   const work = getWork(uid);
                   return {
-                    element: work ? { title: `${work.title} (${getArtists(work.artist).join('・')})` } : work,
+                    element: work ? { title: `${work.name} (${getArtists(work.artist).join('・')})` } : work,
                     linkTo: toPublicUrl(PageName.WORK, undefined, { id: uid }),
                   };
                 })) ||

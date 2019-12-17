@@ -4,7 +4,7 @@ import * as React from 'react';
 import Main from '../Main';
 
 import PageName, { toPublicUrl } from '../../constants/PageName';
-import { IGenre } from '../../models/Genre';
+import { IGenre } from '../../models/content/Genre';
 import { BodyProps, MainContentProps } from '../../models/Main';
 import { GenreKeys, getGenre } from '../../utils/GenreUtils';
 import { useColor } from '../../utils/HooksUtils';

@@ -10,27 +10,35 @@ const Title = () => <div style={{ marginBottom: 10 }}>何らかのメッセー�
 
 const Body = () => {
   const selection = getSelection('uid');
-  const content = !!selection
-    ? selection.type === 'song' && selection.songs
-      ? selection.songs
-      : selection.type === 'album' && selection.albums
-      ? selection.albums
-      : undefined
-    : undefined;
-  // const cover = !!selection ? selection.type === 'song' && selection.songs ? selection.songs[0].work[0].img[0] : selection.albums ? selection.albums[0]
-  return (
-    <>
-      {['uid'].map(getSelection).map((selection, idx) =>
-        selection ? (
-          <Card key={idx} hoverable={true} cover={<img src={''} />}>
-            <Card.Meta title={selection.title} description={selection.description} />
-          </Card>
-        ) : (
-          undefined
-        )
-      )}
-    </>
-  );
+
+  if (!selection) return <></>;
+
+  switch (selection.type) {
+    case 'song':
+      return (
+        <>
+          {selection.songs
+            ? selection.songs.map((song, idx) => (
+                <Card key={idx} hoverable={true} cover={<img src={song.work[0].img ? song.work[0].img[0] : ''} />}>
+                  <Card.Meta title={song.title} description={song.artist} />
+                </Card>
+              ))
+            : undefined}
+        </>
+      );
+    case 'album':
+      return (
+        <>
+          {selection.albums
+            ? selection.albums.map((album, idx) => (
+                <Card key={idx} hoverable={true} cover={<img src={album.img ? album.img[0] : ''} />}>
+                  <Card.Meta title={album.name} description={album.artist} />
+                </Card>
+              ))
+            : undefined}
+        </>
+      );
+  }
 };
 
 const Selection = (props: MainContentProps) => <Main {...props} Title={Title} Body={Body} />;

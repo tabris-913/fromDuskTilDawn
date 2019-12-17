@@ -5,8 +5,8 @@ import * as React from 'react';
 import Main from '../Main';
 
 import PageName, { toPublicUrl } from '../../constants/PageName';
+import { IYearBest } from '../../models/content/YearBest';
 import { BodyProps, MainContentProps } from '../../models/Main';
-import { IYearBest } from '../../models/YearBest';
 import { useColor } from '../../utils/HooksUtils';
 import { getYearBest } from '../../utils/YearBestUtils';
 
@@ -26,12 +26,12 @@ const Body = (props: BodyProps) => {
       <Card
         hoverable={true}
         cover={<Avatar size={160} shape="square" />}
-        onClick={() => props.history.push(toPublicUrl(PageName.YEAR_BEST, undefined, { id: item.year }))}
+        onClick={() => props.history.push(toPublicUrl(PageName.YEAR_BEST, undefined, { id: item.name }))}
         onMouseLeave={() => setColor('#fff')}
         onMouseOver={() => setColor('#aaf')}
         style={{ backgroundColor: color }}
       >
-        <Card.Meta title={item.year} style={{ textAlign: 'center' }} />
+        <Card.Meta title={item.name} style={{ textAlign: 'center' }} />
       </Card>
     );
   };

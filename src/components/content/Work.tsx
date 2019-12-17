@@ -3,8 +3,8 @@ import * as React from 'react';
 
 import Main from '../Main';
 
+import { IWork } from '../../models/content/Work';
 import { BodyProps, MainContentProps } from '../../models/Main';
-import { IWork } from '../../models/Work';
 import { getWork } from '../../utils/WorkUtils';
 
 const Title = () => <div style={{ marginBottom: 10 }} />;
@@ -15,7 +15,7 @@ const Body = (props: BodyProps) => {
   return (
     <>
       {!!content ? (
-        <PageHeader backIcon={false} title={content.title} subTitle={content.description}>
+        <PageHeader backIcon={false} title={content.name} subTitle={content.description}>
           <Row type="flex" justify="start">
             <Col style={{ padding: 4 }} xs={24} xl={12} xxl={6}>
               <Avatar src={content.img && content.img[0]} icon="question" shape="square" size={240} />

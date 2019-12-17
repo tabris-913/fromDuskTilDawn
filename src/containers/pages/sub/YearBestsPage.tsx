@@ -1,40 +1,44 @@
+import { Spin } from 'antd';
 import * as React from 'react';
 import { connect } from 'react-redux';
-import { RouteComponentProps, withRouter } from 'react-router-dom';
+import { withRouter } from 'react-router-dom';
 import * as Redux from 'redux';
 
 import Wireframe from '../../wireframe/Wireframe';
 
+import { appActions } from '../../../actions/content';
 import YearBest from '../../../components/sub/YearBest';
-import { QueryType } from '../../../models/Main';
+import { IYearBest } from '../../../models/content/YearBest';
+import { IOwnProps, IStateProps, makeQuery } from '../../../models/Main';
+import { IYearBestsRequest } from '../../../models/request/YearBestRequest';
 import { IStoreState } from '../../../reducers';
 
-interface IOwnProps extends RouteComponentProps<{}> {}
+interface ILocalStateProps extends IStateProps<IYearBest> {}
 
-interface IStateProps {
-  query: QueryType;
+interface IDispatchProps {
+  actions: { getYearBests: (req: IYearBestsRequest) => void };
 }
 
-interface IDispatchProps {}
+type Props = IOwnProps & ILocalStateProps & IDispatchProps;
 
-type Props = IOwnProps & IStateProps & IDispatchProps;
-
-const mapState2Props = (state: IStoreState, ownProps: IOwnProps): IStateProps => ({
-  query: ownProps.history.location.search
-    .replace(/^\?/, '')
-    .split('&')
-    .reduce((o, s) => ({ ...o, [s.replace(/=.+$/, '')]: s.replace(/^.+=/, '') }), {}),
+const mapState2Props = (state: IStoreState, ownProps: IOwnProps): ILocalStateProps => ({
+  query: makeQuery(ownProps),
+  content: state.contents.yearBest,
 });
 
 const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDispatchProps => {
-  return {};
+  return { actions: { getYearBests: (req: IYearBestsRequest) => dispatch(appActions.getYearBests.started(req)) } };
 };
 
-const YearBestsPage = (props: Props) => (
-  <Wireframe title="YEAR BEST" breadcrump={[{ label: 'YEAR BEST' }]}>
-    <YearBest {...props} />
-  </Wireframe>
-);
+const YearBestsPage = (props: Props) => {
+  React.useState(() => props.actions.getYearBests({}));
+
+  return (
+    <Wireframe title="YEAR BEST" breadcrump={[{ label: 'YEAR BEST' }]}>
+      {props.content.list ? <YearBest {...props} /> : <Spin tip="loading year bests data..." />}
+    </Wireframe>
+  );
+};
 
 export default withRouter(
   connect(
