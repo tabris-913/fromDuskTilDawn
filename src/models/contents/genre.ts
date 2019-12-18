@@ -1,8 +1,16 @@
 import { ArtistUid, GenreUid } from '../Id';
+import IContent, { IContentList, IContentListContent } from './content';
 
-export interface IGenre {
-  name: string;
+export default interface IGenre extends IContent<GenreUid> {
+  en?: string;
   description?: string;
-  uid: GenreUid;
   list: ArtistUid[];
+}
+
+interface IGenreListContent extends IContentListContent {
+  en?: string;
+}
+
+export interface IGenreList extends IContentList {
+  [x: string]: IGenreListContent;
 }

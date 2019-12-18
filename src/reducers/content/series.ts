@@ -1,5 +1,5 @@
 import { seriesActions } from '../../actions';
-import { ISeries } from '../../models/content/Series';
+import ISeries from '../../models/contents/series';
 import { IContentState } from '../../models/ContentState';
 import { contentReducerBuilder } from './content';
 

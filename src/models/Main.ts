@@ -1,7 +1,8 @@
 import { History } from 'history';
 import { RouteComponentProps } from 'react-router-dom';
-import { IContent } from './content/content';
+import IContent from './contents/content';
 import { IContentState } from './ContentState';
+import { Uid } from './Id';
 
 export interface QueryType {
   id?: string;
@@ -13,7 +14,7 @@ interface IMatchParams {
 }
 
 export interface IOwnProps extends RouteComponentProps<IMatchParams> {}
-export interface IStateProps<C extends IContent> {
+export interface IStateProps<C extends IContent<Uid>> {
   query: QueryType;
   content: IContentState<C>;
 }

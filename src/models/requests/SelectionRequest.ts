@@ -1,7 +1,8 @@
 import { SelectionUid } from '../Id';
+import { IContentListRequest, IContentRequest } from './ContentRequest';
 
-export default interface ISelectionRequest {
+export default interface ISelectionRequest extends IContentRequest {
   selectionUid: SelectionUid;
 }
 
-export interface ISelectionListRequest {}
+export interface ISelectionListRequest extends IContentListRequest {}

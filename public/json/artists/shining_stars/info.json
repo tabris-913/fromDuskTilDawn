@@ -1,8 +1,8 @@
 {
   "name": "シャイニング・スターズ",
-  "uid": "shining",
+  "uid": "shining_stars",
   "en": "Shining Stars",
-  "initial": "さ",
+  "initial": ["さ"],
   "related": ["starish", "qn"],
   "ruby4Sort": "しゃいにんぐ・すたーず",
   "others": ["utapri05sp", "utapri06sp"]

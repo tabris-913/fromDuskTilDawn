@@ -1,5 +1,5 @@
 import { selectionActions } from '../../actions';
-import { ISelection } from '../../models/content/Selection';
+import ISelection from '../../models/contents/selection';
 import { IContentState } from '../../models/ContentState';
 import { contentReducerBuilder } from './content';
 

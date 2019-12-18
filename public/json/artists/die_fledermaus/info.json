@@ -1,9 +1,1 @@
-{
-  "name": "Die Fledermaus",
-  "ruby": "フレーダーマウス",
-  "uid": "die_fledermaus",
-  "ruby4Sort": "ふれーだーまうす",
-  "kind": "バンド",
-  "singles": ["dearvo04", "dearvo12"],
-  "albums": ["dearvo01c", "dearvo02c"]
-}
+{"name": "Die Fledermaus", "ruby": "フレーダーマウス", "uid": "die_fledermaus", "ruby4Sort": "ふれーだーまうす", "kind": "バンド", "initial": ["は", "D"], "singles": ["dearvo04", "dearvo12"], "albums": ["dearvo01c", "dearvo02c"], "en": "Die Fledermaus"}

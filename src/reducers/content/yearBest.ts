@@ -1,5 +1,5 @@
 import { yearBestActions } from '../../actions';
-import { IYearBest } from '../../models/content/YearBest';
+import IYearBest from '../../models/contents/yearBest';
 import { IContentState } from '../../models/ContentState';
 import { contentReducerBuilder } from './content';
 

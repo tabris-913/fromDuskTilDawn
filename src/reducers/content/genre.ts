@@ -1,5 +1,5 @@
 import { genreActions } from '../../actions';
-import { IGenre } from '../../models/content/Genre';
+import IGenre from '../../models/contents/genre';
 import { IContentState } from '../../models/ContentState';
 import { contentReducerBuilder } from './content';
 

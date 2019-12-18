@@ -9,9 +9,9 @@ import { Button, Modal, Spin } from 'antd';
 import { appActions } from '../../../actions/content';
 import Artist from '../../../components/content/Artist';
 import PageName from '../../../constants/PageName';
-import { IArtist } from '../../../models/content/Artist';
+import IArtist from '../../../models/contents/artist';
 import { IOwnProps, IStateProps, makeQuery } from '../../../models/Main';
-import { IArtistRequest } from '../../../models/request/ArtistRequest';
+import IArtistRequest from '../../../models/requests/ArtistRequest';
 import { IStoreState } from '../../../reducers';
 
 interface ILocalStateProps extends IStateProps<IArtist> {}
@@ -35,7 +35,7 @@ const ArtistPage = (props: Props) => {
   React.useState(() => {
     if (props.query.id) {
       if (props.content.doc && props.content.doc.uid !== props.query.id) {
-        props.actions.getArtist({ id: props.query.id });
+        props.actions.getArtist({ artistUid: props.query.id });
       }
     }
   });

@@ -1,4 +1,5 @@
-import { IContent } from './content';
+import { SeriesUid } from '../Id';
+import IContent, { IContentList, IContentListContent } from './content';
 
 export interface ISeriesSong {
   disk_no?: number;
@@ -24,7 +25,15 @@ export interface ISeriesContent {
   disabled?: boolean;
 }
 
-export interface ISeries extends IContent {
+export default interface ISeries extends IContent<SeriesUid> {
   content: string[];
   disabled?: boolean;
+}
+
+interface ISeriesListContent extends IContentListContent {
+  en?: string;
+}
+
+export interface ISeriesList extends IContentList {
+  [x: string]: ISeriesListContent;
 }

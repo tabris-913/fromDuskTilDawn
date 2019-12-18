@@ -1,7 +1,8 @@
 import { ArtistUid } from '../Id';
+import { IContentListRequest, IContentRequest } from './ContentRequest';
 
-export default interface IArtistRequest {
+export default interface IArtistRequest extends IContentRequest {
   artistUid: ArtistUid;
 }
 
-export default interface IArtistListRequest {}
+export interface IArtistListRequest extends IContentListRequest {}

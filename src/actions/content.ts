@@ -1,32 +1,31 @@
 import { actionCreatorFactory, AsyncActionCreators } from 'typescript-fsa';
-import { IArtist } from '../models/content/Artist';
-import { IContent } from '../models/content/content';
-import { IGenre } from '../models/content/Genre';
-import { ISelection } from '../models/content/Selection';
-import { ISeries, ISeriesContent } from '../models/content/Series';
-import { IWork } from '../models/content/Work';
-import { IYearBest } from '../models/content/YearBest';
-import { IArtistRequest, IArtistsRequest } from '../models/request/ArtistRequest';
-import { IGenreRequest, IGenresRequest } from '../models/request/GenreRequest';
-import { ISelectionRequest, ISelectionsRequest } from '../models/request/SelectionRequest';
-import { ISeriesListRequest, ISeriesRequest } from '../models/request/SeriesRequest';
-import { IWorkRequest, IWorksRequest } from '../models/request/WorkRequest';
-import { IYearBestRequest, IYearBestsRequest } from '../models/request/YearBestRequest';
+import IArtist from '../models/contents/artist';
+import IGenre from '../models/contents/genre';
+import ISelection from '../models/contents/selection';
+import ISeries, { ISeriesContent } from '../models/contents/series';
+import IWork from '../models/contents/work';
+import IYearBest from '../models/contents/yearBest';
+import IArtistRequest, { IArtistListRequest } from '../models/requests/ArtistRequest';
+import IGenreRequest, { IGenreListRequest } from '../models/requests/GenreRequest';
+import ISelectionRequest, { ISelectionListRequest } from '../models/requests/SelectionRequest';
+import ISeriesRequest, { ISeriesListRequest } from '../models/requests/SeriesRequest';
+import IWorkRequest, { IWorkListRequest } from '../models/requests/WorkRequest';
+import IYearBestRequest, { IYearBestListRequest } from '../models/requests/YearBestRequest';
 import { ActionTypes } from './types';
 
 export interface ContentActions {
   getArtist: AsyncActionCreators<IArtistRequest, IArtist, any>;
-  getArtists: AsyncActionCreators<IArtistsRequest, IContent[], any>;
+  getArtists: AsyncActionCreators<IArtistListRequest, IArtist[], any>;
   getGenre: AsyncActionCreators<IGenreRequest, IGenre, any>;
-  getGenres: AsyncActionCreators<IGenresRequest, IContent[], any>;
+  getGenres: AsyncActionCreators<IGenreListRequest, IGenre[], any>;
   getSelection: AsyncActionCreators<ISelectionRequest, ISelection, any>;
-  getSelections: AsyncActionCreators<ISelectionsRequest, IContent[], any>;
+  getSelections: AsyncActionCreators<ISelectionListRequest, ISelection[], any>;
   getSeries: AsyncActionCreators<ISeriesRequest, ISeriesContent, any>;
   getSeriesList: AsyncActionCreators<ISeriesListRequest, ISeries[], any>;
   getWork: AsyncActionCreators<IWorkRequest, IWork, any>;
-  getWorks: AsyncActionCreators<IWorksRequest, IContent[], any>;
+  getWorks: AsyncActionCreators<IWorkListRequest, IWork[], any>;
   getYearBest: AsyncActionCreators<IYearBestRequest, IYearBest, any>;
-  getYearBests: AsyncActionCreators<IYearBestsRequest, string[], any>;
+  getYearBests: AsyncActionCreators<IYearBestListRequest, string[], any>;
 }
 
 export const contentActionsBuilder = (actionTypeMap: { [P in keyof ContentActions]: string }): ContentActions => {
@@ -34,31 +33,31 @@ export const contentActionsBuilder = (actionTypeMap: { [P in keyof ContentAction
 
   return {
     getArtist: actionCreator<IArtistRequest, IArtist, any>(actionTypeMap.getArtist),
-    getArtists: actionCreator<IArtistsRequest, IContent[], any>(actionTypeMap.getArtists),
+    getArtists: actionCreator<IArtistListRequest, IArtist[], any>(actionTypeMap.getArtists),
     getGenre: actionCreator<IGenreRequest, IGenre, any>(actionTypeMap.getGenre),
-    getGenres: actionCreator<IGenresRequest, IContent[], any>(actionTypeMap.getGenres),
+    getGenres: actionCreator<IGenreListRequest, IGenre[], any>(actionTypeMap.getGenres),
     getSelection: actionCreator<ISelectionRequest, ISelection, any>(actionTypeMap.getSelection),
-    getSelections: actionCreator<ISelectionsRequest, IContent[], any>(actionTypeMap.getSelections),
+    getSelections: actionCreator<ISelectionListRequest, ISelection[], any>(actionTypeMap.getSelections),
     getSeries: actionCreator<ISeriesRequest, ISeriesContent, any>(actionTypeMap.getSeries),
     getSeriesList: actionCreator<ISeriesListRequest, ISeries[], any>(actionTypeMap.getSeriesList),
     getWork: actionCreator<IWorkRequest, IWork, any>(actionTypeMap.getWork),
-    getWorks: actionCreator<IWorksRequest, IContent[], any>(actionTypeMap.getWorks),
+    getWorks: actionCreator<IWorkListRequest, IWork[], any>(actionTypeMap.getWorks),
     getYearBest: actionCreator<IYearBestRequest, IYearBest, any>(actionTypeMap.getYearBest),
-    getYearBests: actionCreator<IYearBestsRequest, string[], any>(actionTypeMap.getYearBests),
+    getYearBests: actionCreator<IYearBestListRequest, string[], any>(actionTypeMap.getYearBests),
   };
 };
 
 export const appActions = contentActionsBuilder({
   getArtist: ActionTypes.GET_ARTIST,
-  getArtists: ActionTypes.GET_ARTISTS,
+  getArtists: ActionTypes.GET_ARTIST_LIST,
   getGenre: ActionTypes.GET_GENRE,
-  getGenres: ActionTypes.GET_GENRES,
+  getGenres: ActionTypes.GET_GENRE_LIST,
   getSelection: ActionTypes.GET_SELECTION,
-  getSelections: ActionTypes.GET_SELECTIONS,
+  getSelections: ActionTypes.GET_SELECTION_LIST,
   getSeries: ActionTypes.GET_SERIES,
   getSeriesList: ActionTypes.GET_SERIES_LIST,
   getWork: ActionTypes.GET_WORK,
-  getWorks: ActionTypes.GET_WORKS,
-  getYearBest: ActionTypes.GET_YEAR_BEST,
-  getYearBests: ActionTypes.GET_YEAR_BESTS,
+  getWorks: ActionTypes.GET_WORK_LIST,
+  getYearBest: ActionTypes.GET_YEARBEST,
+  getYearBests: ActionTypes.GET_YEARBEST_LIST,
 });
