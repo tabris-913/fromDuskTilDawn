@@ -16,9 +16,7 @@ export interface ISeriesWork {
   comment?: string;
 }
 
-export interface ISeriesContent {
-  uid: string;
-  title: string;
+export interface ISeriesContent extends IContent<SeriesUid> {
   subtitle?: string;
   description: string;
   work_list: ISeriesWork[];

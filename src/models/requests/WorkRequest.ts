@@ -1,7 +1,8 @@
-import { WorkUid } from '../Id';
+import { ArtistUid, WorkUid } from '../Id';
 import { IContentListRequest, IContentRequest } from './ContentRequest';
 
 export default interface IWorkRequest extends IContentRequest {
+  artistUid: ArtistUid;
   workUid: WorkUid;
 }
 

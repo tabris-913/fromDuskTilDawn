@@ -1,10 +1,10 @@
 import { actionCreatorFactory, AsyncActionCreators } from 'typescript-fsa';
-import IArtist from '../models/contents/artist';
-import IGenre from '../models/contents/genre';
-import ISelection from '../models/contents/selection';
-import ISeries, { ISeriesContent } from '../models/contents/series';
-import IWork from '../models/contents/work';
-import IYearBest from '../models/contents/yearBest';
+import IArtist, { IArtistList } from '../models/contents/artist';
+import IGenre, { IGenreList } from '../models/contents/genre';
+import ISelection, { ISelectionList } from '../models/contents/selection';
+import { ISeriesContent, ISeriesList } from '../models/contents/series';
+import IWork, { IWorkList } from '../models/contents/work';
+import IYearBest, { IYearBestList } from '../models/contents/yearBest';
 import IArtistRequest, { IArtistListRequest } from '../models/requests/ArtistRequest';
 import IGenreRequest, { IGenreListRequest } from '../models/requests/GenreRequest';
 import ISelectionRequest, { ISelectionListRequest } from '../models/requests/SelectionRequest';
@@ -15,17 +15,17 @@ import { ActionTypes } from './types';
 
 export interface ContentActions {
   getArtist: AsyncActionCreators<IArtistRequest, IArtist, any>;
-  getArtists: AsyncActionCreators<IArtistListRequest, IArtist[], any>;
+  getArtists: AsyncActionCreators<IArtistListRequest, IArtistList, any>;
   getGenre: AsyncActionCreators<IGenreRequest, IGenre, any>;
-  getGenres: AsyncActionCreators<IGenreListRequest, IGenre[], any>;
+  getGenres: AsyncActionCreators<IGenreListRequest, IGenreList, any>;
   getSelection: AsyncActionCreators<ISelectionRequest, ISelection, any>;
-  getSelections: AsyncActionCreators<ISelectionListRequest, ISelection[], any>;
+  getSelections: AsyncActionCreators<ISelectionListRequest, ISelectionList, any>;
   getSeries: AsyncActionCreators<ISeriesRequest, ISeriesContent, any>;
-  getSeriesList: AsyncActionCreators<ISeriesListRequest, ISeries[], any>;
+  getSeriesList: AsyncActionCreators<ISeriesListRequest, ISeriesList, any>;
   getWork: AsyncActionCreators<IWorkRequest, IWork, any>;
-  getWorks: AsyncActionCreators<IWorkListRequest, IWork[], any>;
+  getWorks: AsyncActionCreators<IWorkListRequest, IWorkList, any>;
   getYearBest: AsyncActionCreators<IYearBestRequest, IYearBest, any>;
-  getYearBests: AsyncActionCreators<IYearBestListRequest, string[], any>;
+  getYearBests: AsyncActionCreators<IYearBestListRequest, IYearBestList, any>;
 }
 
 export const contentActionsBuilder = (actionTypeMap: { [P in keyof ContentActions]: string }): ContentActions => {
@@ -33,17 +33,17 @@ export const contentActionsBuilder = (actionTypeMap: { [P in keyof ContentAction
 
   return {
     getArtist: actionCreator<IArtistRequest, IArtist, any>(actionTypeMap.getArtist),
-    getArtists: actionCreator<IArtistListRequest, IArtist[], any>(actionTypeMap.getArtists),
+    getArtists: actionCreator<IArtistListRequest, IArtistList, any>(actionTypeMap.getArtists),
     getGenre: actionCreator<IGenreRequest, IGenre, any>(actionTypeMap.getGenre),
-    getGenres: actionCreator<IGenreListRequest, IGenre[], any>(actionTypeMap.getGenres),
+    getGenres: actionCreator<IGenreListRequest, IGenreList, any>(actionTypeMap.getGenres),
     getSelection: actionCreator<ISelectionRequest, ISelection, any>(actionTypeMap.getSelection),
-    getSelections: actionCreator<ISelectionListRequest, ISelection[], any>(actionTypeMap.getSelections),
+    getSelections: actionCreator<ISelectionListRequest, ISelectionList, any>(actionTypeMap.getSelections),
     getSeries: actionCreator<ISeriesRequest, ISeriesContent, any>(actionTypeMap.getSeries),
-    getSeriesList: actionCreator<ISeriesListRequest, ISeries[], any>(actionTypeMap.getSeriesList),
+    getSeriesList: actionCreator<ISeriesListRequest, ISeriesList, any>(actionTypeMap.getSeriesList),
     getWork: actionCreator<IWorkRequest, IWork, any>(actionTypeMap.getWork),
-    getWorks: actionCreator<IWorkListRequest, IWork[], any>(actionTypeMap.getWorks),
+    getWorks: actionCreator<IWorkListRequest, IWorkList, any>(actionTypeMap.getWorks),
     getYearBest: actionCreator<IYearBestRequest, IYearBest, any>(actionTypeMap.getYearBest),
-    getYearBests: actionCreator<IYearBestListRequest, string[], any>(actionTypeMap.getYearBests),
+    getYearBests: actionCreator<IYearBestListRequest, IYearBestList, any>(actionTypeMap.getYearBests),
   };
 };
 
