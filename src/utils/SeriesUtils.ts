@@ -1,9 +1,6 @@
 import * as R from 'ramda';
 
-import * as Series from '../constants/json/Series.json';
-import { ISeries } from '../models/content/Series.js';
-
-export const getSeries = (uid: string): ISeries | undefined => R.path([uid], Series.series);
+import ISeries from '../models/contents/series';
 
 export const sortByName = (artists: ISeries[]) =>
   R.sortBy(
@@ -12,5 +9,3 @@ export const sortByName = (artists: ISeries[]) =>
       R.prop('name')
     )
   )(artists);
-
-export const SeriesKeys = Object.keys(Series.series);

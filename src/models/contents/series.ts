@@ -28,7 +28,7 @@ export default interface ISeries extends IContent<SeriesUid> {
   disabled?: boolean;
 }
 
-interface ISeriesListContent extends IContentListContent {
+interface ISeriesListContent extends IContentListContent<SeriesUid> {
   en?: string;
 }
 

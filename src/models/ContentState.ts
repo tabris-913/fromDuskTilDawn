@@ -4,11 +4,12 @@ import { ISelectionState } from '../reducers/content/selection';
 import { ISeriesState } from '../reducers/content/series';
 import { IWorknState } from '../reducers/content/work';
 import { IYearBestState } from '../reducers/content/yearBest';
-import { IContent } from './content/content';
+import IContent from './contents/content';
+import { Uid } from './Id';
 
-export interface IContentState<C extends IContent> {
+export interface IContentState<C extends IContent<Uid>> {
   doc?: C;
-  list?: C[];
+  list?: { [x: string]: C };
 }
 
 export interface IContentsState {

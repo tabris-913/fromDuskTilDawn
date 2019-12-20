@@ -4,8 +4,9 @@ import * as React from 'react';
 import Main from '../Main';
 
 import PageName, { toPublicUrl } from '../../constants/PageName';
+import IContent from '../../models/contents/content';
+import { Uid } from '../../models/Id';
 import { BodyProps, MainContentProps } from '../../models/Main';
-import { getArtist } from '../../utils/ArtistUtils';
 import { useColor } from '../../utils/HooksUtils';
 
 const Title = () => (
@@ -16,9 +17,9 @@ const Title = () => (
   </div>
 );
 
-const ListItems = ['black_sabbath'].map(getArtist).filter(e => !!e);
+const ListItems = [{ uid: '', name: '' }];
 
-const Body = (props: BodyProps) => {
+const Body = (props: BodyProps<IContent<Uid>>) => {
   const [backgroundColor, setBackgroundColor] = useColor();
 
   return (

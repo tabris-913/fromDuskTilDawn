@@ -6,18 +6,16 @@ import ReactMarkdown from 'react-markdown';
 import Main from '../Main';
 
 import PageName, { toPublicUrl } from '../../constants/PageName';
+import ISeries from '../../models/contents/series';
 import { BodyProps, MainContentProps, TitleProps } from '../../models/Main';
-import { getArtistName } from '../../utils/ArtistUtils';
-import { getSeriesContent } from '../../utils/SeriesContentUtils';
-import { getSeries } from '../../utils/SeriesUtils';
 import { getWork } from '../../utils/WorkUtils';
 import InternalLinkList from '../InternalLinkList';
 
 const Title = (props: TitleProps) => {
-  const series = getSeries(props.query.id || '');
+  const series = { content: {} as any };
   const content =
     series && props.query.page && series.content.length > 0
-      ? getSeriesContent(series.content[props.query.page - 1])
+      ? ({} as any) // getSeriesContent(series.content[props.query.page - 1])
       : undefined;
 
   return (
@@ -27,17 +25,17 @@ const Title = (props: TitleProps) => {
   );
 };
 
-const Body = (props: BodyProps) => {
-  const series = getSeries(props.query.id || '');
+const Body = (props: BodyProps<ISeries>) => {
+  const series = props.content;
   const content =
     series && props.query.page && series.content.length > 0
-      ? getSeriesContent(series.content[props.query.page - 1])
+      ? ({} as any) // getSeriesContent(series.content[props.query.page - 1])
       : undefined;
 
   return (
     <>
       {content &&
-        content.work_list.map((work, idx) => {
+        (content.work_list as any[]).map((work, idx) => {
           const arrowPos = 'left'; // idx % 2 === 0 ? 'left' : 'right';
           const works = getWork(work.uid);
           const img = works && works.img ? `${process.env.REACT_APP_IMG_SRC}${works.img[0]}` : '';
@@ -57,7 +55,7 @@ const Body = (props: BodyProps) => {
                   <Row>
                     <Col>「{works.name}」</Col>
                     {works.artist && !R.isEmpty(works.artist) ? (
-                      <Col style={{ color: '#888' }}>{works.artist.map(getArtistName).join('・')}</Col>
+                      <Col style={{ color: '#888' }}>{works.artist.map((e2: any) => '').join('・')}</Col>
                     ) : (
                       undefined
                     )}
@@ -74,7 +72,7 @@ const Body = (props: BodyProps) => {
                     </Col>
                     <Col>{work.comment}</Col>
                     <Col>
-                      {work.song_list.map(song => (
+                      {work.song_list.map((song: any) => (
                         <List.Item key={song.track_no}>
                           <Row style={{ textAlign: arrowPos }}>
                             <Col>
@@ -88,7 +86,7 @@ const Body = (props: BodyProps) => {
                                       </span>
                                     </Col>
                                     <Col style={{ color: '#888', paddingLeft: 20 }}>
-                                      {(song.artist || []).map(getArtistName).join('・')}
+                                      {(song.artist || []).map((e: any) => '').join('・')}
                                     </Col>
                                     <Col style={{ color: '#888', paddingLeft: 20 }}>{song.explanation}</Col>
                                   </Row>
@@ -114,11 +112,11 @@ const Body = (props: BodyProps) => {
         {...props}
         source={
           series
-            ? series.content
+            ? (series.content as any[])
                 .map((e, idx) => ({ e: e, idx: idx }))
                 .filter(({ e, idx }) => (!!props.query.page ? idx !== props.query.page - 1 : true))
                 .map(({ e, idx }) => {
-                  const relatedContent = getSeriesContent(e);
+                  const relatedContent: any = {};
                   return {
                     element: { title: relatedContent && relatedContent.title },
                     linkTo: toPublicUrl(PageName.SERIES_CONTENT, undefined, { id: props.query.id, page: idx + 1 }),

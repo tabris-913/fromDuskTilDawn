@@ -7,7 +7,7 @@ export default interface IGenre extends IContent<GenreUid> {
   list: ArtistUid[];
 }
 
-interface IGenreListContent extends IContentListContent {
+interface IGenreListContent extends IContentListContent<GenreUid> {
   en?: string;
 }
 

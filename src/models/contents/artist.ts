@@ -14,7 +14,7 @@ export default interface IArtist extends IContent<ArtistUid> {
   others?: WorkUid[];
 }
 
-interface IArtistListContent extends IContentListContent {
+export interface IArtistListContent extends IContentListContent<ArtistUid> {
   ruby4Sort: string;
   initial: string[];
   en: string;

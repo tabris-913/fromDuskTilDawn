@@ -1,19 +1,7 @@
-import * as R from 'ramda';
-
-import * as Artists from '../constants/json/Artist.json';
 import { alphabet } from '../constants/Misc';
-import { IArtist } from '../models/content/Artist';
+import { IArtistListContent } from '../models/contents/artist.js';
 
-export const getArtist = (uid: string): IArtist | undefined => R.path([uid], Artists.artists);
-
-export const getArtists = (uids: string[]): IArtist[] => uids.map(getArtist).filter(e => !!e) as IArtist[];
-
-export const getArtistName = (uid?: string) => {
-  const artist = getArtist(uid || '');
-  return !!artist ? artist.name : undefined;
-};
-
-export const sortByName = (artists: IArtist[]) =>
+export const sortByName = (artists: IArtistListContent[]) =>
   // R.sortBy(
   //   R.compose(
   //     R.toLower,
@@ -34,5 +22,3 @@ export const sortByName = (artists: IArtist[]) =>
     });
     return copy;
   };
-
-export const ArtistKeys = Object.keys(Artists.artists);

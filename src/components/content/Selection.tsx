@@ -3,13 +3,13 @@ import * as React from 'react';
 
 import Main from '../Main';
 
-import { MainContentProps } from '../../models/Main';
-import { getSelection } from '../../utils/SelectionUtils';
+import ISelection from '../../models/contents/selection';
+import { BodyProps, MainContentProps } from '../../models/Main';
 
 const Title = () => <div style={{ marginBottom: 10 }}>何らかのメッセージ</div>;
 
-const Body = () => {
-  const selection = getSelection('uid');
+const Body = (props: BodyProps<ISelection>) => {
+  const selection = props.content;
 
   if (!selection) return <></>;
 
@@ -30,7 +30,7 @@ const Body = () => {
       return (
         <>
           {selection.albums
-            ? selection.albums.map((album, idx) => (
+            ? (selection.albums as any[]).map((album, idx) => (
                 <Card key={idx} hoverable={true} cover={<img src={album.img ? album.img[0] : ''} />}>
                   <Card.Meta title={album.name} description={album.artist} />
                 </Card>

@@ -5,10 +5,9 @@ import * as React from 'react';
 import Main from '../Main';
 
 import PageName, { toPublicUrl } from '../../constants/PageName';
-import { IYearBest } from '../../models/content/YearBest';
+import IYearBest from '../../models/contents/yearBest';
 import { BodyProps, MainContentProps } from '../../models/Main';
 import { useColor } from '../../utils/HooksUtils';
-import { getYearBest } from '../../utils/YearBestUtils';
 
 const Title = () => (
   <div style={{ marginBottom: 10 }}>
@@ -18,7 +17,7 @@ const Title = () => (
   </div>
 );
 
-const Body = (props: BodyProps) => {
+const Body = (props: BodyProps<IYearBest>) => {
   const ListItem = ({ item }: { item: IYearBest }) => {
     const [color, setColor] = useColor();
 
@@ -41,9 +40,9 @@ const Body = (props: BodyProps) => {
       {R.range(1960, 2019)
         .reverse()
         .map(item =>
-          !!getYearBest(item) ? (
+          false ? (
             <Col key={item} style={{ margin: 4 }}>
-              <ListItem {...props} item={getYearBest(item)!} />
+              <ListItem {...props} item={props.content} />
             </Col>
           ) : (
             undefined

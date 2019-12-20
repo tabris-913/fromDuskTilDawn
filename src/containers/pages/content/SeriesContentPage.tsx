@@ -9,7 +9,6 @@ import Series from '../../../components/content/Series';
 import PageName from '../../../constants/PageName';
 import { QueryType } from '../../../models/Main';
 import { IStoreState } from '../../../reducers';
-import { getSeries } from '../../../utils/SeriesUtils';
 
 interface IOwnProps extends RouteComponentProps<{}> {}
 
@@ -33,7 +32,7 @@ const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDisp
 };
 
 const SeriesContentPage = (props: Props) => {
-  const series = getSeries(props.query.id || '');
+  const series = { name: '' };
   const seriesName = (series && series.name) || '';
 
   return (

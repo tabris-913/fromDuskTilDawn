@@ -3,14 +3,13 @@ import * as React from 'react';
 
 import Main from '../Main';
 
-import { IWork } from '../../models/content/Work';
+import IWork from '../../models/contents/work';
 import { BodyProps, MainContentProps } from '../../models/Main';
-import { getWork } from '../../utils/WorkUtils';
 
 const Title = () => <div style={{ marginBottom: 10 }} />;
 
-const Body = (props: BodyProps) => {
-  const content: IWork | undefined = getWork(props.query.id || '');
+const Body = (props: BodyProps<IWork>) => {
+  const content: IWork | undefined = props.content;
 
   return (
     <>

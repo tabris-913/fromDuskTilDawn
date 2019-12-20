@@ -3,7 +3,7 @@ import LinkPage from './LinkPage';
 import ReviewTopPage from './ReviewTopPage';
 import TopPage from './TopPage';
 
-import ArtistsPage from './sub/ArtistsPage';
+import ArtistListPage from './list/artist';
 import GenresPage from './sub/GenresPage';
 import NewReleasePage from './sub/NewReleasePage';
 import ReviewSchedulePage from './sub/ReviewSchedulePage';
@@ -21,7 +21,7 @@ import YearBestPage from './content/YearBestPage';
 
 export { TopPage, ReviewTopPage, AboutPage, LinkPage };
 export {
-  ArtistsPage,
+  ArtistListPage,
   NewReleasePage,
   ReviewSchedulePage,
   ScorePage,

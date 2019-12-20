@@ -19,7 +19,7 @@ export interface ISong {
   work: IWork[];
 }
 
-interface IWorkListContent extends IContentListContent {
+interface IWorkListContent extends IContentListContent<WorkUid> {
   date: string;
   review_done?: boolean;
 }

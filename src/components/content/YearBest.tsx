@@ -4,16 +4,15 @@ import * as React from 'react';
 import Main from '../Main';
 
 import PageName, { toPublicUrl } from '../../constants/PageName';
+import IYearBest from '../../models/contents/yearBest';
 import { BodyProps, MainContentProps, TitleProps } from '../../models/Main';
-import { getArtist, getArtists } from '../../utils/ArtistUtils';
 import { getWork } from '../../utils/WorkUtils';
-import { getYearBest } from '../../utils/YearBestUtils';
 import InternalLinkList from '../InternalLinkList';
 
 const Title = (props: TitleProps) => <div style={{ marginBottom: 10 }}>{props.query.id} 年</div>;
 
-const Body = (props: BodyProps) => {
-  const content = getYearBest(props.query.id || '');
+const Body = (props: BodyProps<IYearBest>) => {
+  const content = props.content;
 
   const monthsKey = Object.keys((content && content.month) || {});
   monthsKey.sort((a, b) => (Number(a) > Number(b) ? 1 : -1));
@@ -61,7 +60,7 @@ const Body = (props: BodyProps) => {
                 content.compilations.map(uid => {
                   const work = getWork(uid);
                   return {
-                    element: work ? { title: `${work.name} (${getArtists(work.artist).join('・')})` } : work,
+                    element: work ? { title: `${work.name} (artist names)` } : work,
                     linkTo: toPublicUrl(PageName.WORK, undefined, { id: uid }),
                   };
                 })) ||
@@ -82,7 +81,7 @@ const Body = (props: BodyProps) => {
             source={
               (content &&
                 content.brightestHopes.map(uid => ({
-                  element: getArtist(uid),
+                  element: { uid: '' },
                   linkTo: toPublicUrl(PageName.ARTIST, undefined, { id: uid }),
                 }))) ||
               []

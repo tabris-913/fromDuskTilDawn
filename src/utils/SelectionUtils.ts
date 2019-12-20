@@ -1,9 +1,6 @@
 import * as R from 'ramda';
 
-import * as Selections from '../constants/json/Selection.json';
-import { ISelection } from '../models/content/Selection.js';
-
-export const getSelection = (uid: string): ISelection | undefined => R.path([uid], Selections.selection);
+import ISelection from '../models/contents/selection';
 
 export const sortByName = (artists: ISelection[]) =>
   R.sortBy(
@@ -12,5 +9,3 @@ export const sortByName = (artists: ISelection[]) =>
       R.prop('title')
     )
   )(artists);
-
-export const SelectionKeys = Object.keys(Selections.selection);

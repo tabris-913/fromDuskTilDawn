@@ -5,14 +5,14 @@ import InternalLinkList from '../InternalLinkList';
 import Main from '../Main';
 
 import PageName, { toPublicUrl } from '../../constants/PageName';
+import IArtist from '../../models/contents/artist';
 import { BodyProps, MainContentProps } from '../../models/Main';
-import { getArtist } from '../../utils/ArtistUtils';
 import { getWork } from '../../utils/WorkUtils';
 
 const Title = () => <div style={{ marginBottom: 10 }}>{}</div>;
 
-const Body = (props: BodyProps) => {
-  const content = getArtist(props.query.id || '');
+const Body = (props: BodyProps<IArtist>) => {
+  const content = props.content;
 
   const Works = ({ p }: { p: string }) => (
     <div style={{ marginLeft: 10 }}>
@@ -66,7 +66,7 @@ const Body = (props: BodyProps) => {
             <InternalLinkList
               {...props}
               source={content.related.map(uid => ({
-                element: getArtist(uid),
+                element: { uid: '' },
                 linkTo: toPublicUrl(PageName.ARTIST, undefined, { id: uid }),
               }))}
               titlePropsName="name"

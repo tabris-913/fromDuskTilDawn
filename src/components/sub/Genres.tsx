@@ -4,14 +4,13 @@ import * as React from 'react';
 import Main from '../Main';
 
 import PageName, { toPublicUrl } from '../../constants/PageName';
-import { IGenre } from '../../models/content/Genre';
+import IGenre from '../../models/contents/genre';
 import { BodyProps, MainContentProps } from '../../models/Main';
-import { GenreKeys, getGenre } from '../../utils/GenreUtils';
 import { useColor } from '../../utils/HooksUtils';
 
 const Title = () => <div style={{ marginBottom: 10 }}>ジャンル一覧</div>;
 
-const Body = (props: BodyProps) => {
+const Body = (props: BodyProps<IGenre>) => {
   const ListItem = ({ item }: { item: IGenre }) => {
     const [color, setColor] = useColor();
 
@@ -26,9 +25,7 @@ const Body = (props: BodyProps) => {
     );
   };
 
-  return (
-    <List dataSource={GenreKeys.map(getGenre)} renderItem={item => (!!item ? <ListItem item={item!} /> : undefined)} />
-  );
+  return <List dataSource={[]} renderItem={item => (!!item ? <ListItem item={item!} /> : undefined)} />;
 };
 
 const Genres = (props: MainContentProps) => <Main {...props} Title={Title} Body={Body} />;

@@ -9,7 +9,6 @@ import Genre from '../../../components/content/Genre';
 import PageName from '../../../constants/PageName';
 import { QueryType } from '../../../models/Main';
 import { IStoreState } from '../../../reducers';
-import { getGenre } from '../../../utils/GenreUtils';
 
 interface IOwnProps extends RouteComponentProps<{}> {}
 
@@ -33,7 +32,7 @@ const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDisp
 };
 
 const GenrePage = (props: Props) => {
-  const genre = getGenre(props.query.id || '');
+  const genre = { name: '' };
   const genreName = (genre && genre.name) || '';
 
   return (

@@ -5,6 +5,8 @@ import * as React from 'react';
 import Main from '../Main';
 
 import PageName, { toPublicUrl } from '../../constants/PageName';
+import IContent from '../../models/contents/content';
+import { Uid } from '../../models/Id';
 import { BodyProps, MainContentProps } from '../../models/Main';
 import { IWork } from '../../models/Score';
 
@@ -17,7 +19,7 @@ const ScoreObj: { [v: string]: IWork[] } = {};
   return null;
 });
 
-const Body = (props: BodyProps) => {
+const Body = (props: BodyProps<IContent<Uid>>) => {
   const [localState, setLocalState] = React.useState<number | undefined>();
 
   const SelectButton = () => {

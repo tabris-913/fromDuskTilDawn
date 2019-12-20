@@ -9,7 +9,6 @@ import Selection from '../../../components/content/Selection';
 import PageName from '../../../constants/PageName';
 import { QueryType } from '../../../models/Main';
 import { IStoreState } from '../../../reducers';
-import { getSelection } from '../../../utils/SelectionUtils';
 
 interface IOwnProps extends RouteComponentProps<{}> {}
 
@@ -33,7 +32,7 @@ const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDisp
 };
 
 const SelectionPage = (props: Props) => {
-  const selection = getSelection(props.query.id || '');
+  const selection = { name: '' };
   const selectionTitle = (selection && selection.name) || '';
 
   return (

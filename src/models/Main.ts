@@ -1,6 +1,6 @@
 import { History } from 'history';
 import { RouteComponentProps } from 'react-router-dom';
-import IContent from './contents/content';
+import IContent, { IContentListContent } from './contents/content';
 import { IContentState } from './ContentState';
 import { Uid } from './Id';
 
@@ -32,4 +32,10 @@ export interface MainContentProps {
 
 export interface TitleProps extends MainContentProps {}
 
-export interface BodyProps extends MainContentProps {}
+export interface BodyProps<C extends IContent<Uid>> extends MainContentProps {
+  content: C;
+}
+
+export interface ListBodyProps<C extends IContentListContent<Uid>> extends MainContentProps {
+  list: { [x: string]: C };
+}

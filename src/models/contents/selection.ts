@@ -8,7 +8,7 @@ export default interface ISelection extends IContent<SelectionUid> {
   songs?: ISong[];
   albums?: WorkUid[];
 }
-interface ISelectionListContent extends IContentListContent {
+interface ISelectionListContent extends IContentListContent<SelectionUid> {
   en?: string;
 }
 

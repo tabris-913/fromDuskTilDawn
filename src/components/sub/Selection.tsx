@@ -4,14 +4,13 @@ import * as React from 'react';
 import Main from '../Main';
 
 import PageName, { toPublicUrl } from '../../constants/PageName';
-import { ISelection } from '../../models/content/Selection';
+import ISelection from '../../models/contents/selection';
 import { BodyProps, MainContentProps } from '../../models/Main';
 import { useColor } from '../../utils/HooksUtils';
-import { getSelection, SelectionKeys } from '../../utils/SelectionUtils';
 
 const Title = () => <div style={{ marginBottom: 10 }}>なにかしらのテーマに沿って、個人的偏見で曲をセレクトする</div>;
 
-const Body = (props: BodyProps) => {
+const Body = (props: BodyProps<ISelection>) => {
   const ListItem = ({ item }: { item: ISelection }) => {
     const [color, setColor] = useColor();
 
@@ -30,7 +29,7 @@ const Body = (props: BodyProps) => {
   return (
     <List
       size="small"
-      dataSource={SelectionKeys.map(getSelection)}
+      dataSource={[]}
       renderItem={item => (!!item ? <ListItem {...props} item={item!} /> : undefined)}
       style={{ width: '40%' }}
     />

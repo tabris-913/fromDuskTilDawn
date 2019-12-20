@@ -5,7 +5,8 @@ export default interface IContent<U extends Uid> {
   name: string;
 }
 
-export interface IContentListContent {
+export interface IContentListContent<U extends Uid> {
+  uid?: U;
   name: string;
 }
 
