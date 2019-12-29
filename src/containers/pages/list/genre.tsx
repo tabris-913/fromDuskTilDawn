@@ -7,36 +7,35 @@ import * as Redux from 'redux';
 import Wireframe from '../../wireframe/Wireframe';
 
 import { appActions } from '../../../actions/content';
-import Genres from '../../../components/sub/Genres';
+import Genres from '../../../components/list/genre';
 import PageName from '../../../constants/PageName';
-import { IGenre } from '../../../models/content/Genre';
 import { IOwnProps, IStateProps, makeQuery } from '../../../models/Main';
-import { IGenresRequest } from '../../../models/request/GenreRequest';
+import { IGenreListRequest } from '../../../models/requests/GenreRequest';
 import { IStoreState } from '../../../reducers';
 
-interface ILocalStateProps extends IStateProps<IGenre> {}
+interface ILocalStateProps extends IStateProps {}
 
 interface IDispatchProps {
-  actions: { getGenres: (req: IGenresRequest) => void };
+  actions: { getGenres: (req: IGenreListRequest) => void };
 }
 
 type Props = IOwnProps & ILocalStateProps & IDispatchProps;
 
 const mapState2Props = (state: IStoreState, ownProps: IOwnProps): ILocalStateProps => ({
   query: makeQuery(ownProps),
-  content: state.contents.genre,
+  content: state.contents,
 });
 
-const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDispatchProps => {
-  return { actions: { getGenres: (req: IGenresRequest) => dispatch(appActions.getGenres.started(req)) } };
-};
+const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDispatchProps => ({
+  actions: { getGenres: (req: IGenreListRequest) => dispatch(appActions.getGenres.started(req)) },
+});
 
 const GenresPage = (props: Props) => {
   React.useState(() => props.actions.getGenres({}));
 
   return (
     <Wireframe title="GENRES" breadcrump={[{ label: 'REVIEW', href: PageName.REVIEW_TOP }, { label: 'GENRES' }]}>
-      {props.content.list ? <Genres {...props} /> : <Spin tip="loading genres data..." />}
+      {props.content.genre.list ? <Genres {...props} /> : <Spin tip="loading genres data..." />}
     </Wireframe>
   );
 };

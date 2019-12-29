@@ -1,5 +1,5 @@
 import { YearBestUid } from '../Id';
-import IContent, { IContentList } from './content';
+import IContent from './content';
 
 export interface IBestAlbums {
   uid: string;
@@ -28,6 +28,4 @@ export default interface IYearBest extends IContent<YearBestUid> {
   brightestHopes: string[]; // uids
 }
 
-export interface IYearBestList extends IContentList {
-  uids: number[];
-}
+export type IYearBestList = number[];

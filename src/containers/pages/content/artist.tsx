@@ -9,42 +9,46 @@ import { Button, Modal, Spin } from 'antd';
 import { appActions } from '../../../actions/content';
 import Artist from '../../../components/content/Artist';
 import PageName from '../../../constants/PageName';
-import IArtist from '../../../models/contents/artist';
 import { IOwnProps, IStateProps, makeQuery } from '../../../models/Main';
 import IArtistRequest from '../../../models/requests/ArtistRequest';
+import { IWorkListRequest } from '../../../models/requests/WorkRequest';
 import { IStoreState } from '../../../reducers';
 
-interface ILocalStateProps extends IStateProps<IArtist> {}
+interface ILocalStateProps extends IStateProps {}
 
 interface IDispatchProps {
-  actions: { getArtist: (req: IArtistRequest) => void };
+  actions: { getArtist: (req: IArtistRequest) => void; getWorks: (req: IWorkListRequest) => void };
 }
 
 type Props = IOwnProps & ILocalStateProps & IDispatchProps;
 
 const mapState2Props = (state: IStoreState, ownProps: IOwnProps): ILocalStateProps => ({
   query: makeQuery(ownProps),
-  content: state.contents.artist,
+  content: state.contents,
 });
 
-const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDispatchProps => {
-  return { actions: { getArtist: (req: IArtistRequest) => dispatch(appActions.getArtist.started(req)) } };
-};
+const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDispatchProps => ({
+  actions: {
+    getArtist: (req: IArtistRequest) => dispatch(appActions.getArtist.started(req)),
+    getWorks: (req: IWorkListRequest) => dispatch(appActions.getWorks.started(req)),
+  },
+});
 
 const ArtistPage = (props: Props) => {
   React.useState(() => {
     if (props.query.id) {
-      if (props.content.doc && props.content.doc.uid !== props.query.id) {
+      if (!props.content.artist.doc || props.content.artist.doc.uid !== props.query.id) {
         props.actions.getArtist({ artistUid: props.query.id });
+        props.actions.getWorks({ artistUid: props.query.id });
       }
     }
   });
 
   return props.query.id ? (
-    props.content.doc ? (
+    props.content.artist.doc && props.content.work.list ? (
       <Wireframe
-        title={props.content.doc.name || ''}
-        breadcrump={[{ label: 'ARTIST', href: PageName.REVIEW_ARTIST }, { label: props.content.doc.name || '' }]}
+        title={props.content.artist.doc.name || ''}
+        breadcrump={[{ label: 'ARTIST', href: PageName.REVIEW_ARTIST }, { label: props.content.artist.doc.name || '' }]}
       >
         <Artist {...props} />
       </Wireframe>

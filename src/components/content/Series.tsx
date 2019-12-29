@@ -6,9 +6,7 @@ import ReactMarkdown from 'react-markdown';
 import Main from '../Main';
 
 import PageName, { toPublicUrl } from '../../constants/PageName';
-import ISeries from '../../models/contents/series';
 import { BodyProps, MainContentProps, TitleProps } from '../../models/Main';
-import { getWork } from '../../utils/WorkUtils';
 import InternalLinkList from '../InternalLinkList';
 
 const Title = (props: TitleProps) => {
@@ -25,8 +23,8 @@ const Title = (props: TitleProps) => {
   );
 };
 
-const Body = (props: BodyProps<ISeries>) => {
-  const series = props.content;
+const Body = (props: BodyProps) => {
+  const series = props.content.series.doc!;
   const content =
     series && props.query.page && series.content.length > 0
       ? ({} as any) // getSeriesContent(series.content[props.query.page - 1])
@@ -37,7 +35,7 @@ const Body = (props: BodyProps<ISeries>) => {
       {content &&
         (content.work_list as any[]).map((work, idx) => {
           const arrowPos = 'left'; // idx % 2 === 0 ? 'left' : 'right';
-          const works = getWork(work.uid);
+          const works: any = {};
           const img = works && works.img ? `${process.env.REACT_APP_IMG_SRC}${works.img[0]}` : '';
           if (img === '') console.log("image can't get");
 

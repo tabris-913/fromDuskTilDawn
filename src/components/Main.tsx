@@ -1,11 +1,9 @@
 import { Divider } from 'antd';
 import * as React from 'react';
-import IContent, { IContentListContent } from '../models/contents/content';
-import { Uid } from '../models/Id';
-import { BodyProps, ListBodyProps, MainContentProps, TitleProps } from '../models/Main';
+import { BodyProps, MainContentProps, TitleProps } from '../models/Main';
 
 interface MainProps extends MainContentProps {
-  Body: (props: BodyProps<IContent<Uid>> | ListBodyProps<IContentListContent<Uid>> | any) => JSX.Element;
+  Body: (props: BodyProps) => JSX.Element;
   Title: (props: TitleProps) => JSX.Element;
 }
 

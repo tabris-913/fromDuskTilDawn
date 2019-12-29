@@ -5,7 +5,6 @@ import * as React from 'react';
 import Main from '../Main';
 
 import PageName, { toPublicUrl } from '../../constants/PageName';
-import IYearBest from '../../models/contents/yearBest';
 import { BodyProps, MainContentProps } from '../../models/Main';
 import { useColor } from '../../utils/HooksUtils';
 
@@ -17,20 +16,22 @@ const Title = () => (
   </div>
 );
 
-const Body = (props: BodyProps<IYearBest>) => {
-  const ListItem = ({ item }: { item: IYearBest }) => {
+const Body = (props: BodyProps) => {
+  const content = props.content.yearBest.list!;
+
+  const ListItem = ({ item }: { item: number }) => {
     const [color, setColor] = useColor();
 
     return (
       <Card
         hoverable={true}
         cover={<Avatar size={160} shape="square" />}
-        onClick={() => props.history.push(toPublicUrl(PageName.YEAR_BEST, undefined, { id: item.name }))}
+        onClick={() => props.history.push(toPublicUrl(PageName.YEAR_BEST, undefined, { id: item }))}
         onMouseLeave={() => setColor('#fff')}
         onMouseOver={() => setColor('#aaf')}
         style={{ backgroundColor: color }}
       >
-        <Card.Meta title={item.name} style={{ textAlign: 'center' }} />
+        <Card.Meta title={item} style={{ textAlign: 'center' }} />
       </Card>
     );
   };
@@ -40,9 +41,9 @@ const Body = (props: BodyProps<IYearBest>) => {
       {R.range(1960, 2019)
         .reverse()
         .map(item =>
-          false ? (
+          content.includes(item) ? (
             <Col key={item} style={{ margin: 4 }}>
-              <ListItem {...props} item={props.content} />
+              <ListItem {...props} item={item} />
             </Col>
           ) : (
             undefined

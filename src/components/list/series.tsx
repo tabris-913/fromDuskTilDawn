@@ -4,18 +4,17 @@ import * as React from 'react';
 import Main from '../Main';
 
 import PageName, { toPublicUrl } from '../../constants/PageName';
-import ISeries from '../../models/contents/series';
 import { BodyProps, MainContentProps } from '../../models/Main';
 
 const Title = () => <div style={{ marginBottom: 10 }}>ゲームやアニメなど、シリーズごとの楽曲レビュー一覧</div>;
 
-const Body = (props: BodyProps<ISeries>) => {
-  const content = props.content;
+const Body = (props: BodyProps) => {
+  const content = props.content.series.content!;
   return (
     <Collapse>
       {[].map(e => (
         <Collapse.Panel header={content.name} key={e} disabled={content.disabled}>
-          {content.content
+          {content.work_list
             .map(e => ({} as any))
             .map((e2, idx) => (
               <p

@@ -4,15 +4,13 @@ import * as React from 'react';
 import Main from '../Main';
 
 import PageName, { toPublicUrl } from '../../constants/PageName';
-import IYearBest from '../../models/contents/yearBest';
 import { BodyProps, MainContentProps, TitleProps } from '../../models/Main';
-import { getWork } from '../../utils/WorkUtils';
 import InternalLinkList from '../InternalLinkList';
 
 const Title = (props: TitleProps) => <div style={{ marginBottom: 10 }}>{props.query.id} 年</div>;
 
-const Body = (props: BodyProps<IYearBest>) => {
-  const content = props.content;
+const Body = (props: BodyProps) => {
+  const content = props.content.yearBest.doc!;
 
   const monthsKey = Object.keys((content && content.month) || {});
   monthsKey.sort((a, b) => (Number(a) > Number(b) ? 1 : -1));
@@ -39,7 +37,7 @@ const Body = (props: BodyProps<IYearBest>) => {
                 {...props}
                 size="small"
                 source={content.month[key].map(w => ({
-                  element: getWork(w),
+                  element: {},
                   linkTo: toPublicUrl(PageName.WORK, undefined, { id: w }),
                 }))}
                 titlePropsName="title"
@@ -58,7 +56,7 @@ const Body = (props: BodyProps<IYearBest>) => {
             source={
               (content &&
                 content.compilations.map(uid => {
-                  const work = getWork(uid);
+                  const work: any = {};
                   return {
                     element: work ? { title: `${work.name} (artist names)` } : work,
                     linkTo: toPublicUrl(PageName.WORK, undefined, { id: uid }),

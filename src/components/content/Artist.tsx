@@ -5,28 +5,26 @@ import InternalLinkList from '../InternalLinkList';
 import Main from '../Main';
 
 import PageName, { toPublicUrl } from '../../constants/PageName';
-import IArtist from '../../models/contents/artist';
 import { BodyProps, MainContentProps } from '../../models/Main';
-import { getWork } from '../../utils/WorkUtils';
 
 const Title = () => <div style={{ marginBottom: 10 }}>{}</div>;
 
-const Body = (props: BodyProps<IArtist>) => {
-  const content = props.content;
+const Body = (props: BodyProps) => {
+  const content = props.content.artist.doc!;
+  const works = props.content.work.list!;
 
   const Works = ({ p }: { p: string }) => (
     <div style={{ marginLeft: 10 }}>
       <Typography.Title level={4} underline={true} style={{ marginTop: 0 }}>
         {p}
       </Typography.Title>
-      {content && content[p] ? (
+      {works && works[p] && Object.keys(works[p]).length > 0 ? (
         <>
           <InternalLinkList
             {...props}
             size="small"
             titlePropsName="title"
-            source={(content[p] || []).map((uid: string) => {
-              const work = getWork(uid);
+            source={Object.entries(works[p]).map(([uid, work]) => {
               return {
                 element: { title: work ? `${work.name} (${work.date})` : uid },
                 linkTo: work ? (work.review_done ? toPublicUrl(PageName.WORK, undefined, { id: work.uid }) : '') : '',

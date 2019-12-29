@@ -1,4 +1,5 @@
 {
-  "title": "Winter Song Selection 2019",
-  "uid": "winter2019"
+  "name": "Winter Song Selection 2019",
+  "uid": "winter2019",
+  "type": "song"
 }

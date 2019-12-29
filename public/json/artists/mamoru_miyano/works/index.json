@@ -1,1 +1,13 @@
-["05sg", "07sg", "08sg", "10sg", "13sg", "16sg", "18sg"]
+{
+  "albums": {},
+  "singles": {
+    "miyano_mamoru05sg": { "uid": "miyano_mamoru05sg", "name": "REFRAIN", "date": "2009-10-21" },
+    "miyano_mamoru07sg": { "uid": "miyano_mamoru07sg", "name": "オルフェ", "date": "2011-07-13" },
+    "miyano_mamoru08sg": { "uid": "miyano_mamoru08sg", "name": "DREAM FIGHTER", "date": "2011-11-16" },
+    "miyano_mamoru10sg": { "uid": "miyano_mamoru10sg", "name": "カノン", "date": "2013-04-10" },
+    "miyano_mamoru13sg": { "uid": "miyano_mamoru13sg", "name": "シャイン", "date": "2015-04-15" },
+    "miyano_mamoru16sg": { "uid": "miyano_mamoru16sg", "name": "テンペスト", "date": "2016-10-12" },
+    "miyano_mamoru18sg": { "uid": "miyano_mamoru18sg", "name": "アンコール", "date": "2019-05-29" }
+  },
+  "others": {}
+}

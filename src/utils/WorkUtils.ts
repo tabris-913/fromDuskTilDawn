@@ -1,16 +1,6 @@
 import * as R from 'ramda';
 
-import * as Works from '../constants/json/Work.json';
-import { IWork } from '../models/content/Work';
-
-export const getWork = (uid: string): IWork | undefined => R.path([uid], Works.work);
-
-export const getWorks = (uids: string[]): IWork[] => uids.map(getWork).filter(e => !!e) as IWork[];
-
-export const getWorksTitle = (uid?: string) => {
-  const works = getWork(uid || '');
-  return !!works ? works.name : undefined;
-};
+import IWork from '../models/contents/work';
 
 export const sortByName = (artists: IWork[]) =>
   R.sortBy(
@@ -19,5 +9,3 @@ export const sortByName = (artists: IWork[]) =>
       R.prop('name')
     )
   )(artists);
-
-export const WorksKeys = Object.keys(Works.work);

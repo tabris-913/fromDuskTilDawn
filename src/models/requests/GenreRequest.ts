@@ -6,3 +6,7 @@ export default interface IGenreRequest extends IContentRequest {
 }
 
 export interface IGenreListRequest extends IContentListRequest {}
+
+export interface IPrepareGenrePageRequest {
+  genreUid: GenreUid;
+}

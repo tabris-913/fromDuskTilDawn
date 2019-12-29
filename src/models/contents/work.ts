@@ -6,7 +6,10 @@ export default interface IWork extends IContent<WorkUid> {
   year: number;
   description: string;
   artist: ArtistUid[];
-  list: string[][];
+  list: {
+    description?: string;
+    list: string[][];
+  };
   comment: string;
   img?: string[];
   rate?: number;
@@ -19,11 +22,13 @@ export interface ISong {
   work: IWork[];
 }
 
-interface IWorkListContent extends IContentListContent<WorkUid> {
+export interface IWorkListContent extends IContentListContent<WorkUid> {
   date: string;
   review_done?: boolean;
 }
 
 export interface IWorkList extends IContentList {
-  [x: string]: IWorkListContent;
+  [x: string]: {
+    [uid: string]: IWorkListContent;
+  };
 }

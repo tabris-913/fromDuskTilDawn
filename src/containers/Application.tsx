@@ -30,7 +30,7 @@ const Application = () => (
         <Switch>
           {[
             [PageName.TOP, Page.TopPage],
-            // [PageName.REVIEW_TOP, Page.ReviewTopPage],
+            [PageName.REVIEW_TOP, Page.ReviewTopPage],
             [PageName.ABOUT, Page.AboutPage],
             [PageName.LINK, Page.LinkPage],
           ]
@@ -42,9 +42,9 @@ const Application = () => (
             // [PageName.NEW_RELEASE, Page.NewReleasePage],
             // [PageName.REVIEW_SCHEDULE, Page.ReviewSchedulePage],
             // [PageName.SCORE, Page.ScorePage],
-            // [PageName.SELECTIONS, Page.SelectionsPage],
-            // [PageName.YEAR_BESTS, Page.YearBestsPage],
-            // [PageName.REVIEW_GENRES, Page.GenresPage],
+            [PageName.SELECTIONS, Page.SelectionsPage],
+            [PageName.YEAR_BESTS, Page.YearBestsPage],
+            [PageName.REVIEW_GENRES, Page.GenresPage],
             // [PageName.SERIES, Page.SeriesPage],
           ]
             .map(e => e as MakeRoute)
@@ -52,10 +52,10 @@ const Application = () => (
 
           {[
             [PageName.ARTIST, Page.ArtistPage, true],
-            // [PageName.GENRE, Page.GenrePage, true],
-            // [PageName.SELECTION, Page.SelectionPage, true],
+            [PageName.GENRE, Page.GenrePage, true],
+            [PageName.SELECTION, Page.SelectionPage, true],
             // [PageName.SERIES_CONTENT, Page.SeriesContentPage, true],s
-            // [PageName.YEAR_BEST, Page.YearBestPage, true],
+            [PageName.YEAR_BEST, Page.YearBestPage, true],
             // [PageName.WORK, Page.WorkPage, true],
           ]
             .map(e => e as MakeRoute)

@@ -4,20 +4,20 @@ import ReviewTopPage from './ReviewTopPage';
 import TopPage from './TopPage';
 
 import ArtistListPage from './list/artist';
-import GenresPage from './sub/GenresPage';
+import GenresPage from './list/genre';
+import SelectionsPage from './list/selection';
+import SeriesPage from './list/series';
+import YearBestsPage from './list/yearBest';
 import NewReleasePage from './sub/NewReleasePage';
 import ReviewSchedulePage from './sub/ReviewSchedulePage';
 import ScorePage from './sub/ScorePage';
-import SelectionsPage from './sub/SelectionsPage';
-import SeriesPage from './sub/SeriesPage';
-import YearBestsPage from './sub/YearBestsPage';
 
-import ArtistPage from './content/ArtistPage';
-import GenrePage from './content/GenrePage';
-import SelectionPage from './content/SelectionPage';
-import SeriesContentPage from './content/SeriesContentPage';
-import WorkPage from './content/WorkPage';
-import YearBestPage from './content/YearBestPage';
+import ArtistPage from './content/artist';
+import GenrePage from './content/genre';
+import SelectionPage from './content/selection';
+import SeriesContentPage from './content/seriesContent';
+import WorkPage from './content/work';
+import YearBestPage from './content/yearBest';
 
 export { TopPage, ReviewTopPage, AboutPage, LinkPage };
 export {

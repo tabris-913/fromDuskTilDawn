@@ -3,15 +3,12 @@ import * as React from 'react';
 
 import Main from '../Main';
 
-import ISelection from '../../models/contents/selection';
-import { BodyProps, MainContentProps } from '../../models/Main';
+import { BodyProps, MainContentProps, TitleProps } from '../../models/Main';
 
-const Title = () => <div style={{ marginBottom: 10 }}>何らかのメッセージ</div>;
+const Title = (props: TitleProps) => <div style={{ marginBottom: 10 }}>{props.content.selection.doc!.description}</div>;
 
-const Body = (props: BodyProps<ISelection>) => {
-  const selection = props.content;
-
-  if (!selection) return <></>;
+const Body = (props: BodyProps) => {
+  const selection = props.content.selection.doc!;
 
   switch (selection.type) {
     case 'song':

@@ -3,13 +3,12 @@ import * as React from 'react';
 
 import Main from '../Main';
 
-import IWork from '../../models/contents/work';
 import { BodyProps, MainContentProps } from '../../models/Main';
 
 const Title = () => <div style={{ marginBottom: 10 }} />;
 
-const Body = (props: BodyProps<IWork>) => {
-  const content: IWork | undefined = props.content;
+const Body = (props: BodyProps) => {
+  const content = props.content.work.doc!;
 
   return (
     <>
@@ -43,9 +42,9 @@ const Body = (props: BodyProps<IWork>) => {
             <Col xs={24} xxl={10}>
               Track List
               <Row type="flex">
-                {content.list.map((disk, idx) => (
+                {content.list.list.map((disk, idx) => (
                   <Col style={{ margin: '0px 20px 20px 20px' }} key={idx}>
-                    {content.list.length > 1 ? <span>Disk {idx + 1}</span> : undefined}
+                    {content.list.list.length > 1 ? <span>Disk {idx + 1}</span> : undefined}
                     <ol>
                       {disk.map((song, idx2) => (
                         <li key={idx2}>{song}</li>

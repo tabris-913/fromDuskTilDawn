@@ -7,35 +7,34 @@ import * as Redux from 'redux';
 import Wireframe from '../../wireframe/Wireframe';
 
 import { appActions } from '../../../actions/content';
-import Selection from '../../../components/sub/Selection';
-import { ISelection } from '../../../models/content/Selection';
+import Selection from '../../../components/list/selection';
 import { IOwnProps, IStateProps, makeQuery } from '../../../models/Main';
-import { ISelectionsRequest } from '../../../models/request/SelectionRequest';
+import { ISelectionListRequest } from '../../../models/requests/SelectionRequest';
 import { IStoreState } from '../../../reducers';
 
-interface ILocalStateProps extends IStateProps<ISelection> {}
+interface ILocalStateProps extends IStateProps {}
 
 interface IDispatchProps {
-  actions: { getSelections: (req: ISelectionsRequest) => void };
+  actions: { getSelections: (req: ISelectionListRequest) => void };
 }
 
 type Props = IOwnProps & ILocalStateProps & IDispatchProps;
 
 const mapState2Props = (state: IStoreState, ownProps: IOwnProps): ILocalStateProps => ({
   query: makeQuery(ownProps),
-  content: state.contents.selection,
+  content: state.contents,
 });
 
-const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDispatchProps => {
-  return { actions: { getSelections: (req: ISelectionsRequest) => dispatch(appActions.getSelections.started(req)) } };
-};
+const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDispatchProps => ({
+  actions: { getSelections: (req: ISelectionListRequest) => dispatch(appActions.getSelections.started(req)) },
+});
 
 const SelectionsPage = (props: Props) => {
   React.useState(() => props.actions.getSelections({}));
 
   return (
     <Wireframe title="SELECTION" breadcrump={[{ label: 'SELECTION' }]}>
-      {props.content.list ? <Selection {...props} /> : <Spin tip="loading selections data..." />}
+      {props.content.selection.list ? <Selection {...props} /> : <Spin tip="loading selections data..." />}
     </Wireframe>
   );
 };

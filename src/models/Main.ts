@@ -1,8 +1,6 @@
 import { History } from 'history';
 import { RouteComponentProps } from 'react-router-dom';
-import IContent, { IContentListContent } from './contents/content';
-import { IContentState } from './ContentState';
-import { Uid } from './Id';
+import { IContentsState } from './ContentState';
 
 export interface QueryType {
   id?: string;
@@ -14,9 +12,9 @@ interface IMatchParams {
 }
 
 export interface IOwnProps extends RouteComponentProps<IMatchParams> {}
-export interface IStateProps<C extends IContent<Uid>> {
+export interface IStateProps {
   query: QueryType;
-  content: IContentState<C>;
+  content: IContentsState;
 }
 
 export const makeQuery = (ownProps: IOwnProps) =>
@@ -25,17 +23,11 @@ export const makeQuery = (ownProps: IOwnProps) =>
     .split('&')
     .reduce((o, s) => ({ ...o, [s.replace(/=.+$/, '')]: s.replace(/^.+=/, '') }), {});
 
-export interface MainContentProps {
+export interface MainContentProps extends IStateProps {
   history: History;
   query: QueryType;
 }
 
 export interface TitleProps extends MainContentProps {}
 
-export interface BodyProps<C extends IContent<Uid>> extends MainContentProps {
-  content: C;
-}
-
-export interface ListBodyProps<C extends IContentListContent<Uid>> extends MainContentProps {
-  list: { [x: string]: C };
-}
+export interface BodyProps extends MainContentProps {}

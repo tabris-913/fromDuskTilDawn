@@ -4,8 +4,6 @@ import * as React from 'react';
 import Main from '../Main';
 
 import PageName, { toPublicUrl } from '../../constants/PageName';
-import IContent from '../../models/contents/content';
-import { Uid } from '../../models/Id';
 import { ILocalLink } from '../../models/ListItem';
 import { BodyProps, MainContentProps } from '../../models/Main';
 import { useColor } from '../../utils/HooksUtils';
@@ -38,7 +36,7 @@ const ListItem = ({ item, idx, toMove }: ListItemProps) => {
   );
 };
 
-const Body = (props: BodyProps<IContent<Uid>>) => (
+const Body = (props: BodyProps) => (
   <>
     <List
       dataSource={[

@@ -15,7 +15,7 @@ const Body = () => (
           <Descriptions bordered={true} column={1} size="small" style={{ width: '40%' }}>
             <Descriptions.Item label="Name">T.Black</Descriptions.Item>
             <Descriptions.Item label="Birthday">12/16</Descriptions.Item>
-            <Descriptions.Item label="Age">25</Descriptions.Item>
+            <Descriptions.Item label="Age">26</Descriptions.Item>
             <Descriptions.Item label="Gender">Male</Descriptions.Item>
             <Descriptions.Item label="Country">Japan</Descriptions.Item>
             <Descriptions.Item label="Occupation">SE</Descriptions.Item>
@@ -25,7 +25,7 @@ const Body = () => (
           <span>
             小学生の時に音楽を音楽として意識し始め、その頃は専ら松田聖子を聴いていた。
             中学に上がると、T.M.Revolutionを聴き始め、それがロックの入り口となった。
-            同じく中学生の時にA9（当時はまだアリス九號.名義）にはまり、
+            同じく中学生の時にアリス九號.にはまり、
             そこからいわゆるヴィジュアル系と呼ばれるジャンルにのめりこんでいった。 X JAPANやDEAD
             ENDを聴き始めたころからヘヴィ・メタルへの関心が高まり、 それと同時に X JAPANやTHE
             ALFEEに影響を与えた洋楽を聴き始めるようになった。 当初はPink FloydやDeep Purple、Led Zeppelin、Kiss、Guns N'

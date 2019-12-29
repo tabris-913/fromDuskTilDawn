@@ -1,7 +1,7 @@
 import IArtist, { IArtistList } from '../models/contents/artist';
 import IGenre, { IGenreList } from '../models/contents/genre';
 import ISelection, { ISelectionList } from '../models/contents/selection';
-import ISeries, { ISeriesList } from '../models/contents/series';
+import ISeries, { ISeriesContent, ISeriesList } from '../models/contents/series';
 import IWork, { IWorkList } from '../models/contents/work';
 import IYearBest, { IYearBestList } from '../models/contents/yearBest';
 import IArtistRequest, { IArtistListRequest } from '../models/requests/ArtistRequest';
@@ -25,6 +25,7 @@ export interface ContentApis {
   getArtist: (req: IArtistRequest) => Promise<IArtist>;
   getGenre: (req: IGenreRequest) => Promise<IGenre>;
   getSelection: (req: ISelectionRequest) => Promise<ISelection>;
+  getSeriesContent: (req: ISeriesRequest) => Promise<ISeriesContent>;
   getSeries: (req: ISeriesRequest) => Promise<ISeries>;
   getWork: (req: IWorkRequest) => Promise<IWork>;
   getYearBest: (req: IYearBestRequest) => Promise<IYearBest>;
@@ -53,8 +54,9 @@ export const contentApisBuilder = (): ContentApis => {
   };
 
   const getWorks = (req: IWorkListRequest) => {
-    const url = `${baseUrl}/json/works/index.json`;
-    return get<IWorkListRequest, IWorkList>(url, req);
+    const url = `${baseUrl}/json/artists/${req.artistUid}/works/index.json`;
+    const url2 = `${baseUrl}/json/works/index.json`;
+    return get<IWorkListRequest, IWorkList>(url, req).catch(() => get<IWorkListRequest, IWorkList>(url2, req));
   };
 
   const getYearBests = (req: IYearBestListRequest) => {
@@ -70,27 +72,32 @@ export const contentApisBuilder = (): ContentApis => {
     getWorks: getWorks,
     getYearBests: getYearBests,
     getArtist: (req: IArtistRequest) => {
-      const url = `${baseUrl}/json/artist/${req.artistUid}.json`;
+      const url = `${baseUrl}/json/artists/${req.artistUid}/info.json`;
       return get<IArtistRequest, IArtist>(url, req);
     },
     getGenre: (req: IGenreRequest) => {
-      const url = `${baseUrl}/json/genre/${req.genreUid}.json`;
+      const url = `${baseUrl}/json/genres/${req.genreUid}.json`;
       return get<IGenreRequest, IGenre>(url, req);
     },
     getSelection: (req: ISelectionRequest) => {
-      const url = `${baseUrl}/json/selection/${req.selectionUid}.json`;
+      const url = `${baseUrl}/json/selections/${req.selectionUid}.json`;
       return get<ISelectionRequest, ISelection>(url, req);
     },
+    getSeriesContent: (req: ISeriesRequest) => {
+      const url = `${baseUrl}/json/series/${req.seriesUid}/${req.contentUid}.json`;
+      return get<ISeriesRequest, ISeriesContent>(url, req);
+    },
     getSeries: (req: ISeriesRequest) => {
-      const url = `${baseUrl}/json/series/${req.seriesUid}.json`;
+      const url = `${baseUrl}/json/series/${req.seriesUid}/index.json`;
       return get<ISeriesRequest, ISeries>(url, req);
     },
     getWork: (req: IWorkRequest) => {
-      const url = `${baseUrl}/json/work/${req.artistUid}/${req.workUid}.json`;
-      return get<IWorkRequest, IWork>(url, req);
+      const url = `${baseUrl}/json/artists/${req.artistUid}/works/${req.workUid}.json`;
+      const url2 = `${baseUrl}/json/works/${req.artistUid}/${req.workUid}.json`;
+      return get<IWorkRequest, IWork>(url, req).catch(() => get<IWorkRequest, IWork>(url2, req));
     },
     getYearBest: (req: IYearBestRequest) => {
-      const url = `${baseUrl}/json/yearBest/${req.yearBestUid}.json`;
+      const url = `${baseUrl}/json/yearbests/${req.yearBestUid}.json`;
       return get<IYearBestRequest, IYearBest>(url, req);
     },
   };

@@ -6,4 +6,6 @@ export default interface IWorkRequest extends IContentRequest {
   workUid: WorkUid;
 }
 
-export interface IWorkListRequest extends IContentListRequest {}
+export interface IWorkListRequest extends IContentListRequest {
+  artistUid: ArtistUid;
+}
