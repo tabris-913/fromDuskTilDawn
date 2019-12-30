@@ -1,1 +1,11 @@
-{"name": "Brave Child", "ruby": "ブレイヴ・チャイルド", "uid": "brave_child", "ruby4Sort": "ぶれいゔ・ちゃいるど", "initial": ["は", "B"], "kind": "バンド", "singles": ["dearvo14", "dearvo20", "dearvo26"], "albums": ["dearvo03c", "dearvo04c"], "en": "Brave Child"}
+{
+  "name": "Brave Child",
+  "ruby": "ブレイヴ・チャイルド",
+  "uid": "brave_child",
+  "ruby4Sort": "ぶれいゔ・ちゃいるど",
+  "initial": ["は", "B"],
+  "kind": "バンド",
+  "singles": ["brave_child01", "brave_child02", "brave_child03"],
+  "albums": ["dearvo03c", "dearvo04c"],
+  "en": "Brave Child"
+}

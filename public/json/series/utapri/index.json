@@ -1,5 +1,12 @@
 {
   "uid": "utapri",
   "name": "うたの☆プリンスさまっ♪",
-  "content": ["utapri", "utapri_1000", "utapri_2000", "utapri_r", "utapri_ls", "utapri_k"]
+  "content": [
+    { "uid": "utapri", "name": "うたの☆プリンスさまっ♪" },
+    { "uid": "1000", "name": "うたの☆プリンスさまっ♪ マジLOVE1000% ～" },
+    { "uid": "2000", "name": "うたの☆プリンスさまっ♪ マジLOVE2000% ～" },
+    { "uid": "revolutions", "name": "うたの☆プリンスさまっ♪ マジLOVEレボリューションズ ～" },
+    { "uid": "legend_star", "name": "うたの☆プリンスさまっ♪ マジLOVEレジェンドスター ～" },
+    { "uid": "kingdom", "name": "うたの☆プリンスさまっ♪ マジLOVEキングダム ～" }
+  ]
 }

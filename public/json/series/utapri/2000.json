@@ -1,0 +1,154 @@
+{
+  "name": "うたの☆プリンスさまっ♪ マジLOVE2000% ～",
+  "description": "2010年に発売された乙女ゲームの金字塔「うたの☆プリンスさまっ♪」（[公式サイト](http://www.utapri.com/)）シリースの楽曲レビュー第3弾。\n\r2013年春にスタートしたアニメ第2期（[公式サイト](http://archive2000.utapri.tv/)）からアニメ第3期が放送される以前の曲をレビュー。",
+  "subtitle": "2000% ～",
+  "work_list": [
+    {
+      "uid": "mamoru_miyano10sg",
+      "artist": ["mamoru_miyano"],
+      "comment": "",
+      "song_list": [{ "track_no": 1, "comment": "" }],
+      "workArtistId": "mamoru_miyano"
+    },
+    {
+      "uid": "utapri22sg",
+      "artist": ["starish"],
+      "comment": "",
+      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "workArtistId": "utapri"
+    },
+    {
+      "uid": "utapri23sg",
+      "artist": ["sho_kurusu"],
+      "comment": "",
+      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "workArtistId": "utapri"
+    },
+    {
+      "uid": "utapri24sg",
+      "artist": ["masato_hijirikawa"],
+      "comment": "",
+      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "workArtistId": "utapri"
+    },
+    {
+      "uid": "utapri25sg",
+      "artist": ["otoya_ittoki"],
+      "comment": "",
+      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "workArtistId": "utapri"
+    },
+    {
+      "uid": "utapri26sg",
+      "artist": ["ren_jinguji"],
+      "comment": "",
+      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "workArtistId": "utapri"
+    },
+    {
+      "uid": "utapri27sg",
+      "artist": ["natsuki_shinomiya"],
+      "comment": "",
+      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "workArtistId": "utapri"
+    },
+    {
+      "uid": "utapri28sg",
+      "artist": ["cecil_aijima"],
+      "comment": "",
+      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "workArtistId": "utapri"
+    },
+    {
+      "uid": "utapri29sg",
+      "artist": ["tokiya_ichinose"],
+      "comment": "",
+      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "workArtistId": "utapri"
+    },
+    {
+      "uid": "utapri03sp",
+      "artist": ["quartet_night"],
+      "comment": "",
+      "song_list": [{ "track_no": 1, "comment": "" }],
+      "workArtistId": "utapri"
+    },
+    {
+      "uid": "utapri10ost",
+      "artist": [],
+      "comment": "",
+      "song_list": [{ "track_no": 11, "comment": "" }, { "track_no": 12, "comment": "" }],
+      "workArtistId": "utapri"
+    },
+    {
+      "uid": "utapri04sp",
+      "artist": ["heavens"],
+      "comment": "",
+      "song_list": [{ "track_no": 1, "comment": "" }],
+      "workArtistId": "utapri"
+    },
+    {
+      "uid": "utapri05sp",
+      "artist": ["shining_stars"],
+      "comment": "",
+      "song_list": [{ "track_no": 1, "comment": "" }],
+      "workArtistId": "utapri"
+    },
+    {
+      "uid": "utapri01theater",
+      "artist": ["reiji_kotobuki", "ai_mikaze", "natsuki_shinomiya"],
+      "comment": "",
+      "song_list": [{ "track_no": 1, "comment": "" }],
+      "workArtistId": "utapri"
+    },
+    {
+      "uid": "utapri02theater",
+      "artist": ["otoya_ittoki", "masato_hijirikawa", "sho_kurusu", "cecil_aijima"],
+      "comment": "",
+      "song_list": [{ "track_no": 1, "comment": "" }],
+      "workArtistId": "utapri"
+    },
+    {
+      "uid": "utapri03theater",
+      "artist": ["rammaru_kurosaki", "camus", "tokiya_ichinose", "ren_jinguji"],
+      "comment": "",
+      "song_list": [{ "track_no": 1, "comment": "" }],
+      "workArtistId": "utapri"
+    },
+    {
+      "uid": "utapri30sg",
+      "artist": ["reiji_kotobuki"],
+      "comment": "",
+      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "workArtistId": "utapri"
+    },
+    {
+      "uid": "utapri31sg",
+      "artist": ["rammaru_kurosaki"],
+      "comment": "",
+      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "workArtistId": "utapri"
+    },
+    {
+      "uid": "utapri32sg",
+      "artist": ["ai_mikaze"],
+      "comment": "",
+      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "workArtistId": "utapri"
+    },
+    {
+      "uid": "utapri33sg",
+      "artist": ["camus"],
+      "comment": "",
+      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "workArtistId": "utapri"
+    },
+    {
+      "uid": "utapri34sg",
+      "artist": ["reiji_kotobuki", "rammaru_kurosaki", "ai_mikaze", "camus"],
+      "comment": "",
+      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "workArtistId": "utapri"
+    }
+  ]
+}

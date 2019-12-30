@@ -1,5 +1,11 @@
 {
   "uid": "dearvo",
   "name": "ディア♥ヴォーカリスト",
-  "content": ["dearvo", "dearvo_riot", "dearvo_wired", "dearvo_xtreme", "dearvo_evolve"]
+  "content": [
+    { "uid": "dearvo", "name": "ディア♥ヴォーカリスト" },
+    { "uid": "riot", "name": "ディア♥ヴォーカリスト Riot" },
+    { "uid": "wired", "name": "ディア♥ヴォーカリスト Wired" },
+    { "uid": "xtreme", "name": "ディア♥ヴォーカリスト Xtreme" },
+    { "uid": "evolve", "name": "ディア♥ヴォーカリスト Evolve" }
+  ]
 }

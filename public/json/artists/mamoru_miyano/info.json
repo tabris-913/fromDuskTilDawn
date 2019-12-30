@@ -1,17 +1,17 @@
 {
   "name": "宮野真守",
   "ruby": "みやのまもる",
-  "uid": "miyano_mamoru",
+  "uid": "mamoru_miyano",
   "en": "Mamoru Miyano",
   "initial": ["ま"],
   "singles": [
-    "miyano_mamoru05sg",
-    "miyano_mamoru07sg",
-    "miyano_mamoru08sg",
-    "miyano_mamoru10sg",
-    "miyano_mamoru13sg",
-    "miyano_mamoru16sg",
-    "miyano_mamoru18sg"
+    "mamoru_miyano05sg",
+    "mamoru_miyano07sg",
+    "mamoru_miyano08sg",
+    "mamoru_miyano10sg",
+    "mamoru_miyano13sg",
+    "mamoru_miyano16sg",
+    "mamoru_miyano18sg"
   ],
   "ruby4Sort": "みやのまもる"
 }
