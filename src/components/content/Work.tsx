@@ -18,7 +18,12 @@ const Body = (props: BodyProps) => {
         <PageHeader backIcon={false} title={content.name} subTitle={content.description}>
           <Row type="flex" justify="start">
             <Col style={{ padding: 4 }} xs={24} xl={12} xxl={6}>
-              <Avatar src={content.img && content.img[0]} icon="question" shape="square" size={240} />
+              <Avatar
+                src={content.img && content.img ? `${process.env.REACT_APP_IMG_SRC}${content.img[0]}` : ''}
+                icon="question"
+                shape="square"
+                size={240}
+              />
             </Col>
             <Col xs={24} xl={12} xxl={8}>
               <Row>
