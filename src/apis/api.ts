@@ -1,5 +1,5 @@
 // API BASE URL
-// export const API_BASE_URL = 'https://api.github.com/repos/tabris913/fromDuskTilDawn/contents/public';
+// export const API_BASE_URL = 'https://api.github.com/repos/tabris-913/fromDuskTilDawn/contents/public';
 export const API_BASE_URL = process.env.PUBLIC_URL;
 
 export const fetchWithErrorHandling = (url: RequestInfo, options?: RequestInit | undefined) =>
