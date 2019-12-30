@@ -11,14 +11,13 @@ import Genre from '../../../components/content/Genre';
 import PageName from '../../../constants/PageName';
 import { IOwnProps, IStateProps, makeQuery } from '../../../models/Main';
 import { IArtistListRequest } from '../../../models/requests/ArtistRequest';
-import IGenreRequest, { IPrepareGenrePageRequest } from '../../../models/requests/GenreRequest';
+import { IPrepareGenrePageRequest } from '../../../models/requests/GenreRequest';
 import { IStoreState } from '../../../reducers';
 
 interface ILocalStateProps extends IStateProps {}
 
 interface IDispatchProps {
   actions: {
-    getGenre: (req: IGenreRequest) => void;
     getArtists: (req: IArtistListRequest) => void;
     prepareGenrePage: (req: IPrepareGenrePageRequest) => void;
   };
@@ -33,7 +32,6 @@ const mapState2Props = (state: IStoreState, ownProps: IOwnProps): ILocalStatePro
 
 const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDispatchProps => ({
   actions: {
-    getGenre: (req: IGenreRequest) => dispatch(appActions.getGenre.started(req)),
     getArtists: (req: IArtistListRequest) => dispatch(appActions.getArtists.started(req)),
     prepareGenrePage: (req: IPrepareGenrePageRequest) => dispatch(appActions.prepareGenrePage.started(req)),
   },
@@ -46,8 +44,7 @@ const GenrePage = (props: Props) => {
       const cond_artist = !props.content.artist.list;
       if (cond_genre) {
         const req = { genreUid: props.query.id };
-        if (cond_artist) props.actions.prepareGenrePage(req);
-        else props.actions.getGenre(req);
+        props.actions.prepareGenrePage(req);
       } else if (cond_artist) props.actions.getArtists({});
     }
   });
@@ -61,7 +58,7 @@ const GenrePage = (props: Props) => {
         <Genre {...props} />
       </Wireframe>
     ) : (
-      <Spin tip="loading artist data..." />
+      <Spin tip="loading genre data..." />
     )
   ) : (
     <Modal

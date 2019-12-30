@@ -55,7 +55,7 @@ export const contentApisBuilder = (): ContentApis => {
 
   const getWorks = (req: IWorkListRequest) => {
     const url = `${baseUrl}/json/artists/${req.artistUid}/works/index.json`;
-    const url2 = `${baseUrl}/json/works/index.json`;
+    const url2 = `${baseUrl}/json/works/${req.artistUid}/index.json`;
     return get<IWorkListRequest, IWorkList>(url, req).catch(() => get<IWorkListRequest, IWorkList>(url2, req));
   };
 

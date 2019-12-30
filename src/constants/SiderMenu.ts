@@ -9,9 +9,9 @@ export const SiderLeftMenu: Array<ISider | ISiderSub> = [
   {
     title: 'Content',
     items: [
-      { key: 'new_release', label: 'New Release', toPage: PageName.NEW_RELEASE },
+      { key: 'new_release', label: 'New Release', toPage: PageName.NEW_RELEASE, disabled: true },
       { key: 'artists', label: 'Artists', toPage: PageName.REVIEW_ARTIST },
-      { key: 'score', label: 'Score', toPage: PageName.SCORE },
+      { key: 'score', label: 'Score', toPage: PageName.SCORE, disabled: true },
       { key: 'year_best', label: 'Year Best', toPage: PageName.YEAR_BESTS },
       { key: 'selection', label: 'Selections', toPage: PageName.SELECTIONS },
       { key: 'series', label: 'Series', toPage: PageName.SERIES },

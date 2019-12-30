@@ -20,8 +20,13 @@ interface IStateProps {}
 type Props = IStateProps & IOwnProps;
 
 const Sider = (props: Props) => {
-  const makeMenuItem = ({ key, label, toPage }: ISider) => (
-    <Menu.Item key={key} onClick={() => props.onClickMenu(toPage || PageName.TOP)} style={{ color: '#1890ff' }}>
+  const makeMenuItem = ({ key, label, toPage, disabled }: ISider) => (
+    <Menu.Item
+      key={key}
+      onClick={() => props.onClickMenu(toPage || PageName.TOP)}
+      style={{ color: '#1890ff' }}
+      disabled={disabled}
+    >
       {label}
     </Menu.Item>
   );

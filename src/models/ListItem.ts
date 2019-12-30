@@ -8,6 +8,7 @@ export interface IListItem {
 export interface IListItemExtra extends IListItem {
   src?: string;
   icon?: string;
+  disabled?: boolean;
 }
 
 export interface ILink extends IListItemExtra {

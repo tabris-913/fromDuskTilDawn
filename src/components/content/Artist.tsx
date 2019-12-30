@@ -13,7 +13,7 @@ const Body = (props: BodyProps) => {
   const content = props.content.artist.doc!;
   const works = props.content.work.list!;
 
-  const Works = ({ p }: { p: string }) => (
+  const Works = ({ p }: { p: 'singles' | 'albums' | 'others' }) => (
     <div style={{ marginLeft: 10 }}>
       <Typography.Title level={4} underline={true} style={{ marginTop: 0 }}>
         {p}

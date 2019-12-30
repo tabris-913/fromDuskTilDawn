@@ -12,6 +12,7 @@ interface ListItemProps {
   item: ILocalLink;
   idx: number;
   toMove: () => void;
+  disabled?: boolean;
 }
 
 const Title = () => (
@@ -20,13 +21,13 @@ const Title = () => (
   </div>
 );
 
-const ListItem = ({ item, idx, toMove }: ListItemProps) => {
+const ListItem = ({ item, idx, toMove, disabled }: ListItemProps) => {
   const [backgroundColor, setBackgroundColor] = useColor();
 
   return (
     <List.Item
       key={idx}
-      onClick={() => toMove()}
+      onClick={() => (disabled ? null : toMove())}
       onMouseOver={() => setBackgroundColor('#bbf')}
       onMouseLeave={() => setBackgroundColor('#fff')}
       style={{ backgroundColor: backgroundColor }}
@@ -42,10 +43,15 @@ const Body = (props: BodyProps) => (
       dataSource={[
         { title: 'アーティスト一覧', description: 'Artists', address: PageName.REVIEW_ARTIST },
         { title: 'ジャンル別', description: 'Genres', address: PageName.REVIEW_GENRES },
-        { title: 'スコア別', description: 'Scores', address: PageName.SCORE },
+        { title: 'スコア別', description: 'Scores', address: PageName.SCORE, disabled: true },
       ]}
       renderItem={(item: ILocalLink, idx) => (
-        <ListItem toMove={() => props.history.push(toPublicUrl(item.address || PageName.TOP))} item={item} idx={idx} />
+        <ListItem
+          toMove={() => props.history.push(toPublicUrl(item.address || PageName.TOP))}
+          item={item}
+          idx={idx}
+          disabled={item.disabled}
+        />
       )}
       bordered={true}
       style={{ width: '30%' }}
@@ -53,11 +59,16 @@ const Body = (props: BodyProps) => (
     <Divider />
     <List
       dataSource={[
-        { title: 'レビュー予定', description: 'Review Schedule', address: PageName.REVIEW_SCHEDULE },
-        { title: '新譜', description: 'New Release', address: PageName.NEW_RELEASE },
+        { title: 'レビュー予定', description: 'Review Schedule', address: PageName.REVIEW_SCHEDULE, disabled: true },
+        { title: '新譜', description: 'New Release', address: PageName.NEW_RELEASE, disabled: true },
       ]}
       renderItem={(item: ILocalLink, idx) => (
-        <ListItem toMove={() => props.history.push(toPublicUrl(item.address || PageName.TOP))} item={item} idx={idx} />
+        <ListItem
+          toMove={() => props.history.push(toPublicUrl(item.address || PageName.TOP))}
+          item={item}
+          idx={idx}
+          disabled={item.disabled}
+        />
       )}
       style={{ width: '30%' }}
       bordered={true}

@@ -4,17 +4,45 @@ import * as React from 'react';
 import Main from '../Main';
 
 import PageName, { toPublicUrl } from '../../constants/PageName';
+import { IDispatchProps as SeriesListPageDispatchProps } from '../../containers/pages/list/series';
 import { BodyProps, MainContentProps } from '../../models/Main';
 
 const Title = () => <div style={{ marginBottom: 10 }}>ゲームやアニメなど、シリーズごとの楽曲レビュー一覧</div>;
 
-const Body = (props: BodyProps) => {
-  const content = props.content.series.content!;
+const Body = (props: BodyProps & Partial<SeriesListPageDispatchProps>) => {
+  const content = props.content.series.list!;
+  const doc = props.content.series.doc;
+
   return (
-    <Collapse>
-      {[].map(e => (
+    <Collapse accordion={true}>
+      {Object.entries(content).map(([uid, item]) => (
+        <Collapse.Panel
+          header={<div onClick={() => props.actions!.getSeries({ seriesUid: uid })}>{item.name}</div>}
+          key={uid}
+          disabled={item.disabled}
+        >
+          {doc && doc.uid === uid
+            ? doc.content.map((contentInfo, idx) => (
+                <p
+                  key={idx}
+                  onClick={() =>
+                    contentInfo && !contentInfo.disabled
+                      ? props.history.push(
+                          toPublicUrl(PageName.SERIES_CONTENT, [uid as string], { id: contentInfo.uid })
+                        )
+                      : null
+                  }
+                >
+                  シリーズレビュー 第 {idx + 1} 弾{' '}
+                  {contentInfo && !!contentInfo.name ? `(${contentInfo.name})` : undefined}
+                </p>
+              ))
+            : undefined}
+        </Collapse.Panel>
+      ))}
+      {/* {[].map(e => (
         <Collapse.Panel header={content.name} key={e} disabled={content.disabled}>
-          {content.work_list
+          {content.content
             .map(e => ({} as any))
             .map((e2, idx) => (
               <p
@@ -29,7 +57,7 @@ const Body = (props: BodyProps) => {
               </p>
             ))}
         </Collapse.Panel>
-      ))}
+      ))} */}
     </Collapse>
   );
 };

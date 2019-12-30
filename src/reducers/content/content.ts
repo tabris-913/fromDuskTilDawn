@@ -43,6 +43,7 @@ export const contentReducerBuilder = (actions: ContentActions, contentName?: Con
       ...state,
       selection: { ...state.selection, list: action.payload.result },
     }))
+    .case(actions.getSeries.started, state => ({ ...state, series: { ...state.series, doc: undefined } }))
     .caseWithAction(actions.getSeries.done, (state, action) => ({
       ...state,
       series: { ...state.series, doc: action.payload.result },
@@ -55,6 +56,7 @@ export const contentReducerBuilder = (actions: ContentActions, contentName?: Con
       ...state,
       series: { ...state.series, list: action.payload.result },
     }))
+    .case(actions.getWork.started, state => ({ ...state, work: { ...state.work, doc: undefined } }))
     .caseWithAction(actions.getWork.done, (state, action) => ({
       ...state,
       work: { ...state.work, doc: action.payload.result },
@@ -75,6 +77,10 @@ export const contentReducerBuilder = (actions: ContentActions, contentName?: Con
       ...state,
       artist: { ...state.artist, list: action.payload.result.artist.list },
       genre: { ...state.genre, doc: action.payload.result.genre.doc },
+    }))
+    .caseWithAction(actions.prepareSeriesPage.done, (state, action) => ({
+      ...state,
+      series: { ...state.series, ...action.payload.result.series },
     }));
 };
 

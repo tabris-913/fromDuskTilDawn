@@ -45,7 +45,7 @@ const Application = () => (
             [PageName.SELECTIONS, Page.SelectionsPage],
             [PageName.YEAR_BESTS, Page.YearBestsPage],
             [PageName.REVIEW_GENRES, Page.GenresPage],
-            // [PageName.SERIES, Page.SeriesPage],
+            [PageName.SERIES, Page.SeriesPage],
           ]
             .map(e => e as MakeRoute)
             .map(e => makeRoute(e))}
@@ -54,7 +54,7 @@ const Application = () => (
             [PageName.ARTIST, Page.ArtistPage, true],
             [PageName.GENRE, Page.GenrePage, true],
             [PageName.SELECTION, Page.SelectionPage, true],
-            // [PageName.SERIES_CONTENT, Page.SeriesContentPage, true],s
+            [PageName.SERIES_CONTENT, Page.SeriesContentPage, true],
             [PageName.YEAR_BEST, Page.YearBestPage, true],
             // [PageName.WORK, Page.WorkPage, true],
           ]

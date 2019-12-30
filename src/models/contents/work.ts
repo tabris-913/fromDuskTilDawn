@@ -23,12 +23,14 @@ export interface ISong {
 }
 
 export interface IWorkListContent extends IContentListContent<WorkUid> {
+  artist: ArtistUid[];
   date: string;
+  img?: string[];
   review_done?: boolean;
 }
 
 export interface IWorkList extends IContentList {
-  [x: string]: {
-    [uid: string]: IWorkListContent;
-  };
+  singles: { [uid: string]: IWorkListContent };
+  albums: { [uid: string]: IWorkListContent };
+  others: { [uid: string]: IWorkListContent };
 }

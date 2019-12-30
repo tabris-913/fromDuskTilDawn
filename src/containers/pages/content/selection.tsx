@@ -47,7 +47,7 @@ const SelectionPage = (props: Props) => {
         <Selection {...props} />
       </Wireframe>
     ) : (
-      <Spin tip="loading artist data..." />
+      <Spin tip="loading selection data..." />
     )
   ) : (
     <Modal

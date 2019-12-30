@@ -21,6 +21,7 @@ const appSaga: ContentSaga = {
   getYearBests: sagas.getYearBests(),
 
   prepareGenrePage: sagas.prepareGenrePage(),
+  prepareSeriesPage: sagas.prepareSeriesPage(),
 };
 
 export default function* rootSaga(): IterableIterator<any> {
@@ -40,5 +41,6 @@ export default function* rootSaga(): IterableIterator<any> {
     takeEvery(`${ActionTypes.GET_YEARBEST_LIST}_STARTED`, appSaga.getYearBests),
 
     takeEvery(`${ActionTypes.PREPARE_GENRE_PAGE}_STARTED`, appSaga.prepareGenrePage),
+    takeEvery(`${ActionTypes.PREPARE_SERIES_PAGE}_STARTED`, appSaga.prepareSeriesPage),
   ]);
 }

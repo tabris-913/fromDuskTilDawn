@@ -1,4 +1,5 @@
-import { SeriesUid } from '../Id';
+import { ISeriesState } from '../../reducers/content/series';
+import { SeriesUid, ArtistUid } from '../Id';
 import IContent, { IContentList, IContentListContent } from './content';
 
 export interface ISeriesSong {
@@ -14,6 +15,7 @@ export interface ISeriesWork {
   artist?: string[];
   song_list: ISeriesSong[];
   comment?: string;
+  workArtistId: ArtistUid;
 }
 
 export interface ISeriesContent extends IContent<SeriesUid> {
@@ -23,15 +25,24 @@ export interface ISeriesContent extends IContent<SeriesUid> {
   disabled?: boolean;
 }
 
+interface ISeriesContentInfo extends IContent<SeriesUid> {
+  disabled?: boolean;
+}
+
 export default interface ISeries extends IContent<SeriesUid> {
-  content: string[];
+  content: ISeriesContentInfo[];
   disabled?: boolean;
 }
 
 interface ISeriesListContent extends IContentListContent<SeriesUid> {
   en?: string;
+  disabled?: boolean;
 }
 
 export interface ISeriesList extends IContentList {
   [x: string]: ISeriesListContent;
+}
+
+export interface ISeriesPage {
+  series: ISeriesState;
 }

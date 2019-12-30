@@ -10,13 +10,13 @@ import { appActions } from '../../../actions/content';
 import Series from '../../../components/list/series';
 import PageName from '../../../constants/PageName';
 import { IOwnProps, IStateProps, makeQuery } from '../../../models/Main';
-import { ISeriesListRequest } from '../../../models/requests/SeriesRequest';
+import ISeriesRequest, { ISeriesListRequest } from '../../../models/requests/SeriesRequest';
 import { IStoreState } from '../../../reducers';
 
 interface ILocalStateProps extends IStateProps {}
 
-interface IDispatchProps {
-  actions: { getSeriesList: (req: ISeriesListRequest) => void };
+export interface IDispatchProps {
+  actions: { getSeriesList: (req: ISeriesListRequest) => void; getSeries: (req: ISeriesRequest) => void };
 }
 
 type Props = IOwnProps & ILocalStateProps & IDispatchProps;
@@ -27,7 +27,10 @@ const mapState2Props = (state: IStoreState, ownProps: IOwnProps): ILocalStatePro
 });
 
 const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDispatchProps => ({
-  actions: { getSeriesList: (req: ISeriesListRequest) => dispatch(appActions.getSeriesList.started(req)) },
+  actions: {
+    getSeriesList: (req: ISeriesListRequest) => dispatch(appActions.getSeriesList.started(req)),
+    getSeries: (req: ISeriesRequest) => dispatch(appActions.getSeries.started(req)),
+  },
 });
 
 const SeriesPage = (props: Props) => {

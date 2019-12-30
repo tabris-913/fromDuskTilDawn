@@ -2,6 +2,7 @@ import { call, put } from 'redux-saga/effects';
 import { Action } from 'typescript-fsa';
 import { ContentActions } from '../actions/content';
 import { ContentApis } from '../apis/content';
+import { ArtistUid, WorkUid } from '../models/Id';
 import IArtistRequest, { IArtistListRequest } from '../models/requests/ArtistRequest';
 import IGenreRequest, { IGenreListRequest, IPrepareGenrePageRequest } from '../models/requests/GenreRequest';
 import ISelectionRequest, { ISelectionListRequest } from '../models/requests/SelectionRequest';
@@ -26,6 +27,7 @@ export interface ContentSaga {
   getYearBests: (action: Action<IYearBestListRequest>) => IterableIterator<any>;
 
   prepareGenrePage: (action: Action<IPrepareGenrePageRequest>) => IterableIterator<any>;
+  prepareSeriesPage: (action: Action<ISeriesRequest>) => IterableIterator<any>;
 }
 
 const saga = (actions: ContentActions, apis: ContentApis) => ({
@@ -96,8 +98,27 @@ const saga = (actions: ContentActions, apis: ContentApis) => ({
     function*(action: Action<IWorkRequest>): IterableIterator<any> {
       console.log('start get work');
       const req = action.payload;
+      // let res: ReturnedType<typeof apis.getWork>;
+      // let throw_flag = true;
+      // try {
+      //   res = yield call(apis.getWork, req);
+      // } catch (e) {
+      //   if (req.artistUids) {
+      //     for (const uid of req.artistUids) {
+      //       try {
+      //         res = yield call(apis.getWork, { ...req, artistUid: uid });
+      //         console.log(res);
+      //         throw_flag = false;
+      //         break;
+      //       } catch (e) {
+      //         //
+      //       }
+      //     }
+      //   }
+      //   if (!throw_flag) throw e;
+      // }
       const res: ReturnedType<typeof apis.getWork> = yield call(apis.getWork, req);
-      yield put(actions.getWork.done({ params: req, result: res }));
+      yield put(actions.getWork.done({ params: req, result: res! }));
     },
   getWorks: () =>
     function*(action: Action<IWorkListRequest>): IterableIterator<any> {
@@ -128,6 +149,41 @@ const saga = (actions: ContentActions, apis: ContentApis) => ({
       const genre: ReturnedType<typeof apis.getGenre> = yield call(apis.getGenre, req);
       yield put(
         actions.prepareGenrePage.done({ params: req, result: { artist: { list: artistList }, genre: { doc: genre } } })
+      );
+    },
+  prepareSeriesPage: () =>
+    function*(action: Action<ISeriesRequest>): IterableIterator<any> {
+      console.log('start preparing series content page');
+      const req = action.payload;
+      const content: ReturnedType<typeof apis.getSeriesContent> = yield call(apis.getSeriesContent, req);
+      const artists: ArtistUid[] = [req.seriesUid];
+      const uids: WorkUid[] = [];
+      content.work_list.map(w => {
+        if (!uids.includes(w.uid)) uids.push(w.uid);
+        for (const a of w.artist || []) {
+          if (!artists.includes(a)) artists.push(a);
+        }
+      });
+      const doc: ReturnedType<typeof apis.getSeries> = yield call(apis.getSeries, req);
+      const works = {};
+      for (const a of artists) {
+        try {
+          const res: ReturnedType<typeof apis.getWorks> = yield call(apis.getWorks, { artistUid: a });
+          console.log(res);
+          for (const key of ['albums', 'singles', 'others']) {
+            for (const uid of Object.keys(res[key])) {
+              if (uids.includes(uid)) works[uid] = res[key][uid];
+            }
+          }
+        } catch (e) {
+          //
+        }
+      }
+      yield put(
+        actions.prepareSeriesPage.done({
+          params: req,
+          result: { series: { doc: doc, content: content, works: works } },
+        })
       );
     },
 });
