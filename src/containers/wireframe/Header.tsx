@@ -5,7 +5,7 @@ const style: React.CSSProperties = {
   background: '#eee',
   padding: '20px 0px 0px 10px',
   borderBottom: 'solid 1px',
-  fontSize: '400%',
+  fontSize: '350%',
   fontFamily: 'Monotype Corsiva',
   verticalAlign: 'middle',
   height: 100,

@@ -1,9 +1,1 @@
-{
-  "name": "シャイニング・スターズ",
-  "uid": "shining_stars",
-  "en": "Shining Stars",
-  "initial": ["さ"],
-  "related": ["starish", "qn"],
-  "ruby4Sort": "しゃいにんぐ・すたーず",
-  "others": ["utapri05sp", "utapri06sp"]
-}
+{"name": "シャイニング・スターズ", "uid": "shining_stars", "en": "Shining Stars", "initial": ["さ"], "related": ["starish", "quartet_night"], "ruby4Sort": "しゃいにんぐ・すたーず", "others": ["utapri05sp", "utapri06sp"], "albums": [], "singles": []}

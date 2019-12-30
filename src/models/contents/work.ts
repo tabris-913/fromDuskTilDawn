@@ -1,4 +1,7 @@
-import { ArtistUid, WorkUid } from '../Id';
+import { IArtistState } from '../../reducers/content/artist';
+import { IGenreState } from '../../reducers/content/genre';
+import { IWorkState } from '../../reducers/content/work';
+import { ArtistUid, GenreUid, WorkUid } from '../Id';
 import IContent, { IContentList, IContentListContent } from './content';
 
 export default interface IWork extends IContent<WorkUid> {
@@ -6,14 +9,17 @@ export default interface IWork extends IContent<WorkUid> {
   year: number;
   description: string;
   artist: ArtistUid[];
-  list: {
+  list: Array<{
     description?: string;
     list: string[][];
-  };
+  }>;
   comment: string;
   img?: string[];
   rate?: number;
   review_done?: boolean;
+  type?: 'single' | 'album' | 'other';
+  recommend?: string[];
+  genres?: GenreUid[];
 }
 
 export interface ISong {
@@ -33,4 +39,10 @@ export interface IWorkList extends IContentList {
   singles: { [uid: string]: IWorkListContent };
   albums: { [uid: string]: IWorkListContent };
   others: { [uid: string]: IWorkListContent };
+}
+
+export interface IWorkPage {
+  artist: IArtistState;
+  genre: IGenreState;
+  work: IWorkState;
 }

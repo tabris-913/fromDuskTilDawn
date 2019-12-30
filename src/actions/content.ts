@@ -1,9 +1,9 @@
 import { actionCreatorFactory, AsyncActionCreators } from 'typescript-fsa';
-import IArtist, { IArtistList } from '../models/contents/artist';
+import IArtist, { IArtistList, IArtistPage } from '../models/contents/artist';
 import IGenre, { IGenreList, IGenrePage } from '../models/contents/genre';
 import ISelection, { ISelectionList } from '../models/contents/selection';
 import ISeries, { ISeriesContent, ISeriesList, ISeriesPage } from '../models/contents/series';
-import IWork, { IWorkList } from '../models/contents/work';
+import IWork, { IWorkList, IWorkPage } from '../models/contents/work';
 import IYearBest, { IYearBestList } from '../models/contents/yearBest';
 import IArtistRequest, { IArtistListRequest } from '../models/requests/ArtistRequest';
 import IGenreRequest, { IGenreListRequest, IPrepareGenrePageRequest } from '../models/requests/GenreRequest';
@@ -28,8 +28,10 @@ export interface ContentActions {
   getYearBest: AsyncActionCreators<IYearBestRequest, IYearBest, any>;
   getYearBests: AsyncActionCreators<IYearBestListRequest, IYearBestList, any>;
 
+  prepareArtistPage: AsyncActionCreators<IArtistRequest, IArtistPage, any>;
   prepareGenrePage: AsyncActionCreators<IPrepareGenrePageRequest, IGenrePage, any>;
   prepareSeriesPage: AsyncActionCreators<ISeriesRequest, ISeriesPage, any>;
+  prepareWorkPage: AsyncActionCreators<IWorkRequest, IWorkPage, any>;
 }
 
 export const contentActionsBuilder = (actionTypeMap: { [P in keyof ContentActions]: string }): ContentActions => {
@@ -50,8 +52,10 @@ export const contentActionsBuilder = (actionTypeMap: { [P in keyof ContentAction
     getYearBest: actionCreator<IYearBestRequest, IYearBest, any>(actionTypeMap.getYearBest),
     getYearBests: actionCreator<IYearBestListRequest, IYearBestList, any>(actionTypeMap.getYearBests),
 
+    prepareArtistPage: actionCreator<IArtistRequest, IArtistPage, any>(actionTypeMap.prepareArtistPage),
     prepareGenrePage: actionCreator<IPrepareGenrePageRequest, IGenrePage, any>(actionTypeMap.prepareGenrePage),
     prepareSeriesPage: actionCreator<ISeriesRequest, ISeriesPage, any>(actionTypeMap.prepareSeriesPage),
+    prepareWorkPage: actionCreator<IWorkRequest, IWorkPage, any>(actionTypeMap.prepareWorkPage),
   };
 };
 
@@ -70,6 +74,8 @@ export const appActions = contentActionsBuilder({
   getYearBest: ActionTypes.GET_YEARBEST,
   getYearBests: ActionTypes.GET_YEARBEST_LIST,
 
+  prepareArtistPage: ActionTypes.PREPARE_ARTIST_PAGE,
   prepareGenrePage: ActionTypes.PREPARE_GENRE_PAGE,
   prepareSeriesPage: ActionTypes.PREPARE_SERIES_PAGE,
+  prepareWorkPage: ActionTypes.PREPARE_WORK_PAGE,
 });

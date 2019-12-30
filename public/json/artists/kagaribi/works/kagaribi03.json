@@ -1,1 +1,12 @@
-{"name": "エントリーNo.3 JUDAH", "description": "", "date": "2017-09-20", "year": 2017, "comment": "", "artist": ["kagaribi"], "list": [{"disk_no": 1, "name": "", "list": ["飛翔", "TSK!! TSK!!"]}], "img": ["dearvo15.jpg"], "uid": "kagaribi03"}
+{
+  "name": "エントリーNo.3 JUDAH",
+  "description": "",
+  "date": "2017-09-20",
+  "year": 2017,
+  "comment": "",
+  "artist": ["kagaribi"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["飛翔", "TSK!! TSK!!"] }],
+  "img": ["dearvo15.jpg"],
+  "uid": "kagaribi03",
+  "type": "single"
+}

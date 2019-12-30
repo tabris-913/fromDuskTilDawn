@@ -1,5 +1,5 @@
 {
-  "title": "カノン",
+  "name": "カノン",
   "description": "",
   "date": "2013-04-10",
   "year": 2013,
@@ -8,5 +8,6 @@
   "comment": "",
   "uid": "mamoru_miyano10sg",
   "img": ["mamoru_miyano10sg.jpg"],
-  "rate": 0
+  "rate": 0,
+  "type": "single"
 }

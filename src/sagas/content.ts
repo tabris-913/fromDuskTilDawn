@@ -26,8 +26,10 @@ export interface ContentSaga {
   getWorks: (action: Action<IWorkListRequest>) => IterableIterator<any>;
   getYearBests: (action: Action<IYearBestListRequest>) => IterableIterator<any>;
 
+  prepareArtistPage: (action: Action<IArtistRequest>) => IterableIterator<any>;
   prepareGenrePage: (action: Action<IPrepareGenrePageRequest>) => IterableIterator<any>;
   prepareSeriesPage: (action: Action<ISeriesRequest>) => IterableIterator<any>;
+  prepareWorkPage: (action: Action<IWorkRequest>) => IterableIterator<any>;
 }
 
 const saga = (actions: ContentActions, apis: ContentApis) => ({
@@ -141,6 +143,20 @@ const saga = (actions: ContentActions, apis: ContentApis) => ({
       const res: ReturnedType<typeof apis.getYearBests> = yield call(apis.getYearBests, req);
       yield put(actions.getYearBests.done({ params: req, result: res }));
     },
+  prepareArtistPage: () =>
+    function*(action: Action<IArtistRequest>): IterableIterator<any> {
+      console.log('start preparing artist page');
+      const req = action.payload;
+      const artistDoc: ReturnedType<typeof apis.getArtist> = yield call(apis.getArtist, req);
+      const artistList: ReturnedType<typeof apis.getArtists> = yield call(apis.getArtists, req);
+      const work: ReturnedType<typeof apis.getWorks> = yield call(apis.getWorks, req);
+      yield put(
+        actions.prepareArtistPage.done({
+          params: req,
+          result: { artist: { doc: artistDoc, list: artistList }, work: { list: work } },
+        })
+      );
+    },
   prepareGenrePage: () =>
     function*(action: Action<IPrepareGenrePageRequest>): IterableIterator<any> {
       console.log('start preparing genre page');
@@ -183,6 +199,20 @@ const saga = (actions: ContentActions, apis: ContentApis) => ({
         actions.prepareSeriesPage.done({
           params: req,
           result: { series: { doc: doc, content: content, works: works } },
+        })
+      );
+    },
+  prepareWorkPage: () =>
+    function*(action: Action<IWorkRequest>): IterableIterator<any> {
+      console.log('start preparing work page');
+      const req = action.payload;
+      const work: ReturnedType<typeof apis.getWork> = yield call(apis.getWork, req);
+      const genre: ReturnedType<typeof apis.getGenres> = yield call(apis.getGenres, req);
+      const artist: ReturnedType<typeof apis.getArtists> = yield call(apis.getArtists, req);
+      yield put(
+        actions.prepareWorkPage.done({
+          params: req,
+          result: { work: { doc: work }, artist: { list: artist }, genre: { list: genre } },
         })
       );
     },

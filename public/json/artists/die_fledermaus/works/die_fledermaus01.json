@@ -1,1 +1,13 @@
-{"name": "エントリーNo.4 CIEL", "description": "", "date": "2016-01-27", "year": 2016, "artist": ["die_fledermaus"], "list": [{"disk_no": 1, "name": "", "list": ["BLACK ANTHEM", "LUV (Your) STiNG"]}], "comment": "", "uid": "die_fledermaus01", "img": ["dearvo04.jpg"], "rate": 99}
+{
+  "name": "エントリーNo.4 CIEL",
+  "description": "",
+  "date": "2016-01-27",
+  "year": 2016,
+  "artist": ["die_fledermaus"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["BLACK ANTHEM", "LUV (Your) STiNG"] }],
+  "comment": "",
+  "uid": "die_fledermaus01",
+  "img": ["dearvo04.jpg"],
+  "rate": 99,
+  "type": "single"
+}

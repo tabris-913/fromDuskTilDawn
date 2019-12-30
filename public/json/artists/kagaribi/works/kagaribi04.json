@@ -1,1 +1,12 @@
-{"name": "エントリーNo.3 JUDAH", "description": "", "date": "2018-05-16", "year": 2018, "comment": "", "artist": ["kagaribi"], "list": [{"disk_no": 1, "name": "", "list": ["(Dis)Appeared", "ロンギング"]}], "img": ["dearvo21.jpg"], "uid": "kagaribi04"}
+{
+  "name": "エントリーNo.3 JUDAH",
+  "description": "",
+  "date": "2018-05-16",
+  "year": 2018,
+  "comment": "",
+  "artist": ["kagaribi"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["(Dis)Appeared", "ロンギング"] }],
+  "img": ["dearvo21.jpg"],
+  "uid": "kagaribi04",
+  "type": "single"
+}

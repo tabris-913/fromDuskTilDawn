@@ -1,5 +1,5 @@
 {
-  "title": "テンペスト",
+  "name": "テンペスト",
   "description": "",
   "date": "2016-10-12",
   "year": 2016,
@@ -8,5 +8,6 @@
   "comment": "",
   "uid": "mamoru_miyano16sg",
   "img": ["mamoru_miyano16sg.jpg"],
-  "rate": 0
+  "rate": 0,
+  "type": "single"
 }

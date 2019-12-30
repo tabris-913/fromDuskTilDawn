@@ -1,1 +1,13 @@
-{"name": "エントリーNo.2 JUDAH", "description": "", "date": "2016-11-16", "year": 2016, "comment": "", "rate": 99, "artist": ["kagaribi"], "list": [{"disk_no": 1, "name": "", "list": ["New World", "I Can't Say GoodBye"]}], "img": ["dearvo08.jpg"], "uid": "kagaribi02"}
+{
+  "name": "エントリーNo.2 JUDAH",
+  "description": "",
+  "date": "2016-11-16",
+  "year": 2016,
+  "comment": "",
+  "rate": 99,
+  "artist": ["kagaribi"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["New World", "I Can't Say GoodBye"] }],
+  "img": ["dearvo08.jpg"],
+  "uid": "kagaribi02",
+  "type": "single"
+}

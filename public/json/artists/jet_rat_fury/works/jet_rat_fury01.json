@@ -1,1 +1,13 @@
-{"name": "エントリーNo.6 [2]YOU", "description": "", "date": "2016-03-23", "year": 2016, "comment": "", "rate": 99, "artist": ["jet_rat_fury"], "list": [{"disk_no": 1, "name": "", "list": ["AWKWARD?", "I need your love"]}], "img": ["dearvo06.jpg"], "uid": "jet_rat_fury01"}
+{
+  "name": "エントリーNo.6 [2]YOU",
+  "description": "",
+  "date": "2016-03-23",
+  "year": 2016,
+  "comment": "",
+  "rate": 99,
+  "artist": ["jet_rat_fury"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["AWKWARD?", "I need your love"] }],
+  "img": ["dearvo06.jpg"],
+  "uid": "jet_rat_fury01",
+  "type": "single"
+}

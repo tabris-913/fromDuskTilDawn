@@ -56,7 +56,7 @@ const Application = () => (
             [PageName.SELECTION, Page.SelectionPage, true],
             [PageName.SERIES_CONTENT, Page.SeriesContentPage, true],
             [PageName.YEAR_BEST, Page.YearBestPage, true],
-            // [PageName.WORK, Page.WorkPage, true],
+            [PageName.WORK, Page.WorkPage, true],
           ]
             .map(e => e as MakeRoute)
             .map(e => makeRoute(e))}

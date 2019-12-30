@@ -1,11 +1,1 @@
-{
-  "name": "JET RAT FURY",
-  "ruby": "ジェット・ラット・フュリー",
-  "uid": "jet_rat_fury",
-  "ruby4Sort": "じぇっと・らっと・ふゅりー",
-  "kind": "バンド",
-  "initial": ["さ", "J"],
-  "singles": ["jet_rat_fury01", "jet_rat_fury02", "jet_rat_fury03", "jet_rat_fury04", "jet_rat_fury05"],
-  "albums": ["dearvo01c", "dearvo02c", "dearvo03c", "dearvo04c"],
-  "en": "JET RAT FURY"
-}
+{"name": "JET RAT FURY", "ruby": "ジェット・ラット・フュリー", "uid": "jet_rat_fury", "ruby4Sort": "じぇっと・らっと・ふゅりー", "kind": "バンド", "initial": ["さ", "J"], "singles": ["jet_rat_fury01", "jet_rat_fury02", "jet_rat_fury03", "jet_rat_fury04", "jet_rat_fury05"], "albums": ["dearvo01c", "dearvo02c", "dearvo03c", "dearvo04c"], "en": "JET RAT FURY", "genres": ["hard_rock"], "others": []}

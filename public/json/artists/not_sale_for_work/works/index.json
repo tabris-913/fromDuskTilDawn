@@ -1,11 +1,1 @@
-{
-  "albums": {},
-  "singles": {
-    "not_sale_for_work01": { "uid": "not_sale_for_work01", "name": "エントリーNo.5 A'", "date": "2016-02-24" },
-    "not_sale_for_work02": { "uid": "not_sale_for_work02", "name": "エントリーNo.3 A'", "date": "2016-12-21" },
-    "not_sale_for_work03": { "uid": "not_sale_for_work03", "name": "エントリーNo.4 A'", "date": "2017-10-18" },
-    "not_sale_for_work04": { "uid": "not_sale_for_work04", "name": "エントリーNo.6 A'", "date": "2018-08-15" },
-    "not_sale_for_work05": { "uid": "not_sale_for_work05", "name": "エントリーNo.6 A'", "date": "2019-12-18" }
-  },
-  "others": {}
-}
+{"albums": {}, "singles": {"not_sale_for_work01": {"uid": "not_sale_for_work01", "name": "エントリーNo.5 A'", "date": "2016-02-24", "img": ["dearvo05.jpg"], "review_done": false}, "not_sale_for_work02": {"uid": "not_sale_for_work02", "name": "エントリーNo.3 A'", "date": "2016-12-21", "img": ["dearvo09.jpg"], "review_done": false}, "not_sale_for_work03": {"uid": "not_sale_for_work03", "name": "エントリーNo.4 A'", "date": "2017-10-18", "img": ["dearvo16.jpg"], "review_done": false}, "not_sale_for_work04": {"uid": "not_sale_for_work04", "name": "エントリーNo.6 A'", "date": "2018-08-15", "img": ["dearvo24.jpg"], "review_done": false}, "not_sale_for_work05": {"uid": "not_sale_for_work05", "name": "エントリーNo.6 A'", "date": "2019-12-18", "img": ["dearvo30.jpg"], "review_done": false}}, "others": {}}

@@ -1,4 +1,6 @@
-import { ArtistUid, WorkUid } from '../Id';
+import { IArtistState } from '../../reducers/content/artist';
+import { IWorkState } from '../../reducers/content/work';
+import { ArtistUid, GenreUid, WorkUid } from '../Id';
 import IContent, { IContentList, IContentListContent } from './content';
 
 export default interface IArtist extends IContent<ArtistUid> {
@@ -12,6 +14,7 @@ export default interface IArtist extends IContent<ArtistUid> {
   singles?: WorkUid[];
   albums?: WorkUid[];
   others?: WorkUid[];
+  genres?: GenreUid[];
 }
 
 export interface IArtistListContent extends IContentListContent<ArtistUid> {
@@ -22,4 +25,9 @@ export interface IArtistListContent extends IContentListContent<ArtistUid> {
 
 export interface IArtistList extends IContentList {
   [x: string]: IArtistListContent;
+}
+
+export interface IArtistPage {
+  artist: IArtistState;
+  work: IWorkState;
 }

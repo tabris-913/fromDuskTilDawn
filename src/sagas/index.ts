@@ -20,8 +20,10 @@ const appSaga: ContentSaga = {
   getYearBest: sagas.getYearBest(),
   getYearBests: sagas.getYearBests(),
 
+  prepareArtistPage: sagas.prepareArtistPage(),
   prepareGenrePage: sagas.prepareGenrePage(),
   prepareSeriesPage: sagas.prepareSeriesPage(),
+  prepareWorkPage: sagas.prepareWorkPage(),
 };
 
 export default function* rootSaga(): IterableIterator<any> {
@@ -40,7 +42,9 @@ export default function* rootSaga(): IterableIterator<any> {
     takeEvery(`${ActionTypes.GET_YEARBEST}_STARTED`, appSaga.getYearBest),
     takeEvery(`${ActionTypes.GET_YEARBEST_LIST}_STARTED`, appSaga.getYearBests),
 
+    takeEvery(`${ActionTypes.PREPARE_ARTIST_PAGE}_STARTED`, appSaga.prepareArtistPage),
     takeEvery(`${ActionTypes.PREPARE_GENRE_PAGE}_STARTED`, appSaga.prepareGenrePage),
     takeEvery(`${ActionTypes.PREPARE_SERIES_PAGE}_STARTED`, appSaga.prepareSeriesPage),
+    takeEvery(`${ActionTypes.PREPARE_WORK_PAGE}_STARTED`, appSaga.prepareWorkPage),
   ]);
 }

@@ -1,1 +1,13 @@
-{"name": "エントリーNo.4 MOMOCHI", "description": "", "date": "2017-01-18", "year": 2017, "comment": "", "rate": 99, "artist": ["veronica"], "list": [{"disk_no": 1, "name": "", "list": ["Mi★Amigo", "Mr.BlackBlack"]}], "img": ["dearvo10.jpg"], "uid": "veronica02"}
+{
+  "name": "エントリーNo.4 MOMOCHI",
+  "description": "",
+  "date": "2017-01-18",
+  "year": 2017,
+  "comment": "",
+  "rate": 99,
+  "artist": ["veronica"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["Mi★Amigo", "Mr.BlackBlack"] }],
+  "img": ["dearvo10.jpg"],
+  "uid": "veronica02",
+  "type": "single"
+}

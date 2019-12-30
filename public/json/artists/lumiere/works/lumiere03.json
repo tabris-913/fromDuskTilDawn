@@ -1,1 +1,12 @@
-{"name": "エントリーNo.1 RE-O-DO", "description": "", "date": "2017-07-19", "year": 2017, "comment": "", "artist": ["lumiere"], "list": [{"disk_no": 1, "name": "", "list": ["iNiTiaTiVe", "EGOIST?"]}], "img": ["dearvo13.jpg"], "uid": "lumiere03"}
+{
+  "name": "エントリーNo.1 RE-O-DO",
+  "description": "",
+  "date": "2017-07-19",
+  "year": 2017,
+  "comment": "",
+  "artist": ["lumiere"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["iNiTiaTiVe", "EGOIST?"] }],
+  "img": ["dearvo13.jpg"],
+  "uid": "lumiere03",
+  "type": "single"
+}

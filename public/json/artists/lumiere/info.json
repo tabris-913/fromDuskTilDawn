@@ -1,11 +1,1 @@
-{
-  "name": "LUMIERE",
-  "ruby": "ルミエール",
-  "uid": "lumiere",
-  "ruby4Sort": "るみえーる",
-  "kind": "バンド",
-  "initial": ["ら", "L"],
-  "singles": ["lumiere01", "lumiere02", "lumiere03", "lumiere04", "lumiere05"],
-  "albums": ["dearvo01c", "dearvo02c", "dearvo03c", "dearvo04c"],
-  "en": "LUMIERE"
-}
+{"name": "LUMIERE", "ruby": "ルミエール", "uid": "lumiere", "ruby4Sort": "るみえーる", "kind": "バンド", "initial": ["ら", "L"], "singles": ["lumiere01", "lumiere02", "lumiere03", "lumiere04", "lumiere05"], "albums": ["dearvo01c", "dearvo02c", "dearvo03c", "dearvo04c"], "en": "LUMIERE", "genres": ["hard_rock"], "others": []}

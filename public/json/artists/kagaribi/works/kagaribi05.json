@@ -1,1 +1,12 @@
-{"name": "エントリーNo.3 JUDAH", "description": "", "date": "2019-09-18", "year": 2019, "comment": "", "artist": ["kagaribi"], "list": [{"disk_no": 1, "name": "", "list": ["最愛", "インビジブルマン"]}], "img": ["dearvo27.jpg"], "uid": "kagaribi05"}
+{
+  "name": "エントリーNo.3 JUDAH",
+  "description": "",
+  "date": "2019-09-18",
+  "year": 2019,
+  "comment": "",
+  "artist": ["kagaribi"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["最愛", "インビジブルマン"] }],
+  "img": ["dearvo27.jpg"],
+  "uid": "kagaribi05",
+  "type": "single"
+}

@@ -1,1 +1,13 @@
-{"name": "エントリーNo.2 MOMOCHI", "description": "", "date": "2015-11-25", "year": 2015, "artist": ["veronica"], "list": [{"disk_no": 1, "name": "", "list": ["泡唄", "全能感"]}], "comment": "", "uid": "veronica01", "img": ["dearvo02.jpg"], "rate": 99}
+{
+  "name": "エントリーNo.2 MOMOCHI",
+  "description": "",
+  "date": "2015-11-25",
+  "year": 2015,
+  "artist": ["veronica"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["泡唄", "全能感"] }],
+  "comment": "",
+  "uid": "veronica01",
+  "img": ["dearvo02.jpg"],
+  "rate": 99,
+  "type": "single"
+}

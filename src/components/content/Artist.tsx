@@ -11,6 +11,7 @@ const Title = () => <div style={{ marginBottom: 10 }}>{}</div>;
 
 const Body = (props: BodyProps) => {
   const content = props.content.artist.doc!;
+  const artists = props.content.artist.list!;
   const works = props.content.work.list!;
 
   const Works = ({ p }: { p: 'singles' | 'albums' | 'others' }) => (
@@ -27,13 +28,17 @@ const Body = (props: BodyProps) => {
             source={Object.entries(works[p]).map(([uid, work]) => {
               return {
                 element: { title: work ? `${work.name} (${work.date})` : uid },
-                linkTo: work ? (work.review_done ? toPublicUrl(PageName.WORK, undefined, { id: work.uid }) : '') : '',
+                linkTo: work
+                  ? work.review_done
+                    ? toPublicUrl(PageName.WORK, [content.uid as string], { id: work.uid })
+                    : ''
+                  : '',
               };
             })}
           />
         </>
       ) : (
-        <p>no {p}</p>
+        <p>not reviewed yet or no {p}</p>
       )}
     </div>
   );
@@ -44,7 +49,7 @@ const Body = (props: BodyProps) => {
       {content ? (
         <Descriptions title="Info" bordered={true} column={1} style={{ width: '50%' }}>
           <Descriptions.Item label="名前">{content.name}</Descriptions.Item>
-          <Descriptions.Item label="読み">{content.ruby4Sort || ''}</Descriptions.Item>
+          <Descriptions.Item label="読み">{content.ruby || ''}</Descriptions.Item>
         </Descriptions>
       ) : (
         undefined
@@ -64,7 +69,7 @@ const Body = (props: BodyProps) => {
             <InternalLinkList
               {...props}
               source={content.related.map(uid => ({
-                element: { uid: '' },
+                element: { uid: '', name: artists[uid as string].name },
                 linkTo: toPublicUrl(PageName.ARTIST, undefined, { id: uid }),
               }))}
               titlePropsName="name"

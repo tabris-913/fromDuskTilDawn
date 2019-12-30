@@ -1,5 +1,5 @@
 {
-  "title": "REFRAIN",
+  "name": "REFRAIN",
   "description": "",
   "date": "2009-10-21",
   "year": 2009,
@@ -8,5 +8,6 @@
   "comment": "",
   "uid": "mamoru_miyano05sg",
   "img": ["mamoru_miyano05sg.jpg"],
-  "rate": 0
+  "rate": 0,
+  "type": "single"
 }

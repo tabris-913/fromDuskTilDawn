@@ -73,6 +73,11 @@ export const contentReducerBuilder = (actions: ContentActions, contentName?: Con
       ...state,
       yearBest: { ...state.yearBest, list: action.payload.result },
     }))
+    .caseWithAction(actions.prepareArtistPage.done, (state, action) => ({
+      ...state,
+      artist: { ...state.artist, ...action.payload.result.artist },
+      work: { ...state.work, ...action.payload.result.work },
+    }))
     .caseWithAction(actions.prepareGenrePage.done, (state, action) => ({
       ...state,
       artist: { ...state.artist, list: action.payload.result.artist.list },
@@ -81,6 +86,12 @@ export const contentReducerBuilder = (actions: ContentActions, contentName?: Con
     .caseWithAction(actions.prepareSeriesPage.done, (state, action) => ({
       ...state,
       series: { ...state.series, ...action.payload.result.series },
+    }))
+    .caseWithAction(actions.prepareWorkPage.done, (state, action) => ({
+      ...state,
+      artist: { ...state.artist, ...action.payload.result.artist },
+      genre: { ...state.genre, ...action.payload.result.genre },
+      work: { ...state.work, ...action.payload.result.work },
     }));
 };
 

@@ -15,7 +15,7 @@ import { IStoreState } from '../../../reducers';
 interface ILocalStateProps extends IStateProps {}
 
 interface IDispatchProps {
-  actions: { getWork: (req: IWorkRequest) => void };
+  actions: { prepareWorkPage: (req: IWorkRequest) => void };
 }
 
 type Props = IOwnProps & ILocalStateProps & IDispatchProps;
@@ -26,19 +26,27 @@ const mapState2Props = (state: IStoreState, ownProps: IOwnProps): ILocalStatePro
 });
 
 const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDispatchProps => ({
-  actions: { getWork: (req: IWorkRequest) => dispatch(appActions.getWork.started(req)) },
+  actions: { prepareWorkPage: (req: IWorkRequest) => dispatch(appActions.prepareWorkPage.started(req)) },
 });
 
 const WorkPage = (props: Props) => {
-  const content = props.content.work.doc!;
+  React.useState(() => {
+    if (props.query.id && props.match.params.id) {
+      const cond_work = !props.content.work.doc || props.content.work.doc.uid !== props.query.id;
+      if (cond_work) props.actions.prepareWorkPage({ artistUid: props.match.params.id, workUid: props.query.id });
+    }
+  });
 
-  return !!content ? (
+  return !!props.content.work.doc && !!props.content.artist.list ? (
     <Wireframe
-      title={content.name}
+      title={props.content.work.doc.name}
       breadcrump={[
         { label: 'ARTIST', href: PageName.REVIEW_ARTIST },
-        { label: 'artistName', hrefWithId: toPublicUrl(PageName.ARTIST, undefined, { id: '' }) },
-        { label: content.name },
+        {
+          label: props.content.artist.list[props.match.params.id].name,
+          hrefWithId: toPublicUrl(PageName.ARTIST, undefined, { id: props.match.params.id }),
+        },
+        { label: props.content.work.doc.name },
       ]}
     >
       <Work {...props} />

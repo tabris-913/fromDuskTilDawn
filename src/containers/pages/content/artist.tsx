@@ -11,13 +11,12 @@ import Artist from '../../../components/content/Artist';
 import PageName from '../../../constants/PageName';
 import { IOwnProps, IStateProps, makeQuery } from '../../../models/Main';
 import IArtistRequest from '../../../models/requests/ArtistRequest';
-import { IWorkListRequest } from '../../../models/requests/WorkRequest';
 import { IStoreState } from '../../../reducers';
 
 interface ILocalStateProps extends IStateProps {}
 
 interface IDispatchProps {
-  actions: { getArtist: (req: IArtistRequest) => void; getWorks: (req: IWorkListRequest) => void };
+  actions: { prepareArtistPage: (req: IArtistRequest) => void };
 }
 
 type Props = IOwnProps & ILocalStateProps & IDispatchProps;
@@ -29,8 +28,7 @@ const mapState2Props = (state: IStoreState, ownProps: IOwnProps): ILocalStatePro
 
 const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDispatchProps => ({
   actions: {
-    getArtist: (req: IArtistRequest) => dispatch(appActions.getArtist.started(req)),
-    getWorks: (req: IWorkListRequest) => dispatch(appActions.getWorks.started(req)),
+    prepareArtistPage: (req: IArtistRequest) => dispatch(appActions.prepareArtistPage.started(req)),
   },
 });
 
@@ -38,11 +36,14 @@ const ArtistPage = (props: Props) => {
   React.useState(() => {
     if (props.query.id) {
       if (!props.content.artist.doc || props.content.artist.doc.uid !== props.query.id) {
-        props.actions.getArtist({ artistUid: props.query.id });
-        props.actions.getWorks({ artistUid: props.query.id });
+        props.actions.prepareArtistPage({ artistUid: props.query.id });
       }
     }
   });
+
+  React.useEffect(() => {
+    if (props.query.id) props.actions.prepareArtistPage({ artistUid: props.query.id });
+  }, [props.query.id]);
 
   return props.query.id ? (
     props.content.artist.doc && props.content.work.list ? (

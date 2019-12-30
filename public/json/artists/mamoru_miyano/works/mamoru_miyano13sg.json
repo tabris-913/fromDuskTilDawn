@@ -1,5 +1,5 @@
 {
-  "title": "シャイン",
+  "name": "シャイン",
   "description": "",
   "date": "2015-04-15",
   "year": 2015,
@@ -8,5 +8,6 @@
   "comment": "",
   "uid": "mamoru_miyano13sg",
   "img": ["mamoru_miyano13sg.jpg"],
-  "rate": 0
+  "rate": 0,
+  "type": "single"
 }

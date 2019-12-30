@@ -1,5 +1,5 @@
 {
-  "title": "DREAM FIGHTER",
+  "name": "DREAM FIGHTER",
   "description": "",
   "date": "2011-11-16",
   "year": 2011,
@@ -8,5 +8,6 @@
   "comment": "",
   "uid": "mamoru_miyano08sg",
   "img": ["mamoru_miyano08sg.jpg"],
-  "rate": 0
+  "rate": 0,
+  "type": "single"
 }

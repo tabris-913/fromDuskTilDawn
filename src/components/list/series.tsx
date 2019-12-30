@@ -11,7 +11,9 @@ const Title = () => <div style={{ marginBottom: 10 }}>ゲームやアニメな�
 
 const Body = (props: BodyProps & Partial<SeriesListPageDispatchProps>) => {
   const content = props.content.series.list!;
-  const doc = props.content.series.doc;
+  const [doc, setDoc] = React.useState(props.content.series.doc);
+
+  React.useEffect(() => setDoc(props.content.series.doc), [props.content.series.doc]);
 
   return (
     <Collapse accordion={true}>
