@@ -1,0 +1,32 @@
+{
+  "uid": "stratovarius02",
+  "name": "Twilight Time",
+  "akas": ["Stratovarius II"],
+  "date": "1992",
+  "year": 1992,
+  "artist": ["stratovarius"],
+  "genres": ["power_metal"],
+  "list": [
+    {
+      "list": [
+        [
+          "Break the Ice",
+          "The Hands of Time",
+          "Madness Strikes at Midnight",
+          "Metal Frenzy",
+          "Twilight Time",
+          "The Hills Has Eyes",
+          "Out of the Shadows",
+          "Lead Us into the Light"
+        ]
+      ]
+    }
+  ],
+  "description": "2ndアルバム",
+  "comment": "もともとStratovarius IIという名でリリースされていた2作目。その後1993年に日本で発売されるときにジャケットを差し替え、タイトルが変更された。なんといっても2曲目は初期ストラトを代表する名曲で、7曲目もそれに準じる高品質な名曲。この作品から日本で注目され始め、日本で正式にリリースされる前に1992年の時点の輸入盤チャートで長い間1位を獲得し続けていた。しかも日本盤発売の際には北欧メタルの決定版というなんとも誇張なコピーだったらしいが、さすがに先読みしすぎだろう。",
+  "rate": 84,
+  "type": "album",
+  "review_done": true,
+  "img": ["stratovarius02.jpg", "stratovarius02_original.jpg"],
+  "recommend": ["Break the Ice", "The Hands of Time", "Twilight Time", "Out of the Shadows"]
+}

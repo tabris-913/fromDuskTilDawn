@@ -20,6 +20,7 @@ export default interface IWork extends IContent<WorkUid> {
   type?: 'single' | 'album' | 'other';
   recommend?: string[];
   genres?: GenreUid[];
+  akas?: string[];
 }
 
 export interface ISong {

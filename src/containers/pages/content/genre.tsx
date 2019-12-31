@@ -58,7 +58,9 @@ const GenrePage = (props: Props) => {
         <Genre {...props} />
       </Wireframe>
     ) : (
-      <Spin tip="loading genre data..." />
+      <Wireframe>
+        <Spin tip="loading genre data..." />
+      </Wireframe>
     )
   ) : (
     <Modal

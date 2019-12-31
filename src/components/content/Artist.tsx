@@ -14,34 +14,32 @@ const Body = (props: BodyProps) => {
   const artists = props.content.artist.list!;
   const works = props.content.work.list!;
 
-  const Works = ({ p }: { p: 'singles' | 'albums' | 'others' }) => (
-    <div style={{ marginLeft: 10 }}>
-      <Typography.Title level={4} underline={true} style={{ marginTop: 0 }}>
-        {p}
-      </Typography.Title>
-      {works && works[p] && Object.keys(works[p]).length > 0 ? (
-        <>
-          <InternalLinkList
-            {...props}
-            size="small"
-            titlePropsName="title"
-            source={Object.entries(works[p]).map(([uid, work]) => {
-              return {
-                element: { title: work ? `${work.name} (${work.date})` : uid },
-                linkTo: work
-                  ? work.review_done
-                    ? toPublicUrl(PageName.WORK, [content.uid as string], { id: work.uid })
-                    : ''
-                  : '',
-              };
-            })}
-          />
-        </>
-      ) : (
-        <p>not reviewed yet or no {p}</p>
-      )}
-    </div>
-  );
+  const Works = ({ p }: { p: 'singles' | 'albums' | 'others' }) =>
+    works && works[p] && Object.keys(works[p]).length > 0 ? (
+      <div style={{ marginLeft: 10 }}>
+        <Typography.Title level={4} underline={true} style={{ marginTop: 0 }}>
+          {p}
+        </Typography.Title>
+
+        <InternalLinkList
+          {...props}
+          size="small"
+          titlePropsName="title"
+          source={Object.entries(works[p]).map(([uid, work]) => {
+            return {
+              element: { title: work ? `${work.name} (${work.date})` : uid },
+              linkTo: work
+                ? work.review_done
+                  ? toPublicUrl(PageName.WORK, [content.uid as string], { id: work.uid })
+                  : ''
+                : '',
+            };
+          })}
+        />
+      </div>
+    ) : (
+      <></>
+    );
 
   return (
     <>

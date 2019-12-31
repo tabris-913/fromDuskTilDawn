@@ -54,7 +54,9 @@ const ArtistPage = (props: Props) => {
         <Artist {...props} />
       </Wireframe>
     ) : (
-      <Spin tip="loading artist data..." />
+      <Wireframe>
+        <Spin tip="loading artist data..." />
+      </Wireframe>
     )
   ) : (
     <Modal

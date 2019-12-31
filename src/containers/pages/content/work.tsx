@@ -5,6 +5,7 @@ import * as Redux from 'redux';
 
 import Wireframe from '../../wireframe/Wireframe';
 
+import { Button, Modal, Spin } from 'antd';
 import { appActions } from '../../../actions';
 import Work from '../../../components/content/Work';
 import PageName, { toPublicUrl } from '../../../constants/PageName';
@@ -37,22 +38,32 @@ const WorkPage = (props: Props) => {
     }
   });
 
-  return !!props.content.work.doc && !!props.content.artist.list ? (
-    <Wireframe
-      title={props.content.work.doc.name}
-      breadcrump={[
-        { label: 'ARTIST', href: PageName.REVIEW_ARTIST },
-        {
-          label: props.content.artist.list[props.match.params.id].name,
-          hrefWithId: toPublicUrl(PageName.ARTIST, undefined, { id: props.match.params.id }),
-        },
-        { label: props.content.work.doc.name },
-      ]}
-    >
-      <Work {...props} />
-    </Wireframe>
+  return props.query.id ? (
+    !!props.content.work.doc && !!props.content.artist.list ? (
+      <Wireframe
+        title={props.content.work.doc.name}
+        breadcrump={[
+          { label: 'ARTIST', href: PageName.REVIEW_ARTIST },
+          {
+            label: props.content.artist.list[props.match.params.id].name,
+            hrefWithId: toPublicUrl(PageName.ARTIST, undefined, { id: props.match.params.id }),
+          },
+          { label: props.content.work.doc.name },
+        ]}
+      >
+        <Work {...props} />
+      </Wireframe>
+    ) : (
+      <Wireframe>
+        <Spin tip="loading work data..." />
+      </Wireframe>
+    )
   ) : (
-    <></>
+    <Modal
+      title="Go Back"
+      destroyOnClose={false}
+      footer={[<Button key="ok" type="primary" onClick={props.history.goBack} />]}
+    />
   );
 };
 

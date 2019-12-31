@@ -63,7 +63,9 @@ const SeriesContentPage = (props: Props) => {
         <Series {...props} />
       </Wireframe>
     ) : (
-      <Spin tip="loading series data..." />
+      <Wireframe>
+        <Spin tip="loading series data..." />
+      </Wireframe>
     )
   ) : (
     <Modal
