@@ -2,6 +2,7 @@ import IArtist, { IArtistList } from '../models/contents/artist';
 import IGenre, { IGenreList } from '../models/contents/genre';
 import ISelection, { ISelectionList } from '../models/contents/selection';
 import ISeries, { ISeriesContent, ISeriesList } from '../models/contents/series';
+import { ITopTopic } from '../models/contents/top';
 import IWork, { IWorkList } from '../models/contents/work';
 import IYearBest, { IYearBestList } from '../models/contents/yearBest';
 import IArtistRequest, { IArtistListRequest } from '../models/requests/ArtistRequest';
@@ -29,6 +30,8 @@ export interface ContentApis {
   getSeries: (req: ISeriesRequest) => Promise<ISeries>;
   getWork: (req: IWorkRequest) => Promise<IWork>;
   getYearBest: (req: IYearBestRequest) => Promise<IYearBest>;
+
+  getTopTopic: (req: void) => Promise<ITopTopic>;
 }
 // [TODO] add score, reviewSchdule, newRelease
 
@@ -99,6 +102,10 @@ export const contentApisBuilder = (): ContentApis => {
     getYearBest: (req: IYearBestRequest) => {
       const url = `${baseUrl}/json/yearbests/${req.yearBestUid}.json`;
       return get<IYearBestRequest, IYearBest>(url, req);
+    },
+    getTopTopic: (req: void) => {
+      const url = `${baseUrl}/json/top.json`;
+      return get<void, ITopTopic>(url, req);
     },
   };
 };

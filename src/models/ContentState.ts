@@ -5,6 +5,7 @@ import { ISeriesState } from '../reducers/content/series';
 import { IWorkState } from '../reducers/content/work';
 import { IYearBestState } from '../reducers/content/yearBest';
 import IContent, { IContentList } from './contents/content';
+import { ITopTopic } from './contents/top';
 import { Uid } from './Id';
 
 export interface IContentState<C extends IContent<Uid>, L extends IContentList> {
@@ -19,4 +20,5 @@ export interface IContentsState {
   series: ISeriesState;
   work: IWorkState;
   yearBest: IYearBestState;
+  topTopic: ITopTopic;
 }

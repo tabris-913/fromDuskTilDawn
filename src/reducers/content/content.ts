@@ -10,6 +10,7 @@ const initialState: IContentsState = {
   series: {},
   work: {},
   yearBest: {},
+  topTopic: {},
 };
 
 export const contentReducerBuilder = (actions: ContentActions, contentName?: ContentName) => {
@@ -92,6 +93,10 @@ export const contentReducerBuilder = (actions: ContentActions, contentName?: Con
       artist: { ...state.artist, ...action.payload.result.artist },
       genre: { ...state.genre, ...action.payload.result.genre },
       work: { ...state.work, ...action.payload.result.work },
+    }))
+    .caseWithAction(actions.topTopic.done, (state, action) => ({
+      ...state,
+      topTopic: { ...state.topTopic, ...action.payload.result },
     }));
 };
 

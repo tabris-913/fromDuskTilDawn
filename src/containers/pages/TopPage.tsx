@@ -5,13 +5,16 @@ import * as Redux from 'redux';
 
 import Wireframe from '../wireframe/Wireframe';
 
+import { appActions } from '../../actions';
 import Top from '../../components/main/Top';
 import { IOwnProps, IStateProps, makeQuery } from '../../models/Main';
 import { IStoreState } from '../../reducers';
 
 interface ILocalStateProps extends IStateProps {}
 
-interface IDispatchProps {}
+interface IDispatchProps {
+  actions: { getTopTopic: () => void };
+}
 
 type Props = IOwnProps & ILocalStateProps & IDispatchProps;
 
@@ -21,15 +24,14 @@ const mapState2Props = (state: IStoreState, ownProps: IOwnProps): ILocalStatePro
 });
 
 const mapDispatch2Props = (dispatch: Redux.Dispatch, ownProps: IOwnProps): IDispatchProps => {
-  return {};
+  return { actions: { getTopTopic: () => dispatch(appActions.topTopic.started({})) } };
 };
 
-const TopPage = (props: Props) => (
-  <Wireframe title="TOP">
-    <Top {...props} />
-  </Wireframe>
-);
+const TopPage = (props: Props) => {
+  React.useState(() => props.actions.getTopTopic());
 
+  return <Wireframe title="TOP">{props.content.topTopic.reviewed ? <Top {...props} /> : undefined}</Wireframe>;
+};
 export default withRouter(
   connect(
     mapState2Props,

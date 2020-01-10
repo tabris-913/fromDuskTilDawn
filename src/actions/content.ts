@@ -3,9 +3,11 @@ import IArtist, { IArtistList, IArtistPage } from '../models/contents/artist';
 import IGenre, { IGenreList, IGenrePage } from '../models/contents/genre';
 import ISelection, { ISelectionList } from '../models/contents/selection';
 import ISeries, { ISeriesContent, ISeriesList, ISeriesPage } from '../models/contents/series';
+import { ITopTopic } from '../models/contents/top';
 import IWork, { IWorkList, IWorkPage } from '../models/contents/work';
 import IYearBest, { IYearBestList } from '../models/contents/yearBest';
 import IArtistRequest, { IArtistListRequest } from '../models/requests/ArtistRequest';
+import { IContentRequest } from '../models/requests/ContentRequest';
 import IGenreRequest, { IGenreListRequest, IPrepareGenrePageRequest } from '../models/requests/GenreRequest';
 import ISelectionRequest, { ISelectionListRequest } from '../models/requests/SelectionRequest';
 import ISeriesRequest, { ISeriesListRequest } from '../models/requests/SeriesRequest';
@@ -32,6 +34,8 @@ export interface ContentActions {
   prepareGenrePage: AsyncActionCreators<IPrepareGenrePageRequest, IGenrePage, any>;
   prepareSeriesPage: AsyncActionCreators<ISeriesRequest, ISeriesPage, any>;
   prepareWorkPage: AsyncActionCreators<IWorkRequest, IWorkPage, any>;
+
+  topTopic: AsyncActionCreators<IContentRequest, ITopTopic, any>;
 }
 
 export const contentActionsBuilder = (actionTypeMap: { [P in keyof ContentActions]: string }): ContentActions => {
@@ -56,6 +60,8 @@ export const contentActionsBuilder = (actionTypeMap: { [P in keyof ContentAction
     prepareGenrePage: actionCreator<IPrepareGenrePageRequest, IGenrePage, any>(actionTypeMap.prepareGenrePage),
     prepareSeriesPage: actionCreator<ISeriesRequest, ISeriesPage, any>(actionTypeMap.prepareSeriesPage),
     prepareWorkPage: actionCreator<IWorkRequest, IWorkPage, any>(actionTypeMap.prepareWorkPage),
+
+    topTopic: actionCreator<IContentRequest, ITopTopic, any>(actionTypeMap.topTopic),
   };
 };
 
@@ -78,4 +84,6 @@ export const appActions = contentActionsBuilder({
   prepareGenrePage: ActionTypes.PREPARE_GENRE_PAGE,
   prepareSeriesPage: ActionTypes.PREPARE_SERIES_PAGE,
   prepareWorkPage: ActionTypes.PREPARE_WORK_PAGE,
+
+  topTopic: ActionTypes.TOP_TOPIC,
 });

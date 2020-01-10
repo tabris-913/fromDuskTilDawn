@@ -4,6 +4,7 @@ import { ContentActions } from '../actions/content';
 import { ContentApis } from '../apis/content';
 import { ArtistUid, WorkUid } from '../models/Id';
 import IArtistRequest, { IArtistListRequest } from '../models/requests/ArtistRequest';
+import { IContentRequest } from '../models/requests/ContentRequest';
 import IGenreRequest, { IGenreListRequest, IPrepareGenrePageRequest } from '../models/requests/GenreRequest';
 import ISelectionRequest, { ISelectionListRequest } from '../models/requests/SelectionRequest';
 import ISeriesRequest, { ISeriesListRequest } from '../models/requests/SeriesRequest';
@@ -30,6 +31,8 @@ export interface ContentSaga {
   prepareGenrePage: (action: Action<IPrepareGenrePageRequest>) => IterableIterator<any>;
   prepareSeriesPage: (action: Action<ISeriesRequest>) => IterableIterator<any>;
   prepareWorkPage: (action: Action<IWorkRequest>) => IterableIterator<any>;
+
+  getTopTopic: (action: Action<IContentRequest>) => IterableIterator<any>;
 }
 
 const saga = (actions: ContentActions, apis: ContentApis) => ({
@@ -215,6 +218,13 @@ const saga = (actions: ContentActions, apis: ContentApis) => ({
           result: { work: { doc: work }, artist: { list: artist }, genre: { list: genre } },
         })
       );
+    },
+  getTopTopic: () =>
+    function*(action: Action<IContentRequest>): IterableIterator<any> {
+      console.log('start getting topic');
+      const req = action.payload;
+      const topic: ReturnedType<typeof apis.getTopTopic> = yield call(apis.getTopTopic);
+      yield put(actions.topTopic.done({ params: req, result: topic }));
     },
 });
 
