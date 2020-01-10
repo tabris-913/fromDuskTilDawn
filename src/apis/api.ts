@@ -1,6 +1,6 @@
 // API BASE URL
-export const API_BASE_URL = 'https://api.github.com/repos/tabris-913/fromDuskTilDawn/contents/public';
-// export const API_BASE_URL = process.env.PUBLIC_URL;
+export const API_BASE_URL = process.env.REACT_APP_API_PATH;
+console.log(process.env.REACT_APP_API_PATH);
 
 export const fetchWithErrorHandling = (url: RequestInfo, options?: RequestInit | undefined) =>
   fetch(url, options)
@@ -30,7 +30,7 @@ export const get = async <T, U>(url: string, data: T): Promise<U> => {
   return fetchWithErrorHandling(url, {
     method: 'GET',
     headers: {
-      Authorization: 'token XXX',
+      Authorization: `token ${process.env.REACT_APP_GIT_API_TOKEN}`,
       Accept: 'application/vnd.github.v3.raw',
     },
   }).then(res => {

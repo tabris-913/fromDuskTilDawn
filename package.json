@@ -1,7 +1,7 @@
 {
   "name": "html",
-  "homepage": "http://musique.yukishigure.com/new",
-  "version": "0.1.0",
+  "homepage": "http://musique.yukishigure.com/",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "antd": "^3.20.0",
