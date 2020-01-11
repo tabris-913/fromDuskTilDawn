@@ -1,0 +1,73 @@
+{
+  "uid": "stratovarius07",
+  "date": "1998-10-05",
+  "genres": ["power_metal", "neo_classical_metal", "melodic_power_metal", "progressive_metal"],
+  "review_done": true,
+  "name": "Destiny",
+  "artist": ["Stratovarius"],
+  "year": 1998,
+  "list": [
+    {
+      "list": [
+        [
+          "Destiny",
+          "S.O.S.",
+          "No Turning Back",
+          "4000 Rainy Nights",
+          "Rebel",
+          "Years Go By",
+          "Playing with Fire",
+          "Venus in the Morning",
+          "Anthem of the World",
+          "Cold Winter Nights"
+        ]
+      ]
+    },
+    {
+      "list": [
+        [
+          "Destiny",
+          "S.O.S.",
+          "No Turning Back",
+          "4000 Rainy Nights",
+          "Rebel",
+          "Years Go By",
+          "Playing with Fire",
+          "Venus in the Morning",
+          "Anthem of the World",
+          "Dream with Me"
+        ]
+      ],
+      "description": "Japanese Edition"
+    },
+    {
+      "list": [
+        [
+          "Destiny",
+          "S.O.S.",
+          "No Turning Back",
+          "4000 Rainy Nights",
+          "Rebel",
+          "Playing with Fire",
+          "Venus in the Morning",
+          "Anthem of the World",
+          "Blackout [Scorpions Cover]"
+        ]
+      ],
+      "description": "USA Edition"
+    }
+  ],
+  "rate": 95,
+  "comment": "善と悪の戦いがコンセプトの7作目。1曲目に10分を超える対策を持ってくるという野心的な作品だが、フィンランド1位を獲得するヒットとなった。いくら本国とはいえ、あのメタル大国フィンランドで1位を取るのはなかなか容易ではないはずだ。シンフォニックの強かった前作に比べ、本来の持ち味であるネオクラが強い。過小評価されることも多いが、疾走曲とミドル・スロー曲の並びがきれいでメリハリが聴いている。ストラト史上最も疾走曲の割合が多い作品でもある。",
+  "recommend": [
+    "全部 特にDestiny",
+    "No Turning Back",
+    "Rebel",
+    "Playing with Fire",
+    "Anthem of the World",
+    "Cold Winter Nights"
+  ],
+  "description": "7thアルバム",
+  "type": "album",
+  "img": ["stratovarius07.jpg"]
+}

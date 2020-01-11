@@ -46,7 +46,7 @@ const ArtistPage = (props: Props) => {
   }, [props.query.id]);
 
   return props.query.id ? (
-    props.content.artist.doc && props.content.work.list ? (
+    props.content.artist.doc && props.content.work.list && props.content.artist.doc.uid === props.query.id ? (
       <Wireframe
         title={props.content.artist.doc.name || ''}
         breadcrump={[{ label: 'ARTIST', href: PageName.REVIEW_ARTIST }, { label: props.content.artist.doc.name || '' }]}

@@ -4,7 +4,7 @@ import argparse
 import json
 import os
 
-ARTIST = '../public/json/artists'
+ARTIST = os.path.join('..', 'public', 'json', 'artists')
 
 
 def add_artist(filepath: str):
@@ -59,6 +59,7 @@ def work_artist():
             if os.path.exists(path) is False:
                 os.mkdir(path)
             works = os.listdir(path)
+            genres = set()
             for workname in works:
                 if workname == 'index.json':
                     continue
@@ -66,6 +67,7 @@ def work_artist():
                     work = json.load(wf)
                 t = f'{work.get("type", "other")}s'
                 uid = work['uid']
+                genres |= set(work['genres'] if 'genres' in work else set())
                 if uid not in d[t]:
                     d[t][uid] = {
                         'uid': uid,
@@ -85,6 +87,7 @@ def work_artist():
                 for k2 in v:
                     if k2 not in info[k]:
                         info[k] += [k2]
+            info['genres'] = list(genres | set(info['genres']) if 'genres' in info else set())
             with open(os.path.join(ARTIST, c, 'info.json'), 'w', encoding='utf8') as infof:
                 json.dump(info, infof, ensure_ascii=False)
 

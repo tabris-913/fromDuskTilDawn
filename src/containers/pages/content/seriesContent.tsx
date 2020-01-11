@@ -55,7 +55,10 @@ const SeriesContentPage = (props: Props) => {
   }, [props.query.id]);
 
   return props.query.id ? (
-    props.content.series.content && props.content.series.doc ? (
+    props.content.series.content &&
+    props.content.series.doc &&
+    props.content.series.doc.uid === props.match.params.id &&
+    props.content.series.content.uid === props.query.id ? (
       <Wireframe
         title={props.content.series.content.name}
         breadcrump={[{ label: 'SERIES', href: PageName.SERIES }, { label: props.content.series.content.name }]}

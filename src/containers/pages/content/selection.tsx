@@ -39,7 +39,7 @@ const SelectionPage = (props: Props) => {
   });
 
   return props.query.id ? (
-    props.content.selection.doc ? (
+    props.content.selection.doc && props.content.selection.doc.uid === props.query.id ? (
       <Wireframe
         title={props.content.selection.doc.name}
         breadcrump={[{ label: 'SELECTION', href: PageName.SELECTIONS }, { label: props.content.selection.doc.name }]}

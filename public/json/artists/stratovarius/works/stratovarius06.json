@@ -1,0 +1,52 @@
+{
+  "uid": "stratovarius06",
+  "date": "1997-04-28",
+  "genres": ["power_metal", "neo_classical_metal", "melodic_power_metal", "symphonic_power_metal"],
+  "review_done": true,
+  "name": "Visions",
+  "artist": ["Stratovarius"],
+  "year": 1997,
+  "list": [
+    {
+      "list": [
+        [
+          "The Kiss of Judas",
+          "Black Diamond",
+          "Forever Free",
+          "Before the Winter",
+          "Legions",
+          "The Abyss of Your Eyes",
+          "Holy Light",
+          "Paradise",
+          "Coming Home",
+          "Visions (Southern Cross)"
+        ]
+      ]
+    },
+    {
+      "list": [
+        [
+          "Black Diamond",
+          "The Kiss of Judas",
+          "Forever Free",
+          "Before the Winter",
+          "Legions",
+          "The Abyss of Your Eyes",
+          "Holy Light",
+          "Paradise",
+          "Coming Home",
+          "Visions (Southern Cross)",
+          "Black Diamond (demo)",
+          "Uncertainly [live]"
+        ]
+      ],
+      "description": "Japanese Edition"
+    }
+  ],
+  "rate": 98,
+  "comment": "誰が何と言おうがこれがストラトの最高傑作。かつてないほどにシンフォニックな要素を強め、曲一つ一つの魅力も最大限まで高まっている。この作品で日本以外の国での人気も決定づけ、本国では4位のヒットとなった。やはり何と言ってもバンドを代表する超名曲である2曲目だ。イントロのチェンバロの音色からしてノックアウト。その後の展開も見事の一言に尽きる。3曲目以降も名曲目白押しで、10分の大作タイトル曲まで一瞬の気のゆるみもない。疾走曲も美しいバラード曲もみんな名曲で、紛れもない名盤。死んだら絶対に棺桶に入れてもらう、そんな一枚だ。日本では曲順が若干異なり、1曲目と2曲目が逆に収録されている。",
+  "recommend": ["全部 特にThe Kiss of Judas", "Black Diamond", "Forever Free", "Paradise"],
+  "description": "6thアルバム",
+  "type": "album",
+  "img": ["stratovarius06.jpg"]
+}

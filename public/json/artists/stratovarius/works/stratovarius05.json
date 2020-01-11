@@ -1,0 +1,55 @@
+{
+  "uid": "stratovarius05",
+  "date": "1996-04-22",
+  "genres": ["power_metal", "neo_classical_metal", "melodic_power_metal"],
+  "review_done": true,
+  "name": "Episode",
+  "artist": ["Stratovarius"],
+  "year": 1996,
+  "list": [
+    {
+      "list": [
+        [
+          "Father Time",
+          "Will the Sun Rise?",
+          "Eternity",
+          "Episode",
+          "Speed of Light",
+          "Uncertainly",
+          "Season of Change",
+          "Stratosphere",
+          "Babylon",
+          "Tomorrow",
+          "Night Time Eclipse",
+          "Forever"
+        ]
+      ]
+    },
+    {
+      "list": [
+        [
+          "Father Time",
+          "Will the Sun Rise?",
+          "Eternity",
+          "Episode",
+          "Speed of Light",
+          "Uncertainly",
+          "Season of Change",
+          "Stratosphere",
+          "Babylon",
+          "Tomorrow",
+          "Night Time Eclipse",
+          "Forever",
+          "When the Night Meets the Day"
+        ]
+      ],
+      "description": "Japanese Edition"
+    }
+  ],
+  "rate": 91,
+  "comment": "新たにSilver MountainやYngwie J. Malmsteen's Rising Forceで活躍した名キーボーディストJens Johanssonと、RageやRunning Wildで活躍した名ドラマーJörg Michaelを迎え、明らかに演奏力が跳ね上がった。そのため難易度の高い曲でも容易にプレイできるようになり、疾走曲が増えた。1曲目と2曲目はそんな成長を証明するもっともよい例で、聴けばわかる。イングヴェイとは違ったストラト流のネオクラシカルメタル！ただ明るい疾走曲と、重くて暗い曲のだいたい2通りに分けられるため、若干曲調の幅の狭さを感じてしまう。そしてもう一つ語らないまま終われないのが11曲目だ。アコースティックなバラードだが、ストラト歴代の名曲の中でも特に人気の高い名曲だ。",
+  "recommend": ["Father Time", "Will the Sun Rise?", "Speed of Light", "Stratophere", "Tomorrow", "Forever"],
+  "description": "5thアルバム",
+  "type": "album",
+  "img": ["stratovarius05.jpg"]
+}

@@ -1,0 +1,83 @@
+{
+  "uid": "stratovarius09",
+  "date": "2003-01-27",
+  "genres": ["neo_classical_metal", "melodic_power_metal", "symphonic_power_metal"],
+  "review_done": true,
+  "name": "Elements, Pt. 1",
+  "artist": ["Stratovarius"],
+  "year": 2003,
+  "list": [
+    {
+      "list": [
+        [
+          "Eagleheart",
+          "Soul of a Vagabond",
+          "Find Your Own Voice",
+          "Fantasia",
+          "Leaning to Fly",
+          "Papillon",
+          "Stratofortress",
+          "Elements",
+          "A Drop in the Ocean"
+        ]
+      ]
+    },
+    {
+      "list": [
+        [
+          "Eagleheart",
+          "Soul of a Vagabond",
+          "Find Your Own Voice",
+          "Fantasia",
+          "Leaning to Fly",
+          "Papillon",
+          "Stratofortress",
+          "Elements",
+          "A Drop in the Ocean",
+          "Into Deep Blue"
+        ]
+      ],
+      "description": "Japanese Edition"
+    },
+    {
+      "list": [
+        [
+          "Eagleheart",
+          "Soul of a Vagabond",
+          "Find Your Own Voice",
+          "Fantasia",
+          "Leaning to Fly",
+          "Papillon",
+          "Stratofortress",
+          "Elements",
+          "A Drop in the Ocean",
+          "Papillon [French language version]"
+        ]
+      ],
+      "description": "French Edition"
+    },
+    {
+      "list": [
+        [
+          "Eagleheart (demo)",
+          "Soul of a Vagabond (demo)",
+          "Find Your Own Voice (demo)",
+          "Fantasia (demo)",
+          "Leaning to Fly (demo)",
+          "Papillon (demo)",
+          "Stratofortress (demo)",
+          "Elements (demo)",
+          "A Drop in the Ocean (demo)",
+          "Run Away"
+        ]
+      ],
+      "description": "Limited Edition Disc 2"
+    }
+  ],
+  "rate": 83,
+  "comment": "もともと2枚組の構想だったが、わけあって別々にリリースされることになったアルバムのパート1。四大元素のうち火と水をテーマにした作品で、やはりEpisodeからInfiniteまでの大傑作4枚には及ばないものの、単純に「ストラトは終わった」といってやすやすと切り捨てていい作品でもない。1曲目はHunting High and Lowにも通じる明るくてポップな曲だし、3曲目もさすがの名疾走。珍しくワウの効いたギターが聴ける5曲目のさすがの一言に尽きる。そしてインストの7曲目は、全盛期のインストのような派手さはないものの、技術を感じる爽やかな一曲。シングルカットされた1曲目とアルバムはともにフィンランドで2位のヒットとなった。",
+  "recommend": ["Eagleheart", "Find Your Own Voice", "Leaning to Fly", "Stratofortress", "A Drop in the Ocean"],
+  "description": "9thアルバム",
+  "type": "album",
+  "img": ["stratovarius09.jpg"]
+}

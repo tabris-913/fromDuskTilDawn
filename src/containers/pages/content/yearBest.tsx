@@ -39,7 +39,7 @@ const YearBestPage = (props: Props) => {
   });
 
   return props.query.id ? (
-    !!props.content.yearBest.doc ? (
+    !!props.content.yearBest.doc && props.content.yearBest.doc.uid === props.query.id ? (
       <Wireframe
         title={props.query.id}
         breadcrump={[{ label: 'YEAR BEST', href: PageName.YEAR_BESTS }, { label: props.query.id || '' }]}

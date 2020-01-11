@@ -1,0 +1,32 @@
+{
+  "uid": "stratovarius11",
+  "date": "2005-09-05",
+  "genres": ["heavy_metal", "melodic_metal", "hard_rock"],
+  "review_done": true,
+  "name": "Stratovarius",
+  "artist": ["Stratovarius"],
+  "year": 2005,
+  "list": [
+    {
+      "list": [
+        [
+          "Miniac Dance",
+          "Fight!!",
+          "Just Carry On",
+          "Back to Madness",
+          "Gypsy in Me",
+          "Götterdämmerung （神々の黄昏）",
+          "The Land of Ice and Snow",
+          "Leave the Tribe",
+          "United"
+        ]
+      ]
+    }
+  ],
+  "rate": 53,
+  "comment": "...なんだこのアルバムは。これがストラト？馬鹿言うな。もっとまともな冗談を言え。ストラトは北欧のメロディック・メタルバンドだと記憶していたが、LAメタルに転身したのだ。と最初に聴いたときは思っていた。ただ聞く回数を追うごとに慣れてきたのか、最初の頃ほどの抵抗感はない。事実、まるっきりシンフォニックでもクラシカルでもないわけだが、ストラトらしさの欠片もない1曲目なんかは、1周まわって逆に癖になる。",
+  "recommend": ["Maniac Dance", "Fight!!", "Just Carry On", "United"],
+  "description": "11thアルバム",
+  "type": "album",
+  "img": ["stratovarius11.jpg"]
+}

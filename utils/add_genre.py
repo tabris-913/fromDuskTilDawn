@@ -4,8 +4,8 @@ import argparse
 import json
 import os
 
-ARTIST = '../public/json/artists'
-GENRE = '../public/json/genres'
+ARTIST = os.path.join('..', 'public', 'json', 'artists')
+GENRE = os.path.join('..', 'public', 'json', 'genres')
 
 
 def index_genre():

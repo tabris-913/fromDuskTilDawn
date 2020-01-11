@@ -50,7 +50,7 @@ const GenrePage = (props: Props) => {
   });
 
   return props.query.id ? (
-    props.content.genre.doc ? (
+    props.content.genre.doc && props.content.genre.doc.uid === props.query.id ? (
       <Wireframe
         title={props.content.genre.doc.name}
         breadcrump={[{ label: 'GENRES', href: PageName.REVIEW_GENRES }, { label: props.content.genre.doc.name }]}

@@ -1,0 +1,60 @@
+{
+  "uid": "stratovarius04",
+  "date": "1995-04-11",
+  "genres": ["power_metal", "neo_classical_metal"],
+  "review_done": true,
+  "name": "Fourth Dimension",
+  "artist": ["Stratovarius"],
+  "year": 1995,
+  "list": [
+    {
+      "list": [
+        [
+          "Against the Wind",
+          "Distant Skies",
+          "Galaxies",
+          "Winter",
+          "Stratovarius",
+          "Lord of the Wasteland",
+          "030366",
+          "Nightfall",
+          "We Hold the Key",
+          "Twilight Symphony",
+          "Call of the Wilderness"
+        ]
+      ]
+    },
+    {
+      "list": [
+        [
+          "Against the Wind",
+          "Distant Skies",
+          "Galaxies",
+          "Winter",
+          "Stratovarius",
+          "Lord of the Wasteland",
+          "030366",
+          "Nightfall",
+          "We Hold the Key",
+          "Twilight Symphony",
+          "Call of the Wilderness",
+          "Dreamspace [live]"
+        ]
+      ],
+      "description": "Japanese Edition"
+    }
+  ],
+  "rate": 88,
+  "comment": "ヴォーカルをTimo Kotipeltoに変えてリリースした4作目。とはいっても声質がTolkkiと非常に似ているので、全く違和感がない。ギターに専念できるようになったからか、格段に曲の質も向上した。バンド名を名付けた5曲目はインストだが、イングヴェイがいる。そして10曲目のイントロにも、イングヴェイがいる(笑)。",
+  "recommend": [
+    "Against the Wind",
+    "Distant Skies",
+    "Galaxies",
+    "Stratovarius",
+    "Lord of the Wasteland",
+    "Twilight Symphony"
+  ],
+  "description": "4thアルバム",
+  "type": "album",
+  "img": ["stratovarius04.jpg"]
+}

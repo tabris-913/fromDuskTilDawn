@@ -22,17 +22,46 @@
           "Atlantis",
           "Abyss",
           "Shattered",
+          "Wings of Tomorrow"
+        ]
+      ]
+    },
+    {
+      "list": [
+        [
+          "Chasing Shadows",
+          "4th Reich",
+          "Eyes of the World",
+          "Hold on to Your Dream",
+          "Magic Carpet Ride",
+          "We Are the Future",
+          "Tears of Ice",
+          "Dreamspace",
+          "Reign of Terror",
+          "Thin Ice",
+          "Atlantis",
+          "Abyss",
+          "Shattered",
           "Wings of Tomorrow",
           "Full Moon"
         ]
-      ]
+      ],
+      "description": "Japanese Edition"
     }
   ],
   "description": "3rdアルバム",
   "comment": "Timo Tolkkiがヴォーカルを兼任する最後のアルバム。前作が日本でヒットしたことを受けてか、まだ世界的に有名になる前にもかかわらず日本盤にはボーナストラックがついている（だが曲は正直微妙）。ファンには比較的人気の高い一枚なのだが、名曲と捨て曲の差が激しい。しかし着実にレヴェルを上げているのがわかる。とりあえず彼らの準備期間はここまで。新たな専任ヴォーカルを迎える次作から、本番が始まるのだ。",
-  "rate": 86,
+  "rate": 81,
   "type": "album",
   "review_done": true,
   "img": ["stratovarius03.jpg"],
-  "recommend": ["Chasing Shadows", "Hold on to Your Dream", "We Are the Future", "Dreamspace", "Wings of Tomorrow"]
+  "recommend": [
+    "Chasing Shadows",
+    "Eyes of the World",
+    "Hold on to Your Dream",
+    "We Are the Future",
+    "Dreamspace",
+    "Shattered",
+    "Wings of Tomorrow"
+  ]
 }

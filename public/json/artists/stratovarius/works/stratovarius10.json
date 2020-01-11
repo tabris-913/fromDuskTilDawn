@@ -1,0 +1,49 @@
+{
+  "uid": "stratovarius10",
+  "date": "2003-11-04",
+  "genres": ["neo_classical_metal", "melodic_power_metal"],
+  "review_done": true,
+  "name": "Elements, Pt. 2",
+  "artist": ["Stratovarius"],
+  "year": 2003,
+  "list": [
+    {
+      "list": [
+        [
+          "Alpha & Omega",
+          "I Walk to My Own Song",
+          "I'm Still Alive",
+          "Season of Faith's Perfection",
+          "Awaken the Giant",
+          "Know the Difference",
+          "Luminous",
+          "Dreamweaver",
+          "Liberty"
+        ]
+      ]
+    },
+    {
+      "list": [
+        [
+          "Alpha & Omega",
+          "I Walk to My Own Song",
+          "I'm Still Alive",
+          "Season of Faith's Perfection",
+          "Awaken the Giant",
+          "Know the Difference",
+          "Luminous",
+          "Dreamweaver",
+          "Liberty",
+          "Ride Like the Wind"
+        ]
+      ],
+      "description": "Japanese Edition"
+    }
+  ],
+  "rate": 80,
+  "comment": "地と風をテーマにした、エレメンツの2作目。全体的に前作よりもシンプルで地味だが、大作が2曲も入っていた前作に比べればまだコンパクトで聴きやすい。しかし数曲をのぞいて曲の質がさらに落ちてしまい、アルバム全体の印象としては前作以下だ。ただ爽快な疾走曲である3曲目と、ネオクラなイントロの名曲6曲目は全盛期の名曲に比肩する。加えて本編ラストのバラードである9曲目もなかなかの曲だ。ただボーナスの10曲目はなんで本編に入れなかったのかなぁという名曲。シングルカットされた2曲目は本国で9位、アルバムは4位にランクインした。これはまずネームヴァリューのおかげだろう。",
+  "recommend": ["I Walk to My Own Song", "I'm Still Alive", "Know the Difference", "Liberty", "Ride Like the Wind"],
+  "description": "10thアルバム",
+  "type": "album",
+  "img": ["stratovarius10.jpg"]
+}

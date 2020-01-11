@@ -39,7 +39,7 @@ const WorkPage = (props: Props) => {
   });
 
   return props.query.id ? (
-    !!props.content.work.doc && !!props.content.artist.list ? (
+    !!props.content.work.doc && !!props.content.artist.list && props.content.work.doc.uid === props.query.id ? (
       <Wireframe
         title={props.content.work.doc.name}
         breadcrump={[
