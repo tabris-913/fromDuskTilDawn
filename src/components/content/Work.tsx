@@ -41,7 +41,7 @@ const Body = (props: BodyProps) => {
           <Rate
             disabled={true}
             allowHalf={true}
-            defaultValue={Math.floor(content.rate / 10) / 2}
+            defaultValue={Math.floor((content.rate + 5) / 10) / 2}
             style={{ paddingTop: 15 }}
           />
         ) : (
