@@ -1,0 +1,72 @@
+{
+  "uid": "stratovarius12",
+  "date": "2009-05-15",
+  "genres": ["neo_classical_metal", "melodic_power_metal", "progressive_metal"],
+  "review_done": true,
+  "name": "Polaris",
+  "artist": ["Stratovarius"],
+  "year": 2009,
+  "list": [
+    {
+      "list": [
+        [
+          "Deep Unknown",
+          "Falling Star",
+          "King of Nothing",
+          "Blind",
+          "Winter Skies",
+          "Forever Is Today",
+          "Higher We Go",
+          "Somehow Precious",
+          "Emancipation Suite Part I: Dusk",
+          "Emansipation Suite Part II: Dawn",
+          "When Mountains Fall"
+        ]
+      ]
+    },
+    {
+      "list": [
+        [
+          "Deep Unknown",
+          "Falling Star",
+          "King of Nothing",
+          "Second Sight",
+          "Blind",
+          "Winter Skies",
+          "Forever Is Today",
+          "Higher We Go",
+          "Somehow Precious",
+          "Emancipation Suite Part I: Dusk",
+          "Emansipation Suite Part II: Dawn",
+          "When Mountains Fall"
+        ]
+      ],
+      "description": "Japanese Edition"
+    },
+    {
+      "list": [
+        [
+          "Deep Unknown",
+          "Falling Star",
+          "King of Nothing",
+          "Blind",
+          "Winter Skies",
+          "Forever Is Today",
+          "Higher We Go",
+          "Somehow Precious",
+          "Emancipation Suite Part I: Dusk",
+          "Emansipation Suite Part II: Dawn",
+          "When Mountains Fall",
+          "Deep Unknown (Mikko Raita Vinyl Mix)"
+        ]
+      ],
+      "description": "Digipak Edition"
+    }
+  ],
+  "rate": 81,
+  "comment": "ソングライトの中心人物Timo Tolkkiが脱退し、どうなるかという不安もあったがなんとかストラトらしいアルバムをリリース。というより普通にいいアルバムじゃないか！！たしかに以前よりもプログレッシヴな作風になっているが、このメロディは確かにストラトのそれだ。もちろん納得のいっていないファンも多いだろうが、俺は個人的に全然ありだ。不安なんか全部まるごとどっかに飛んでったよ。少なくともElementsの頃と同水準にまでは戻っている。",
+  "recommend": ["Deep Unknown", "Forever Is Today", "Higher We Go"],
+  "description": "12thアルバム",
+  "type": "album",
+  "img": ["stratovarius12.jpg"]
+}

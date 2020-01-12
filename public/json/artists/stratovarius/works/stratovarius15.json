@@ -1,0 +1,61 @@
+{
+  "uid": "stratovarius15",
+  "date": "2015-09-11",
+  "genres": ["melodic_power_metal", "neo_classical_metal", "symphonic_power_metal"],
+  "review_done": true,
+  "name": "Eternal",
+  "artist": ["Stratovarius"],
+  "year": 2015,
+  "list": [
+    {
+      "list": [
+        [
+          "My Eternal Dream",
+          "Shine in the Dark",
+          "Rise Above It",
+          "Lost Without a Trace",
+          "Feeding the Fire",
+          "In My Line of Work",
+          "Man in the Mirror",
+          "Few Are Those",
+          "Fire in Your Eyes",
+          "The Lost Saga"
+        ]
+      ]
+    },
+    {
+      "list": [
+        [
+          "My Eternal Dream",
+          "Shine in the Dark",
+          "Rise Above It",
+          "Lost Without a Trace",
+          "Feeding the Fire",
+          "Endless Forest",
+          "Giants",
+          "In My Line of Work",
+          "Man in the Mirror",
+          "Few Are Those",
+          "Fire in Your Eyes",
+          "The Lost Saga"
+        ]
+      ],
+      "description": "Bonus Track"
+    }
+  ],
+  "rate": 97,
+  "comment": "待ちに待ったストラトの最新作は、あの『Visions』を超えたのではないかという意見もちらほら見受ける質の高さ！大Timoが脱退して以来、作品を追うごとに品質を向上させ続け、ついに前作『Nemesis』では黄金期に勝るとも劣らない名盤との誉れ高い作品になるに至った。それを超えることはできないだろうという思いと、超えて欲しいという思いが共存する中リリースに至ったわけだが、事前に公開されていたトレイラーを聴き、間違いなく前作を超えているとの確信を抱いた。そしていざ聴いてみると、その期待を裏切られることはなく(むしろいい意味で裏切られたのか?)、声高に名盤と呼べる作品だ！途中のインスト曲ではやや微妙というか、箸休め的な役割なのだが、ヴォーカル入りの曲は全部いい。駄曲なし。バラード風の曲がないわけではないが、もっと叙情的な、それこそ「Forever」みたいなやつが入ってたらなお良かっただろう。個人的には『Visions』の方が好きだ。だがそれに次ぐくらいの大傑作に仕上がっていることは認めよう！",
+  "recommend": [
+    "全部　特にMy Eternal Dream",
+    "Shine in the Dark",
+    "Rise Above It",
+    "Feeding the Fire",
+    "Giants",
+    "Man in the Mirror",
+    "Few Are Those",
+    "The Lost Saga"
+  ],
+  "description": "15thアルバム",
+  "type": "album",
+  "img": ["stratovarius15.jpg"]
+}

@@ -1,0 +1,70 @@
+{
+  "uid": "stratovarius14",
+  "date": "2011-01-12",
+  "genres": ["melodic_power_metal", "neo_classical_metal", "progressive_metal"],
+  "review_done": true,
+  "name": "Elysium",
+  "artist": ["Stratovarius"],
+  "year": 2011,
+  "list": [
+    {
+      "list": [
+        [
+          "Darkest Hours",
+          "Under Flaming Skies",
+          "Infernal Maze",
+          "Fairness Justified",
+          "The Game Never Ends",
+          "Lifetime in a Moment",
+          "Move the Mountain",
+          "Event Horizon",
+          "Elysium"
+        ]
+      ]
+    },
+    {
+      "list": [
+        [
+          "Darkest Hours",
+          "Under Flaming Skies",
+          "Infernal Maze",
+          "Fairness Justified",
+          "The Game Never Ends",
+          "Lifetime in a Moment",
+          "Move the Mountain",
+          "Event Horizon",
+          "Elysium",
+          "Castaway",
+          "Darkest Hours [demo]",
+          "Against the Wind [live]",
+          "Black Diamond [live]"
+        ]
+      ],
+      "description": "Japanese Edition"
+    },
+    {
+      "list": [
+        [
+          "Darkest Hours",
+          "Under Flaming Skies",
+          "Infernal Maze",
+          "Fairness Justified",
+          "The Game Never Ends",
+          "Lifetime in a Moment",
+          "Move the Mountain",
+          "Event Horizon",
+          "Elysium",
+          "Hallowed",
+          "Last Shore"
+        ]
+      ],
+      "description": "Collector's Edition"
+    }
+  ],
+  "rate": 84,
+  "comment": "新生ストラト第2弾アルバム。Matias Kupiainenが曲作りに参加し、新たなストラトを作り出すことに成功した。今までの分かりやすいサウンドではなく、作りこまれた味わい深いサウンドに変化。1曲目はフィンランド4位、アルバムはInfinite以来の1位を獲得した。8曲目は本作最強の疾走曲で、キーボードの凄絶プレイが激熱。9曲目は18分超の大作で、まさかこのタイミングでこんなでかいのを創ってくるとは驚きだ。",
+  "recommend": ["Darkest Hours", "Under Flaming Skies", "The Game Never Ends", "Event Horizon", "Castaway"],
+  "description": "13thアルバム",
+  "type": "album",
+  "img": ["stratovarius14.jpg"]
+}
