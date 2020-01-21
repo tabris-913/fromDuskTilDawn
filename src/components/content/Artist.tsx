@@ -25,16 +25,18 @@ const Body = (props: BodyProps) => {
           {...props}
           size="small"
           titlePropsName="title"
-          source={Object.entries(works[p]).map(([uid, work]) => {
-            return {
-              element: { title: work ? `${work.name} (${work.date})` : uid },
-              linkTo: work
-                ? work.review_done
-                  ? toPublicUrl(PageName.WORK, [content.uid as string], { id: work.uid })
-                  : ''
-                : '',
-            };
-          })}
+          source={Object.entries(works[p])
+            .sort(([auid, awork], [buid, bwork]) => (awork.date < bwork.date ? -1 : 1))
+            .map(([uid, work]) => {
+              return {
+                element: { title: work ? `${work.name} (${work.date})` : uid },
+                linkTo: work
+                  ? work.review_done
+                    ? toPublicUrl(PageName.WORK, [content.uid as string], { id: work.uid })
+                    : ''
+                  : '',
+              };
+            })}
         />
       </div>
     ) : (
