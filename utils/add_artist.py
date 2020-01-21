@@ -23,6 +23,33 @@ def add_artist(filepath: str):
         json.dump({'albums': {}, 'others': {}, 'singles': {}}, jf)
 
 
+def info_artist():
+    d = os.listdir(ARTIST)
+    for c in d:
+        if os.path.isdir(os.path.join(ARTIST, c)):
+            infojson = os.path.join(ARTIST, c, 'info.json')
+            if os.path.exists(infojson):
+                continue
+            info = {
+                'uid': c,
+                'name': '',
+                'ruby': '',
+                'ruby4Sort': '',
+                'en': '',
+                'initial': [],
+                'kind': '',
+                'genres': [],
+                'albums': [],
+                'singles': [],
+                'others': [],
+                'akas': [],
+                'logo': [],
+                'related': []
+            }
+            with open(infojson, 'w', encoding='utf8') as infof:
+                json.dump(info, infof, ensure_ascii=False)
+
+
 def index_artist():
     d = os.listdir(ARTIST)
     with open(os.path.join(ARTIST, 'index.json'), encoding='utf8') as indexf:
@@ -87,7 +114,9 @@ def work_artist():
                 for k2 in v:
                     if k2 not in info[k]:
                         info[k] += [k2]
-            info['genres'] = list(genres | set(info['genres']) if 'genres' in info else set())
+            info['genres'] = list(
+                genres | set(
+                    info['genres']) if 'genres' in info else set())
             with open(os.path.join(ARTIST, c, 'info.json'), 'w', encoding='utf8') as infof:
                 json.dump(info, infof, ensure_ascii=False)
 
@@ -98,5 +127,6 @@ if __name__ == "__main__":
     # args = parser.parse_args()
 
     # add_artist(args.file)
+    info_artist()
     index_artist()
     work_artist()

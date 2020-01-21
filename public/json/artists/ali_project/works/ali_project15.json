@@ -1,0 +1,52 @@
+{
+  "uid": "ali_project15",
+  "date": "2014-08-27",
+  "genres": ["pops", "progressive_rock", "art_rock", "experimental_rock"],
+  "review_done": true,
+  "name": "流行世界",
+  "artist": ["ALI PROJECT"],
+  "year": 2014,
+  "list": [
+    {
+      "list": [
+        [
+          "リュウコウセカイ",
+          "茸狂乱美味礼賛",
+          "PANDEMIC",
+          "Lolicate",
+          "赤い蝋燭と金魚",
+          "Femme Fatale",
+          "海賊皇女",
+          "静謐なる私小説",
+          "形而上的な、蝶になる",
+          "極楽鳥花 -instrument- strings version",
+          "極楽鳥花"
+        ]
+      ]
+    },
+    {
+      "list": [
+        [
+          "リュウコウセカイ",
+          "茸狂乱美味礼賛",
+          "PANDEMIC",
+          "Lolicate",
+          "赤い蝋燭と金魚",
+          "Femme Fatale",
+          "海賊皇女",
+          "静謐なる私小説",
+          "形而上的な、蝶になる",
+          "極楽鳥花 -instrument- piano version",
+          "極楽鳥花"
+        ]
+      ],
+      "description": "初回限定盤"
+    }
+  ],
+  "rate": 84,
+  "comment": "日本を代表するアート・ミュージシャンの15枚目のスタジオ作。年齢不詳だがもういい年なはずなのにこの若々しいヴォーカルと容姿！むしろ年々若返ってさえいるように感じる。まさに現代に生きる魔女とは、彼女のことだ。黒アリ(ラウドでダークな雰囲気の路線をこう呼称する)強めという前情報とは裏腹に、爽やかな雰囲気の曲が多い。この路線を新たに青アリと呼ぶらしい。とはいえロリータ的雰囲気が感じられたり、アリプロらしいバラエティ豊かさ。オープニングトラックである「リュウコウセカイ」、『月下の一群』(1992)収録の「マダム・ノワール」の続編と言われる「Lolicate」の2曲は、今作の中でも特に好事家からの支持が厚い名曲。",
+  "recommend": ["リュウコウセカイ", "茸狂乱美味礼賛", "PANDEMIC", "Lolicate", "Femme Fatale", "極楽鳥花"],
+  "description": "15thアルバム",
+  "type": "album",
+  "img": ["ali_project15.jpg"]
+}

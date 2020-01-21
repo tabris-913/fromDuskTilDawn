@@ -15,6 +15,7 @@ export default interface IArtist extends IContent<ArtistUid> {
   albums?: WorkUid[];
   others?: WorkUid[];
   genres?: GenreUid[];
+  akas?: string[];
 }
 
 export interface IArtistListContent extends IContentListContent<ArtistUid> {

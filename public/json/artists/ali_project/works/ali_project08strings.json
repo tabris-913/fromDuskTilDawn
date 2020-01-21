@@ -1,0 +1,33 @@
+{
+  "uid": "ali_project08strings",
+  "date": "2015-01-21",
+  "genres": ["symphonic_rock", "art_rock", "classical"],
+  "review_done": true,
+  "name": "Violetta Operetta",
+  "artist": ["ALI PROJECT"],
+  "year": 2015,
+  "list": [
+    {
+      "list": [
+        [
+          "遊蝶花ワルツ",
+          "恋は芸術気質",
+          "修道院の廃庭にて",
+          "L'Amour Looks Something Like You",
+          "すみれの花咲くころ",
+          "Tico Tico no Fubá",
+          "小夜すみれ ～ある夜の森の小さなお話",
+          "少女忌恋歌",
+          "Das Veilchen",
+          "星菫"
+        ]
+      ]
+    }
+  ],
+  "rate": 67,
+  "comment": "一枚丸ごとすみれだらけのストリングスアルバム。ストリングス作は4年ぶり。ジャケットの紫の使い方もなかなか美しくて好きだ。ストリングアルバムはもともとセルフカヴァーとしてストリングス・アレンジを施すアルバムであったが、徐々に新曲の割合が増加。今作のセルフカヴァーは8曲目のみで、それ以外は新曲またはカヴァー曲だ。4曲目はなんとKate Bushのカヴァーで、クラシックのカヴァーはあってもまさかR&Bのカヴァーを収録するとは予想外だった。そのほかにも5曲目はフランツ・デーレ、6曲目はゼキーニャ、7曲目はヨハン・シュトラウス、9曲目はモーツァルトの曲に詞を付けたものだ。ラストがインストで終わる構成ももうお決まりのようなもの。メロディのキャッチーさがやや弱いのが惜しい。",
+  "recommend": ["遊蝶花ワルツ", "修道院の廃庭にて", "L'Amour Looks Something Like You", "Tico Tico no Fubá"],
+  "description": "8thストリングスアルバム",
+  "type": "album",
+  "img": ["ali_project08strings.jpg"]
+}

@@ -1,0 +1,40 @@
+{
+  "uid": "ali_project09compilation",
+  "date": "2014-03-05",
+  "genres": ["art_rock", "progressive_rock", "symphonic_rock", "instrumental"],
+  "review_done": true,
+  "name": "絶対音楽",
+  "artist": ["ALI PROJECT"],
+  "year": 2014,
+  "list": [
+    {
+      "list": [
+        [
+          "Romance",
+          "Les Papillons",
+          "Arabesque Romanesque",
+          "Visconti Chic",
+          "柔らかな肌",
+          "Cafe du Soleil",
+          "月の中の少女",
+          "gai désespoir",
+          "プラタナスの葉末に風は眠る",
+          "étoiles",
+          "Gothic Opera",
+          "Magritte et Georgette",
+          "いにしへひとの言葉",
+          "この國よ静かに目覚めたまえ",
+          "Sonata of Ember Glance",
+          "Dignity of the Orient",
+          "月光ソワレ"
+        ]
+      ]
+    }
+  ],
+  "rate": 80,
+  "comment": "宝野アリカが「言葉を持たずして語りかける純粋芸術」というインスト曲ばかりを集めたベスト盤。個人的には「Rose Moon」が選曲から漏れてしまっているのが実に惜しい。アリプロの神髄であるシンフォニック・サウンドが詰まっている作品で、完全にこれはクラシックだ。「Arabesque Romanesque」と「月の中の少女」はストリングスアルバムでのセルフカヴァーバージョン。聴く者に安らぎを与える音色は、荒んだ現代人の心に沁みこんでくる。",
+  "recommend": ["Arabesque Romanesque", "プラタナスの葉末に風は眠る", "Gothic Opera", "月光ソワレ"],
+  "description": "PROJECT インストゥルメンタル・ベストアルバム",
+  "type": "album",
+  "img": ["ali_project09compilation.jpg"]
+}
