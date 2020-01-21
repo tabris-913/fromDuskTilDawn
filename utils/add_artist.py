@@ -64,7 +64,7 @@ def index_artist():
             uid = info['uid']
             index[uid] = {
                 'name': info['name'],
-                'initial': old[uid]['initial'] if uid in old else [],
+                'initial': info['uid'],
                 'en': info['en'],
                 'ruby4Sort': info['ruby4Sort']
             }
