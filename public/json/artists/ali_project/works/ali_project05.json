@@ -6,11 +6,31 @@
   "name": "Noblerot",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 1998,
+  "list": [
+    {
+      "list": [
+        [
+          "Noblerot I",
+          "Halation",
+          "乙女の祈り",
+          "Rose Moon",
+          "堕落論",
+          "ナルシス・ノワール",
+          "Noblerot II",
+          "deep forest",
+          "LOST CHILD",
+          "金いろのひつじ",
+          "月光夜",
+          "Rose Moon (Piano version)",
+          "LABYRINTH"
+        ]
+      ]
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": ["乙女の祈り", "Rose Moon", "ナルシス・ノワール", "LABYRINTH"],
   "description": "5thアルバム",
   "type": "album",
   "img": ["ali_project05.jpg"],

@@ -6,11 +6,57 @@
   "name": "COLLECTION SIMPLE PLUS",
   "ruby": "コレクシオン・サンプル・プリュ",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 2006,
+  "list": [
+    {
+      "list": [
+        [
+          "Wish",
+          "夢のあとに aprés un rêve",
+          "ピアニィ・ピンク",
+          "月夜のピエレット",
+          "Anniversary of Angel",
+          "天使に寄す",
+          "コッペリアの柩 (Noir Ver.)",
+          "aprés le noir",
+          "赤と黒 [original ver.]",
+          "月蝕グランギニョル",
+          "未來のイヴ",
+          "地獄の季節",
+          "亡國覚醒カタルシス [orchestral crowd ver.]"
+        ]
+      ]
+    },
+    {
+      "list": [
+        [
+          "Wish",
+          "夢のあとに aprés un rêve",
+          "ピアニィ・ピンク",
+          "月夜のピエレット",
+          "Anniversary of Angel",
+          "天使に寄す",
+          "コッペリアの柩 (Noir Ver.)",
+          "aprés le noir",
+          "赤と黒 [original ver.]",
+          "月蝕グランギニョル",
+          "未來のイヴ",
+          "地獄の季節"
+        ]
+      ],
+      "description": "初回限定盤"
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": [
+    "すべて 特にコッペリアの柩",
+    "赤と黒",
+    "月蝕グランギニョル",
+    "未來のイヴ",
+    "地獄の季節",
+    "亡國覚醒カタルシス"
+  ],
   "description": "3thベストアルバム",
   "type": "album",
   "img": ["ali_project03compilation.jpg"],

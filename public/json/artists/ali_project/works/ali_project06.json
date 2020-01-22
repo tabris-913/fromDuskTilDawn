@@ -6,11 +6,31 @@
   "name": "Aristocracy",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 2001,
+  "list": [
+    {
+      "list": [
+        [
+          "miserere",
+          "少女貴族",
+          "コッペリアの柩",
+          "病める薔薇",
+          "MALICE",
+          "à la cuisine",
+          "桂花葬",
+          "閉ざされた画室",
+          "un tableau blanc ～絵画旅行～",
+          "闇の翼ですべてをつつむ夜のためのアリア",
+          "プラタナスの葉末に風は眠る",
+          "Sacrifice",
+          "solemnis"
+        ]
+      ]
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": ["少女貴族", "コッペリアの柩", "à la cuisine", "Sacrifice"],
   "description": "6thアルバム",
   "type": "album",
   "img": ["ali_project06.jpg"],

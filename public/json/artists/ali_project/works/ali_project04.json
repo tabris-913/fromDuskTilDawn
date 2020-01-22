@@ -6,15 +6,28 @@
   "name": "星と月のソナタ",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
+  "year": 1995,
   "list": [
     {
-      "list": [[""]]
+      "list": [
+        [
+          "雨のソナタ ～La Pluie",
+          "ビアンカ",
+          "舞踏会の手帖",
+          "雪のひとひら",
+          "空宙舞踏会",
+          "薔薇色翠星歌劇団",
+          "冬物語",
+          "月光浴",
+          "彼と彼女の聖夜",
+          "共月亭で逢いましょう"
+        ]
+      ]
     }
   ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": ["雨のソナタ", "彼と彼女の聖夜", "共月亭で逢いましょう"],
   "description": "4thアルバム",
   "type": "album",
   "img": ["ali_project04.jpg"],

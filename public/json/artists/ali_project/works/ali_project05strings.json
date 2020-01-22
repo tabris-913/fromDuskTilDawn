@@ -6,11 +6,28 @@
   "name": "Grand Finale",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 2007,
+  "list": [
+    {
+      "list": [
+        [
+          "月蝕グランギニョル",
+          "恋せよ乙女 -Love Story of ZIPANG-",
+          "聖少女領域",
+          "オフェリア遺文",
+          "人生美味礼讃",
+          "闇の翼ですべてをつつむ夜のためのアリア",
+          "愛と誠",
+          "戦争と平和",
+          "Arabesque Romanesque",
+          "Nocturnal"
+        ]
+      ]
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": ["すべて"],
   "description": "5thストリングスアルバム",
   "type": "album",
   "img": ["ali_project05strings.jpg"],

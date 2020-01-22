@@ -6,11 +6,28 @@
   "name": "Les Papillons",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 2011,
+  "list": [
+    {
+      "list": [
+        [
+          "秘密の花薗",
+          "天体瑠璃星万華鏡",
+          "胡蝶夢心中",
+          "修羅と蝶",
+          "眼帯兎と包帯羊のMärchen",
+          "パピヨン輪廻",
+          "逢魔蛾城の伯爵",
+          "革命の血脈",
+          "君の名を",
+          "Les Papillons"
+        ]
+      ]
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": ["胡蝶夢心中"],
   "description": "7thストリングスアルバム",
   "type": "album",
   "img": ["ali_project07strings.jpg"],

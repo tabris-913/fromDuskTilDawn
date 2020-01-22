@@ -6,11 +6,30 @@
   "name": "QUEENDOM",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 2011,
+  "list": [
+    {
+      "list": [
+        [
+          "Troubadour",
+          "騎士乙女",
+          "亂世エロイカ",
+          "寶島",
+          "亡き王女のための…",
+          "堕天國宣戦",
+          "雪ノ女",
+          "刀と鞘",
+          "腕 kaina",
+          "Hell's Maria",
+          "灰桜",
+          "亂世エロイカ (Strings ver.)"
+        ]
+      ]
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": ["Troubadour", "亂世エロイカ", "堕天國宣戦", "刀と鞘"],
   "description": "7thベストアルバム",
   "type": "album",
   "img": ["ali_project07compilation.jpg"],

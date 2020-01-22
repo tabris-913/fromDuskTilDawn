@@ -6,11 +6,28 @@
   "name": "贋作師",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 2012,
+  "list": [
+    {
+      "list": [
+        [
+          "贋作師",
+          "ALICE同罪イノセント",
+          "蓮華幽恋",
+          "真偽偽物博覧会",
+          "La vérité",
+          "野性双生児",
+          "逝ける王女の肖像画",
+          "真夏の憂愁夫人",
+          "天譴と超克",
+          "RED WALTZ"
+        ]
+      ]
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": ["贋作師", "ALICE同罪イノセント", "La vérité", "真夏の憂愁夫人", "天譴と超克", "RED WALTZ"],
   "description": "13thアルバム",
   "type": "album",
   "img": ["ali_project13.jpg"],

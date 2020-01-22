@@ -6,11 +6,37 @@
   "name": "EROTIC&HERETIC",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 2002,
+  "list": [
+    {
+      "list": [
+        [
+          "Erotic & Heretic",
+          "赤と黒 (album ver.)",
+          "熱帯性植物園",
+          "遊月恋歌",
+          "schism",
+          "Lolita in the garret",
+          "時の森のソワレ",
+          "戦争と平和",
+          "夢魔の夜、あなたを迎える者がある",
+          "Arabesque Romanesque",
+          "Nostalgia"
+        ]
+      ]
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": [
+    "Erotic & Heretic",
+    "赤と黒",
+    "熱帯性植物園",
+    "遊月恋歌",
+    "Lolita in the garret",
+    "戦争と平和",
+    "Arabesque Romanesque"
+  ],
   "description": "7thアルバム",
   "type": "album",
   "img": ["ali_project07.jpg"],

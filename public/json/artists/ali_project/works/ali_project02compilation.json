@@ -6,11 +6,39 @@
   "name": "Déjà Vu ～THE ORIGINAL BEST 1992-1995～",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 2006,
+  "list": [
+    {
+      "list": [
+        [
+          "メガロポリス・アリス -MEGALOPOLIS ALICE-",
+          "嵐ヶ丘",
+          "恋せよ乙女 -Love story of ZIPANG-",
+          "ビアンカ",
+          "月光浴",
+          "Nous Deux C'est Pour La Vie",
+          "オフェリア遺文",
+          "舞踏会の手帖",
+          "ヴェネツィアン・ラプソディー",
+          "雪のひとひら",
+          "サロメティック・ルナティック",
+          "空宙舞踏会",
+          "エスカルゴ嬉遊曲",
+          "共月亭で逢いましょう"
+        ]
+      ]
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": [
+    "メガロポリス・アリス",
+    "嵐ヶ丘",
+    "Nous Deux C'est Pour La Vie",
+    "ヴェネツィアン・ラプソディー",
+    "サロメティック・ルナティック",
+    "共月亭で逢いましょう"
+  ],
   "description": "2thベストアルバム",
   "type": "album",
   "img": ["ali_project02compilation.jpg"],

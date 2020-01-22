@@ -6,11 +6,31 @@
   "name": "La Vita Romantica",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 2010,
+  "list": [
+    {
+      "list": [
+        [
+          "逢魔ヶ恋",
+          "跪いて足をお嘗め",
+          "裸々イヴ新世紀",
+          "桃色天国",
+          "最愛なる魔王さま",
+          "王的血族",
+          "暗黒天国",
+          "戦慄の子供たち",
+          "コヒブミ",
+          "吾君想う故に吾在り生き霊となりて",
+          "輪廻闇妖散華",
+          "コトダマ",
+          "地獄の門"
+        ]
+      ]
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": ["逢魔ヶ恋", "裸々イヴ新世紀", "暗黒天国", "コトダマ"],
   "description": "6thベストアルバム",
   "type": "album",
   "img": ["ali_project06compilation.jpg"],

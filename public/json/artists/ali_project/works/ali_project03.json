@@ -6,15 +6,28 @@
   "name": "DALI",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
+  "year": 1994,
   "list": [
     {
-      "list": [[""]]
+      "list": [
+        [
+          "サロメティック・ルナティック",
+          "嵐ヶ丘",
+          "雪のひとひら",
+          "ダリの宝石店",
+          "Virtual Fantasy",
+          "小夜啼鳥",
+          "ヴェネツィアン・ラプソディー",
+          "星降る夜の天文学 ～BEDSIDE ASTRONOMY～",
+          "月光の橋",
+          "オフェリア遺文"
+        ]
+      ]
     }
   ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": ["サロメティック・ルナティック", "嵐ヶ丘", "ヴェネツィアン・ラプソディー", "オフェリア遺文"],
   "description": "3rdアルバム",
   "type": "album",
   "img": ["ali_project03.jpg"],

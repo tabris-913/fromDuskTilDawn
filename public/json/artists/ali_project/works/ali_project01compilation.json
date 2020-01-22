@@ -6,11 +6,34 @@
   "name": "jamais vu",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 2000,
+  "list": [
+    {
+      "list": [
+        [
+          "恋せよ乙女 -Love Story of ZIPANG-",
+          "嵐ヶ丘",
+          "ヴェネツィアン・ラプソディー",
+          "雨のソナタ ～La Pluie",
+          "Nous Deux C'est Pour La Vie",
+          "エスカルゴ嬉遊曲",
+          "舞踏会の手帖",
+          "共月亭で逢いましょう",
+          "ストロベリーパイをお食べ",
+          "Sacrifice"
+        ]
+      ]
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": [
+    "嵐ヶ丘",
+    "ヴェネツィアン・ラプソディー",
+    "Nous Deux C'est Pour La Vie",
+    "ストロベリーパイをお食べ",
+    "Sacrifice"
+  ],
   "description": "1thベストアルバム",
   "type": "album",
   "img": ["ali_project01compilation.jpg"],

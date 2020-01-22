@@ -6,15 +6,28 @@
   "name": "月下の一群",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
+  "year": 1992,
   "list": [
     {
-      "list": [[""]]
+      "list": [
+        [
+          "メガロポリス・アリス -MEGALOPOLIS ALICE-",
+          "ビアンカ",
+          "薔薇色翠星歌劇団",
+          "マダム・ノワール -Madame Noir",
+          "空宙舞踏会",
+          "木洩れ陽のワルツ",
+          "堕ちて候",
+          "恋せよ乙女 -Love story of ZIPANG-",
+          "月光浴",
+          "楽園喪失 -Paradise Lost-"
+        ]
+      ]
     }
   ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": ["メガロポリス・アリス", "ビアンカ", "マダム・ノワール", "恋せよ乙女"],
   "description": "2ndアルバム",
   "type": "album",
   "img": ["ali_project02.jpg"],

@@ -6,11 +6,34 @@
   "name": "Poison",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 2009,
+  "list": [
+    {
+      "list": [
+        [
+          "Poisoner",
+          "処女懐胎、あるいは白骨塔より少女達は飛翔する",
+          "お毒味LADY",
+          "阿芙蓉寝台",
+          "極色一代女",
+          "Animals on the Earth",
+          "上海繚乱ロマンチカ",
+          "世紀末ゲネシス",
+          "この國の向こうに",
+          "discipline"
+        ]
+      ]
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": [
+    "Poisoner",
+    "処女懐胎、あるいは白骨塔より少女達は飛翔する",
+    "阿芙蓉寝台",
+    "極色一代女",
+    "Animals on the Earth"
+  ],
   "description": "11thアルバム",
   "type": "album",
   "img": ["ali_project11.jpg"],

@@ -6,11 +6,28 @@
   "name": "Dilettante",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 2005,
+  "list": [
+    {
+      "list": [
+        [
+          "愛と誠",
+          "人生美味礼讃",
+          "肉体の悪魔",
+          "緋紅的牡丹",
+          "ディレッタントの秘かな愉しみ",
+          "昭和恋々幻橙館",
+          "密猟区",
+          "北京LOVERS",
+          "鎮魂頌",
+          "柔らかな肌"
+        ]
+      ]
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": ["愛と誠", "人生美味礼讃", "緋紅的牡丹", "北京LOVERS", "鎮魂頌"],
   "description": "8thアルバム",
   "type": "album",
   "img": ["ali_project08.jpg"],

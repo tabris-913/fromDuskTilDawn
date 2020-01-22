@@ -6,11 +6,28 @@
   "name": "月光嗜好症",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 2003,
+  "list": [
+    {
+      "list": [
+        [
+          "月光ソワレ",
+          "紅い睡蓮の午後",
+          "プラトニック",
+          "ナルシス・ノワール",
+          "桜の花は狂い咲き",
+          "コッペリアの柩",
+          "月の中の少女",
+          "星月夜",
+          "共月亭で逢いましょう",
+          "Féliciter"
+        ]
+      ]
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": ["ナルシス・ノワール", "桜の花は狂い咲き", "コッペリアの柩", "星月夜"],
   "description": "1thストリングスアルバム",
   "type": "album",
   "img": ["ali_project01strings.jpg"],

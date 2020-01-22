@@ -6,11 +6,28 @@
   "name": "Romance",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 2006,
+  "list": [
+    {
+      "list": [
+        [
+          "ロマンス",
+          "ビアンカ",
+          "ダリの宝石店",
+          "La caléche ～春の雪",
+          "嵐ヶ丘",
+          "楽園喪失 -Paradise Lost-",
+          "遊月恋歌",
+          "L'oiseau bleu",
+          "さいごの戀",
+          "今宵、碧い森深く"
+        ]
+      ]
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": ["嵐ヶ丘", "遊月恋歌", "今宵、碧い森深く"],
   "description": "4thストリングスアルバム",
   "type": "album",
   "img": ["ali_project04strings.jpg"],

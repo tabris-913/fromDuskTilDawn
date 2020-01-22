@@ -6,11 +6,29 @@
   "name": "étoiles",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 2004,
+  "list": [
+    {
+      "list": [
+        [
+          "étoiles",
+          "薔薇色水星歌劇団",
+          "Je te veux",
+          "春葬",
+          "日曜日のシエスタ",
+          "Aprés un rêve",
+          "Daphné",
+          "わが恋は月光に散りぬ",
+          "Diabolic Sequence",
+          "青蛾月",
+          "幻想庭園"
+        ]
+      ]
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": ["春葬", "Diabolic Sequence", "青蛾月"],
   "description": "2thストリングスアルバム",
   "type": "album",
   "img": ["ali_project02strings.jpg"],

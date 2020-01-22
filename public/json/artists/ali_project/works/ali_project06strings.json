@@ -6,11 +6,28 @@
   "name": "Gothic Opera",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 2010,
+  "list": [
+    {
+      "list": [
+        [
+          "月光オペラの天鵞絨の緞帳は上がり",
+          "恋の翼は真珠色の骨を持ち",
+          "Jeux Interdits ～禁じられた遊び",
+          "私の心は語る薔薇の見胸を葩の御身を",
+          "エルフの娘は地上に降り",
+          "Valkyrja ～騎士乙女",
+          "百合の日々は追憶の中に潜み薫る",
+          "La Rose de la Reine ～薔薇獄乙女",
+          "Gothic Opera",
+          "Adieu"
+        ]
+      ]
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": ["Jeux Interdits", "Valkyrja", "La Rose de la Reine"],
   "description": "6thストリングスアルバム",
   "type": "album",
   "img": ["ali_project06strings.jpg"],

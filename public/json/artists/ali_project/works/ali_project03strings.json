@@ -6,11 +6,29 @@
   "name": "神々の黄昏",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 2005,
+  "list": [
+    {
+      "list": [
+        [
+          "Visconti Chic",
+          "病める薔薇",
+          "アンジェ・ノワールの祭戯",
+          "百合と夜鶯",
+          "彼と彼女の聖夜",
+          "蜜薔薇庭園",
+          "月光夜",
+          "神の雪",
+          "Vanitas",
+          "マリーゴールド・ガーデン",
+          "JE TE VEUX"
+        ]
+      ]
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": ["彼と彼女の聖夜"],
   "description": "3thストリングスアルバム",
   "type": "album",
   "img": ["ali_project03strings.jpg"],

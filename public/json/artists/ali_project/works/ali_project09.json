@@ -6,11 +6,28 @@
   "name": "Psychedelic Instanity",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 2007,
+  "list": [
+    {
+      "list": [
+        [
+          "青嵐血風録",
+          "暗黒サイケデリック",
+          "CYBER DEVILS",
+          "胡蝶夢心中",
+          "纏われし者ら",
+          "欲望",
+          "暴夜layla幻談",
+          "六道輪廻サバイバル",
+          "若い死者からのレクイエム",
+          "gai désespoir"
+        ]
+      ]
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": ["青嵐血風録", "暗黒サイケデリック", "胡蝶夢心中", "欲望", "六道輪廻サバイバル"],
   "description": "9thアルバム",
   "type": "album",
   "img": ["ali_project09.jpg"],

@@ -6,11 +6,32 @@
   "name": "桂冠詩人 SINGLE COLLECTION PLUS",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 2008,
+  "list": [
+    {
+      "list": [
+        [
+          "わが﨟たし悪の華",
+          "麤皮",
+          "勇侠青春謳",
+          "鎮魂頌",
+          "亡國覚醒カタルシス",
+          "水月鏡花",
+          "KING KNIGHT",
+          "白堊病棟",
+          "GOD DIVA",
+          "汚れなき悪意",
+          "少女殉血",
+          "MOTHER",
+          "桂冠詩人",
+          "鬼帝の剣 (orchestral arrange ver.)"
+        ]
+      ]
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": ["わが﨟たし悪の華", "勇侠青春謳", "亡國覚醒カタルシス", "KING KNIGHT", "GOD DIVA", "少女殉血"],
   "description": "5thベストアルバム",
   "type": "album",
   "img": ["ali_project05compilation.jpg"],

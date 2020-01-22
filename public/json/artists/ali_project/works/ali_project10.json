@@ -6,11 +6,29 @@
   "name": "禁書",
   "ruby": "",
   "artist": ["ALI PROJECT"],
-  "year": 0,
-  "list": [{ "list": [[""]] }],
+  "year": 2008,
+  "list": [
+    {
+      "list": [
+        [
+          "神風",
+          "黙示録前戯",
+          "ヘテロ失楽園",
+          "眠れる豹",
+          "血の断章",
+          "禁書",
+          "雪華懺悔心中",
+          "薨",
+          "小さき者への贖罪の為のアリア",
+          "Sonata of Ember Glance",
+          "月夜のピエレット"
+        ]
+      ]
+    }
+  ],
   "rate": 0,
   "comment": "",
-  "recommend": [""],
+  "recommend": ["神風", "眠れる豹", "雪華懺悔心中", "月夜のピエレット"],
   "description": "10thアルバム",
   "type": "album",
   "img": ["ali_project10.jpg"],
