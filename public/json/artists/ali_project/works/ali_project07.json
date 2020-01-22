@@ -1,0 +1,18 @@
+{
+  "uid": "ali_project07",
+  "date": "2002-07-24",
+  "genres": ["progressive_rock", "art_rock", "experimental_rock", "gothic_rock"],
+  "review_done": false,
+  "name": "EROTIC&HERETIC",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 0,
+  "list": [{ "list": [[""]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "7thアルバム",
+  "type": "album",
+  "img": ["ali_project07.jpg"],
+  "akas": []
+}

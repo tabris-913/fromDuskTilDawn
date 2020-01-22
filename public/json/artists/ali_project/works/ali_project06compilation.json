@@ -1,0 +1,18 @@
+{
+  "uid": "ali_project06compilation",
+  "date": "2010-01-13",
+  "genres": ["art_rock", "experimental_rock"],
+  "review_done": false,
+  "name": "La Vita Romantica",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 0,
+  "list": [{ "list": [[""]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "6thベストアルバム",
+  "type": "album",
+  "img": ["ali_project06compilation.jpg"],
+  "akas": []
+}

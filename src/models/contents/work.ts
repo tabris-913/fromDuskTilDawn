@@ -11,6 +11,7 @@ export default interface IWork extends IContent<WorkUid> {
   artist: ArtistUid[];
   list: Array<{
     description?: string;
+    disk?: { [n: number]: string };
     list: string[][];
   }>;
   comment: string;
@@ -21,6 +22,7 @@ export default interface IWork extends IContent<WorkUid> {
   recommend?: string[];
   genres?: GenreUid[];
   akas?: string[];
+  ruby?: string;
 }
 
 export interface ISong {

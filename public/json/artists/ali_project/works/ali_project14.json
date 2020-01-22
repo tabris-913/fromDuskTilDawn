@@ -1,0 +1,35 @@
+{
+  "uid": "ali_project14",
+  "date": "2013-09-11",
+  "genres": ["progressive_rock", "art_rock", "experimental_rock", "gothic_rock"],
+  "review_done": false,
+  "name": "令嬢薔薇図鑑",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 2013,
+  "list": [
+    {
+      "list": [
+        [
+          "令嬢薔薇図鑑",
+          "ローズ家の双子達",
+          "隼の白バラ",
+          "薔薇娼館",
+          "朗読する女中と小さな令嬢",
+          "少女と水蜜桃",
+          "黒百合隠密カゲキダン",
+          "南無地獄大菩薩",
+          "見ぬ友へ",
+          "いにしへひとの言葉"
+        ]
+      ]
+    }
+  ],
+  "rate": 0,
+  "comment": "",
+  "recommend": ["令嬢薔薇図鑑", "ローズ家の双子達", "隼の白バラ", "薔薇娼館", "少女と水蜜桃", "黒百合隠密カゲキダン"],
+  "description": "14thアルバム",
+  "type": "album",
+  "img": ["ali_project14.jpg"],
+  "akas": []
+}

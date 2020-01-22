@@ -1,0 +1,18 @@
+{
+  "uid": "ali_project13",
+  "date": "2012-07-18",
+  "genres": ["progressive_rock", "art_rock", "experimental_rock"],
+  "review_done": false,
+  "name": "贋作師",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 0,
+  "list": [{ "list": [[""]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "13thアルバム",
+  "type": "album",
+  "img": ["ali_project13.jpg"],
+  "akas": []
+}

@@ -1,0 +1,18 @@
+{
+  "uid": "ali_project06strings",
+  "date": "2010-03-17",
+  "genres": ["symphonic_rock", "classical", "progressive_rock", "art_rock"],
+  "review_done": false,
+  "name": "Gothic Opera",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 0,
+  "list": [{ "list": [[""]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "6thストリングスアルバム",
+  "type": "album",
+  "img": ["ali_project06strings.jpg"],
+  "akas": []
+}

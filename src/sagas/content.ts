@@ -11,96 +11,97 @@ import ISeriesRequest, { ISeriesListRequest } from '../models/requests/SeriesReq
 import IWorkRequest, { IWorkListRequest } from '../models/requests/WorkRequest';
 import IYearBestRequest, { IYearBestListRequest } from '../models/requests/YearBestRequest';
 import { ReturnedType } from '../utils/MiscUtils';
+import { SagaIterator } from 'redux-saga';
 
 export interface ContentSaga {
-  getArtist: (action: Action<IArtistRequest>) => IterableIterator<any>;
-  getGenre: (action: Action<IGenreRequest>) => IterableIterator<any>;
-  getSelection: (action: Action<ISelectionRequest>) => IterableIterator<any>;
-  getSeries: (action: Action<ISeriesRequest>) => IterableIterator<any>;
-  getSeriesContent: (action: Action<ISeriesRequest>) => IterableIterator<any>;
-  getWork: (action: Action<IWorkRequest>) => IterableIterator<any>;
-  getYearBest: (action: Action<IYearBestRequest>) => IterableIterator<any>;
-  getArtists: (action: Action<IArtistListRequest>) => IterableIterator<any>;
-  getGenres: (action: Action<IGenreListRequest>) => IterableIterator<any>;
-  getSelections: (action: Action<ISelectionListRequest>) => IterableIterator<any>;
-  getSeriesList: (action: Action<ISeriesListRequest>) => IterableIterator<any>;
-  getWorks: (action: Action<IWorkListRequest>) => IterableIterator<any>;
-  getYearBests: (action: Action<IYearBestListRequest>) => IterableIterator<any>;
+  getArtist: (action: Action<IArtistRequest>) => SagaIterator;
+  getGenre: (action: Action<IGenreRequest>) => SagaIterator;
+  getSelection: (action: Action<ISelectionRequest>) => SagaIterator;
+  getSeries: (action: Action<ISeriesRequest>) => SagaIterator;
+  getSeriesContent: (action: Action<ISeriesRequest>) => SagaIterator;
+  getWork: (action: Action<IWorkRequest>) => SagaIterator;
+  getYearBest: (action: Action<IYearBestRequest>) => SagaIterator;
+  getArtists: (action: Action<IArtistListRequest>) => SagaIterator;
+  getGenres: (action: Action<IGenreListRequest>) => SagaIterator;
+  getSelections: (action: Action<ISelectionListRequest>) => SagaIterator;
+  getSeriesList: (action: Action<ISeriesListRequest>) => SagaIterator;
+  getWorks: (action: Action<IWorkListRequest>) => SagaIterator;
+  getYearBests: (action: Action<IYearBestListRequest>) => SagaIterator;
 
-  prepareArtistPage: (action: Action<IArtistRequest>) => IterableIterator<any>;
-  prepareGenrePage: (action: Action<IPrepareGenrePageRequest>) => IterableIterator<any>;
-  prepareSeriesPage: (action: Action<ISeriesRequest>) => IterableIterator<any>;
-  prepareWorkPage: (action: Action<IWorkRequest>) => IterableIterator<any>;
+  prepareArtistPage: (action: Action<IArtistRequest>) => SagaIterator;
+  prepareGenrePage: (action: Action<IPrepareGenrePageRequest>) => SagaIterator;
+  prepareSeriesPage: (action: Action<ISeriesRequest>) => SagaIterator;
+  prepareWorkPage: (action: Action<IWorkRequest>) => SagaIterator;
 
-  getTopTopic: (action: Action<IContentRequest>) => IterableIterator<any>;
+  getTopTopic: (action: Action<IContentRequest>) => SagaIterator;
 }
 
 const saga = (actions: ContentActions, apis: ContentApis) => ({
   getArtist: () =>
-    function*(action: Action<IArtistRequest>): IterableIterator<any> {
+    function*(action: Action<IArtistRequest>): SagaIterator<any> {
       console.log('start get artist');
       const req = action.payload;
       const res: ReturnedType<typeof apis.getArtist> = yield call(apis.getArtist, req);
       yield put(actions.getArtist.done({ params: req, result: res }));
     },
   getArtists: () =>
-    function*(action: Action<IArtistListRequest>): IterableIterator<any> {
+    function*(action: Action<IArtistListRequest>): SagaIterator {
       console.log('start get artist list');
       const req = action.payload;
       const res: ReturnedType<typeof apis.getArtists> = yield call(apis.getArtists, req);
       yield put(actions.getArtists.done({ params: req, result: res }));
     },
   getGenre: () =>
-    function*(action: Action<IGenreRequest>): IterableIterator<any> {
+    function*(action: Action<IGenreRequest>): SagaIterator {
       console.log('start get genre');
       const req = action.payload;
       const res: ReturnedType<typeof apis.getGenre> = yield call(apis.getGenre, req);
       yield put(actions.getGenre.done({ params: req, result: res }));
     },
   getGenres: () =>
-    function*(action: Action<IGenreListRequest>): IterableIterator<any> {
+    function*(action: Action<IGenreListRequest>): SagaIterator {
       console.log('start get genre list');
       const req = action.payload;
       const res: ReturnedType<typeof apis.getGenres> = yield call(apis.getGenres, req);
       yield put(actions.getGenres.done({ params: req, result: res }));
     },
   getSelection: () =>
-    function*(action: Action<ISelectionRequest>): IterableIterator<any> {
+    function*(action: Action<ISelectionRequest>): SagaIterator {
       console.log('start get selection');
       const req = action.payload;
       const res: ReturnedType<typeof apis.getSelection> = yield call(apis.getSelection, req);
       yield put(actions.getSelection.done({ params: req, result: res }));
     },
   getSelections: () =>
-    function*(action: Action<ISelectionListRequest>): IterableIterator<any> {
+    function*(action: Action<ISelectionListRequest>): SagaIterator {
       console.log('start get selection list');
       const req = action.payload;
       const res: ReturnedType<typeof apis.getSelections> = yield call(apis.getSelections, req);
       yield put(actions.getSelections.done({ params: req, result: res }));
     },
   getSeriesContent: () =>
-    function*(action: Action<ISeriesRequest>): IterableIterator<any> {
+    function*(action: Action<ISeriesRequest>): SagaIterator {
       console.log('start get series content');
       const req = action.payload;
       const res: ReturnedType<typeof apis.getSeriesContent> = yield call(apis.getSeriesContent, req);
       yield put(actions.getSeriesContent.done({ params: req, result: res }));
     },
   getSeries: () =>
-    function*(action: Action<ISeriesRequest>): IterableIterator<any> {
+    function*(action: Action<ISeriesRequest>): SagaIterator {
       console.log('start get series');
       const req = action.payload;
       const res: ReturnedType<typeof apis.getSeries> = yield call(apis.getSeries, req);
       yield put(actions.getSeries.done({ params: req, result: res }));
     },
   getSeriesList: () =>
-    function*(action: Action<ISeriesListRequest>): IterableIterator<any> {
+    function*(action: Action<ISeriesListRequest>): SagaIterator {
       console.log('start get series list');
       const req = action.payload;
       const res: ReturnedType<typeof apis.getSeriesList> = yield call(apis.getSeriesList, req);
       yield put(actions.getSeriesList.done({ params: req, result: res }));
     },
   getWork: () =>
-    function*(action: Action<IWorkRequest>): IterableIterator<any> {
+    function*(action: Action<IWorkRequest>): SagaIterator {
       console.log('start get work');
       const req = action.payload;
       // let res: ReturnedType<typeof apis.getWork>;
@@ -126,28 +127,28 @@ const saga = (actions: ContentActions, apis: ContentApis) => ({
       yield put(actions.getWork.done({ params: req, result: res! }));
     },
   getWorks: () =>
-    function*(action: Action<IWorkListRequest>): IterableIterator<any> {
+    function*(action: Action<IWorkListRequest>): SagaIterator {
       console.log('start get work list');
       const req = action.payload;
       const res: ReturnedType<typeof apis.getWorks> = yield call(apis.getWorks, req);
       yield put(actions.getWorks.done({ params: req, result: res }));
     },
   getYearBest: () =>
-    function*(action: Action<IYearBestRequest>): IterableIterator<any> {
+    function*(action: Action<IYearBestRequest>): SagaIterator {
       console.log('start get year best');
       const req = action.payload;
       const res: ReturnedType<typeof apis.getYearBest> = yield call(apis.getYearBest, req);
       yield put(actions.getYearBest.done({ params: req, result: res }));
     },
   getYearBests: () =>
-    function*(action: Action<IYearBestListRequest>): IterableIterator<any> {
+    function*(action: Action<IYearBestListRequest>): SagaIterator {
       console.log('start get year best lists');
       const req = action.payload;
       const res: ReturnedType<typeof apis.getYearBests> = yield call(apis.getYearBests, req);
       yield put(actions.getYearBests.done({ params: req, result: res }));
     },
   prepareArtistPage: () =>
-    function*(action: Action<IArtistRequest>): IterableIterator<any> {
+    function*(action: Action<IArtistRequest>): SagaIterator {
       console.log('start preparing artist page');
       const req = action.payload;
       const artistDoc: ReturnedType<typeof apis.getArtist> = yield call(apis.getArtist, req);
@@ -161,7 +162,7 @@ const saga = (actions: ContentActions, apis: ContentApis) => ({
       );
     },
   prepareGenrePage: () =>
-    function*(action: Action<IPrepareGenrePageRequest>): IterableIterator<any> {
+    function*(action: Action<IPrepareGenrePageRequest>): SagaIterator {
       console.log('start preparing genre page');
       const req = action.payload;
       const artistList: ReturnedType<typeof apis.getArtists> = yield call(apis.getArtists, {});
@@ -171,7 +172,7 @@ const saga = (actions: ContentActions, apis: ContentApis) => ({
       );
     },
   prepareSeriesPage: () =>
-    function*(action: Action<ISeriesRequest>): IterableIterator<any> {
+    function*(action: Action<ISeriesRequest>): SagaIterator {
       console.log('start preparing series content page');
       const req = action.payload;
       const content: ReturnedType<typeof apis.getSeriesContent> = yield call(apis.getSeriesContent, req);
@@ -206,7 +207,7 @@ const saga = (actions: ContentActions, apis: ContentApis) => ({
       );
     },
   prepareWorkPage: () =>
-    function*(action: Action<IWorkRequest>): IterableIterator<any> {
+    function*(action: Action<IWorkRequest>): SagaIterator {
       console.log('start preparing work page');
       const req = action.payload;
       const work: ReturnedType<typeof apis.getWork> = yield call(apis.getWork, req);
@@ -220,7 +221,7 @@ const saga = (actions: ContentActions, apis: ContentApis) => ({
       );
     },
   getTopTopic: () =>
-    function*(action: Action<IContentRequest>): IterableIterator<any> {
+    function*(action: Action<IContentRequest>): SagaIterator {
       console.log('start getting topic');
       const req = action.payload;
       const topic: ReturnedType<typeof apis.getTopTopic> = yield call(apis.getTopTopic);

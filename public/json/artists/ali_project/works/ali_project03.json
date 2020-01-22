@@ -1,0 +1,22 @@
+{
+  "uid": "ali_project03",
+  "date": "1994-02-16",
+  "genres": ["progressive_rock", "art_rock", "experimental_rock"],
+  "review_done": false,
+  "name": "DALI",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 0,
+  "list": [
+    {
+      "list": [[""]]
+    }
+  ],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "3rdアルバム",
+  "type": "album",
+  "img": ["ali_project03.jpg"],
+  "akas": []
+}

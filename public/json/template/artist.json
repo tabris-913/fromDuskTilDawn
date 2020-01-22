@@ -1,0 +1,22 @@
+{
+  "uid": "",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "",
+  "ruby": "",
+  "artist": [""],
+  "year": 0,
+  "list": [
+    {
+      "list": [[""]]
+    }
+  ],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "",
+  "type": "",
+  "img": [""],
+  "akas": []
+}

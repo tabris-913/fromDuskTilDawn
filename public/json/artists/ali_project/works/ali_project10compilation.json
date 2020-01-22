@@ -1,0 +1,71 @@
+{
+  "uid": "ali_project10compilation",
+  "date": "2017-06-21",
+  "genres": ["art_rock", "experimental_rock", "gothic_rock"],
+  "review_done": false,
+  "name": "血と蜜 ～Anthology of Gothic Lolita & Horror～",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 0,
+  "list": [
+    {
+      "list": [
+        [
+          "私の薔薇を喰みなさい",
+          "ALICE同罪イノセント",
+          "ローズ家の双子達",
+          "百合の日々は追憶の中に潜み薫る",
+          "乙女の贖い",
+          "令嬢薔薇図鑑",
+          "薔薇美と百合寧の不思議なホテル",
+          "Lolicate",
+          "à la cuisine",
+          "少女と水蜜桃",
+          "Royal Academy of Gothic Lolita",
+          "禁じられた遊び (strings ver.)",
+          "聖少女領域 (strings ver.)",
+          "薔薇獄乙女 (strings ver.)",
+          "Fräulein Rose",
+          "今宵、碧い森深く"
+        ],
+        [
+          "凶夢伝染",
+          "雪華懺悔心中",
+          "夜見のたそがれの、うつろなる蒼き瞳の。",
+          "血の断章",
+          "六道輪廻サバイバル",
+          "禁書",
+          "少女蜜葬 ～Le sang et le miel",
+          "北京LOVERS",
+          "阿芙蓉寝台",
+          "蓮華幽恋",
+          "眼帯兎と包帯羊のMärchen",
+          "朗読する女中と小さな令嬢",
+          "女化生舞楽図",
+          "赤い蝋燭と人魚",
+          "秘密の花薗"
+        ]
+      ],
+      "disk": { "1": "Gothic Lolita", "2": "Gothic Horror" }
+    }
+  ],
+  "rate": 0,
+  "comment": "",
+  "recommend": [
+    "すべて 特に",
+    "私の薔薇を喰みなさい",
+    "ALICE同罪イノセント",
+    "令嬢薔薇図鑑",
+    "Lolicate",
+    "聖少女領域",
+    "今宵、碧い森深く",
+    "凶夢伝染",
+    "雪華懺悔心中",
+    "六道輪廻サバイバル",
+    "北京LOVERS"
+  ],
+  "description": "10thベストアルバム",
+  "type": "album",
+  "img": ["ali_project10compilation.jpg"],
+  "akas": []
+}

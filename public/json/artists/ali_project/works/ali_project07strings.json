@@ -1,0 +1,18 @@
+{
+  "uid": "ali_project07strings",
+  "date": "2011-06-29",
+  "genres": ["symphonic_rock", "classical", "progressive_rock", "art_rock"],
+  "review_done": false,
+  "name": "Les Papillons",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 0,
+  "list": [{ "list": [[""]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "7thストリングスアルバム",
+  "type": "album",
+  "img": ["ali_project07strings.jpg"],
+  "akas": []
+}

@@ -1,0 +1,18 @@
+{
+  "uid": "ali_project12",
+  "date": "2010-09-29",
+  "genres": ["progressive_rock", "art_rock", "experimental_rock"],
+  "review_done": false,
+  "name": "汎新日本主義",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 0,
+  "list": [{ "list": [[""]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "12thアルバム",
+  "type": "album",
+  "img": ["ali_project12.jpg"],
+  "akas": []
+}

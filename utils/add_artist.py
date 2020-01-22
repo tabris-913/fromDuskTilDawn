@@ -86,7 +86,7 @@ def work_artist():
             if os.path.exists(path) is False:
                 os.mkdir(path)
             works = os.listdir(path)
-            genres = set()
+            genres = []
             for workname in works:
                 if workname == 'index.json':
                     continue
@@ -94,15 +94,17 @@ def work_artist():
                     work = json.load(wf)
                 t = f'{work.get("type", "other")}s'
                 uid = work['uid']
-                genres |= set(work['genres'] if 'genres' in work else set())
+                genres += list(filter(lambda g: g not in genres,
+                                      work['genres'])) if 'genres' in work else []
                 if uid not in d[t]:
                     d[t][uid] = {
                         'uid': uid,
                         'name': work['name'],
                         'date': work['date'],
                         'img': work.get('img', []),
-                        'review_done': work.get('review_done', False)
-                    }
+                        'review_done': work.get('review_done', False)}
+            for k in d:
+                d[k] = dict(sorted(d[k].items(), key=lambda x: x[1]['date']))
             with open(os.path.join(path, 'index.json'), 'w', encoding='utf8') as indexf:
                 json.dump(d, indexf, ensure_ascii=False)
 
@@ -111,14 +113,38 @@ def work_artist():
             for k, v in d.items():
                 if k not in info:
                     info[k] = []
-                for k2 in v:
-                    if k2 not in info[k]:
-                        info[k] += [k2]
-            info['genres'] = list(
-                genres | set(
-                    info['genres']) if 'genres' in info else set())
+                # for k2 in v:
+                #     if k2 not in info[k]:
+                #         info[k] += [k2]
+                info[k] = list(v.keys())
+            old_genres = set(info['genres'])
+            info['genres'] = genres + \
+                list(filter(lambda g: g not in genres, old_genres))
             with open(os.path.join(ARTIST, c, 'info.json'), 'w', encoding='utf8') as infof:
                 json.dump(info, infof, ensure_ascii=False)
+
+
+def add_work(auid: str, l, sign):
+    SIGN = {
+        '': 'オリジナルアルバム',
+        'compilation': 'ベストアルバム',
+        'strings': 'ストリングスアルバム',
+        'ep': 'ミニアルバム',
+        'live': 'ライヴアルバム',
+        'remix': 'リミックスアルバム',
+        'single': 'シングル'}
+    path = os.path.join(ARTIST, auid, 'works')
+    with open(os.path.join(path, f'{auid}.json'), encoding='utf8') as file:
+        base = json.load(file)
+
+    for i in l:
+        d = base.copy()
+        uid = f'{auid}{i:02d}{sign}'
+        d['uid'] = uid
+        d['img'] = [f'{uid}.jpg']
+        d['description'] = f'{i}th{SIGN[sign]}'
+        with open(os.path.join(path, f'{uid}.json'), 'w', encoding='utf8') as file:
+            json.dump(d, file, ensure_ascii=False)
 
 
 if __name__ == "__main__":
@@ -130,3 +156,4 @@ if __name__ == "__main__":
     info_artist()
     index_artist()
     work_artist()
+    # add_work('ali_project', range(17, 20), '')

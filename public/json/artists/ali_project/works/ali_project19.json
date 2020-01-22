@@ -1,0 +1,53 @@
+{
+  "uid": "ali_project19",
+  "date": "2019-08-28",
+  "genres": ["progressive_rock", "art_rock", "experimental_rock"],
+  "review_done": false,
+  "name": "Fantasia",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 2019,
+  "list": [
+    {
+      "list": [
+        [
+          "BArⱯDiPArⱯꓷicA",
+          "21世紀新青年",
+          "リアル×ファンタジー",
+          "Maison de Bonbonnière",
+          "月下、緑雨幻想",
+          "自由戀愛",
+          "少女のための残酷物語",
+          "恐怖の頭脳改革",
+          "地球で",
+          "WALTZ FOR DEBBY"
+        ]
+      ]
+    },
+    {
+      "list": [
+        [
+          "BArⱯDiPArⱯꓷicA",
+          "21世紀新青年",
+          "リアル×ファンタジー",
+          "Maison de Bonbonnière",
+          "月下、緑雨幻想",
+          "自由戀愛",
+          "少女のための残酷物語",
+          "恐怖の頭脳改革",
+          "地球で",
+          "ゆりかご",
+          "WALTZ FOR DEBBY"
+        ]
+      ],
+      "description": "初回限定盤"
+    }
+  ],
+  "rate": 0,
+  "comment": "",
+  "recommend": ["BArⱯDiPArⱯꓷicA", "21世紀新青年", "リアル×ファンタジー", "自由戀愛", "恐怖の頭脳改革"],
+  "description": "19thオリジナルアルバム",
+  "type": "album",
+  "img": ["ali_project19.jpg"],
+  "akas": []
+}

@@ -1,0 +1,18 @@
+{
+  "uid": "ali_project03strings",
+  "date": "2005-12-07",
+  "genres": ["symphonic_rock", "classical", "progressive_rock", "art_rock"],
+  "review_done": false,
+  "name": "神々の黄昏",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 0,
+  "list": [{ "list": [[""]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "3thストリングスアルバム",
+  "type": "album",
+  "img": ["ali_project03strings.jpg"],
+  "akas": []
+}

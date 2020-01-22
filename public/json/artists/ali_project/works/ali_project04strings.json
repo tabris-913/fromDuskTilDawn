@@ -1,0 +1,18 @@
+{
+  "uid": "ali_project04strings",
+  "date": "2006-12-06",
+  "genres": ["symphonic_rock", "classical", "progressive_rock", "art_rock"],
+  "review_done": false,
+  "name": "Romance",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 0,
+  "list": [{ "list": [[""]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "4thストリングスアルバム",
+  "type": "album",
+  "img": ["ali_project04strings.jpg"],
+  "akas": []
+}

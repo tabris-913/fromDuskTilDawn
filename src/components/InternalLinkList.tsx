@@ -51,7 +51,7 @@ const InternalLinkList = (props: Props) => {
           linkTo={item.linkTo}
         />
       )}
-      style={{ width: '40%' }}
+      style={{ width: '50%' }}
       size={props.size}
     />
   );

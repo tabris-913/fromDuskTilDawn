@@ -1,0 +1,18 @@
+{
+  "uid": "ali_project01compilation",
+  "date": "2000-08-04",
+  "genres": ["pops", "art_rock"],
+  "review_done": false,
+  "name": "jamais vu",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 0,
+  "list": [{ "list": [[""]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "1thベストアルバム",
+  "type": "album",
+  "img": ["ali_project01compilation.jpg"],
+  "akas": []
+}

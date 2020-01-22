@@ -1,0 +1,59 @@
+{
+  "uid": "ali_project08compilation",
+  "date": "2013-02-20",
+  "genres": ["pops", "art_rock", "experimental_rock", "gothic_rock"],
+  "review_done": false,
+  "name": "快恠奇奇 ALI PROJECT Ventennale Music, Art Exhibition",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 2013,
+  "list": [
+    {
+      "list": [
+        [
+          "勇侠青春謳",
+          "刀と鞘",
+          "恋せよ乙女 -Love story of ZIPANG-",
+          "コトダマ",
+          "阿修羅姫",
+          "Wish",
+          "ピアニィ・ピンク",
+          "Anniversary of Angel",
+          "禁じられた遊び",
+          "聖少女領域",
+          "雨のソナタ ～La Pluie",
+          "pastel pure",
+          "薔薇獄乙女",
+          "星月夜 ～ルシファー第四楽章～",
+          "フラワーチャイルド"
+        ],
+        [
+          "嵐ヶ丘",
+          "ヴェネツィアン・ラプソディー",
+          "LABYRINTH",
+          "堕天國宣戦",
+          "亂世エロイカ",
+          "コッペリアの柩 (Noir Ver.)",
+          "戦慄の子供たち",
+          "暗黒天国",
+          "裸々イヴ新世紀",
+          "鬼帝の剣",
+          "跪いて足をお嘗め",
+          "地獄の門",
+          "わが﨟たし悪の華",
+          "凶夢伝染",
+          "月蝕グランギニョル",
+          "亡國覚醒カタルシス",
+          "快恠奇奇"
+        ]
+      ]
+    }
+  ],
+  "rate": 0,
+  "comment": "",
+  "recommend": ["すべて"],
+  "description": "8thベストアルバム",
+  "type": "album",
+  "img": ["ali_project08compilation.jpg"],
+  "akas": []
+}

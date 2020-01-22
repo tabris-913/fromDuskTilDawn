@@ -1,0 +1,22 @@
+{
+  "uid": "ali_project02",
+  "date": "1992-12-09",
+  "genres": ["progressive_rock", "art_rock", "experimental_rock"],
+  "review_done": false,
+  "name": "月下の一群",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 0,
+  "list": [
+    {
+      "list": [[""]]
+    }
+  ],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "2ndアルバム",
+  "type": "album",
+  "img": ["ali_project02.jpg"],
+  "akas": []
+}

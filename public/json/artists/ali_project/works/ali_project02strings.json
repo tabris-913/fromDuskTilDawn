@@ -1,0 +1,18 @@
+{
+  "uid": "ali_project02strings",
+  "date": "2004-06-23",
+  "genres": ["symphonic_rock", "classical", "progressive_rock", "art_rock"],
+  "review_done": false,
+  "name": "étoiles",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 0,
+  "list": [{ "list": [[""]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "2thストリングスアルバム",
+  "type": "album",
+  "img": ["ali_project02strings.jpg"],
+  "akas": []
+}

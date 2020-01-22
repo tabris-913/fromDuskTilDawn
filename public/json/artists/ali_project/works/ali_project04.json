@@ -1,0 +1,22 @@
+{
+  "uid": "ali_project04",
+  "date": "1995-12-06",
+  "genres": ["pops", "progressive_rock", "art_rock", "experimental_rock"],
+  "review_done": false,
+  "name": "星と月のソナタ",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 0,
+  "list": [
+    {
+      "list": [[""]]
+    }
+  ],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "4thアルバム",
+  "type": "album",
+  "img": ["ali_project04.jpg"],
+  "akas": []
+}

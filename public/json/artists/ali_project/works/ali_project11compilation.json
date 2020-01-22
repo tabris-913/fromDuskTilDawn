@@ -1,0 +1,60 @@
+{
+  "uid": "ali_project11compilation",
+  "date": "2017-09-27",
+  "genres": ["art_rock", "experimental_rock"],
+  "review_done": false,
+  "name": "愛と誠 ～YAMATO & LOVE XXX～",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 2017,
+  "list": [
+    {
+      "list": [
+        [
+          "愛と誠",
+          "勇侠青春謳",
+          "神風",
+          "陸と海と空と",
+          "戦争と平和",
+          "Vaklyrja ～騎士乙女",
+          "絶國TEMPEST",
+          "少女殉血",
+          "青嵐血風録",
+          "隼の白バラ",
+          "花と龍",
+          "KING KNIGHT",
+          "永久戒厳令",
+          "見ぬ友へ",
+          "この國の向こうに",
+          "鎮魂頌"
+        ],
+        [
+          "胡蝶夢心中",
+          "遊月恋歌",
+          "BAR酔芙蓉へようこそ",
+          "真夏の憂愁夫人",
+          "蜜薔薇庭園",
+          "Rose Moon",
+          "月光夜",
+          "緋紅的牡丹",
+          "RED WALTZ",
+          "薔薇娼館",
+          "修道院の廃庭にて",
+          "春葬",
+          "闇の翼ですべてをつつむ夜のためのアリア",
+          "星月夜",
+          "共月亭で逢いましょう",
+          "Adieu"
+        ]
+      ],
+      "disk": { "1": "YAMATO", "2": "LOVEXXX" }
+    }
+  ],
+  "rate": 0,
+  "comment": "",
+  "recommend": ["すべて"],
+  "description": "11thベストアルバム",
+  "type": "album",
+  "img": ["ali_project11compilation.jpg"],
+  "akas": []
+}

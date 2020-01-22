@@ -1,0 +1,68 @@
+{
+  "uid": "ali_project18",
+  "date": "2018-07-25",
+  "genres": ["progressive_rock", "art_rock", "experimental_rock"],
+  "review_done": false,
+  "name": "芸術変態論",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 2018,
+  "list": [
+    {
+      "list": [
+        [
+          "芸術変態論",
+          "Tailor Tの変身譚",
+          "ヤマトイズム",
+          "少女昆蟲記",
+          "眼球ロマン",
+          "青空",
+          "極まれリ",
+          "或る修道士の告解",
+          "タンゴ ダダ",
+          "Freak Out",
+          "魅惑劇"
+        ]
+      ]
+    },
+    {
+      "list": [
+        [
+          "芸術変態論",
+          "Tailor Tの変身譚",
+          "ヤマトイズム",
+          "少女昆蟲記",
+          "眼球ロマン",
+          "青空",
+          "極まれリ",
+          "或る修道士の告解",
+          "タンゴ ダダ",
+          "Freak Out"
+        ],
+        [
+          "舞踏蜘蛛ミッドナイト",
+          "地獄の吸血パレード",
+          "汎新日本主義TOUR 2010",
+          "凶夢伝染カルナバルLIVE 2012",
+          "真偽贋作博覧会TOUR 2012",
+          "令嬢薔薇図鑑顧客閲覧会TOUR 2013",
+          "流行世界感染TOUR 2014",
+          "倶楽部エピキュリアン快楽交歓会のススメTOUR 2015",
+          "A級戒厳令 従わざるもの喰うべからずTOUR 2016",
+          "血と蜜 Gothic Lolita編TOUR 2017",
+          "血と蜜 Gothic Horror編TOUR 2017",
+          "愛と誠 YAMATO & LOVE XXX LIVE 2017",
+          "芸術変態論TOUR 2018"
+        ]
+      ],
+      "description": "初回限定盤"
+    }
+  ],
+  "rate": 0,
+  "comment": "",
+  "recommend": ["芸術変態論", "青空", "或る修道士の告解", "魅惑劇"],
+  "description": "18thオリジナルアルバム",
+  "type": "album",
+  "img": ["ali_project18.jpg"],
+  "akas": []
+}

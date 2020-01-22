@@ -37,7 +37,7 @@ const Body = (props: BodyProps) => {
 
     const Rating = () => (
       <>
-        {!!content.rate ? (
+        {content.rate !== undefined && 0 <= content.rate && content.rate <= 100 ? (
           <Rate
             disabled={true}
             allowHalf={true}
@@ -85,7 +85,14 @@ const Body = (props: BodyProps) => {
                 <Row type="flex">
                   {ver.list.map((disk, idx) => (
                     <Col style={{ margin: '0px 20px 20px 20px' }} key={idx}>
-                      {ver.list.length > 1 ? <span>Disk {idx + 1}</span> : undefined}
+                      {ver.list.length > 1 ? (
+                        <span>
+                          Disk {idx + 1}{' '}
+                          {ver.disk?.[(idx + 1).toString()] ? `(${ver.disk?.[(idx + 1).toString()]})` : undefined}
+                        </span>
+                      ) : (
+                        undefined
+                      )}
                       <ol>
                         {disk.map((song, idx2) => (
                           <li key={idx2}>{song}</li>

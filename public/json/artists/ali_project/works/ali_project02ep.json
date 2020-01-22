@@ -1,0 +1,18 @@
+{
+  "uid": "ali_project02ep",
+  "date": "2001-07-25",
+  "genres": ["pops", "progressive_rock", "art_rock", "experimental_rock"],
+  "review_done": false,
+  "name": "CLASSICS",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 0,
+  "list": [{ "list": [[""]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "2thミニアルバム",
+  "type": "album",
+  "img": ["ali_project02ep.jpg"],
+  "akas": []
+}

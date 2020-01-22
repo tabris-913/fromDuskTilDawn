@@ -50,6 +50,7 @@ const Body = (props: BodyProps) => {
         <Descriptions title="Info" bordered={true} column={1} style={{ width: '50%' }}>
           <Descriptions.Item label="名前">{content.name}</Descriptions.Item>
           <Descriptions.Item label="読み">{content.ruby || ''}</Descriptions.Item>
+          {content.akas ? <Descriptions.Item label="別名">{content.akas.join('\n')}</Descriptions.Item> : undefined}
         </Descriptions>
       ) : (
         undefined

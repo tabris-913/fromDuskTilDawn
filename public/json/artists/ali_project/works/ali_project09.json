@@ -1,0 +1,18 @@
+{
+  "uid": "ali_project09",
+  "date": "2007-08-22",
+  "genres": ["progressive_rock", "art_rock", "experimental_rock"],
+  "review_done": false,
+  "name": "Psychedelic Instanity",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 0,
+  "list": [{ "list": [[""]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "9thアルバム",
+  "type": "album",
+  "img": ["ali_project09.jpg"],
+  "akas": []
+}

@@ -1,0 +1,55 @@
+{
+  "uid": "ali_project01",
+  "date": "1988-01-25",
+  "genres": ["progressive_rock", "art_rock", "experimental_rock", "new_wave"],
+  "review_done": false,
+  "name": "幻想庭園",
+  "ruby": "",
+  "artist": ["蟻プロジェクト"],
+  "year": 1988,
+  "list": [
+    {
+      "list": [
+        [
+          "青蛾月",
+          "マリーゴールド・ガーデン",
+          "鏡面界 im Juni",
+          "アンジェ・ノワールの祭戯",
+          "紅い睡蓮の午後",
+          "桜の花は狂い咲き",
+          "少女忌恋歌",
+          "パラソルのある風景",
+          "硝子天井のうちゅう",
+          "幻想庭園",
+          "Poupeé Frou Frou"
+        ]
+      ]
+    },
+    {
+      "list": [
+        [
+          "青蛾月",
+          "マリーゴールド・ガーデン",
+          "鏡面界 im Juni",
+          "アンジェ・ノワールの祭戯",
+          "紅い睡蓮の午後",
+          "桜の花は狂い咲き",
+          "少女忌恋歌",
+          "パラソルのある風景",
+          "硝子天井のうちゅう",
+          "幻想庭園",
+          "Poupeé Frou Frou",
+          "フラワーチャイルド"
+        ]
+      ],
+      "description": "幻想庭園 [+1]"
+    }
+  ],
+  "rate": 0,
+  "comment": "",
+  "recommend": ["青蛾月", "マリーゴールド・ガーデン", "アンジェ・ノワールの祭戯", "桜の花は狂い咲き"],
+  "description": "1stアルバム",
+  "type": "album",
+  "img": ["ali_project01.jpg"],
+  "akas": []
+}
