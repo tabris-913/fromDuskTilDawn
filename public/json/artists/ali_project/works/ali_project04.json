@@ -2,7 +2,7 @@
   "uid": "ali_project04",
   "date": "1995-12-06",
   "genres": ["pops", "progressive_rock", "art_rock", "experimental_rock"],
-  "review_done": false,
+  "review_done": true,
   "name": "星と月のソナタ",
   "ruby": "",
   "artist": ["ALI PROJECT"],
@@ -25,8 +25,8 @@
       ]
     }
   ],
-  "rate": 0,
-  "comment": "",
+  "rate": 73,
+  "comment": "新曲は2曲のみという半ベスト的なアルバム．というより新曲も収録されたベストアルバムと言ったほうがしっくりくる．冬に似合うバラード寄りの楽曲を中心に集められている．新曲#7はこのアルバムでしか聴くことができない曲で，#8もオリジナルver.が収録されているのは今作のみ．",
   "recommend": ["雨のソナタ", "彼と彼女の聖夜", "共月亭で逢いましょう"],
   "description": "4thアルバム",
   "type": "album",
