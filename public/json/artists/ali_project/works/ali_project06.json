@@ -2,7 +2,7 @@
   "uid": "ali_project06",
   "date": "2001-04-25",
   "genres": ["progressive_rock", "art_rock", "experimental_rock", "gothic_rock"],
-  "review_done": false,
+  "review_done": true,
   "name": "Aristocracy",
   "ruby": "",
   "artist": ["ALI PROJECT"],
@@ -29,8 +29,15 @@
     }
   ],
   "rate": 76,
-  "comment": "シングル#3移行黒アリメインになったとはいえ，それはあくまでもシングルでの話．アルバムでも確かに黒アリが多くなっているが，従来の白アリも収録されている．#13はベストアルバム「jamais vu」収録曲を再収録．",
-  "recommend": ["少女貴族", "コッペリアの柩", "à la cuisine", "Sacrifice"],
+  "comment": "シングル#3以降黒アリメインになったとはいえ，それはあくまでもシングルでの話．アルバムでも確かに黒アリが多くなっているが，尊すぎる事後ソング#6のように従来の白アリも収録されている．タイトルから想像するに，気高い少女の歌が多そうであるがそんなことはなかった．#2なんかは気高いと言えないこともないが，そういうにはあまりに攻撃的になりすぎている．もちろんその攻撃性が良いのだが．#12はベストアルバム「jamais vu」収録曲を再収録．",
+  "recommend": [
+    "少女貴族",
+    "コッペリアの柩",
+    "病める薔薇",
+    "à la cuisine",
+    "闇の翼ですべてをつつむ夜のためのアリア",
+    "Sacrifice"
+  ],
   "description": "6thアルバム",
   "type": "album",
   "img": ["ali_project06.jpg"],
