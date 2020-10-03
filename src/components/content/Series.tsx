@@ -85,7 +85,7 @@ const Body = (props: BodyProps & Partial<SeriesContentPageDispatchProps>) => {
                                       <Col>
                                         {song.track_no}.{' '}
                                         <span style={{ fontWeight: 'bold' }}>
-                                          {workDoc.list[song.disk_no ? song.disk_no - 1 : 0][song.track_no - 1]}
+                                          {workDoc.list[song.disk_no ? song.disk_no - 1 : 0].list[song.track_no - 1]}
                                         </span>
                                       </Col>
                                       <Col style={{ color: '#888', paddingLeft: 20 }}>

@@ -20,7 +20,7 @@ const Body = (props: BodyProps) => {
                   <Card.Meta title={song.title} description={song.artist} />
                 </Card>
               ))
-            : undefined}
+            : 'test page'}
         </>
       );
     case 'album':

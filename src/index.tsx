@@ -2,7 +2,7 @@ import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 
 import { ConnectedRouter, routerMiddleware } from 'connected-react-router';
-import { createHashHistory as createHistory, History } from 'history';
+import { createBrowserHistory as createHistory, History } from 'history';
 import { Provider } from 'react-redux';
 import { applyMiddleware, createStore } from 'redux';
 import { createLogger } from 'redux-logger';
