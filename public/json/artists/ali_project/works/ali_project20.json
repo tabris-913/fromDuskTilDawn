@@ -1,0 +1,59 @@
+{
+  "uid": "ali_project20",
+  "date": "2020-07-29",
+  "genres": ["progressive_rock", "art_rock", "experimental_rock"],
+  "review_done": false,
+  "name": "人生美味礼讃",
+  "ruby": "",
+  "artist": ["ALI PROJECT"],
+  "year": 2020,
+  "list": [
+    {
+      "list": [
+        [
+          "毒見役",
+          "人生美味礼讃",
+          "恋する和牛",
+          "昭和B級下手喰い道",
+          "茸狂乱美味礼讃",
+          "狩猟令嬢ジビエ日誌",
+          "喰らう女",
+          "お毒味LADY",
+          "恋愛分子ガストロノミー",
+          "桃色天国",
+          "Maison de Bonbonnière",
+          "或る修道士の告解",
+          "La Fée Verte ～アブサニストによる音楽的試み",
+          "ストロベリーパイをお食べ ～運命編"
+        ]
+      ]
+    },
+    {
+      "list": [
+        [
+          "毒見役",
+          "人生美味礼讃",
+          "恋する和牛",
+          "昭和B級下手喰い道",
+          "茸狂乱美味礼讃",
+          "狩猟令嬢ジビエ日誌",
+          "喰らう女",
+          "お毒味LADY",
+          "恋愛分子ガストロノミー",
+          "桃色天国",
+          "Maison de Bonbonnière",
+          "或る修道士の告解",
+          "La Fée Verte ～アブサニストによる音楽的試み"
+        ]
+      ],
+      "description": "初回限定盤"
+    }
+  ],
+  "rate": 0,
+  "comment": "",
+  "recommend": ["毒見役", "人生美味礼讃"],
+  "description": "20thオリジナルアルバム",
+  "type": "album",
+  "img": ["ali_project20.jpg"],
+  "akas": []
+}

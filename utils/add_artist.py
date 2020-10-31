@@ -132,7 +132,9 @@ def add_work(auid: str, l, sign):
         'ep': 'ミニアルバム',
         'live': 'ライヴアルバム',
         'remix': 'リミックスアルバム',
-        'single': 'シングル'}
+        'single': 'シングル',
+        'cover': 'カヴァー',
+        'selfcover': 'セルフカヴァー'}
     path = os.path.join(ARTIST, auid, 'works')
     with open(os.path.join(path, f'{auid}.json'), encoding='utf8') as file:
         base = json.load(file)
