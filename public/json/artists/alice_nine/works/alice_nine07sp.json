@@ -1,0 +1,31 @@
+{
+    "uid": "alice_nine07ep",
+    "date": "2020-04-29",
+    "genres": ["pop_rock", "hard_rock", "visual_rock"],
+    "review_done": false,
+    "name": "黒とワンダーランド",
+    "artist": ["アリス九號."],
+    "year": 2020,
+    "list": [
+      {
+        "list": [
+          [
+            "Wonderland With Black",
+            "MANDALA (मण्डल)",
+            "Catwalk",
+            "REPLICA",
+            "透明の翼",
+            "BIRTHDAY",
+            "Glow"
+          ]
+        ]
+      }
+    ],
+    "rate": null,
+    "comment": "",
+    "recommend": [],
+    "description": "7thミニアルバム",
+    "type": "album",
+    "img": ["alice_nine07ep.png"]
+  }
+  

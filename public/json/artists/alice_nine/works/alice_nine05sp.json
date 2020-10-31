@@ -1,0 +1,31 @@
+{
+    "uid": "alice_nine05ep",
+    "date": "2016-04-13",
+    "genres": ["pop_rock", "hard_rock", "visual_rock"],
+    "review_done": false,
+    "name": "LIGHT AND DARKNESS",
+    "artist": ["A9"],
+    "year": 2016,
+    "list": [
+      {
+        "list": [
+          [
+            "PRISMATIC",
+            "DARKER AND DARKER",
+            "SILVER",
+            "INSOMNIA",
+            "ANIMUS",
+            "BLOSSOM",
+            "THE SOUNDS OF GALAXY"
+          ]
+        ]
+      }
+    ],
+    "rate": 84,
+    "comment": "",
+    "recommend": [],
+    "description": "5thミニアルバム",
+    "type": "album",
+    "img": ["alice_nine05ep.png"]
+  }
+  

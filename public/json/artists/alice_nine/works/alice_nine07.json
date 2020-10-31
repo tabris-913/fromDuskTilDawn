@@ -1,0 +1,34 @@
+{
+    "uid": "alice_nine07",
+    "date": "2017-04-12",
+    "genres": ["pop_rock", "hard_rock", "visual_rock"],
+    "review_done": false,
+    "name": "IDEAL",
+    "artist": ["A9"],
+    "year": 2017,
+    "list": [
+      {
+        "list": [
+          [
+            "REAL_INSTRUMENTAL_",
+            "IDEA",
+            "MEMENTO",
+            "造花の代償",
+            "UNDEAD PARTY",
+            "ECHO",
+            "荊棘",
+            "輪廻と一夜の物語",
+            "Adam",
+            "ONE"
+          ]
+        ]
+      }
+    ],
+    "rate": 81,
+    "comment": "",
+    "recommend": ["IDEA", "MEMENTO", "造花の代償", "UNDEAD PARTY"],
+    "description": "7thアルバム",
+    "type": "album",
+    "img": ["alice_nine07.jpg"]
+  }
+  
