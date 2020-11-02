@@ -31,9 +31,4 @@ const ScorePage = (props: Props) => (
   </Wireframe>
 );
 
-export default withRouter(
-  connect(
-    mapState2Props,
-    mapDispatch2Props
-  )(ScorePage)
-);
+export default withRouter(connect(mapState2Props, mapDispatch2Props)(ScorePage));

@@ -30,9 +30,4 @@ const NewReleasePage = (props: Props) => (
   </Wireframe>
 );
 
-export default withRouter(
-  connect(
-    mapState2Props,
-    mapDispatch2Props
-  )(NewReleasePage)
-);
+export default withRouter(connect(mapState2Props, mapDispatch2Props)(NewReleasePage));

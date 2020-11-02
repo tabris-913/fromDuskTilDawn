@@ -34,9 +34,4 @@ const ReviewSchedulePage = (props: Props) => (
   </Wireframe>
 );
 
-export default withRouter(
-  connect(
-    mapState2Props,
-    mapDispatch2Props
-  )(ReviewSchedulePage)
-);
+export default withRouter(connect(mapState2Props, mapDispatch2Props)(ReviewSchedulePage));

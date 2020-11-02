@@ -30,9 +30,4 @@ const ReviewTopPage = (props: Props) => (
   </Wireframe>
 );
 
-export default withRouter(
-  connect(
-    mapState2Props,
-    mapDispatch2Props
-  )(ReviewTopPage)
-);
+export default withRouter(connect(mapState2Props, mapDispatch2Props)(ReviewTopPage));

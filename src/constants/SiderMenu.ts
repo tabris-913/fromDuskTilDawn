@@ -3,7 +3,7 @@ import PageName from './PageName';
 
 import { ISider, ISiderSub } from '../models/wireframe/Sider';
 
-export const SiderLeftMenu: Array<ISider | ISiderSub> = [
+export const SiderLeftMenu: (ISider | ISiderSub)[] = [
   { key: 'top', label: 'Top', toPage: PageName.TOP },
   { key: 'review', label: 'Review', toPage: PageName.REVIEW_TOP },
   {

@@ -9,11 +9,11 @@ export default interface IWork extends IContent<WorkUid> {
   year: number;
   description: string;
   artist: ArtistUid[];
-  list: Array<{
+  list: {
     description?: string;
     disk?: { [n: number]: string };
     list: string[][];
-  }>;
+  }[];
   comment: string;
   img?: string[];
   rate?: number;

@@ -8,7 +8,7 @@ import PageName, { toPublicUrl } from '../constants/PageName';
 import * as Page from './pages';
 // import PrivateRoute from './PrivateRoute';
 
-import { LocaleProvider } from 'antd';
+import { ConfigProvider } from 'antd';
 import jaJP from 'antd/lib/locale-provider/ja_JP';
 import * as moment from 'moment-timezone';
 // import '../constants/yupSchema/extend';
@@ -24,7 +24,7 @@ const makeRoute = ([pageName, component, suffix]: MakeRoute) => (
 );
 
 const Application = () => (
-  <LocaleProvider locale={jaJP}>
+  <ConfigProvider locale={jaJP}>
     <React.Fragment>
       <div className="App">
         <Switch>
@@ -65,7 +65,7 @@ const Application = () => (
         </Switch>
       </div>
     </React.Fragment>
-  </LocaleProvider>
+  </ConfigProvider>
 );
 
 export default Application;

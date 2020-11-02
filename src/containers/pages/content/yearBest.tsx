@@ -60,9 +60,4 @@ const YearBestPage = (props: Props) => {
   );
 };
 
-export default withRouter(
-  connect(
-    mapState2Props,
-    mapDispatch2Props
-  )(YearBestPage)
-);
+export default withRouter(connect(mapState2Props, mapDispatch2Props)(YearBestPage));

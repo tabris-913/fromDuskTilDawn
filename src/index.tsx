@@ -6,7 +6,7 @@ import { createBrowserHistory as createHistory, History } from 'history';
 import { Provider } from 'react-redux';
 import { applyMiddleware, createStore } from 'redux';
 import { createLogger } from 'redux-logger';
-import { PersistConfig, persistReducer, persistStore } from 'redux-persist';
+import { persistReducer, persistStore } from 'redux-persist';
 import { PersistGate } from 'redux-persist/integration/react';
 import storage from 'redux-persist/lib/storage/session'; // session storage
 import createSagaMiddleware from 'redux-saga';
@@ -16,7 +16,7 @@ import rootSaga from './sagas';
 
 import Application from './containers/Application';
 
-const persistConfig: PersistConfig = {
+const persistConfig = {
   key: 'html',
   storage: storage,
   whitelist: [],

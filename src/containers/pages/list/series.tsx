@@ -43,9 +43,4 @@ const SeriesPage = (props: Props) => {
   );
 };
 
-export default withRouter(
-  connect(
-    mapState2Props,
-    mapDispatch2Props
-  )(SeriesPage)
-);
+export default withRouter(connect(mapState2Props, mapDispatch2Props)(SeriesPage));

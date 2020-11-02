@@ -32,9 +32,9 @@ export const Body = (props: BodyProps) => {
   });
 
   const SelectButton = () => (
-    <Row type="flex" style={{ marginBottom: 15 }}>
+    <Row style={{ marginBottom: 15 }}>
       <Col>
-        <Row type="flex" justify="space-around">
+        <Row justify="space-around">
           {alphabet.split('').map(s => (
             <Col key={s}>
               <Button onClick={() => setLocalState({ ...localState, selectedInitial: s })}>{s}</Button>
@@ -43,7 +43,7 @@ export const Body = (props: BodyProps) => {
         </Row>
       </Col>
       <Col span={12}>
-        <Row type="flex" justify="space-between">
+        <Row justify="space-between">
           {hiragana.split('').map(s => (
             <Col key={s}>
               <Button onClick={() => setLocalState({ ...localState, selectedInitial: s })}>{s}</Button>

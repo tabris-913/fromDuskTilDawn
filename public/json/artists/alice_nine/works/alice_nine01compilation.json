@@ -1,0 +1,37 @@
+{
+    "uid": "alice_nine01compilation",
+    "date": "2010-03-24",
+    "genres": ["pop_rock", "hard_rock", "visual_rock"],
+    "review_done": false,
+    "name": "Alice Nine Complete Collection 2006-2010",
+    "artist": ["Alice Nine"],
+    "year": 2010,
+    "list": [
+      {
+        "list": [
+          [
+              "九龍 -NINE HEADS RODEO SHOW-",
+              "FANTASY",
+              "ヴェルヴェット",
+              "NUMBER SIX.",
+              "JEWELS",
+              "WHITE PRAYER",
+              "TSUBASA.",
+              "cosmic world",
+              "ブループラネット",
+              "MIRROR BALL",
+              "RAINBOWS",
+              "the beautiful name",
+              "華"
+          ]
+        ]
+      }
+    ],
+    "rate": 86,
+    "comment": "",
+    "recommend": [],
+    "description": "1stベストアルバム",
+    "type": "album",
+    "img": ["alice_nine01compilation.jpg"]
+  }
+  

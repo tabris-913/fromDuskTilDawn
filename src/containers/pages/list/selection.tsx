@@ -39,9 +39,4 @@ const SelectionsPage = (props: Props) => {
   );
 };
 
-export default withRouter(
-  connect(
-    mapState2Props,
-    mapDispatch2Props
-  )(SelectionsPage)
-);
+export default withRouter(connect(mapState2Props, mapDispatch2Props)(SelectionsPage));

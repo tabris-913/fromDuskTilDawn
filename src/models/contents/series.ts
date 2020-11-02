@@ -1,5 +1,5 @@
 import { ISeriesState } from '../../reducers/content/series';
-import { SeriesUid, ArtistUid } from '../Id';
+import { ArtistUid, SeriesUid } from '../Id';
 import IContent, { IContentList, IContentListContent } from './content';
 
 export interface ISeriesSong {

@@ -37,7 +37,7 @@ const Body = (props: BodyProps) => {
   };
 
   return (
-    <Row type="flex" justify="space-between">
+    <Row justify="space-between">
       {R.range(1960, 2019)
         .reverse()
         .map(item =>

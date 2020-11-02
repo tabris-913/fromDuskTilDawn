@@ -71,9 +71,4 @@ const GenrePage = (props: Props) => {
   );
 };
 
-export default withRouter(
-  connect(
-    mapState2Props,
-    mapDispatch2Props
-  )(GenrePage)
-);
+export default withRouter(connect(mapState2Props, mapDispatch2Props)(GenrePage));

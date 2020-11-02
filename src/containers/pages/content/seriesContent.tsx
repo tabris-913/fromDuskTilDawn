@@ -79,9 +79,4 @@ const SeriesContentPage = (props: Props) => {
   );
 };
 
-export default withRouter(
-  connect(
-    mapState2Props,
-    mapDispatch2Props
-  )(SeriesContentPage)
-);
+export default withRouter(connect(mapState2Props, mapDispatch2Props)(SeriesContentPage));

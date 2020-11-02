@@ -30,9 +30,4 @@ const LinkPage = (props: Props) => (
   </Wireframe>
 );
 
-export default withRouter(
-  connect(
-    mapState2Props,
-    mapDispatch2Props
-  )(LinkPage)
-);
+export default withRouter(connect(mapState2Props, mapDispatch2Props)(LinkPage));

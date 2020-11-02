@@ -1,3 +1,4 @@
+import { SagaIterator } from 'redux-saga';
 import { call, put } from 'redux-saga/effects';
 import { Action } from 'typescript-fsa';
 import { ContentActions } from '../actions/content';
@@ -11,7 +12,6 @@ import ISeriesRequest, { ISeriesListRequest } from '../models/requests/SeriesReq
 import IWorkRequest, { IWorkListRequest } from '../models/requests/WorkRequest';
 import IYearBestRequest, { IYearBestListRequest } from '../models/requests/YearBestRequest';
 import { ReturnedType } from '../utils/MiscUtils';
-import { SagaIterator } from 'redux-saga';
 
 export interface ContentSaga {
   getArtist: (action: Action<IArtistRequest>) => SagaIterator;

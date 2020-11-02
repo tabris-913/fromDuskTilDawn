@@ -3,6 +3,7 @@ import * as React from 'react';
 
 import Main from '../Main';
 
+import { QuestionOutlined } from '@ant-design/icons';
 import { BodyProps, MainContentProps } from '../../models/Main';
 
 const Title = () => <></>;
@@ -51,11 +52,11 @@ const Body = (props: BodyProps) => {
     );
 
     return (
-      <Row type="flex" justify="start">
+      <Row justify="start">
         <Col style={{ padding: 4 }} xs={24} xl={12} xxl={6}>
           <Avatar
             src={content.img ? `${process.env.REACT_APP_IMG_SRC}${content.img[0]}` : ''}
-            icon="question"
+            icon={<QuestionOutlined />}
             shape="square"
             size={240}
           />
@@ -75,14 +76,16 @@ const Body = (props: BodyProps) => {
 
   const TrackList = () => (
     <Row>
-      <Col style={{ textDecoration: 'underline', fontWeight: 'bold', fontSize: '120%' }}>Track List</Col>
+      <Col style={{ textDecoration: 'underline', fontWeight: 'bold', fontSize: '120%' }} span={24}>
+        Track List
+      </Col>
       <Col>
-        <Row type="flex">
+        <Row>
           {content.list.map((ver, vidx) => (
             <Row key={vidx}>
-              <Col>{ver.description ? ver.description : '(Regular Edition)'}</Col>
+              <Col span={24}>{ver.description ? ver.description : '(Regular Edition)'}</Col>
               <Col>
-                <Row type="flex">
+                <Row>
                   {ver.list.map((disk, idx) => (
                     <Col style={{ margin: '0px 20px 20px 20px' }} key={idx}>
                       {ver.list.length > 1 ? (
@@ -119,7 +122,7 @@ const Body = (props: BodyProps) => {
     <>
       {content.recommend ? (
         <Row>
-          <Col>おすすめ</Col>
+          <Col span={24}>おすすめ</Col>
           <Col>{content.recommend.join('、')}</Col>
         </Row>
       ) : (

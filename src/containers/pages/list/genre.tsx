@@ -40,9 +40,4 @@ const GenresPage = (props: Props) => {
   );
 };
 
-export default withRouter(
-  connect(
-    mapState2Props,
-    mapDispatch2Props
-  )(GenresPage)
-);
+export default withRouter(connect(mapState2Props, mapDispatch2Props)(GenresPage));

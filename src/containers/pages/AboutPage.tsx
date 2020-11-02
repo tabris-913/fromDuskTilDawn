@@ -30,9 +30,4 @@ const AboutPage = (props: Props) => (
   </Wireframe>
 );
 
-export default withRouter(
-  connect(
-    mapState2Props,
-    mapDispatch2Props
-  )(AboutPage)
-);
+export default withRouter(connect(mapState2Props, mapDispatch2Props)(AboutPage));

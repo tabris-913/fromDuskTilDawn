@@ -24,9 +24,14 @@ const Body = (props: BodyProps) => {
     const [score, setScore] = React.useState<number | undefined>(localState);
 
     return (
-      <Row type="flex">
+      <Row>
         <Col>
-          <InputNumber value={score} min={0} max={99} onChange={v => setScore(v)} />
+          <InputNumber
+            value={score}
+            min={0}
+            max={99}
+            onChange={v => setScore(v !== undefined ? Number(v) : undefined)}
+          />
         </Col>
         <Col>
           <Button onClick={() => setLocalState(score)}>確定</Button>

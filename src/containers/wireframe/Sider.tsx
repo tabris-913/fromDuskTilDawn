@@ -9,7 +9,7 @@ interface IOwnProps {
   pathname: string;
   onClickMenu: (menuKey: PageName) => void;
   title?: string;
-  body: Array<ISider | ISiderSub>;
+  body: (ISider | ISiderSub)[];
   theme?: 'dark' | 'light';
   breakpoint?: 'xs' | 'sm' | 'md' | 'lg' | 'xl' | 'xxl';
   reverseArrow?: boolean;

@@ -67,9 +67,4 @@ const ArtistPage = (props: Props) => {
   );
 };
 
-export default withRouter(
-  connect(
-    mapState2Props,
-    mapDispatch2Props
-  )(ArtistPage)
-);
+export default withRouter(connect(mapState2Props, mapDispatch2Props)(ArtistPage));

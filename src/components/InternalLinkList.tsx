@@ -7,10 +7,10 @@ import { useColor } from '../utils/HooksUtils';
 interface Props extends MainContentProps {
   titlePropsName: string;
   descriptionPropsName?: string;
-  source?: Array<{
+  source?: {
     element: any;
     linkTo: string;
-  }>;
+  }[];
   size?: 'default' | 'large' | 'small';
 }
 
@@ -34,7 +34,7 @@ const InternalLinkList = (props: Props) => {
           };
 
     return (
-      <List.Item style={{ backgroundColor: color }} {...listItemParam}>
+      <List.Item {...listItemParam}>
         <List.Item.Meta title={itemProps.title} description={itemProps.description} style={{ paddingLeft: 10 }} />
       </List.Item>
     );

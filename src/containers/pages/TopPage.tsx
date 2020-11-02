@@ -32,9 +32,4 @@ const TopPage = (props: Props) => {
 
   return <Wireframe title="TOP">{props.content.topTopic.reviewed ? <Top {...props} /> : undefined}</Wireframe>;
 };
-export default withRouter(
-  connect(
-    mapState2Props,
-    mapDispatch2Props
-  )(TopPage)
-);
+export default withRouter(connect(mapState2Props, mapDispatch2Props)(TopPage));

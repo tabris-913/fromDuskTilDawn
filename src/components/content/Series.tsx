@@ -1,4 +1,5 @@
-import { Avatar, Col, Collapse, Divider, Icon, List, Row, Typography } from 'antd';
+import { RightOutlined } from '@ant-design/icons';
+import { Avatar, Col, Collapse, Divider, List, Row, Typography } from 'antd';
 import * as R from 'ramda';
 import * as React from 'react';
 import ReactMarkdown from 'react-markdown';
@@ -35,7 +36,7 @@ const Body = (props: BodyProps & Partial<SeriesContentPageDispatchProps>) => {
     <>
       <Collapse
         expandIconPosition="left"
-        expandIcon={({ isActive }) => <Icon type="right" rotate={isActive ? 90 : arrowPos === 'left' ? 0 : 180} />}
+        expandIcon={({ isActive }) => <RightOutlined rotate={isActive ? 90 : arrowPos === 'left' ? 0 : 180} />}
         bordered={true}
         accordion={true}
       >

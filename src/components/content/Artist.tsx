@@ -27,16 +27,14 @@ const Body = (props: BodyProps) => {
           titlePropsName="title"
           source={Object.entries(works[p])
             .sort(([auid, awork], [buid, bwork]) => (awork.date < bwork.date ? -1 : 1))
-            .map(([uid, work]) => {
-              return {
-                element: { title: work ? `${work.name} (${work.date})` : uid },
-                linkTo: work
-                  ? work.review_done
-                    ? toPublicUrl(PageName.WORK, [content.uid as string], { id: work.uid })
-                    : ''
-                  : '',
-              };
-            })}
+            .map(([uid, work]) => ({
+              element: { title: work ? `${work.name} (${work.date})` : uid },
+              linkTo: work
+                ? work.review_done
+                  ? toPublicUrl(PageName.WORK, [content.uid as string], { id: work.uid })
+                  : ''
+                : '',
+            }))}
         />
       </div>
     ) : (
@@ -50,7 +48,7 @@ const Body = (props: BodyProps) => {
         <Descriptions title="Info" bordered={true} column={1} style={{ width: '50%' }}>
           <Descriptions.Item label="名前">{content.name}</Descriptions.Item>
           <Descriptions.Item label="読み">{content.ruby || ''}</Descriptions.Item>
-          {content.akas ? <Descriptions.Item label="別名">{content.akas.join('\n')}</Descriptions.Item> : undefined}
+          {content.akas ? <Descriptions.Item label="別名">{content.akas.join('、')}</Descriptions.Item> : undefined}
         </Descriptions>
       ) : (
         undefined

@@ -40,9 +40,4 @@ const ArtistListPage = (props: Props) => {
   );
 };
 
-export default withRouter(
-  connect(
-    mapState2Props,
-    mapDispatch2Props
-  )(ArtistListPage)
-);
+export default withRouter(connect(mapState2Props, mapDispatch2Props)(ArtistListPage));

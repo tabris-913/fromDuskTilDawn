@@ -1,4 +1,5 @@
-import { Breadcrumb, Icon } from 'antd';
+import { HomeFilled } from '@ant-design/icons';
+import { Breadcrumb } from 'antd';
 import { History } from 'history';
 import * as React from 'react';
 
@@ -25,10 +26,14 @@ const BreadCrumpItem = ({ label, key, open }: IBreadCrumpItem) => {
 
 const breadCrump = (children: IBreadCrump[], history: History) => (
   <Breadcrumb>
-    <BreadCrumpItem label={<Icon type="home" />} key="top" open={() => history.push(toPublicUrl(PageName.TOP))} />
-    {children.map(({ href, label }, idx) =>
-      !!href ? (
-        <BreadCrumpItem label={label} key={idx} open={() => history.push(toPublicUrl(href))} />
+    <BreadCrumpItem label={<HomeFilled />} key="top" open={() => history.push(toPublicUrl(PageName.TOP))} />
+    {children.map(({ href, hrefWithId, label }, idx) =>
+      href !== undefined || hrefWithId !== undefined ? (
+        <BreadCrumpItem
+          label={label}
+          key={idx}
+          open={() => history.push(href !== undefined ? toPublicUrl(href) : hrefWithId!)}
+        />
       ) : (
         <Breadcrumb.Item key={idx}>{label}</Breadcrumb.Item>
       )

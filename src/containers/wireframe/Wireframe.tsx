@@ -51,9 +51,4 @@ const Wireframe = (props: Props) => (
   </Layout>
 );
 
-export default withRouter(
-  connect(
-    mapState2Props,
-    mapDispatch2Props
-  )(Wireframe)
-);
+export default withRouter(connect(mapState2Props, mapDispatch2Props)(Wireframe));

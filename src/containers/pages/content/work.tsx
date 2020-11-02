@@ -67,9 +67,4 @@ const WorkPage = (props: Props) => {
   );
 };
 
-export default withRouter(
-  connect(
-    mapState2Props,
-    mapDispatch2Props
-  )(WorkPage)
-);
+export default withRouter(connect(mapState2Props, mapDispatch2Props)(WorkPage));
