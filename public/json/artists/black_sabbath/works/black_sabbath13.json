@@ -1,1 +1,41 @@
-{"uid": "black_sabbath13", "date": "", "genres": [], "review_done": false, "name": "The Eternal Idol ", "artist": ["Black Sabbath"], "year": 1987, "list": [{"list": [["", "The Shining", "Ancient Warrior", "Hard Life to Live", "Glory Ride", "Born to Lose", "", "Nightmare", "Scarlet Pimpernel", "Lost Forever", "The Eternal Idol"]]}], "rate": 91, "comment": "Tony Martinが加入して制作された作品で、80年代後半からの第三黄金期の幕開けを飾る。前作同様サバスらしさは薄いものの、HR/HM作品としてのクオリティは最高級だ。セールスは振るわず、全英チャート成績は過去最低となってしまった。ドラマティックなオープニング#1から伝わってくる名盤感。続く#2も劇的で荘厳な雰囲気を感じさせる。しかもギターソロはエスニックな風合いだ。そして#3はノリの良いテンポで進む...という感じでアルバム全編通して非常に完成度が高い。サバスをサバスとして聴くのであれば受け入れがたく感じるかもしれないが、彼ららしさを抜きにして、ただのヘヴィメタルとして聴くのであれば非の打ち所がない。", "recommend": ["全部　特にThe Shining", "Ancient Warrior", "Hard Life to Live", "Born to Lose", "Lost Forever", "The Eternal Idol"], "description": "Sabbath 13thアルバム", "type": "album", "img": ["sabbath13.jpg"]}
+{
+  "uid": "black_sabbath13",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "The Eternal Idol ",
+  "artist": ["Black Sabbath"],
+  "year": 1987,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "The Shining",
+          "Ancient Warrior",
+          "Hard Life to Live",
+          "Glory Ride",
+          "Born to Lose",
+          "",
+          "Nightmare",
+          "Scarlet Pimpernel",
+          "Lost Forever",
+          "The Eternal Idol"
+        ]
+      ]
+    }
+  ],
+  "rate": 91,
+  "comment": "Tony Martinが加入して制作された作品で、80年代後半からの第三黄金期の幕開けを飾る。前作同様サバスらしさは薄いものの、HR/HM作品としてのクオリティは最高級だ。セールスは振るわず、全英チャート成績は過去最低となってしまった。ドラマティックなオープニング#1から伝わってくる名盤感。続く#2も劇的で荘厳な雰囲気を感じさせる。しかもギターソロはエスニックな風合いだ。そして#3はノリの良いテンポで進む...という感じでアルバム全編通して非常に完成度が高い。サバスをサバスとして聴くのであれば受け入れがたく感じるかもしれないが、彼ららしさを抜きにして、ただのヘヴィメタルとして聴くのであれば非の打ち所がない。",
+  "recommend": [
+    "全部　特にThe Shining",
+    "Ancient Warrior",
+    "Hard Life to Live",
+    "Born to Lose",
+    "Lost Forever",
+    "The Eternal Idol"
+  ],
+  "description": "Sabbath 13thアルバム",
+  "type": "album",
+  "img": ["sabbath13.jpg"]
+}

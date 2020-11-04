@@ -1,1 +1,46 @@
-{"uid": "helloween12", "date": "", "genres": [], "review_done": false, "name": "Gambling with the Devil ", "artist": ["Helloween"], "year": 2007, "list": [{"list": [["", "Crack the Riddle", "Kill It", "The Saints", "As long As I Fall", "Paint a New World", "Final Fortune", "The Bells of the 7 Hells", "", "Fallen to Pieces", "I.M.E.", "Can Do It", "Dreambound", "Heaven Tells No Lies", "(JAPANESE BONUS TRACK)", "We Unite"]]}], "rate": 87, "comment": "前作の出来で自信がついたのか、それとも加入したSaschaの力量が素晴らしいのか、またまた名盤と呼べるアルバムをリリース。この時Gamma Rayとのカップリングツアーが決定していたが、当時だんだん落ち目になっていたGamma Rayに対してまさに好調と言える雰囲気だ。作品全体の質でいえば確実に前作のほうが上だが、曲個々のレヴェルでいえば前作に肩を並べる。", "recommend": ["全部　特にKill It", "The Saints", "Paint a New World", "Final Fortune", "Can Do It", "Heaven Tell No Lies"], "description": "12thアルバム", "type": "album", "img": ["hw12.jpg"]}
+{
+  "uid": "helloween12",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Gambling with the Devil ",
+  "artist": ["Helloween"],
+  "year": 2007,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Crack the Riddle",
+          "Kill It",
+          "The Saints",
+          "As long As I Fall",
+          "Paint a New World",
+          "Final Fortune",
+          "The Bells of the 7 Hells",
+          "",
+          "Fallen to Pieces",
+          "I.M.E.",
+          "Can Do It",
+          "Dreambound",
+          "Heaven Tells No Lies",
+          "(JAPANESE BONUS TRACK)",
+          "We Unite"
+        ]
+      ]
+    }
+  ],
+  "rate": 87,
+  "comment": "前作の出来で自信がついたのか、それとも加入したSaschaの力量が素晴らしいのか、またまた名盤と呼べるアルバムをリリース。この時Gamma Rayとのカップリングツアーが決定していたが、当時だんだん落ち目になっていたGamma Rayに対してまさに好調と言える雰囲気だ。作品全体の質でいえば確実に前作のほうが上だが、曲個々のレヴェルでいえば前作に肩を並べる。",
+  "recommend": [
+    "全部　特にKill It",
+    "The Saints",
+    "Paint a New World",
+    "Final Fortune",
+    "Can Do It",
+    "Heaven Tell No Lies"
+  ],
+  "description": "12thアルバム",
+  "type": "album",
+  "img": ["hw12.jpg"]
+}

@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi02live", "date": "1976-10-21", "genres": [], "review_done": false, "name": "MOMOE ON STAGE", "ruby": "", "artist": "山口百恵", "year": 1976, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "2thライブアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi02live",
+  "date": "1976-10-21",
+  "genres": [],
+  "review_done": false,
+  "name": "MOMOE ON STAGE",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1976,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "2thライブアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

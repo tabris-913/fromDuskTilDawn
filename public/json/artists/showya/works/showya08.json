@@ -1,1 +1,16 @@
-{"uid": "showya08", "date": "", "genres": [], "review_done": false, "name": "HARD WAY", "artist": ["SHOW-YA"], "year": 1990, "list": [{"list": [["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]]}], "rate": 0, "comment": "", "recommend": [""], "description": "8thアルバム", "type": "album", "img": ["showya08.jpg"]}
+{
+  "uid": "showya08",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "HARD WAY",
+  "artist": ["SHOW-YA"],
+  "year": 1990,
+  "list": [{ "list": [["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "8thアルバム",
+  "type": "album",
+  "img": ["showya08.jpg"]
+}

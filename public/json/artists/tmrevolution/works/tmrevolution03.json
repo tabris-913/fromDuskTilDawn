@@ -1,1 +1,37 @@
-{"uid": "tmrevolution03", "date": "", "genres": [], "review_done": false, "name": "triple joker ", "artist": ["T.M.Revolution"], "year": 1998, "list": [{"list": [["", "蒼い霹靂", "OH! MY GIRL, OH MY GOD! -MORNING SURPRISE MIX-", "WHITE BREATH -MORE FREEZE MIX-", "O.L", "MID-NITE WARRIORS", "LEVEL 4 -LEVEL→V MIX-", "", "Slight faith", "MinD ESCAPE", "Joker -G CODE MIX-", "Twinkle Million Rendezvous", "HIGH PRESSURE -MORE HEAT MIX-", "JUST A JOKE"]]}], "rate": 97, "comment": "出荷枚数でダブルミリオンを記録した代表作。まさに飛ぶ鳥を落とす勢いに乗って世を席巻していた頃の作品だ。完全に吹っ切れたように遊び心をふんだんに取り入れ、デジタルロックの一言では片付けられない領域まで達した。兄貴のイメージを固定した#3,11というヒットシングルが収録され、売れるべくして売れたという印象。だがもちろんシングルだけの力ではなく、凄まじいレヴェルのアルバム曲もある。切ないロックバラード#4や、本領発揮のロックナンバー#9、そして最高傑作バラード#10。俺の中学時代を彩った、華々しい名曲たちは今でも色褪せることなく、心を若返らせてくれる。", "recommend": ["全部　特にO.L", "LEVEL 4", "Joker", "Twinkle Million Rendezvous"], "description": "3rdアルバム", "type": "album", "img": ["tmr03.jpg"]}
+{
+  "uid": "tmrevolution03",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "triple joker ",
+  "artist": ["T.M.Revolution"],
+  "year": 1998,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "蒼い霹靂",
+          "OH! MY GIRL, OH MY GOD! -MORNING SURPRISE MIX-",
+          "WHITE BREATH -MORE FREEZE MIX-",
+          "O.L",
+          "MID-NITE WARRIORS",
+          "LEVEL 4 -LEVEL→V MIX-",
+          "",
+          "Slight faith",
+          "MinD ESCAPE",
+          "Joker -G CODE MIX-",
+          "Twinkle Million Rendezvous",
+          "HIGH PRESSURE -MORE HEAT MIX-",
+          "JUST A JOKE"
+        ]
+      ]
+    }
+  ],
+  "rate": 97,
+  "comment": "出荷枚数でダブルミリオンを記録した代表作。まさに飛ぶ鳥を落とす勢いに乗って世を席巻していた頃の作品だ。完全に吹っ切れたように遊び心をふんだんに取り入れ、デジタルロックの一言では片付けられない領域まで達した。兄貴のイメージを固定した#3,11というヒットシングルが収録され、売れるべくして売れたという印象。だがもちろんシングルだけの力ではなく、凄まじいレヴェルのアルバム曲もある。切ないロックバラード#4や、本領発揮のロックナンバー#9、そして最高傑作バラード#10。俺の中学時代を彩った、華々しい名曲たちは今でも色褪せることなく、心を若返らせてくれる。",
+  "recommend": ["全部　特にO.L", "LEVEL 4", "Joker", "Twinkle Million Rendezvous"],
+  "description": "3rdアルバム",
+  "type": "album",
+  "img": ["tmr03.jpg"]
+}

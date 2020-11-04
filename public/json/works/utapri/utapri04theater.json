@@ -1,1 +1,14 @@
-{"name": "シアターシャイニング BLOODY SHADOWS", "description": "", "date": "2015-11-18", "year": 0, "artist": ["ai", "masato", "ren"], "list": [{"disk_no": 1, "name": "", "list": ["BLOODY SHADOWS chapter 1", "BLOODY SHADOWS chapter 2", "BLOODY SHADOWS"]}], "comment": "", "uid": "utapri04theater", "img": ["utapri04theater.jpg"], "rate": 0}
+{
+  "name": "シアターシャイニング BLOODY SHADOWS",
+  "description": "",
+  "date": "2015-11-18",
+  "year": 0,
+  "artist": ["ai", "masato", "ren"],
+  "list": [
+    { "disk_no": 1, "name": "", "list": ["BLOODY SHADOWS chapter 1", "BLOODY SHADOWS chapter 2", "BLOODY SHADOWS"] }
+  ],
+  "comment": "",
+  "uid": "utapri04theater",
+  "img": ["utapri04theater.jpg"],
+  "rate": 0
+}

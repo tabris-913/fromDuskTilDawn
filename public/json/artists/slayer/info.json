@@ -1,1 +1,32 @@
-{"uid": "slayer", "name": "Slayer", "ruby": "スレイヤー", "ruby4Sort": "すれいやー", "en": "Slayer", "initial": ["S", "さ"], "kind": "バンド", "genres": [], "albums": ["slayer01", "slayer01compilation", "slayer01ep", "slayer02", "slayer02ep", "slayer03", "slayer03ep", "slayer04", "slayer05", "slayer06", "slayer07", "slayer08", "slayer09", "slayer10", "slayer11"], "singles": [], "others": [], "akas": [], "logo": [], "related": []}
+{
+  "uid": "slayer",
+  "name": "Slayer",
+  "ruby": "スレイヤー",
+  "ruby4Sort": "すれいやー",
+  "en": "Slayer",
+  "initial": ["S", "さ"],
+  "kind": "バンド",
+  "genres": [],
+  "albums": [
+    "slayer01",
+    "slayer01compilation",
+    "slayer01ep",
+    "slayer02",
+    "slayer02ep",
+    "slayer03",
+    "slayer03ep",
+    "slayer04",
+    "slayer05",
+    "slayer06",
+    "slayer07",
+    "slayer08",
+    "slayer09",
+    "slayer10",
+    "slayer11"
+  ],
+  "singles": [],
+  "others": [],
+  "akas": [],
+  "logo": [],
+  "related": []
+}

@@ -1,1 +1,39 @@
-{"uid": "gamma_ray11", "date": "", "genres": [], "review_done": false, "name": "Empire of the Undead", "artist": ["Gamma Ray"], "year": 2014, "list": [{"list": [["", "Avalon", "Hellbent", "Pale Rider", "Born to Fly", "Master of Confusion", "Empire of the Undead", "Time for Deliverance", "", "Demonseed", "Seven", "I Will Return", "(JAPANESE BONUS TRACK)", "Someday", "(EUROPEAN BONUS TRACK)", "Built a World"]]}], "rate": 85, "comment": "1曲目から9分越えと言う、あの名盤Land of the Freeを思わせるオープニングの11作目。作品全体としてはモダンな雰囲気のヘヴィな曲が多く、Majesticに通じる部分もある。しかし曲はこちらのほうがいい。キラーの2曲目は非常にJudas Priestっぽいが、いまさら何も言うまい。それにしても日本のボーナストラックはひどい。これメタルか？駄曲だな。この曲がなかったら86点。今後このアルバムを買う予定の人は、ぜひとも輸入盤を買うべきだ。", "recommend": ["Avalon", "Hellbent", "Born to Fly", "Empire of the Undead", "Seven", "I Will Return"], "description": "Ray 11thアルバム", "type": "album", "img": ["gamma11.jpg"]}
+{
+  "uid": "gamma_ray11",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Empire of the Undead",
+  "artist": ["Gamma Ray"],
+  "year": 2014,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Avalon",
+          "Hellbent",
+          "Pale Rider",
+          "Born to Fly",
+          "Master of Confusion",
+          "Empire of the Undead",
+          "Time for Deliverance",
+          "",
+          "Demonseed",
+          "Seven",
+          "I Will Return",
+          "(JAPANESE BONUS TRACK)",
+          "Someday",
+          "(EUROPEAN BONUS TRACK)",
+          "Built a World"
+        ]
+      ]
+    }
+  ],
+  "rate": 85,
+  "comment": "1曲目から9分越えと言う、あの名盤Land of the Freeを思わせるオープニングの11作目。作品全体としてはモダンな雰囲気のヘヴィな曲が多く、Majesticに通じる部分もある。しかし曲はこちらのほうがいい。キラーの2曲目は非常にJudas Priestっぽいが、いまさら何も言うまい。それにしても日本のボーナストラックはひどい。これメタルか？駄曲だな。この曲がなかったら86点。今後このアルバムを買う予定の人は、ぜひとも輸入盤を買うべきだ。",
+  "recommend": ["Avalon", "Hellbent", "Born to Fly", "Empire of the Undead", "Seven", "I Will Return"],
+  "description": "Ray 11thアルバム",
+  "type": "album",
+  "img": ["gamma11.jpg"]
+}

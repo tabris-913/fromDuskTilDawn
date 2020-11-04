@@ -1,1 +1,37 @@
-{"uid": "bonjovi05", "date": "", "genres": [], "review_done": false, "name": "Keep the Faith", "artist": ["Bon Jovi"], "year": 1992, "list": [{"list": [["", "I Believe", "Keep the Faith", "I'll Sleep When I'm Dead", "In These Arms", "Bed of Roses", "If I Was Your Mother", "", "Dry Country", "Woman in Love", "Fear", "I Want You", "Blame It on the Love of Rock & Roll", "Little Bit of Soul"]]}], "rate": 85, "comment": "解散の危機を乗り越えて制作された5作目。当時のグランジブームに影響を受けることなく、自分たちのスタイルを貫いたのは良いが、そのため全米5位とこれまでより順位を落とした。これまでの作品より地味であることは否めず、派手さに欠けている。また楽曲の質は低くないが、これまでのように突出してカッコいいものは少ない。#5はキャリア随一のバラードであり、本作のハイライト。#6はパワフルで耳に残るロックチューン。はっきり言ってそれ以外は並だ。", "recommend": ["Bed of Roses", "If I Was Your Mother"], "description": "Jovi 5thアルバム", "type": "album", "img": ["bonjovi05.jpg"]}
+{
+  "uid": "bonjovi05",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Keep the Faith",
+  "artist": ["Bon Jovi"],
+  "year": 1992,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "I Believe",
+          "Keep the Faith",
+          "I'll Sleep When I'm Dead",
+          "In These Arms",
+          "Bed of Roses",
+          "If I Was Your Mother",
+          "",
+          "Dry Country",
+          "Woman in Love",
+          "Fear",
+          "I Want You",
+          "Blame It on the Love of Rock & Roll",
+          "Little Bit of Soul"
+        ]
+      ]
+    }
+  ],
+  "rate": 85,
+  "comment": "解散の危機を乗り越えて制作された5作目。当時のグランジブームに影響を受けることなく、自分たちのスタイルを貫いたのは良いが、そのため全米5位とこれまでより順位を落とした。これまでの作品より地味であることは否めず、派手さに欠けている。また楽曲の質は低くないが、これまでのように突出してカッコいいものは少ない。#5はキャリア随一のバラードであり、本作のハイライト。#6はパワフルで耳に残るロックチューン。はっきり言ってそれ以外は並だ。",
+  "recommend": ["Bed of Roses", "If I Was Your Mother"],
+  "description": "Jovi 5thアルバム",
+  "type": "album",
+  "img": ["bonjovi05.jpg"]
+}

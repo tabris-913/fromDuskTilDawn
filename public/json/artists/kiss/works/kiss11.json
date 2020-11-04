@@ -1,1 +1,35 @@
-{"uid": "kiss11", "date": "", "genres": [], "review_done": false, "name": "Lick It Up （地獄の回想）", "artist": ["Kiss"], "year": 1983, "list": [{"list": [["", "Exciter", "Not for the Innocent （暴虐の炎）", "Lick It Up （地獄の回想）", "Young and Wasted （青い暴走）", "Gimme More", "", "All Hell's Breakin' Loose （地獄の饗宴）", "A Million to One （至上の愛）", "Gits Like a Glove （悪魔の欲情）", "Dance All Over Your Face", "And on the 8th Day （8日目の新世界）"]]}], "rate": 88, "comment": "ついに素顔を公開した11作目。前作に続いてヘヴィ・メタル路線であるが、ここでは従来のキッスらしいメロディやキャッチーさを取り入れた。その結果として、当時人気を見せ始めていたグラム・メタル、いわゆるLAメタルに近いサウンドとなった。全体的に暗かった前作とは打って変わって、明るい曲も増えているため、聴きやすくなっている。6曲目はメタル時代の代表曲の一つ。ここまでで彼らのメタルへの準備は整った。次のアルバムからが彼らの本領発揮だ。", "recommend": ["Exciter", "Lick It Up", "Gimme More", "All Hell's Breakin' Loose", "Fits Like a Glove"], "description": "11thアルバム", "type": "album", "img": ["kiss11.jpg"]}
+{
+  "uid": "kiss11",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Lick It Up （地獄の回想）",
+  "artist": ["Kiss"],
+  "year": 1983,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Exciter",
+          "Not for the Innocent （暴虐の炎）",
+          "Lick It Up （地獄の回想）",
+          "Young and Wasted （青い暴走）",
+          "Gimme More",
+          "",
+          "All Hell's Breakin' Loose （地獄の饗宴）",
+          "A Million to One （至上の愛）",
+          "Gits Like a Glove （悪魔の欲情）",
+          "Dance All Over Your Face",
+          "And on the 8th Day （8日目の新世界）"
+        ]
+      ]
+    }
+  ],
+  "rate": 88,
+  "comment": "ついに素顔を公開した11作目。前作に続いてヘヴィ・メタル路線であるが、ここでは従来のキッスらしいメロディやキャッチーさを取り入れた。その結果として、当時人気を見せ始めていたグラム・メタル、いわゆるLAメタルに近いサウンドとなった。全体的に暗かった前作とは打って変わって、明るい曲も増えているため、聴きやすくなっている。6曲目はメタル時代の代表曲の一つ。ここまでで彼らのメタルへの準備は整った。次のアルバムからが彼らの本領発揮だ。",
+  "recommend": ["Exciter", "Lick It Up", "Gimme More", "All Hell's Breakin' Loose", "Fits Like a Glove"],
+  "description": "11thアルバム",
+  "type": "album",
+  "img": ["kiss11.jpg"]
+}

@@ -1,1 +1,40 @@
-{"uid": "megadeth03", "date": "", "genres": [], "review_done": false, "name": "So Far, So Good... So What!", "artist": ["Megadeth"], "year": 1988, "list": [{"list": [["", "Into the Lungs of Hell", "Set the World Afire", "Anerchy in the U.K.", "Mary Jane", "", "502", "In My Darkest Hour", "Liar", "Hook in Mouth"]]}], "rate": 86, "comment": "前作よりも評価の落ち込んだ3作目。だが個人的には前作より好きだ。至る所でお得意なテクニカルプレイがちりばめられており、さらに全体的に分かりやすい疾走を見せている。やはりスラッシュ・メタルはシンプルじゃないといけないね。これでメガデスの準備は整った。次作では一気に大きな成長を遂げることとなる。", "recommend": ["Into the Lungs of Hell", "Set the World Afire", "Anarchy in the U.K.", "Mary Jane", "502", "Hook in Mouth"], "description": "3rdアルバム", "type": "album", "img": ["megadeth03.jpg"]}
+{
+  "uid": "megadeth03",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "So Far, So Good... So What!",
+  "artist": ["Megadeth"],
+  "year": 1988,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Into the Lungs of Hell",
+          "Set the World Afire",
+          "Anerchy in the U.K.",
+          "Mary Jane",
+          "",
+          "502",
+          "In My Darkest Hour",
+          "Liar",
+          "Hook in Mouth"
+        ]
+      ]
+    }
+  ],
+  "rate": 86,
+  "comment": "前作よりも評価の落ち込んだ3作目。だが個人的には前作より好きだ。至る所でお得意なテクニカルプレイがちりばめられており、さらに全体的に分かりやすい疾走を見せている。やはりスラッシュ・メタルはシンプルじゃないといけないね。これでメガデスの準備は整った。次作では一気に大きな成長を遂げることとなる。",
+  "recommend": [
+    "Into the Lungs of Hell",
+    "Set the World Afire",
+    "Anarchy in the U.K.",
+    "Mary Jane",
+    "502",
+    "Hook in Mouth"
+  ],
+  "description": "3rdアルバム",
+  "type": "album",
+  "img": ["megadeth03.jpg"]
+}

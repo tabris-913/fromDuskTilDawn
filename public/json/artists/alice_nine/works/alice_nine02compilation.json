@@ -1,39 +1,38 @@
 {
-    "uid": "alice_nine02compilation",
-    "date": "2013-08-21",
-    "genres": ["pop_rock", "hard_rock", "visual_rock"],
-    "review_done": false,
-    "name": "Alice Nine Complete Collection II 2010-2012",
-    "artist": ["Alice Nine"],
-    "year": 2013,
-    "list": [
-      {
-        "list": [
-          [
-            "閃光",
-            "Le Grand Bleu",
-            "Stargazer:",
-            "蜃気楼",
-            "カルマ",
-            "GEMINI-0-eternal",
-            "GEMINI-I-the void",
-            "GEMINI-II-the luv",
-            "BLUE FLAME",
-            "残響ホワイトアウト",
-            "Heart of Gold",
-            "Ray",
-            "虹の雪",
-            "NEMESIS",
-            "すべてへ"
-          ]
+  "uid": "alice_nine02compilation",
+  "date": "2013-08-21",
+  "genres": ["pop_rock", "hard_rock", "visual_rock"],
+  "review_done": false,
+  "name": "Alice Nine Complete Collection II 2010-2012",
+  "artist": ["Alice Nine"],
+  "year": 2013,
+  "list": [
+    {
+      "list": [
+        [
+          "閃光",
+          "Le Grand Bleu",
+          "Stargazer:",
+          "蜃気楼",
+          "カルマ",
+          "GEMINI-0-eternal",
+          "GEMINI-I-the void",
+          "GEMINI-II-the luv",
+          "BLUE FLAME",
+          "残響ホワイトアウト",
+          "Heart of Gold",
+          "Ray",
+          "虹の雪",
+          "NEMESIS",
+          "すべてへ"
         ]
-      }
-    ],
-    "rate": 87,
-    "comment": "",
-    "recommend": [],
-    "description": "2ndベストアルバム",
-    "type": "album",
-    "img": ["alice_nine02compilation.jpg"]
-  }
-  
+      ]
+    }
+  ],
+  "rate": 87,
+  "comment": "",
+  "recommend": [],
+  "description": "2ndベストアルバム",
+  "type": "album",
+  "img": ["alice_nine02compilation.jpg"]
+}

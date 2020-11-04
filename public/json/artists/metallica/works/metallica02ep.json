@@ -1,1 +1,16 @@
-{"uid": "metallica02ep", "date": "", "genres": [], "review_done": false, "name": "Beyond Magnetic", "artist": ["Metallica"], "year": 2011, "list": [{"list": [["", "Hate Train", "Just a Bullet Away", "", "Hell and Back", "Rebel of Babylon"]]}], "rate": 82, "comment": "Death Magnetic本編に比べるとグルーヴ時代に近いが、どちらかと言えばスレイヤー型のスラッシュ主体グルーヴといった感じだ。これでEPが下らなかったらどうしようと思ったが、いい意味で期待を裏切ってくれて実に良かった。", "recommend": ["Hate Train", "Just a Bullet Away", "Rebel of Babylon"], "description": "2ndミニアルバム", "type": "album", "img": ["metallica02e.jpg"]}
+{
+  "uid": "metallica02ep",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Beyond Magnetic",
+  "artist": ["Metallica"],
+  "year": 2011,
+  "list": [{ "list": [["", "Hate Train", "Just a Bullet Away", "", "Hell and Back", "Rebel of Babylon"]] }],
+  "rate": 82,
+  "comment": "Death Magnetic本編に比べるとグルーヴ時代に近いが、どちらかと言えばスレイヤー型のスラッシュ主体グルーヴといった感じだ。これでEPが下らなかったらどうしようと思ったが、いい意味で期待を裏切ってくれて実に良かった。",
+  "recommend": ["Hate Train", "Just a Bullet Away", "Rebel of Babylon"],
+  "description": "2ndミニアルバム",
+  "type": "album",
+  "img": ["metallica02e.jpg"]
+}

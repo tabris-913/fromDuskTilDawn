@@ -1,1 +1,43 @@
-{"uid": "iron_maiden01live", "date": "", "genres": [], "review_done": false, "name": "Live After Death （死霊復活) ", "artist": ["Iron Maiden"], "year": 1985, "list": [{"list": [["Disc 1", "Intro: Churchill's Speach", "Aces High", "2 Minutes to Midnight", "The Trooper", "Revelations", "Flight of Icarus", "Rime of the Ancient Mariner", "Powerslave", "The Number of the Beast", "Hallowed Be Thy Name", "Iron Maiden", "Run to the Hills", "Running Free", "Disc 2", "Wrathchild", "22 Avacia Avenue", "Children of the Damned", "Die with Your Boots On", "Phantom of the Opera"]]}], "rate": 0, "comment": "", "recommend": [], "description": "Maiden 1stライヴアルバム", "type": "album", "img": ["maiden01l.jpg"]}
+{
+  "uid": "iron_maiden01live",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Live After Death （死霊復活) ",
+  "artist": ["Iron Maiden"],
+  "year": 1985,
+  "list": [
+    {
+      "list": [
+        [
+          "Disc 1",
+          "Intro: Churchill's Speach",
+          "Aces High",
+          "2 Minutes to Midnight",
+          "The Trooper",
+          "Revelations",
+          "Flight of Icarus",
+          "Rime of the Ancient Mariner",
+          "Powerslave",
+          "The Number of the Beast",
+          "Hallowed Be Thy Name",
+          "Iron Maiden",
+          "Run to the Hills",
+          "Running Free",
+          "Disc 2",
+          "Wrathchild",
+          "22 Avacia Avenue",
+          "Children of the Damned",
+          "Die with Your Boots On",
+          "Phantom of the Opera"
+        ]
+      ]
+    }
+  ],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "Maiden 1stライヴアルバム",
+  "type": "album",
+  "img": ["maiden01l.jpg"]
+}

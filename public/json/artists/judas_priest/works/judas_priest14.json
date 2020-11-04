@@ -1,1 +1,38 @@
-{"uid": "judas_priest14", "date": "", "genres": [], "review_done": false, "name": "Demolition", "artist": ["Judas Priest"], "year": 2001, "list": [{"list": [["", "Machine Man", "One on One", "Hell Is Home", "Jekyll and Hyde", "Close to You", "Devil Digger", "Bloodsucker", "", "In Between", "Feed on Me", "Subterfuge", "Lost and Found", "Cyberface", "Metal Messiah"]]}], "rate": 70, "comment": "前作同様全英チャート入りを逃した14作目。サウンドは前作と同じくモダンなグルーヴ／ニュー・メタルだ。リッパーの素晴らしいヴォーカルはこの作品でも聴けるが、いかんせん曲があまりよろしくない。そのリッパーのヴォーカルも一点だけ気になることがあり、ハイトーンがほとんどないのだ。これじゃぁジューダスとは呼べない。別に彼らか作らなくても、当時掃いて捨てるほどいた同じようなバンドでも書けるような曲ばかりだ。", "recommend": ["Machine Man", "Bloodsuckers", "Metal Messiah"], "description": "Priest 14thアルバム", "type": "album", "img": ["judas14.jpg"]}
+{
+  "uid": "judas_priest14",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Demolition",
+  "artist": ["Judas Priest"],
+  "year": 2001,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Machine Man",
+          "One on One",
+          "Hell Is Home",
+          "Jekyll and Hyde",
+          "Close to You",
+          "Devil Digger",
+          "Bloodsucker",
+          "",
+          "In Between",
+          "Feed on Me",
+          "Subterfuge",
+          "Lost and Found",
+          "Cyberface",
+          "Metal Messiah"
+        ]
+      ]
+    }
+  ],
+  "rate": 70,
+  "comment": "前作同様全英チャート入りを逃した14作目。サウンドは前作と同じくモダンなグルーヴ／ニュー・メタルだ。リッパーの素晴らしいヴォーカルはこの作品でも聴けるが、いかんせん曲があまりよろしくない。そのリッパーのヴォーカルも一点だけ気になることがあり、ハイトーンがほとんどないのだ。これじゃぁジューダスとは呼べない。別に彼らか作らなくても、当時掃いて捨てるほどいた同じようなバンドでも書けるような曲ばかりだ。",
+  "recommend": ["Machine Man", "Bloodsuckers", "Metal Messiah"],
+  "description": "Priest 14thアルバム",
+  "type": "album",
+  "img": ["judas14.jpg"]
+}

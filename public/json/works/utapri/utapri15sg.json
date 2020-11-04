@@ -1,1 +1,12 @@
-{"name": "アイドルソング 四ノ宮那月", "description": "", "date": "2011-08-24", "year": 2011, "artist": ["natsuki"], "list": [{"disk_no": 1, "name": "", "list": ["オリオンでSHOUT OUT", "Top Star Revolution"]}], "comment": "", "uid": "utapri15sg", "img": ["utapri15sg.jpg"], "rate": 0}
+{
+  "name": "アイドルソング 四ノ宮那月",
+  "description": "",
+  "date": "2011-08-24",
+  "year": 2011,
+  "artist": ["natsuki"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["オリオンでSHOUT OUT", "Top Star Revolution"] }],
+  "comment": "",
+  "uid": "utapri15sg",
+  "img": ["utapri15sg.jpg"],
+  "rate": 0
+}

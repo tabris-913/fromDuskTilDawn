@@ -1,1 +1,35 @@
-{"uid": "judas_priest01", "date": "", "genres": [], "review_done": false, "name": "Rocka Rolla", "artist": ["Judas Priest"], "year": 1974, "list": [{"list": [["", "One for the Road", "Rocka Rolla", "Winter", "Deep Freeze", "Winter Retreat", "", "Cheater", "Never Satisfied", "Run of the Mill", "Dying to Meet You", "Caviar and Meths"]]}], "rate": 60, "comment": "メタル・ゴッドの記念すべきデビューアルバム。しかしこの頃は全盛期の勢いはなく、メタルというよりハード・ロックだ。ただHalfordのハイトーンもところどころで聴くことができ、エッジの効いたサウンドも生きている。イギリスらしい雰囲気のアルバムで、一番若いころの作品ながら、なぜか一番渋い作品と言える。ジューダスを期待して再生ボタンを押すと、大きく肩透かしを食らう。特別面白くもなんともない作品だ。", "recommend": ["特になし"], "description": "Priest 1stアルバム", "type": "album", "img": ["judas01.jpg"]}
+{
+  "uid": "judas_priest01",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Rocka Rolla",
+  "artist": ["Judas Priest"],
+  "year": 1974,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "One for the Road",
+          "Rocka Rolla",
+          "Winter",
+          "Deep Freeze",
+          "Winter Retreat",
+          "",
+          "Cheater",
+          "Never Satisfied",
+          "Run of the Mill",
+          "Dying to Meet You",
+          "Caviar and Meths"
+        ]
+      ]
+    }
+  ],
+  "rate": 60,
+  "comment": "メタル・ゴッドの記念すべきデビューアルバム。しかしこの頃は全盛期の勢いはなく、メタルというよりハード・ロックだ。ただHalfordのハイトーンもところどころで聴くことができ、エッジの効いたサウンドも生きている。イギリスらしい雰囲気のアルバムで、一番若いころの作品ながら、なぜか一番渋い作品と言える。ジューダスを期待して再生ボタンを押すと、大きく肩透かしを食らう。特別面白くもなんともない作品だ。",
+  "recommend": ["特になし"],
+  "description": "Priest 1stアルバム",
+  "type": "album",
+  "img": ["judas01.jpg"]
+}

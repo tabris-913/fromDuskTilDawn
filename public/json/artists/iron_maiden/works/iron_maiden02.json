@@ -1,1 +1,35 @@
-{"uid": "iron_maiden02", "date": "", "genres": [], "review_done": false, "name": "Killers", "artist": ["Iron Maiden"], "year": 1981, "list": [{"list": [["", "The Ides of March （3月5日）", "Wrathchild", "Murders in the Rue Morgue （モルグ街の殺人）", "Another Life", "Genghis Khan", "", "Innocent Exile （無実の逃亡者）", "Killers", "Prodigal Son （悪魔の魔法）", "Purgatory", "Drifter"]]}], "rate": 83, "comment": "前作よりもメロディを強化した2作目。全体的にはよくなった感もあるが、前作のような一撃必殺となるキラーが少ないのは残念。曲としては前半にいい曲が固まっている。悪いアルバムではないが、前作と比べてしまうと劣るというのが正直な感想。全英12位と前作よりも順位が低く、また前作はプラチナム・ディスクを獲得したが今作はゴールドだった。", "recommend": ["1～5曲目とPurgatory"], "description": "Maiden 2ndアルバム", "type": "album", "img": ["maiden02.jpg"]}
+{
+  "uid": "iron_maiden02",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Killers",
+  "artist": ["Iron Maiden"],
+  "year": 1981,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "The Ides of March （3月5日）",
+          "Wrathchild",
+          "Murders in the Rue Morgue （モルグ街の殺人）",
+          "Another Life",
+          "Genghis Khan",
+          "",
+          "Innocent Exile （無実の逃亡者）",
+          "Killers",
+          "Prodigal Son （悪魔の魔法）",
+          "Purgatory",
+          "Drifter"
+        ]
+      ]
+    }
+  ],
+  "rate": 83,
+  "comment": "前作よりもメロディを強化した2作目。全体的にはよくなった感もあるが、前作のような一撃必殺となるキラーが少ないのは残念。曲としては前半にいい曲が固まっている。悪いアルバムではないが、前作と比べてしまうと劣るというのが正直な感想。全英12位と前作よりも順位が低く、また前作はプラチナム・ディスクを獲得したが今作はゴールドだった。",
+  "recommend": ["1～5曲目とPurgatory"],
+  "description": "Maiden 2ndアルバム",
+  "type": "album",
+  "img": ["maiden02.jpg"]
+}

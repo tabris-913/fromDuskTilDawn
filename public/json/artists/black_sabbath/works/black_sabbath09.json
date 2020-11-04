@@ -1,1 +1,33 @@
-{"uid": "black_sabbath09", "date": "", "genres": [], "review_done": false, "name": "Heaven and Hell ", "artist": ["Black Sabbath"], "year": 1980, "list": [{"list": [["", "Neon Knights", "Children of the Sea", "Lady Evil", "Heaven and Hell", "", "Wishing Well", "Die Young", "Walk Away", "Lonely Is the Word"]]}], "rate": 89, "comment": "ヴォーカルにRonnie James Dioを迎えた新生サバス初のアルバム。楽曲が内包するエネルギーが蘇り、精力的なサウンドが充満している。代表曲#1のアグレッションはここ数作では聴けなかったものだ。初期のような不安定な怪しさは感じられないが、メタルバンドとして一皮むけた感がある。クール極まりないリフが楽しめるタイトル曲もさすが。ギターのキレが半端ない。これまたエネルギッシュな#5、DioがRainbow時代に書いたという#6などもアツい。新しい時代の幕開けとなる、素晴らしい作品だ。", "recommend": ["Neon Knights", "Heaven and Hell", "Wishing Well", "Die Young"], "description": "Sabbath 9thアルバム", "type": "album", "img": ["sabbath09.jpg"]}
+{
+  "uid": "black_sabbath09",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Heaven and Hell ",
+  "artist": ["Black Sabbath"],
+  "year": 1980,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Neon Knights",
+          "Children of the Sea",
+          "Lady Evil",
+          "Heaven and Hell",
+          "",
+          "Wishing Well",
+          "Die Young",
+          "Walk Away",
+          "Lonely Is the Word"
+        ]
+      ]
+    }
+  ],
+  "rate": 89,
+  "comment": "ヴォーカルにRonnie James Dioを迎えた新生サバス初のアルバム。楽曲が内包するエネルギーが蘇り、精力的なサウンドが充満している。代表曲#1のアグレッションはここ数作では聴けなかったものだ。初期のような不安定な怪しさは感じられないが、メタルバンドとして一皮むけた感がある。クール極まりないリフが楽しめるタイトル曲もさすが。ギターのキレが半端ない。これまたエネルギッシュな#5、DioがRainbow時代に書いたという#6などもアツい。新しい時代の幕開けとなる、素晴らしい作品だ。",
+  "recommend": ["Neon Knights", "Heaven and Hell", "Wishing Well", "Die Young"],
+  "description": "Sabbath 9thアルバム",
+  "type": "album",
+  "img": ["sabbath09.jpg"]
+}

@@ -1,1 +1,41 @@
-{"uid": "black_sabbath15", "date": "", "genres": [], "review_done": false, "name": "Tyr ", "artist": ["Black Sabbath"], "year": 1990, "list": [{"list": [["", "Anno Mundi (The Vision)", "The Law Maker", "Jerusalem", "The Sabbath Stones", "The Battle TYR", "", "Odin's Court", "Valhalla", "Feels Good to Me", "Heaven in Black"]]}], "rate": 92, "comment": "北欧神話に基づいたコンセプトアルバムで、『The Eternal Idol』、『Headless Cross』と続いてきた黄金期の終焉だ。前作に似てダークな作風が強く、その点ではサバスらしい音といえる。クワイアもあり荘厳な幕開けとなる#1、キャリアでもトップクラスの疾走感を誇る#2の流れは鳥肌が立つ。そしてミドルテンポで展開し、美しいコーラスがドラマティックに彩る#3。小曲やテンポの緩急を駆使してコンセプトを表現する。前作、前々作に比べるととっつきにくいが、個々の楽曲の質も、トータルの完成度も非常に高い。じっくり聴きこんで、一つ一つの流れを楽しんでいくべき作品だ。", "recommend": ["全部　特にAnno Mundi", "The Law Maker", "Jerusalem", "Valhalla", "Feels Good to Me", "Heaven in Black"], "description": "Sabbath 15thアルバム", "type": "album", "img": ["sabbath15.jpg"]}
+{
+  "uid": "black_sabbath15",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Tyr ",
+  "artist": ["Black Sabbath"],
+  "year": 1990,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Anno Mundi (The Vision)",
+          "The Law Maker",
+          "Jerusalem",
+          "The Sabbath Stones",
+          "The Battle TYR",
+          "",
+          "Odin's Court",
+          "Valhalla",
+          "Feels Good to Me",
+          "Heaven in Black"
+        ]
+      ]
+    }
+  ],
+  "rate": 92,
+  "comment": "北欧神話に基づいたコンセプトアルバムで、『The Eternal Idol』、『Headless Cross』と続いてきた黄金期の終焉だ。前作に似てダークな作風が強く、その点ではサバスらしい音といえる。クワイアもあり荘厳な幕開けとなる#1、キャリアでもトップクラスの疾走感を誇る#2の流れは鳥肌が立つ。そしてミドルテンポで展開し、美しいコーラスがドラマティックに彩る#3。小曲やテンポの緩急を駆使してコンセプトを表現する。前作、前々作に比べるととっつきにくいが、個々の楽曲の質も、トータルの完成度も非常に高い。じっくり聴きこんで、一つ一つの流れを楽しんでいくべき作品だ。",
+  "recommend": [
+    "全部　特にAnno Mundi",
+    "The Law Maker",
+    "Jerusalem",
+    "Valhalla",
+    "Feels Good to Me",
+    "Heaven in Black"
+  ],
+  "description": "Sabbath 15thアルバム",
+  "type": "album",
+  "img": ["sabbath15.jpg"]
+}

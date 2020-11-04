@@ -1,1 +1,33 @@
-{"uid": "black_sabbath02", "date": "", "genres": [], "review_done": false, "name": "Paranoid ", "artist": ["Black Sabbath"], "year": 1970, "list": [{"list": [["", "War Pigs", "Paranoid", "Planet Caravan", "Iron Man", "", "Electric Funeral", "Hand of Doom", "Rat Salad", "Fairies Wear Boots"]]}], "rate": 92, "comment": "あのS&Gの、しかも『Bridged Over Troubled Water』を追い落として全英1位を獲得した名盤。前作から半年しかたっておらず、まさに飛ぶ鳥を落とす勢いとはこのことだ。前作よりも疾走感のあるサウンドで、ふたたびヘヴィ・メタルに新しい道を提示した。#1,2,4というキャリアを代表する名曲が収録されており、重要度で言えば前作と同等。より音数も増え、現代的なメタルサウンドへと近づいた。とはいえ前作と同路線の曲も多い。前作と今作の2つで、「ヘヴィ・メタル」という偉大なる音楽ジャンルの方向性が確定された。", "recommend": ["War Pigs", "Paranoid", "Iron Man", "Electric Funeral", "Hand of Doom", "Fairies Wear Boots"], "description": "Sabbath 2ndアルバム", "type": "album", "img": ["sabbath02.jpg"]}
+{
+  "uid": "black_sabbath02",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Paranoid ",
+  "artist": ["Black Sabbath"],
+  "year": 1970,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "War Pigs",
+          "Paranoid",
+          "Planet Caravan",
+          "Iron Man",
+          "",
+          "Electric Funeral",
+          "Hand of Doom",
+          "Rat Salad",
+          "Fairies Wear Boots"
+        ]
+      ]
+    }
+  ],
+  "rate": 92,
+  "comment": "あのS&Gの、しかも『Bridged Over Troubled Water』を追い落として全英1位を獲得した名盤。前作から半年しかたっておらず、まさに飛ぶ鳥を落とす勢いとはこのことだ。前作よりも疾走感のあるサウンドで、ふたたびヘヴィ・メタルに新しい道を提示した。#1,2,4というキャリアを代表する名曲が収録されており、重要度で言えば前作と同等。より音数も増え、現代的なメタルサウンドへと近づいた。とはいえ前作と同路線の曲も多い。前作と今作の2つで、「ヘヴィ・メタル」という偉大なる音楽ジャンルの方向性が確定された。",
+  "recommend": ["War Pigs", "Paranoid", "Iron Man", "Electric Funeral", "Hand of Doom", "Fairies Wear Boots"],
+  "description": "Sabbath 2ndアルバム",
+  "type": "album",
+  "img": ["sabbath02.jpg"]
+}

@@ -1,1 +1,18 @@
-{"uid": "tube03compilation", "date": "1996-04-01", "genres": [], "review_done": false, "name": "TUBEst II", "ruby": "", "artist": "TUBE", "year": 1996, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "3thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "tube03compilation",
+  "date": "1996-04-01",
+  "genres": [],
+  "review_done": false,
+  "name": "TUBEst II",
+  "ruby": "",
+  "artist": "TUBE",
+  "year": 1996,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "3thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

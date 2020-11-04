@@ -1,1 +1,18 @@
-{"uid": "sonata_arctica04ep", "date": "", "genres": [], "review_done": false, "name": "Don't Say a Word", "artist": ["Sonata Arctica"], "year": 2004, "list": [{"list": [["", "Don't Say a Word", "Ain't Your Fairytale", "", "World in My Eyes", "Two Minds, One Soul"]]}], "rate": 74, "comment": "Reckoning Nightから２曲と、カヴァー曲2曲を収録したEP。3曲目はDepeche Mode、4曲目はVanishing Pointのカヴァー。だが両方とも知らん（笑）。", "recommend": ["Don't Say a Word", "Ain't Your Fairytale", "Two Minds, One Soul"], "description": "Arctica 4thミニアルバム", "type": "album", "img": ["sonata04e.jpg"]}
+{
+  "uid": "sonata_arctica04ep",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Don't Say a Word",
+  "artist": ["Sonata Arctica"],
+  "year": 2004,
+  "list": [
+    { "list": [["", "Don't Say a Word", "Ain't Your Fairytale", "", "World in My Eyes", "Two Minds, One Soul"]] }
+  ],
+  "rate": 74,
+  "comment": "Reckoning Nightから２曲と、カヴァー曲2曲を収録したEP。3曲目はDepeche Mode、4曲目はVanishing Pointのカヴァー。だが両方とも知らん（笑）。",
+  "recommend": ["Don't Say a Word", "Ain't Your Fairytale", "Two Minds, One Soul"],
+  "description": "Arctica 4thミニアルバム",
+  "type": "album",
+  "img": ["sonata04e.jpg"]
+}

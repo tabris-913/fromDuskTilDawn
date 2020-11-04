@@ -1,1 +1,204 @@
-{"albums": {"alfee01": {"uid": "alfee01", "name": "青春の記憶 (GREENHORN)", "date": "1975-07-25", "img": ["alfee01_d.jpg"], "review_done": false}, "alfee02": {"uid": "alfee02", "name": "TIME AND TIDE", "date": "1979-08-21", "img": ["alfee02.jpg"], "review_done": false}, "alfee03": {"uid": "alfee03", "name": "讃集詩 ", "date": "1980-05-21", "img": ["alfee03.jpg"], "review_done": false}, "alfee04": {"uid": "alfee04", "name": "ALMIGHTY", "date": "1981-10-21", "img": ["alfee04.jpg"], "review_done": false}, "alfee05": {"uid": "alfee05", "name": "doubt,", "date": "1982-04-21", "img": ["alfee05.jpg"], "review_done": false}, "alfee06": {"uid": "alfee06", "name": "ALFEE", "date": "1983-01-05", "img": ["alfee06.jpg"], "review_done": false}, "alfee07": {"uid": "alfee07", "name": "ALFEE'S LAW ", "date": "1983-09-05", "img": ["alfee07.jpg"], "review_done": false}, "alfee08": {"uid": "alfee08", "name": "THE RENAISSANCE ", "date": "1984-07-04", "img": ["alfee08.jpg"], "review_done": false}, "alfee09": {"uid": "alfee09", "name": "FOR YOUR LOVE ", "date": "1985-06-19", "img": ["alfee09.jpg"], "review_done": false}, "alfee10": {"uid": "alfee10", "name": "THE BEST SONGS ", "date": "1985-12-05", "img": ["alfee10.jpg"], "review_done": false}, "alfee11": {"uid": "alfee11", "name": "AGES ", "date": "1986-11-05", "img": ["alfee11.jpg"], "review_done": false}, "alfee12": {"uid": "alfee12", "name": "U.K. Breakfast ", "date": "1987-12-09", "img": ["alfee12.jpg"], "review_done": false}, "alfee01beatboys": {"uid": "alfee01beatboys", "name": "BE∀T BOYS TOJO!!", "date": "1988-10-21", "img": ["alfee01bb.jpg"], "review_done": false}, "alfee13": {"uid": "alfee13", "name": "DNA Communication ", "date": "1989-03-21", "img": ["alfee13.jpg"], "review_done": false}, "alfee02beatboys": {"uid": "alfee02beatboys", "name": "GO! GO! BE∀T BOYS!", "date": "1989-07-05", "img": ["alfee02bb.jpg"], "review_done": false}, "alfee14": {"uid": "alfee14", "name": "ARCADIA ", "date": "1990-10-17", "img": ["alfee14.jpg"], "review_done": false}, "alfee15": {"uid": "alfee15", "name": "JOURNEY", "date": "1992-04-29", "img": ["alfee15.jpg"], "review_done": false}, "alfee16": {"uid": "alfee16", "name": "夢幻の果てに ", "date": "1995-01-20", "img": ["alfee16.jpg"], "review_done": false}, "alfee17": {"uid": "alfee17", "name": "LOVE", "date": "1996-03-21", "img": ["alfee17.jpg"], "review_done": false}, "alfee18": {"uid": "alfee18", "name": "Nouvelle Vague ", "date": "1998-03-25", "img": ["alfee18.jpg"], "review_done": false}, "alfee01ep": {"uid": "alfee01ep", "name": "Pride ", "date": "1998-08-07", "img": ["alfee01e.jpg"], "review_done": false}, "alfee19": {"uid": "alfee19", "name": "örb ", "date": "1999-09-29", "img": ["alfee19.jpg"], "review_done": false}, "alfee20": {"uid": "alfee20", "name": "GLINT BEAT", "date": "2001-09-12", "img": ["alfee20.jpg"], "review_done": false}, "alfee21": {"uid": "alfee21", "name": "Going My Way", "date": "2003-10-01", "img": ["alfee21.jpg"], "review_done": false}, "alfee22": {"uid": "alfee22", "name": "ONE -Venus of Rock-", "date": "2006-11-22", "img": ["alfee22.jpg"], "review_done": false}, "alfee23": {"uid": "alfee23", "name": "新世界 -Neo Universe- ", "date": "2010-03-10", "img": ["alfee23.jpg"], "review_done": false}, "alfee01selfcover": {"uid": "alfee01selfcover", "name": "ALFEE GET REQUESTS", "date": "2012-07-25", "img": ["alfee01sc.jpg"], "review_done": false}, "alfee02selfcover": {"uid": "alfee02selfcover", "name": "ALFEE GET REQUESTS! 2 ", "date": "2014-06-18", "img": ["alfee02sc.jpg"], "review_done": false}, "alfee04live": {"uid": "alfee04live", "name": "デビュー40周年 スペシャルコンサートat日本武道館", "date": "2015-03-18", "img": ["alfee04l.jpg"], "review_done": false}, "alfee24": {"uid": "alfee24", "name": "三位一体 ", "date": "2015-12-23", "img": ["alfee24_d.jpg"], "review_done": false}}, "singles": {}, "others": {}}
+{
+  "albums": {
+    "alfee01": {
+      "uid": "alfee01",
+      "name": "青春の記憶 (GREENHORN)",
+      "date": "1975-07-25",
+      "img": ["alfee01_d.jpg"],
+      "review_done": false
+    },
+    "alfee02": {
+      "uid": "alfee02",
+      "name": "TIME AND TIDE",
+      "date": "1979-08-21",
+      "img": ["alfee02.jpg"],
+      "review_done": false
+    },
+    "alfee03": {
+      "uid": "alfee03",
+      "name": "讃集詩 ",
+      "date": "1980-05-21",
+      "img": ["alfee03.jpg"],
+      "review_done": false
+    },
+    "alfee04": {
+      "uid": "alfee04",
+      "name": "ALMIGHTY",
+      "date": "1981-10-21",
+      "img": ["alfee04.jpg"],
+      "review_done": false
+    },
+    "alfee05": {
+      "uid": "alfee05",
+      "name": "doubt,",
+      "date": "1982-04-21",
+      "img": ["alfee05.jpg"],
+      "review_done": false
+    },
+    "alfee06": {
+      "uid": "alfee06",
+      "name": "ALFEE",
+      "date": "1983-01-05",
+      "img": ["alfee06.jpg"],
+      "review_done": false
+    },
+    "alfee07": {
+      "uid": "alfee07",
+      "name": "ALFEE'S LAW ",
+      "date": "1983-09-05",
+      "img": ["alfee07.jpg"],
+      "review_done": false
+    },
+    "alfee08": {
+      "uid": "alfee08",
+      "name": "THE RENAISSANCE ",
+      "date": "1984-07-04",
+      "img": ["alfee08.jpg"],
+      "review_done": false
+    },
+    "alfee09": {
+      "uid": "alfee09",
+      "name": "FOR YOUR LOVE ",
+      "date": "1985-06-19",
+      "img": ["alfee09.jpg"],
+      "review_done": false
+    },
+    "alfee10": {
+      "uid": "alfee10",
+      "name": "THE BEST SONGS ",
+      "date": "1985-12-05",
+      "img": ["alfee10.jpg"],
+      "review_done": false
+    },
+    "alfee11": {
+      "uid": "alfee11",
+      "name": "AGES ",
+      "date": "1986-11-05",
+      "img": ["alfee11.jpg"],
+      "review_done": false
+    },
+    "alfee12": {
+      "uid": "alfee12",
+      "name": "U.K. Breakfast ",
+      "date": "1987-12-09",
+      "img": ["alfee12.jpg"],
+      "review_done": false
+    },
+    "alfee01beatboys": {
+      "uid": "alfee01beatboys",
+      "name": "BE∀T BOYS TOJO!!",
+      "date": "1988-10-21",
+      "img": ["alfee01bb.jpg"],
+      "review_done": false
+    },
+    "alfee13": {
+      "uid": "alfee13",
+      "name": "DNA Communication ",
+      "date": "1989-03-21",
+      "img": ["alfee13.jpg"],
+      "review_done": false
+    },
+    "alfee02beatboys": {
+      "uid": "alfee02beatboys",
+      "name": "GO! GO! BE∀T BOYS!",
+      "date": "1989-07-05",
+      "img": ["alfee02bb.jpg"],
+      "review_done": false
+    },
+    "alfee14": {
+      "uid": "alfee14",
+      "name": "ARCADIA ",
+      "date": "1990-10-17",
+      "img": ["alfee14.jpg"],
+      "review_done": false
+    },
+    "alfee15": {
+      "uid": "alfee15",
+      "name": "JOURNEY",
+      "date": "1992-04-29",
+      "img": ["alfee15.jpg"],
+      "review_done": false
+    },
+    "alfee16": {
+      "uid": "alfee16",
+      "name": "夢幻の果てに ",
+      "date": "1995-01-20",
+      "img": ["alfee16.jpg"],
+      "review_done": false
+    },
+    "alfee17": { "uid": "alfee17", "name": "LOVE", "date": "1996-03-21", "img": ["alfee17.jpg"], "review_done": false },
+    "alfee18": {
+      "uid": "alfee18",
+      "name": "Nouvelle Vague ",
+      "date": "1998-03-25",
+      "img": ["alfee18.jpg"],
+      "review_done": false
+    },
+    "alfee01ep": {
+      "uid": "alfee01ep",
+      "name": "Pride ",
+      "date": "1998-08-07",
+      "img": ["alfee01e.jpg"],
+      "review_done": false
+    },
+    "alfee19": { "uid": "alfee19", "name": "örb ", "date": "1999-09-29", "img": ["alfee19.jpg"], "review_done": false },
+    "alfee20": {
+      "uid": "alfee20",
+      "name": "GLINT BEAT",
+      "date": "2001-09-12",
+      "img": ["alfee20.jpg"],
+      "review_done": false
+    },
+    "alfee21": {
+      "uid": "alfee21",
+      "name": "Going My Way",
+      "date": "2003-10-01",
+      "img": ["alfee21.jpg"],
+      "review_done": false
+    },
+    "alfee22": {
+      "uid": "alfee22",
+      "name": "ONE -Venus of Rock-",
+      "date": "2006-11-22",
+      "img": ["alfee22.jpg"],
+      "review_done": false
+    },
+    "alfee23": {
+      "uid": "alfee23",
+      "name": "新世界 -Neo Universe- ",
+      "date": "2010-03-10",
+      "img": ["alfee23.jpg"],
+      "review_done": false
+    },
+    "alfee01selfcover": {
+      "uid": "alfee01selfcover",
+      "name": "ALFEE GET REQUESTS",
+      "date": "2012-07-25",
+      "img": ["alfee01sc.jpg"],
+      "review_done": false
+    },
+    "alfee02selfcover": {
+      "uid": "alfee02selfcover",
+      "name": "ALFEE GET REQUESTS! 2 ",
+      "date": "2014-06-18",
+      "img": ["alfee02sc.jpg"],
+      "review_done": false
+    },
+    "alfee04live": {
+      "uid": "alfee04live",
+      "name": "デビュー40周年 スペシャルコンサートat日本武道館",
+      "date": "2015-03-18",
+      "img": ["alfee04l.jpg"],
+      "review_done": false
+    },
+    "alfee24": {
+      "uid": "alfee24",
+      "name": "三位一体 ",
+      "date": "2015-12-23",
+      "img": ["alfee24_d.jpg"],
+      "review_done": false
+    }
+  },
+  "singles": {},
+  "others": {}
+}

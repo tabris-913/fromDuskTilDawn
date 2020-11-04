@@ -1,1 +1,39 @@
-{"uid": "metallica02", "date": "", "genres": [], "review_done": false, "name": "Ride the Lightning ", "artist": ["Metallica"], "year": 1984, "list": [{"list": [["", "Fight Fire with Fire", "Ride the Lightning", "For Whom the Bell Tolls", "Fade to Black", "", "Trapped Under Ice", "Escape", "Creeping Death", "The Call of Ktulu"]]}], "rate": 89, "comment": "飛ばしてくる2作目。前作の勢いをそのままに、よりプログレッシヴな雰囲気も強化した名盤。1曲目は個人的にメタリカ最強の曲だと思っている。Batteryなんかメじゃない。はやくもスローな曲が登場し、やはり問題作扱いされた。しかし4曲目はドラマティックでプログレッシヴなアレンジで、名曲と名高い。9分弱もの長尺インスト曲をラストに持ってくるあたり、相当自身があるのだろうと思われる。その自身に違わない高品質な名盤と言える。", "recommend": ["全部　特にFight Fire with Fire", "Ride the Lightning", "Fade to Black", "Trapped Under Ice", "Creeping Death"], "description": "2ndアルバム", "type": "album", "img": ["metallica02.jpg"]}
+{
+  "uid": "metallica02",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Ride the Lightning ",
+  "artist": ["Metallica"],
+  "year": 1984,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Fight Fire with Fire",
+          "Ride the Lightning",
+          "For Whom the Bell Tolls",
+          "Fade to Black",
+          "",
+          "Trapped Under Ice",
+          "Escape",
+          "Creeping Death",
+          "The Call of Ktulu"
+        ]
+      ]
+    }
+  ],
+  "rate": 89,
+  "comment": "飛ばしてくる2作目。前作の勢いをそのままに、よりプログレッシヴな雰囲気も強化した名盤。1曲目は個人的にメタリカ最強の曲だと思っている。Batteryなんかメじゃない。はやくもスローな曲が登場し、やはり問題作扱いされた。しかし4曲目はドラマティックでプログレッシヴなアレンジで、名曲と名高い。9分弱もの長尺インスト曲をラストに持ってくるあたり、相当自身があるのだろうと思われる。その自身に違わない高品質な名盤と言える。",
+  "recommend": [
+    "全部　特にFight Fire with Fire",
+    "Ride the Lightning",
+    "Fade to Black",
+    "Trapped Under Ice",
+    "Creeping Death"
+  ],
+  "description": "2ndアルバム",
+  "type": "album",
+  "img": ["metallica02.jpg"]
+}

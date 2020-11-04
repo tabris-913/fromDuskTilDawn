@@ -1,1 +1,12 @@
-{"name": "オーディションソング (4)", "description": "", "date": "2010-02-24", "year": 0, "artist": ["otoya", "masato", "natsuki", "tokiya", "ren", "sho"], "list": [{"disk_no": 1, "name": "", "list": ["永遠のトライスター", "無限のトリニティ"]}], "comment": "", "uid": "utapri04sg", "img": ["utapri04sg.jpg"], "rate": 0}
+{
+  "name": "オーディションソング (4)",
+  "description": "",
+  "date": "2010-02-24",
+  "year": 0,
+  "artist": ["otoya", "masato", "natsuki", "tokiya", "ren", "sho"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["永遠のトライスター", "無限のトリニティ"] }],
+  "comment": "",
+  "uid": "utapri04sg",
+  "img": ["utapri04sg.jpg"],
+  "rate": 0
+}

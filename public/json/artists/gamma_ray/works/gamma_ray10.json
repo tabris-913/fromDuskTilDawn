@@ -1,1 +1,38 @@
-{"uid": "gamma_ray10", "date": "", "genres": [], "review_done": false, "name": "To the Metal!", "artist": ["Gamma Ray"], "year": 2010, "list": [{"list": [["", "Empathy", "All You Need to Know", "Time to Live", "To the Metal", "Rise", "Mother Angel", "Shine Forever", "", "Deadlands", "Chasing Shadows", "No Need to Cry", "(JAPANESE BONUS TRACK)", "One Life", "Wannabees"]]}], "rate": 84, "comment": "悪くはない。とはいえ名盤とまでは呼べない。タイトル曲が良くないってのはなかなかアレだね。哀しいね。前半のほうがスロー曲が多い。途中まで聴かないと良いアルバムだってことがわからない。最初聴いた時はここにきて駄作かーと焦ったのを覚えている。疾走曲はかっこいいが、全盛期ほどのキレのよさはない。2曲目にはMichael Kiskeが参加。", "recommend": ["All You Need to Know", "Time to Live", "Rise", "Shine Forever", "Deadlands", "Chasing Shadows"], "description": "Ray 10thアルバム", "type": "album", "img": ["gamma10.jpg"]}
+{
+  "uid": "gamma_ray10",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "To the Metal!",
+  "artist": ["Gamma Ray"],
+  "year": 2010,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Empathy",
+          "All You Need to Know",
+          "Time to Live",
+          "To the Metal",
+          "Rise",
+          "Mother Angel",
+          "Shine Forever",
+          "",
+          "Deadlands",
+          "Chasing Shadows",
+          "No Need to Cry",
+          "(JAPANESE BONUS TRACK)",
+          "One Life",
+          "Wannabees"
+        ]
+      ]
+    }
+  ],
+  "rate": 84,
+  "comment": "悪くはない。とはいえ名盤とまでは呼べない。タイトル曲が良くないってのはなかなかアレだね。哀しいね。前半のほうがスロー曲が多い。途中まで聴かないと良いアルバムだってことがわからない。最初聴いた時はここにきて駄作かーと焦ったのを覚えている。疾走曲はかっこいいが、全盛期ほどのキレのよさはない。2曲目にはMichael Kiskeが参加。",
+  "recommend": ["All You Need to Know", "Time to Live", "Rise", "Shine Forever", "Deadlands", "Chasing Shadows"],
+  "description": "Ray 10thアルバム",
+  "type": "album",
+  "img": ["gamma10.jpg"]
+}

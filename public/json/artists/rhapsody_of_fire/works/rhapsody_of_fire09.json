@@ -1,1 +1,51 @@
-{"uid": "rhapsody_of_fire09", "date": "", "genres": [], "review_done": false, "name": "From Chaos to Eternity", "artist": ["Rhapsody of Fire"], "year": 2011, "list": [{"list": [["", "Ad Infinitum", "From Chaos to Eternity", "Tempesta fi Fuoco", "Ghosts of Forgotten Worlds", "Anima Perduta", "Aeons of Raging Darkness", "I Belong to Stars", "Tornado", "", "Heroes of the Waterfall's Kingdom", "", "Lo Spirito della Foresta", "Realm of Sacred Waterfalls", "Thanor's Awakening", "Northern Skies Enflamed", "The Splendour of Angel's Glory", "", "(BONUS TRACK)", "Flash of the Blade", "(JAPANESE BONUS TRACK)", "Tornado [Instrumental]"]]}], "rate": 89, "comment": "Dark Secret Saga最終章！一時期はRhapsodyも終わりかとあきらめていたが、しっかりと復活を遂げた！とはいえ前の物語ほどの激熱なサウンドではないが。前作もそうだったが、それなりに疾走曲も戻ってきてメタルに回帰した。ネオクラシカルなギターフレーズも登場する3曲目は本作一のキラーチューン。", "recommend": ["全部 特にFrom Chaos to Eternity", "Tempesta di Fuoco", "Aeons of Raging Darkness", "Heroes of the Waterfall's Kingdom", "\n\t\t\tFlash of the Blade"], "description": "of Fire 9thアルバム", "type": "album", "img": ["rhapsody09.jpg"]}
+{
+  "uid": "rhapsody_of_fire09",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "From Chaos to Eternity",
+  "artist": ["Rhapsody of Fire"],
+  "year": 2011,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Ad Infinitum",
+          "From Chaos to Eternity",
+          "Tempesta fi Fuoco",
+          "Ghosts of Forgotten Worlds",
+          "Anima Perduta",
+          "Aeons of Raging Darkness",
+          "I Belong to Stars",
+          "Tornado",
+          "",
+          "Heroes of the Waterfall's Kingdom",
+          "",
+          "Lo Spirito della Foresta",
+          "Realm of Sacred Waterfalls",
+          "Thanor's Awakening",
+          "Northern Skies Enflamed",
+          "The Splendour of Angel's Glory",
+          "",
+          "(BONUS TRACK)",
+          "Flash of the Blade",
+          "(JAPANESE BONUS TRACK)",
+          "Tornado [Instrumental]"
+        ]
+      ]
+    }
+  ],
+  "rate": 89,
+  "comment": "Dark Secret Saga最終章！一時期はRhapsodyも終わりかとあきらめていたが、しっかりと復活を遂げた！とはいえ前の物語ほどの激熱なサウンドではないが。前作もそうだったが、それなりに疾走曲も戻ってきてメタルに回帰した。ネオクラシカルなギターフレーズも登場する3曲目は本作一のキラーチューン。",
+  "recommend": [
+    "全部 特にFrom Chaos to Eternity",
+    "Tempesta di Fuoco",
+    "Aeons of Raging Darkness",
+    "Heroes of the Waterfall's Kingdom",
+    "\n\t\t\tFlash of the Blade"
+  ],
+  "description": "of Fire 9thアルバム",
+  "type": "album",
+  "img": ["rhapsody09.jpg"]
+}

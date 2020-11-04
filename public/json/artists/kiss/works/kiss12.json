@@ -1,1 +1,40 @@
-{"uid": "kiss12", "date": "", "genres": [], "review_done": false, "name": "Animalize ", "artist": ["Kiss"], "year": 1984, "list": [{"list": [["", "I've Had Enough (Into the Fire)", "Heaven's on Fire", "Burn Bitch Burn", "Get All You Can Take", "Lonely Is the Hunter", "", "Under the Gun", "Thrills in the Night", "While the City Sleeps", "Murder in High Heels"]]}], "rate": 94, "comment": "キッス流メタルを完成させた名盤。シングルとなったのは2曲目や7曲目といったミドルテンポのものだが、1曲目や6曲目などのスピード・メタルが収録されているのも特徴だ。1曲目～2曲目の流れは完璧。特に2曲目はメタル時代最高の楽曲であり、現在もライヴで演奏されることがある。Detroyer以来最高レヴェルの出来であることに間違いないだろう。", "recommend": ["全部　特にI've Had Enough", "Heaven's on Fire", "Burn Bitch Burn", "Under the Gun", "Thrills in the Night"], "description": "12thアルバム", "type": "album", "img": ["kiss12.jpg"]}
+{
+  "uid": "kiss12",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Animalize ",
+  "artist": ["Kiss"],
+  "year": 1984,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "I've Had Enough (Into the Fire)",
+          "Heaven's on Fire",
+          "Burn Bitch Burn",
+          "Get All You Can Take",
+          "Lonely Is the Hunter",
+          "",
+          "Under the Gun",
+          "Thrills in the Night",
+          "While the City Sleeps",
+          "Murder in High Heels"
+        ]
+      ]
+    }
+  ],
+  "rate": 94,
+  "comment": "キッス流メタルを完成させた名盤。シングルとなったのは2曲目や7曲目といったミドルテンポのものだが、1曲目や6曲目などのスピード・メタルが収録されているのも特徴だ。1曲目～2曲目の流れは完璧。特に2曲目はメタル時代最高の楽曲であり、現在もライヴで演奏されることがある。Detroyer以来最高レヴェルの出来であることに間違いないだろう。",
+  "recommend": [
+    "全部　特にI've Had Enough",
+    "Heaven's on Fire",
+    "Burn Bitch Burn",
+    "Under the Gun",
+    "Thrills in the Night"
+  ],
+  "description": "12thアルバム",
+  "type": "album",
+  "img": ["kiss12.jpg"]
+}

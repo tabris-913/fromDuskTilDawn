@@ -1,1 +1,12 @@
-{"name": "アイドルソング 四ノ宮那月", "description": "", "date": "2013-05-29", "year": 2013, "artist": ["natsuki"], "list": [{"disk_no": 1, "name": "", "list": ["シリウスへの誓い", "☆YELL☆"]}], "comment": "", "uid": "utapri27sg", "img": ["utapri27sg.jpg"], "rate": 0}
+{
+  "name": "アイドルソング 四ノ宮那月",
+  "description": "",
+  "date": "2013-05-29",
+  "year": 2013,
+  "artist": ["natsuki"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["シリウスへの誓い", "☆YELL☆"] }],
+  "comment": "",
+  "uid": "utapri27sg",
+  "img": ["utapri27sg.jpg"],
+  "rate": 0
+}

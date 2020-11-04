@@ -1,1 +1,39 @@
-{"uid": "def_leppard08", "date": "", "genres": [], "review_done": false, "name": "X", "artist": ["Def Leppard"], "year": 2002, "list": [{"list": [["", "Now", "Unbelievable", "You're So Beautiful", "Everyday", "Long Long Way to Go", "Four Letter Word", "Torn to Shreds", "", "Love Don't Lie", "Gravity", "Cry", "Girl Like You", "Let Me Be the One", "Scar", "Kiss the Day"]]}], "rate": 78, "comment": "ポップでメロディアスな路線は変わらないが、エネルギーがやや減少した作品。ハードなロックは少なくなり、ミドル～バラードが中心となっている。彼らのメロディを活かすにはバラードに近いほうが向いているのは事実なのだが。バラードアルバムとして全体の雰囲気は悪くないのだが、個々の曲が目立っていないのは事実だ。やや平凡すぎる気がしてしまうのだ。", "recommend": ["Now", "Unbelievable", "Love Don't Lie"], "description": "Leppard 8thアルバム", "type": "album", "img": ["def08.jpg"]}
+{
+  "uid": "def_leppard08",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "X",
+  "artist": ["Def Leppard"],
+  "year": 2002,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Now",
+          "Unbelievable",
+          "You're So Beautiful",
+          "Everyday",
+          "Long Long Way to Go",
+          "Four Letter Word",
+          "Torn to Shreds",
+          "",
+          "Love Don't Lie",
+          "Gravity",
+          "Cry",
+          "Girl Like You",
+          "Let Me Be the One",
+          "Scar",
+          "Kiss the Day"
+        ]
+      ]
+    }
+  ],
+  "rate": 78,
+  "comment": "ポップでメロディアスな路線は変わらないが、エネルギーがやや減少した作品。ハードなロックは少なくなり、ミドル～バラードが中心となっている。彼らのメロディを活かすにはバラードに近いほうが向いているのは事実なのだが。バラードアルバムとして全体の雰囲気は悪くないのだが、個々の曲が目立っていないのは事実だ。やや平凡すぎる気がしてしまうのだ。",
+  "recommend": ["Now", "Unbelievable", "Love Don't Lie"],
+  "description": "Leppard 8thアルバム",
+  "type": "album",
+  "img": ["def08.jpg"]
+}

@@ -1,1 +1,112 @@
-{"albums": {"tmrevolution01": {"uid": "tmrevolution01", "name": "MAKES REVOLUTION", "date": "", "img": ["tmr01.jpg"], "review_done": false}, "tmrevolution01ep": {"uid": "tmrevolution01ep", "name": "X42S-REVOLUTION", "date": "", "img": ["tmr01e_c.jpg"], "review_done": false}, "tmrevolution01selfcover": {"uid": "tmrevolution01selfcover", "name": "UNDER:COVER ", "date": "", "img": ["tmr01sc.jpg"], "review_done": false}, "tmrevolution02": {"uid": "tmrevolution02", "name": "restoration LEVEL→3", "date": "", "img": ["tmr02.jpg"], "review_done": false}, "tmrevolution02ep": {"uid": "tmrevolution02ep", "name": "宴 -UTAGE-", "date": "", "img": ["tmr02e.jpg"], "review_done": false}, "tmrevolution02selfcover": {"uid": "tmrevolution02selfcover", "name": "UNDER:COVER 2 ", "date": "", "img": ["tmr02sc.jpg"], "review_done": false}, "tmrevolution03": {"uid": "tmrevolution03", "name": "triple joker ", "date": "", "img": ["tmr03.jpg"], "review_done": false}, "tmrevolution04": {"uid": "tmrevolution04", "name": "The Force ", "date": "", "img": ["tmr04.jpg"], "review_done": false}, "tmrevolution04compilation": {"uid": "tmrevolution04compilation", "name": "2020 -T.M.Revolution All Time Best-", "date": "", "img": ["tmr04c.jpg"], "review_done": false}, "tmrevolution05": {"uid": "tmrevolution05", "name": "progress ", "date": "", "img": ["tmr05.jpg"], "review_done": false}, "tmrevolution06": {"uid": "tmrevolution06", "name": "coordinate", "date": "", "img": ["tmr06.jpg"], "review_done": false}, "tmrevolution07": {"uid": "tmrevolution07", "name": "SEVENTH HEAVEN ", "date": "", "img": ["tmr07.jpg"], "review_done": false}, "tmrevolution08": {"uid": "tmrevolution08", "name": "vertical infinity ", "date": "", "img": ["tmr08.jpg"], "review_done": false}, "tmrevolution09": {"uid": "tmrevolution09", "name": "CLOUD NINE", "date": "", "img": ["tmr09.jpg"], "review_done": false}, "tmrevolution10": {"uid": "tmrevolution10", "name": "天", "date": "", "img": ["tmr10.jpg"], "review_done": false}, "tmrevolutione01": {"uid": "tmrevolutione01", "name": "Suite Season ", "date": "", "img": ["tmre01.jpg"], "review_done": false}}, "singles": {}, "others": {}}
+{
+  "albums": {
+    "tmrevolution01": {
+      "uid": "tmrevolution01",
+      "name": "MAKES REVOLUTION",
+      "date": "",
+      "img": ["tmr01.jpg"],
+      "review_done": false
+    },
+    "tmrevolution01ep": {
+      "uid": "tmrevolution01ep",
+      "name": "X42S-REVOLUTION",
+      "date": "",
+      "img": ["tmr01e_c.jpg"],
+      "review_done": false
+    },
+    "tmrevolution01selfcover": {
+      "uid": "tmrevolution01selfcover",
+      "name": "UNDER:COVER ",
+      "date": "",
+      "img": ["tmr01sc.jpg"],
+      "review_done": false
+    },
+    "tmrevolution02": {
+      "uid": "tmrevolution02",
+      "name": "restoration LEVEL→3",
+      "date": "",
+      "img": ["tmr02.jpg"],
+      "review_done": false
+    },
+    "tmrevolution02ep": {
+      "uid": "tmrevolution02ep",
+      "name": "宴 -UTAGE-",
+      "date": "",
+      "img": ["tmr02e.jpg"],
+      "review_done": false
+    },
+    "tmrevolution02selfcover": {
+      "uid": "tmrevolution02selfcover",
+      "name": "UNDER:COVER 2 ",
+      "date": "",
+      "img": ["tmr02sc.jpg"],
+      "review_done": false
+    },
+    "tmrevolution03": {
+      "uid": "tmrevolution03",
+      "name": "triple joker ",
+      "date": "",
+      "img": ["tmr03.jpg"],
+      "review_done": false
+    },
+    "tmrevolution04": {
+      "uid": "tmrevolution04",
+      "name": "The Force ",
+      "date": "",
+      "img": ["tmr04.jpg"],
+      "review_done": false
+    },
+    "tmrevolution04compilation": {
+      "uid": "tmrevolution04compilation",
+      "name": "2020 -T.M.Revolution All Time Best-",
+      "date": "",
+      "img": ["tmr04c.jpg"],
+      "review_done": false
+    },
+    "tmrevolution05": {
+      "uid": "tmrevolution05",
+      "name": "progress ",
+      "date": "",
+      "img": ["tmr05.jpg"],
+      "review_done": false
+    },
+    "tmrevolution06": {
+      "uid": "tmrevolution06",
+      "name": "coordinate",
+      "date": "",
+      "img": ["tmr06.jpg"],
+      "review_done": false
+    },
+    "tmrevolution07": {
+      "uid": "tmrevolution07",
+      "name": "SEVENTH HEAVEN ",
+      "date": "",
+      "img": ["tmr07.jpg"],
+      "review_done": false
+    },
+    "tmrevolution08": {
+      "uid": "tmrevolution08",
+      "name": "vertical infinity ",
+      "date": "",
+      "img": ["tmr08.jpg"],
+      "review_done": false
+    },
+    "tmrevolution09": {
+      "uid": "tmrevolution09",
+      "name": "CLOUD NINE",
+      "date": "",
+      "img": ["tmr09.jpg"],
+      "review_done": false
+    },
+    "tmrevolution10": { "uid": "tmrevolution10", "name": "天", "date": "", "img": ["tmr10.jpg"], "review_done": false },
+    "tmrevolutione01": {
+      "uid": "tmrevolutione01",
+      "name": "Suite Season ",
+      "date": "",
+      "img": ["tmre01.jpg"],
+      "review_done": false
+    }
+  },
+  "singles": {},
+  "others": {}
+}

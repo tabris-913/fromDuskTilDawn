@@ -1,1 +1,11 @@
-{"name": "THE BEST Rock Out!! ジュダ・エーダッシュ・モモチ", "description": "", "date": "2017-03-15", "year": 2017, "comment": "", "artist": [], "list": [{"disk_no": 1, "name": "", "list": ["Judge!!!!", "KKK→E", "破れ櫻"]}], "img": ["dearvo02c.jpg"], "uid": "dearvo02c"}
+{
+  "name": "THE BEST Rock Out!! ジュダ・エーダッシュ・モモチ",
+  "description": "",
+  "date": "2017-03-15",
+  "year": 2017,
+  "comment": "",
+  "artist": [],
+  "list": [{ "disk_no": 1, "name": "", "list": ["Judge!!!!", "KKK→E", "破れ櫻"] }],
+  "img": ["dearvo02c.jpg"],
+  "uid": "dearvo02c"
+}

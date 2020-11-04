@@ -1,1 +1,12 @@
-{"name": "アイドルソング 一十木音也", "description": "", "date": "2013-05-15", "year": 2013, "artist": ["otoya"], "list": [{"disk_no": 1, "name": "", "list": ["SMILE MAGIC", "HORIZON"]}], "comment": "", "uid": "utapri25sg", "img": ["utapri25sg.jpg"], "rate": 0}
+{
+  "name": "アイドルソング 一十木音也",
+  "description": "",
+  "date": "2013-05-15",
+  "year": 2013,
+  "artist": ["otoya"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["SMILE MAGIC", "HORIZON"] }],
+  "comment": "",
+  "uid": "utapri25sg",
+  "img": ["utapri25sg.jpg"],
+  "rate": 0
+}

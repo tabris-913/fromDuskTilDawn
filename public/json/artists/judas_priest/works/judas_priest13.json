@@ -1,1 +1,35 @@
-{"uid": "judas_priest13", "date": "", "genres": [], "review_done": false, "name": "Jugulator", "artist": ["Judas Priest"], "year": 1997, "list": [{"list": [["", "Jugulator", "Blood Stained", "Dead Meat", "Death Row", "Decapitate", "", "Burn in Hell", "Brain Dead", "Abductors", "Bullet Train", "Cathedral Spires"]]}], "rate": 78, "comment": "Panteraのようなモダンなグルーヴ・メタルと化した13作目。パワーという意味ではPainkillerといい勝負できているが、その代わりに英国らしさが微塵も感じられなくなってしまった。脱退したハルフォードの代わりにTim 'Ripper' Owensを加入させたわけだが、彼のヴォーカリストとしての技量は確かなものだ。そもそも彼はBritish Steelというジューダスのカヴァーバンドのヴォーカリストだったわけだが、新たなヴォーカルを探すオーディションにおいて即効採用が決まったという人物だ。しかもそのオーディションにはRalf Scheepers（ex. Gamma Ray）やD.C. Cooper(Royal Hunt)も参加していたという。90年代中ごろという時代を考えれば、多くの大御所バンドがこぞってへヴィネス中心のサウンドにシフトしていたころで、彼らも例外ではなかったということだ。", "recommend": ["Jugulator", "Blood Stained", "Bullet Train", "Cathedral Spires"], "description": "Priest 13thアルバム", "type": "album", "img": ["judas13.jpg"]}
+{
+  "uid": "judas_priest13",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Jugulator",
+  "artist": ["Judas Priest"],
+  "year": 1997,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Jugulator",
+          "Blood Stained",
+          "Dead Meat",
+          "Death Row",
+          "Decapitate",
+          "",
+          "Burn in Hell",
+          "Brain Dead",
+          "Abductors",
+          "Bullet Train",
+          "Cathedral Spires"
+        ]
+      ]
+    }
+  ],
+  "rate": 78,
+  "comment": "Panteraのようなモダンなグルーヴ・メタルと化した13作目。パワーという意味ではPainkillerといい勝負できているが、その代わりに英国らしさが微塵も感じられなくなってしまった。脱退したハルフォードの代わりにTim 'Ripper' Owensを加入させたわけだが、彼のヴォーカリストとしての技量は確かなものだ。そもそも彼はBritish Steelというジューダスのカヴァーバンドのヴォーカリストだったわけだが、新たなヴォーカルを探すオーディションにおいて即効採用が決まったという人物だ。しかもそのオーディションにはRalf Scheepers（ex. Gamma Ray）やD.C. Cooper(Royal Hunt)も参加していたという。90年代中ごろという時代を考えれば、多くの大御所バンドがこぞってへヴィネス中心のサウンドにシフトしていたころで、彼らも例外ではなかったということだ。",
+  "recommend": ["Jugulator", "Blood Stained", "Bullet Train", "Cathedral Spires"],
+  "description": "Priest 13thアルバム",
+  "type": "album",
+  "img": ["judas13.jpg"]
+}

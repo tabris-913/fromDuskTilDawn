@@ -1,1 +1,45 @@
-{"uid": "yngwie_malmsteen15", "date": "", "genres": [], "review_done": false, "name": "Perpetual Flame", "artist": ["Yngwie Malmsteen's Rising Force"], "year": 2008, "list": [{"list": [["", "Death Dealer", "Damnation game", "Live to Fight (Another Day)", "Red Devil", "Four Horsemen (Of the Apocalypse)", "Priest of the Unholy", "", "Be Careful What You Wish for", "Caprici di Diablo", "Lament", "Magic City", "Leventh Hour", "Heavy Heart"]]}], "rate": 83, "comment": "2曲目を聴け！どうだ！これは誰がどう聞いてもI'll See the Light, Tonightじゃないか！今作で歌っているのはなんとあのTim \"Ripper\" Owensだが、曲はいつものイングヴェイらしい感じなのであまりありがたみがない。俺はあまりマンネリと言うものを感じない方なので受け入れられているが、飽きっぽいリスナーにとってはそろそろ限界突破しているはずだ。妙に新しいことをやって絶望するくらいならこのままでいてほしいというのも意見の一つだが、イングヴェイの場合は既に期待していないファンも多いだろうから、ぜひとも新しいことをしてほしい(笑)。", "recommend": ["Death Dealer", "Damnation Game", "Red Devil", "Four Horsemen", "Be Careful What You Wish for", "Caprici di Diablo", "Lament"], "description": "Malmsteen's Rising Force 15thアルバム", "type": "album", "img": ["yngwie15.jpg"]}
+{
+  "uid": "yngwie_malmsteen15",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Perpetual Flame",
+  "artist": ["Yngwie Malmsteen's Rising Force"],
+  "year": 2008,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Death Dealer",
+          "Damnation game",
+          "Live to Fight (Another Day)",
+          "Red Devil",
+          "Four Horsemen (Of the Apocalypse)",
+          "Priest of the Unholy",
+          "",
+          "Be Careful What You Wish for",
+          "Caprici di Diablo",
+          "Lament",
+          "Magic City",
+          "Leventh Hour",
+          "Heavy Heart"
+        ]
+      ]
+    }
+  ],
+  "rate": 83,
+  "comment": "2曲目を聴け！どうだ！これは誰がどう聞いてもI'll See the Light, Tonightじゃないか！今作で歌っているのはなんとあのTim \"Ripper\" Owensだが、曲はいつものイングヴェイらしい感じなのであまりありがたみがない。俺はあまりマンネリと言うものを感じない方なので受け入れられているが、飽きっぽいリスナーにとってはそろそろ限界突破しているはずだ。妙に新しいことをやって絶望するくらいならこのままでいてほしいというのも意見の一つだが、イングヴェイの場合は既に期待していないファンも多いだろうから、ぜひとも新しいことをしてほしい(笑)。",
+  "recommend": [
+    "Death Dealer",
+    "Damnation Game",
+    "Red Devil",
+    "Four Horsemen",
+    "Be Careful What You Wish for",
+    "Caprici di Diablo",
+    "Lament"
+  ],
+  "description": "Malmsteen's Rising Force 15thアルバム",
+  "type": "album",
+  "img": ["yngwie15.jpg"]
+}

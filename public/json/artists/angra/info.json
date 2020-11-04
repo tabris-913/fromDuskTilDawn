@@ -1,1 +1,16 @@
-{"uid": "angra", "name": "Angra", "ruby": "アングラ", "ruby4Sort": "あんぐら", "en": "Angra", "initial": ["A", "あ"], "kind": "", "genres": [], "albums": ["angra01", "angra02", "angra03", "angra04", "angra05", "angra06", "angra07", "angra08"], "singles": [], "others": [], "akas": [], "logo": [], "related": []}
+{
+  "uid": "angra",
+  "name": "Angra",
+  "ruby": "アングラ",
+  "ruby4Sort": "あんぐら",
+  "en": "Angra",
+  "initial": ["A", "あ"],
+  "kind": "",
+  "genres": [],
+  "albums": ["angra01", "angra02", "angra03", "angra04", "angra05", "angra06", "angra07", "angra08"],
+  "singles": [],
+  "others": [],
+  "akas": [],
+  "logo": [],
+  "related": []
+}

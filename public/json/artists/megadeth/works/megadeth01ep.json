@@ -1,1 +1,41 @@
-{"uid": "megadeth01ep", "date": "", "genres": [], "review_done": false, "name": "Maximum Megadeth ", "artist": ["Megadeth"], "year": 1991, "list": [{"list": [["", "Peace Sells", "Hanger 18", "In My Darkest Hout", "Holy Wars... The Punishment Due", "", "Anarchy in the U.K.", "Wake Up Dead", "Hook in Mouth", "Lucretia"]]}], "rate": 87, "comment": "EPとはいえ、スタジオ盤とほぼ同じだけ収録されているので、普通にいい作品だ。過去の代表曲がまとめられており、かなりセンスのいい選曲だと思う。", "recommend": ["Peace Sells", "Hanger 18", "Holy Wars", "Anarchy in the U.K.", "Wake Up Dead", "Hook in Mouth", "Lucretia"], "description": "1stミニアルバム", "type": "album", "img": ["megadeth01e.jpg"]}
+{
+  "uid": "megadeth01ep",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Maximum Megadeth ",
+  "artist": ["Megadeth"],
+  "year": 1991,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Peace Sells",
+          "Hanger 18",
+          "In My Darkest Hout",
+          "Holy Wars... The Punishment Due",
+          "",
+          "Anarchy in the U.K.",
+          "Wake Up Dead",
+          "Hook in Mouth",
+          "Lucretia"
+        ]
+      ]
+    }
+  ],
+  "rate": 87,
+  "comment": "EPとはいえ、スタジオ盤とほぼ同じだけ収録されているので、普通にいい作品だ。過去の代表曲がまとめられており、かなりセンスのいい選曲だと思う。",
+  "recommend": [
+    "Peace Sells",
+    "Hanger 18",
+    "Holy Wars",
+    "Anarchy in the U.K.",
+    "Wake Up Dead",
+    "Hook in Mouth",
+    "Lucretia"
+  ],
+  "description": "1stミニアルバム",
+  "type": "album",
+  "img": ["megadeth01e.jpg"]
+}

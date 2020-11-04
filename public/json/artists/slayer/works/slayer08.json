@@ -1,1 +1,49 @@
-{"uid": "slayer08", "date": "", "genres": [], "review_done": false, "name": "God Hates Us All ", "artist": ["Slayer"], "year": 2001, "list": [{"list": [["", "Darkness of Christ", "Disciple", "God Send Death", "New Faith", "Cast Down", "Threshold", "Exile", "Seven Faces", "", "Bloodline", "Deviance", "War Zone", "Scarstruck", "Here Comes the Pain", "Payback", "Addict"]]}], "rate": 88, "comment": "前作同様、グルーヴ・メタルやニュー・メタルの要素を取り入れた8作目。しかし前作よりも疾走曲が戻ってきており、South of Heavenで取り入れたスロウ・ヘヴィネスをSeasons in the Abyssで本来のサウンドと融合を図ったのと同様に、前作で取り入れたグルーヴを本来のスピード・スラッシュと融合させたような感じだろうか。ここまで来てもスレイヤーはかっこいい。そのブレないスタイルこそ、彼らが崇拝される所以だ。特に2曲目は神。", "recommend": ["Disciple", "New Faith", "Cast Down", "Exile", "Secen Faces", "War Zone", "Here Comes the Pain", "Payback"], "description": "8thアルバム", "type": "album", "img": ["slayer08.jpg"]}
+{
+  "uid": "slayer08",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "God Hates Us All ",
+  "artist": ["Slayer"],
+  "year": 2001,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Darkness of Christ",
+          "Disciple",
+          "God Send Death",
+          "New Faith",
+          "Cast Down",
+          "Threshold",
+          "Exile",
+          "Seven Faces",
+          "",
+          "Bloodline",
+          "Deviance",
+          "War Zone",
+          "Scarstruck",
+          "Here Comes the Pain",
+          "Payback",
+          "Addict"
+        ]
+      ]
+    }
+  ],
+  "rate": 88,
+  "comment": "前作同様、グルーヴ・メタルやニュー・メタルの要素を取り入れた8作目。しかし前作よりも疾走曲が戻ってきており、South of Heavenで取り入れたスロウ・ヘヴィネスをSeasons in the Abyssで本来のサウンドと融合を図ったのと同様に、前作で取り入れたグルーヴを本来のスピード・スラッシュと融合させたような感じだろうか。ここまで来てもスレイヤーはかっこいい。そのブレないスタイルこそ、彼らが崇拝される所以だ。特に2曲目は神。",
+  "recommend": [
+    "Disciple",
+    "New Faith",
+    "Cast Down",
+    "Exile",
+    "Secen Faces",
+    "War Zone",
+    "Here Comes the Pain",
+    "Payback"
+  ],
+  "description": "8thアルバム",
+  "type": "album",
+  "img": ["slayer08.jpg"]
+}

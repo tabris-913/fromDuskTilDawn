@@ -1,1 +1,16 @@
-{"uid": "showya05", "date": "", "genres": [], "review_done": false, "name": "IMMIGRATION", "artist": ["SHOW-YA"], "year": 1987, "list": [{"list": [["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]]}], "rate": 0, "comment": "", "recommend": [""], "description": "5thアルバム", "type": "album", "img": ["showya05.jpg"]}
+{
+  "uid": "showya05",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "IMMIGRATION",
+  "artist": ["SHOW-YA"],
+  "year": 1987,
+  "list": [{ "list": [["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "5thアルバム",
+  "type": "album",
+  "img": ["showya05.jpg"]
+}

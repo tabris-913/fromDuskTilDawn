@@ -1,1 +1,47 @@
-{"uid": "blind_guardian04", "date": "", "genres": [], "review_done": false, "name": "Somewhere Far Beyond ", "artist": ["Blind Guardian"], "year": 1992, "list": [{"list": [["", "Time What Is Time", "Journey through the Dark", "Black Chamber", "Theatre of Pain", "The Quest for Tanelorn", "Ashes to Ashes", "The Bard's Song (In the Forest)", "", "The Bard's Song (The Hobbit)", "The Piper's Calling", "Somewhere Far Beyond", "(BONUS TRACK)", "Spread Your Wings", "Trial by Fire", "Theatre of Pain [Classic Version]"]]}], "rate": 91, "comment": "一般的に最高傑作と言われる4作目。個人的には前作のほうが好きだが。まだアグレッシヴさが色濃く残っていた前作に対し、今作ではエピックさの方をさらに強化してきた。しかも毎度おなじみカイ・ハンセンは、今回は何と作曲にまで参加！本作のキラーチューンである5曲目がそれにあたる。ボーナスの11曲目はクイーンのカヴァーであるが、ブラガverもなかなかいい感じで満足の出来だ。まぁ疾走好きの俺にとっては、やっぱり前作がいいかな。メロディも好きだけど、もうちっと疾走ってほしかった。", "recommend": ["Time What Is Time", "Journey through the Dark", "The Quest for Tanelorn", "Ashes to Ashes", "Somewhere Far Beyond", "Spread Your Wings", "\n\t\t\tTrial by Fire"], "description": "Guardian 4thアルバム", "type": "album", "img": ["blind04.jpg"]}
+{
+  "uid": "blind_guardian04",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Somewhere Far Beyond ",
+  "artist": ["Blind Guardian"],
+  "year": 1992,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Time What Is Time",
+          "Journey through the Dark",
+          "Black Chamber",
+          "Theatre of Pain",
+          "The Quest for Tanelorn",
+          "Ashes to Ashes",
+          "The Bard's Song (In the Forest)",
+          "",
+          "The Bard's Song (The Hobbit)",
+          "The Piper's Calling",
+          "Somewhere Far Beyond",
+          "(BONUS TRACK)",
+          "Spread Your Wings",
+          "Trial by Fire",
+          "Theatre of Pain [Classic Version]"
+        ]
+      ]
+    }
+  ],
+  "rate": 91,
+  "comment": "一般的に最高傑作と言われる4作目。個人的には前作のほうが好きだが。まだアグレッシヴさが色濃く残っていた前作に対し、今作ではエピックさの方をさらに強化してきた。しかも毎度おなじみカイ・ハンセンは、今回は何と作曲にまで参加！本作のキラーチューンである5曲目がそれにあたる。ボーナスの11曲目はクイーンのカヴァーであるが、ブラガverもなかなかいい感じで満足の出来だ。まぁ疾走好きの俺にとっては、やっぱり前作がいいかな。メロディも好きだけど、もうちっと疾走ってほしかった。",
+  "recommend": [
+    "Time What Is Time",
+    "Journey through the Dark",
+    "The Quest for Tanelorn",
+    "Ashes to Ashes",
+    "Somewhere Far Beyond",
+    "Spread Your Wings",
+    "\n\t\t\tTrial by Fire"
+  ],
+  "description": "Guardian 4thアルバム",
+  "type": "album",
+  "img": ["blind04.jpg"]
+}

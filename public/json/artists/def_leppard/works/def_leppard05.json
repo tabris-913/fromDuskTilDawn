@@ -1,1 +1,35 @@
-{"uid": "def_leppard05", "date": "", "genres": [], "review_done": false, "name": "Adrenalize ", "artist": ["Def Leppard"], "year": 1992, "list": [{"list": [["", "Let's Get Rocked", "Heaven", "Make Love Like a Man", "Tonight", "White Lightning", "", "Stand Up (Kick Love into Motion)", "Personal Property", "Have You Ever Needed Someone So Bad", "I Wanna Touch U", "Tear It Down"]]}], "rate": 93, "comment": "Steve Clarkが亡くなり、前作以上のブランクの後にリリースされた作品。聴けば明らかだが、『Hysteria』を意識した非常に近いサウンドを見せている。これに対して好意的な意見もあれば、進化していないこと否定的に捉える意見もある。しかし当時のシーンの流れを考えて、流行遅れのこのアルバムが多くの国で1位を獲得した事実は賞賛すべき。それに前作に近いということは作風と楽曲の質も優れているということ。いずれの曲も『Hysteria』期に負けず劣らずの名曲ばかりだ。しかしやはり即効性に関しては弱いので、二番煎じ感は拭えない。", "recommend": ["全部"], "description": "Leppard 5thアルバム", "type": "album", "img": ["def05.jpg"]}
+{
+  "uid": "def_leppard05",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Adrenalize ",
+  "artist": ["Def Leppard"],
+  "year": 1992,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Let's Get Rocked",
+          "Heaven",
+          "Make Love Like a Man",
+          "Tonight",
+          "White Lightning",
+          "",
+          "Stand Up (Kick Love into Motion)",
+          "Personal Property",
+          "Have You Ever Needed Someone So Bad",
+          "I Wanna Touch U",
+          "Tear It Down"
+        ]
+      ]
+    }
+  ],
+  "rate": 93,
+  "comment": "Steve Clarkが亡くなり、前作以上のブランクの後にリリースされた作品。聴けば明らかだが、『Hysteria』を意識した非常に近いサウンドを見せている。これに対して好意的な意見もあれば、進化していないこと否定的に捉える意見もある。しかし当時のシーンの流れを考えて、流行遅れのこのアルバムが多くの国で1位を獲得した事実は賞賛すべき。それに前作に近いということは作風と楽曲の質も優れているということ。いずれの曲も『Hysteria』期に負けず劣らずの名曲ばかりだ。しかしやはり即効性に関しては弱いので、二番煎じ感は拭えない。",
+  "recommend": ["全部"],
+  "description": "Leppard 5thアルバム",
+  "type": "album",
+  "img": ["def05.jpg"]
+}

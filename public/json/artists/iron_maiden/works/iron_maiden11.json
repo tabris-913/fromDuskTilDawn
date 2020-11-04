@@ -1,1 +1,33 @@
-{"uid": "iron_maiden11", "date": "", "genres": [], "review_done": false, "name": "Virtual XI", "artist": ["Iron Maiden"], "year": 1998, "list": [{"list": [["", "Futureal", "The Angel and the Gambler", "Lightning Strikes Twice", "The Clansman", "", "When Two Worlds Collide", "The Educated Fool", "The Eyes of a Stranger", "Como Estais Amigos"]]}], "rate": 75, "comment": "前作よりもさらに血迷った感のある作品。ただ1曲目は文句なしでかっこいい。これは紛れもない名曲だ。9分の曲が2曲と、8分の曲もあり、比較的長尺の割合が多い。ただ本当にひどいといった曲はないのが救いだろう。しかし過去の名盤に比べてしまえばひどいのだが。前作の反省は、活きていないようだ。", "recommend": ["Futureal", "Lightning Strikes Twice", "The Clansman"], "description": "Maiden 11thアルバム", "type": "album", "img": ["maiden11.jpg"]}
+{
+  "uid": "iron_maiden11",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Virtual XI",
+  "artist": ["Iron Maiden"],
+  "year": 1998,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Futureal",
+          "The Angel and the Gambler",
+          "Lightning Strikes Twice",
+          "The Clansman",
+          "",
+          "When Two Worlds Collide",
+          "The Educated Fool",
+          "The Eyes of a Stranger",
+          "Como Estais Amigos"
+        ]
+      ]
+    }
+  ],
+  "rate": 75,
+  "comment": "前作よりもさらに血迷った感のある作品。ただ1曲目は文句なしでかっこいい。これは紛れもない名曲だ。9分の曲が2曲と、8分の曲もあり、比較的長尺の割合が多い。ただ本当にひどいといった曲はないのが救いだろう。しかし過去の名盤に比べてしまえばひどいのだが。前作の反省は、活きていないようだ。",
+  "recommend": ["Futureal", "Lightning Strikes Twice", "The Clansman"],
+  "description": "Maiden 11thアルバム",
+  "type": "album",
+  "img": ["maiden11.jpg"]
+}

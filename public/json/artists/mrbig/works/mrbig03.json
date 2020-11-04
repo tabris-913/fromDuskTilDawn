@@ -1,1 +1,37 @@
-{"uid": "mrbig03", "date": "", "genres": [], "review_done": false, "name": "Bump Ahead ", "artist": ["Mr. Big"], "year": 1993, "list": [{"list": [["", "Colorado Bulldog", "Price You Gotta Pay", "Promise Her the Moon", "What's It Gonne Be", "Wild World", "Mr. Gone", "", "The Whole World's Gonne Know", "Nothing but Love", "Temperamental", "Ain't Seen Love Like That", "Mr. Big", "Long Way Down"]]}], "rate": 90, "comment": "サウンドは前作よりもデビュー作に近く、タイトなロックを展開。といっても前作で見せた音楽性の広がりは今作でも感じることができ、8曲目ではストリングスが取り入れられている。過去最大級のメロディアスさを見せており、どんどん日本人好みに近づいていく(笑)90年代のアメリカと言えばメロディよりもパワーやへヴィネスを重視したサウンドがメインであったため、このような路線ではあまりヒットを狙いにくいだろう。", "recommend": ["全部　特にColorado Bulldog", "Wild World", "Nothing but Love"], "description": "Big 3rdアルバム", "type": "album", "img": ["mrbig03.jpg"]}
+{
+  "uid": "mrbig03",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Bump Ahead ",
+  "artist": ["Mr. Big"],
+  "year": 1993,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Colorado Bulldog",
+          "Price You Gotta Pay",
+          "Promise Her the Moon",
+          "What's It Gonne Be",
+          "Wild World",
+          "Mr. Gone",
+          "",
+          "The Whole World's Gonne Know",
+          "Nothing but Love",
+          "Temperamental",
+          "Ain't Seen Love Like That",
+          "Mr. Big",
+          "Long Way Down"
+        ]
+      ]
+    }
+  ],
+  "rate": 90,
+  "comment": "サウンドは前作よりもデビュー作に近く、タイトなロックを展開。といっても前作で見せた音楽性の広がりは今作でも感じることができ、8曲目ではストリングスが取り入れられている。過去最大級のメロディアスさを見せており、どんどん日本人好みに近づいていく(笑)90年代のアメリカと言えばメロディよりもパワーやへヴィネスを重視したサウンドがメインであったため、このような路線ではあまりヒットを狙いにくいだろう。",
+  "recommend": ["全部　特にColorado Bulldog", "Wild World", "Nothing but Love"],
+  "description": "Big 3rdアルバム",
+  "type": "album",
+  "img": ["mrbig03.jpg"]
+}

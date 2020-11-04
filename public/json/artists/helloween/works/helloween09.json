@@ -1,1 +1,39 @@
-{"uid": "helloween09", "date": "", "genres": [], "review_done": false, "name": "The Dark Ride", "artist": ["Helloween"], "year": 2000, "list": [{"list": [["", "Beyond the Portal", "Mr. Torture", "All Over the Nations", "Escalation 666", "Mirror Mirror", "If I Could Fly", "Salvation", "", "The Departed (Sun Is Going Down)", "I Live for Your Pain", "We Damn the Night", "Immortal", "The Dark Rise", "(JAPANESE BONUS TRACK)", "The Madness of the Crowds"]]}], "rate": 86, "comment": "前作のへヴィ路線を引き継ぎ、さらにタイトルが示す通りにダークな雰囲気をまとった作品。メンバー間の関係も良くなかったようで、それがサウンドに表れているそうだ。とはいえ曲の質は決して低くなく、特に2曲目に関しては復活以来最高と言っても過言ではないできだ。2,3を聴いているうちにはダークさがわからないのだが、4曲目以降ダーク&へヴィな曲が次々と現れる。", "recommend": ["Mr. Torture", "All Over the Nations", "Salvation", "We Damn the Night", "The Dark Ride"], "description": "9thアルバム", "type": "album", "img": ["hw09.jpg"]}
+{
+  "uid": "helloween09",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "The Dark Ride",
+  "artist": ["Helloween"],
+  "year": 2000,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Beyond the Portal",
+          "Mr. Torture",
+          "All Over the Nations",
+          "Escalation 666",
+          "Mirror Mirror",
+          "If I Could Fly",
+          "Salvation",
+          "",
+          "The Departed (Sun Is Going Down)",
+          "I Live for Your Pain",
+          "We Damn the Night",
+          "Immortal",
+          "The Dark Rise",
+          "(JAPANESE BONUS TRACK)",
+          "The Madness of the Crowds"
+        ]
+      ]
+    }
+  ],
+  "rate": 86,
+  "comment": "前作のへヴィ路線を引き継ぎ、さらにタイトルが示す通りにダークな雰囲気をまとった作品。メンバー間の関係も良くなかったようで、それがサウンドに表れているそうだ。とはいえ曲の質は決して低くなく、特に2曲目に関しては復活以来最高と言っても過言ではないできだ。2,3を聴いているうちにはダークさがわからないのだが、4曲目以降ダーク&へヴィな曲が次々と現れる。",
+  "recommend": ["Mr. Torture", "All Over the Nations", "Salvation", "We Damn the Night", "The Dark Ride"],
+  "description": "9thアルバム",
+  "type": "album",
+  "img": ["hw09.jpg"]
+}

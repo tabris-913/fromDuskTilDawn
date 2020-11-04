@@ -1,1 +1,52 @@
-{"uid": "helloween13", "date": "", "genres": [], "review_done": false, "name": "7 Sinners", "artist": ["Helloween"], "year": 2010, "list": [{"list": [["", "Where the Sinners Go", "Are You Metal?", "Who Is Mr. Madman?", "Raise the Noise", "World or Fantasy", "Long Live the King", "The Smile of the Sun", "You Stupid Mankind", "If a Mountain Could Talk", "", "The Sage, the Fool, the Sinner", "My Sacrifice", "Not Yet Today", "Far in the Future", "(DELUXE EDITION BONUS TRACK)", "I'm Free", "(JAPANESE BONUS TRACK)", "Faster We Fall", "Aiming High"]]}], "rate": 85, "comment": "Better than RawやThe Dark Rideの頃のヘヴィに逆戻りした作品。とはいえ完全に戻ってしまったわけではなく、ヘヴィネス路線とメロディアス路線の中間的な位置にある。あの頃よりも疾走曲の割合が非常に多く、かなり満足して聴ける作品だ。やはりSaschaの加入以降、スタジオ作品はすべて名盤と言うハロウィン。これはまさに第2黄金期の到来と言ってもいいだろう。", "recommend": ["全部　特にAre You Metal?", "Who Is Mr. Madman?", "Raise the Noise", "Long Live the King", "You Stupid Mankind", "\n\t\t\tIf a Mountain Could Talk", "Far in the Future", "Faster We Fall"], "description": "13thアルバム", "type": "album", "img": ["hw13.jpg"]}
+{
+  "uid": "helloween13",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "7 Sinners",
+  "artist": ["Helloween"],
+  "year": 2010,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Where the Sinners Go",
+          "Are You Metal?",
+          "Who Is Mr. Madman?",
+          "Raise the Noise",
+          "World or Fantasy",
+          "Long Live the King",
+          "The Smile of the Sun",
+          "You Stupid Mankind",
+          "If a Mountain Could Talk",
+          "",
+          "The Sage, the Fool, the Sinner",
+          "My Sacrifice",
+          "Not Yet Today",
+          "Far in the Future",
+          "(DELUXE EDITION BONUS TRACK)",
+          "I'm Free",
+          "(JAPANESE BONUS TRACK)",
+          "Faster We Fall",
+          "Aiming High"
+        ]
+      ]
+    }
+  ],
+  "rate": 85,
+  "comment": "Better than RawやThe Dark Rideの頃のヘヴィに逆戻りした作品。とはいえ完全に戻ってしまったわけではなく、ヘヴィネス路線とメロディアス路線の中間的な位置にある。あの頃よりも疾走曲の割合が非常に多く、かなり満足して聴ける作品だ。やはりSaschaの加入以降、スタジオ作品はすべて名盤と言うハロウィン。これはまさに第2黄金期の到来と言ってもいいだろう。",
+  "recommend": [
+    "全部　特にAre You Metal?",
+    "Who Is Mr. Madman?",
+    "Raise the Noise",
+    "Long Live the King",
+    "You Stupid Mankind",
+    "\n\t\t\tIf a Mountain Could Talk",
+    "Far in the Future",
+    "Faster We Fall"
+  ],
+  "description": "13thアルバム",
+  "type": "album",
+  "img": ["hw13.jpg"]
+}

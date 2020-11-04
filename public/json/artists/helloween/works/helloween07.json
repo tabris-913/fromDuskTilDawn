@@ -1,1 +1,48 @@
-{"uid": "helloween07", "date": "", "genres": [], "review_done": false, "name": "The Time of the Oath", "artist": ["Helloween"], "year": 1996, "list": [{"list": [["", "We Burn", "Steel Tormentor", "Wake Up the Mountain", "Power", "Forever and One (Neverland)", "Before the War", "A Million to One", "Anything My Mama Don't Like", "", "Kings Will Be Kings", "Mission Motherland", "If I Knew", "The Time of the Oath", "(JAPANESE BONUS TRACK)", "Still I Don't Know", "Take It to the Limit"]]}], "rate": 85, "comment": "前作よりは本来の路線に近づいたといえる。とはいっても捨て曲はあるし、まだまだKeeper時代には遠い。とはいっても十分良いアルバムと言える作品だ。コンセプトアルバムらしく、ノストラダムスの予言をもとにしているようだ。とはいえ歌詞でも見ない限りはそんなのは微塵も感じられないので、どうでもいい。Keeperみたいに全曲素晴らしいアルバムはもう期待するだけ無駄なのだろうか...と思ってしまう。", "recommend": ["We Burn", "Steel Tormentor", "Power", "Before the War", "Anything My Mama Don't Like", "Kings Will Be Kings", ""], "description": "7thアルバム", "type": "album", "img": ["hw07.jpg"]}
+{
+  "uid": "helloween07",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "The Time of the Oath",
+  "artist": ["Helloween"],
+  "year": 1996,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "We Burn",
+          "Steel Tormentor",
+          "Wake Up the Mountain",
+          "Power",
+          "Forever and One (Neverland)",
+          "Before the War",
+          "A Million to One",
+          "Anything My Mama Don't Like",
+          "",
+          "Kings Will Be Kings",
+          "Mission Motherland",
+          "If I Knew",
+          "The Time of the Oath",
+          "(JAPANESE BONUS TRACK)",
+          "Still I Don't Know",
+          "Take It to the Limit"
+        ]
+      ]
+    }
+  ],
+  "rate": 85,
+  "comment": "前作よりは本来の路線に近づいたといえる。とはいっても捨て曲はあるし、まだまだKeeper時代には遠い。とはいっても十分良いアルバムと言える作品だ。コンセプトアルバムらしく、ノストラダムスの予言をもとにしているようだ。とはいえ歌詞でも見ない限りはそんなのは微塵も感じられないので、どうでもいい。Keeperみたいに全曲素晴らしいアルバムはもう期待するだけ無駄なのだろうか...と思ってしまう。",
+  "recommend": [
+    "We Burn",
+    "Steel Tormentor",
+    "Power",
+    "Before the War",
+    "Anything My Mama Don't Like",
+    "Kings Will Be Kings",
+    ""
+  ],
+  "description": "7thアルバム",
+  "type": "album",
+  "img": ["hw07.jpg"]
+}

@@ -1,1 +1,97 @@
-{"albums": {"metallica01": {"uid": "metallica01", "name": "Kill 'Em All （血染めの鉄槌） ", "date": "", "img": ["metallica01.jpg"], "review_done": false}, "metallica01ep": {"uid": "metallica01ep", "name": "The $5.98 E.P.: Garage Days Re-Revisited （メタル・ガレージ）", "date": "", "img": ["metallica01e.jpg"], "review_done": false}, "metallica01symphonic": {"uid": "metallica01symphonic", "name": "Lulu", "date": "", "img": ["metallica01s.jpg"], "review_done": false}, "metallica02": {"uid": "metallica02", "name": "Ride the Lightning ", "date": "", "img": ["metallica02.jpg"], "review_done": false}, "metallica02ep": {"uid": "metallica02ep", "name": "Beyond Magnetic", "date": "", "img": ["metallica02e.jpg"], "review_done": false}, "metallica03": {"uid": "metallica03", "name": "Master of Puppets （メタル・マスター） ", "date": "", "img": ["metallica03.jpg"], "review_done": false}, "metallica04": {"uid": "metallica04", "name": "...And Justice for All （メタル・ジャスティス）", "date": "", "img": ["metallica04.jpg"], "review_done": false}, "metallica05": {"uid": "metallica05", "name": "Metallica", "date": "", "img": ["metallica05.jpg"], "review_done": false}, "metallica06": {"uid": "metallica06", "name": "Load", "date": "", "img": ["metallica06.jpg"], "review_done": false}, "metallica07": {"uid": "metallica07", "name": "ReLoad", "date": "", "img": ["metallica07.jpg"], "review_done": false}, "metallica08": {"uid": "metallica08", "name": "St. Anger", "date": "", "img": ["metallica08.jpg"], "review_done": false}, "metallica09": {"uid": "metallica09", "name": "Death Magnetic", "date": "", "img": ["metallica09.jpg"], "review_done": false}, "metallica10": {"uid": "metallica10", "name": "Hardwired... to Self-Destruct", "date": "", "img": ["metallica10.jpg"], "review_done": false}}, "singles": {}, "others": {}}
+{
+  "albums": {
+    "metallica01": {
+      "uid": "metallica01",
+      "name": "Kill 'Em All （血染めの鉄槌） ",
+      "date": "",
+      "img": ["metallica01.jpg"],
+      "review_done": false
+    },
+    "metallica01ep": {
+      "uid": "metallica01ep",
+      "name": "The $5.98 E.P.: Garage Days Re-Revisited （メタル・ガレージ）",
+      "date": "",
+      "img": ["metallica01e.jpg"],
+      "review_done": false
+    },
+    "metallica01symphonic": {
+      "uid": "metallica01symphonic",
+      "name": "Lulu",
+      "date": "",
+      "img": ["metallica01s.jpg"],
+      "review_done": false
+    },
+    "metallica02": {
+      "uid": "metallica02",
+      "name": "Ride the Lightning ",
+      "date": "",
+      "img": ["metallica02.jpg"],
+      "review_done": false
+    },
+    "metallica02ep": {
+      "uid": "metallica02ep",
+      "name": "Beyond Magnetic",
+      "date": "",
+      "img": ["metallica02e.jpg"],
+      "review_done": false
+    },
+    "metallica03": {
+      "uid": "metallica03",
+      "name": "Master of Puppets （メタル・マスター） ",
+      "date": "",
+      "img": ["metallica03.jpg"],
+      "review_done": false
+    },
+    "metallica04": {
+      "uid": "metallica04",
+      "name": "...And Justice for All （メタル・ジャスティス）",
+      "date": "",
+      "img": ["metallica04.jpg"],
+      "review_done": false
+    },
+    "metallica05": {
+      "uid": "metallica05",
+      "name": "Metallica",
+      "date": "",
+      "img": ["metallica05.jpg"],
+      "review_done": false
+    },
+    "metallica06": {
+      "uid": "metallica06",
+      "name": "Load",
+      "date": "",
+      "img": ["metallica06.jpg"],
+      "review_done": false
+    },
+    "metallica07": {
+      "uid": "metallica07",
+      "name": "ReLoad",
+      "date": "",
+      "img": ["metallica07.jpg"],
+      "review_done": false
+    },
+    "metallica08": {
+      "uid": "metallica08",
+      "name": "St. Anger",
+      "date": "",
+      "img": ["metallica08.jpg"],
+      "review_done": false
+    },
+    "metallica09": {
+      "uid": "metallica09",
+      "name": "Death Magnetic",
+      "date": "",
+      "img": ["metallica09.jpg"],
+      "review_done": false
+    },
+    "metallica10": {
+      "uid": "metallica10",
+      "name": "Hardwired... to Self-Destruct",
+      "date": "",
+      "img": ["metallica10.jpg"],
+      "review_done": false
+    }
+  },
+  "singles": {},
+  "others": {}
+}

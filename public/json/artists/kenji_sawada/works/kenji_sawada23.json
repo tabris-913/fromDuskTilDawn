@@ -1,1 +1,18 @@
-{"uid": "kenji_sawada23", "date": "1985-09-21", "genres": [], "review_done": false, "name": "架空のオペラ", "ruby": "", "artist": "沢田研二", "year": 1985, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "23thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "kenji_sawada23",
+  "date": "1985-09-21",
+  "genres": [],
+  "review_done": false,
+  "name": "架空のオペラ",
+  "ruby": "",
+  "artist": "沢田研二",
+  "year": 1985,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "23thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

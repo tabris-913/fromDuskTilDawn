@@ -1,1 +1,16 @@
-{"uid": "showya09", "date": "", "genres": [], "review_done": false, "name": "GENUINE DIAMOND", "artist": ["SHOW-YA"], "year": 2012, "list": [{"list": [["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]]}], "rate": 0, "comment": "", "recommend": [""], "description": "9thアルバム", "type": "album", "img": ["showya09.jpg"]}
+{
+  "uid": "showya09",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "GENUINE DIAMOND",
+  "artist": ["SHOW-YA"],
+  "year": 2012,
+  "list": [{ "list": [["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "9thアルバム",
+  "type": "album",
+  "img": ["showya09.jpg"]
+}

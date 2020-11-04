@@ -1,1 +1,12 @@
-{"name": "オーディションソング (3)", "description": "", "date": "2010-01-27", "year": 2010, "artist": ["natsuki", "sho"], "list": [{"disk_no": 1, "name": "", "list": ["サザンクロス恋唄", "オレサマ愛歌"]}], "comment": "", "uid": "utapri03sg", "img": ["utapri03sg.jpg"], "rate": 0}
+{
+  "name": "オーディションソング (3)",
+  "description": "",
+  "date": "2010-01-27",
+  "year": 2010,
+  "artist": ["natsuki", "sho"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["サザンクロス恋唄", "オレサマ愛歌"] }],
+  "comment": "",
+  "uid": "utapri03sg",
+  "img": ["utapri03sg.jpg"],
+  "rate": 0
+}

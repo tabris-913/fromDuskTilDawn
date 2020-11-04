@@ -1,1 +1,34 @@
-{"uid": "bonjovi01", "date": "", "genres": [], "review_done": false, "name": "Bon Jovi （夜明けのランナウェイ） ", "artist": ["Bon Jovi"], "year": 1984, "list": [{"list": [["", "Runaway", "Roulette", "She Don't Know Me", "Shot Through the Heart", "Love Lies", "", "Breakout", "Burning for Love", "Come Back", "Get Ready"]]}], "rate": 93, "comment": "記念すべきデビューアルバムであり、今でも色褪せることのない名盤。邦題の元にもなった#1は名盤の幕開け、そしてキャリアの幕開けを飾るに相応しい最上級の名曲。今で言うところのメロディック・ハードの神曲として未来永劫語り継がれるべきものだ。#2はややハードに寄ったもので、以降隆盛をみせるポップ・メタルの最初期のものだろう。#4は同様にクールでスリルを感じられる名ロックチューン。#7は#1と並んで本作のハイライトで、躍動感を感じるスピードとハードな質感が素晴らしい。それ以外の曲も、バラードありロックありの豪華さ。今のBon Joviにはない若々しさと同時に、活きたメロディによる哀愁も感じられるから面白い。", "recommend": ["全部　特にRunaway", "Shot Through the Heart", "Burning for Love"], "description": "Jovi 1stアルバム", "type": "album", "img": ["bonjovi01.jpg"]}
+{
+  "uid": "bonjovi01",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Bon Jovi （夜明けのランナウェイ） ",
+  "artist": ["Bon Jovi"],
+  "year": 1984,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Runaway",
+          "Roulette",
+          "She Don't Know Me",
+          "Shot Through the Heart",
+          "Love Lies",
+          "",
+          "Breakout",
+          "Burning for Love",
+          "Come Back",
+          "Get Ready"
+        ]
+      ]
+    }
+  ],
+  "rate": 93,
+  "comment": "記念すべきデビューアルバムであり、今でも色褪せることのない名盤。邦題の元にもなった#1は名盤の幕開け、そしてキャリアの幕開けを飾るに相応しい最上級の名曲。今で言うところのメロディック・ハードの神曲として未来永劫語り継がれるべきものだ。#2はややハードに寄ったもので、以降隆盛をみせるポップ・メタルの最初期のものだろう。#4は同様にクールでスリルを感じられる名ロックチューン。#7は#1と並んで本作のハイライトで、躍動感を感じるスピードとハードな質感が素晴らしい。それ以外の曲も、バラードありロックありの豪華さ。今のBon Joviにはない若々しさと同時に、活きたメロディによる哀愁も感じられるから面白い。",
+  "recommend": ["全部　特にRunaway", "Shot Through the Heart", "Burning for Love"],
+  "description": "Jovi 1stアルバム",
+  "type": "album",
+  "img": ["bonjovi01.jpg"]
+}

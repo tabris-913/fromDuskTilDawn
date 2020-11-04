@@ -1,1 +1,33 @@
-{"uid": "tmrevolution", "name": "T.M.Revolution", "ruby": "ティーエムレヴォリューション", "ruby4Sort": "てぃーえむれゔぉりゅーしょん", "en": "T.M.Revolution", "initial": ["T", "た"], "kind": "ソロ", "genres": [], "albums": ["tmrevolution01", "tmrevolution01ep", "tmrevolution01selfcover", "tmrevolution02", "tmrevolution02ep", "tmrevolution02selfcover", "tmrevolution03", "tmrevolution04", "tmrevolution04compilation", "tmrevolution05", "tmrevolution06", "tmrevolution07", "tmrevolution08", "tmrevolution09", "tmrevolution10", "tmrevolutione01"], "singles": [], "others": [], "akas": ["the end of genesis T.M.R.evolution turbo type D"], "logo": [], "related": []}
+{
+  "uid": "tmrevolution",
+  "name": "T.M.Revolution",
+  "ruby": "ティーエムレヴォリューション",
+  "ruby4Sort": "てぃーえむれゔぉりゅーしょん",
+  "en": "T.M.Revolution",
+  "initial": ["T", "た"],
+  "kind": "ソロ",
+  "genres": [],
+  "albums": [
+    "tmrevolution01",
+    "tmrevolution01ep",
+    "tmrevolution01selfcover",
+    "tmrevolution02",
+    "tmrevolution02ep",
+    "tmrevolution02selfcover",
+    "tmrevolution03",
+    "tmrevolution04",
+    "tmrevolution04compilation",
+    "tmrevolution05",
+    "tmrevolution06",
+    "tmrevolution07",
+    "tmrevolution08",
+    "tmrevolution09",
+    "tmrevolution10",
+    "tmrevolutione01"
+  ],
+  "singles": [],
+  "others": [],
+  "akas": ["the end of genesis T.M.R.evolution turbo type D"],
+  "logo": [],
+  "related": []
+}

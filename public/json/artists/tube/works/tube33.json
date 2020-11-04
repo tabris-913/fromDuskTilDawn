@@ -1,1 +1,18 @@
-{"uid": "tube33", "date": "2011-07-20", "genres": [], "review_done": false, "name": "RE-CREATION", "ruby": "", "artist": "TUBE", "year": 2011, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "33thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "tube33",
+  "date": "2011-07-20",
+  "genres": [],
+  "review_done": false,
+  "name": "RE-CREATION",
+  "ruby": "",
+  "artist": "TUBE",
+  "year": 2011,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "33thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

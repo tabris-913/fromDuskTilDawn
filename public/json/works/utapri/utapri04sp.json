@@ -1,1 +1,12 @@
-{"name": "HE★VENS GATE", "description": "", "date": "2013-11-27", "year": 2013, "artist": ["heavens"], "list": [{"disk_no": 1, "name": "", "list": ["HE★VENS GATE"]}], "comment": "", "uid": "utapri04sp", "img": ["utapri04sp.jpg"], "rate": 0}
+{
+  "name": "HE★VENS GATE",
+  "description": "",
+  "date": "2013-11-27",
+  "year": 2013,
+  "artist": ["heavens"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["HE★VENS GATE"] }],
+  "comment": "",
+  "uid": "utapri04sp",
+  "img": ["utapri04sp.jpg"],
+  "rate": 0
+}

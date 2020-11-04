@@ -1,1 +1,12 @@
-{"name": "デュエットアイドルソング 愛島セシル&天草シオン", "description": "", "date": "2016-11-09", "year": 0, "artist": ["cecil", "shion"], "list": [{"disk_no": 1, "name": "", "list": ["Visible Elf", "甘美なるアルカディア", "導き光"]}], "comment": "", "uid": "utapri49sg", "img": ["utapri49sg.jpg"], "rate": 0}
+{
+  "name": "デュエットアイドルソング 愛島セシル&天草シオン",
+  "description": "",
+  "date": "2016-11-09",
+  "year": 0,
+  "artist": ["cecil", "shion"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["Visible Elf", "甘美なるアルカディア", "導き光"] }],
+  "comment": "",
+  "uid": "utapri49sg",
+  "img": ["utapri49sg.jpg"],
+  "rate": 0
+}

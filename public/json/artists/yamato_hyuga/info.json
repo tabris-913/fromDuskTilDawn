@@ -1,1 +1,13 @@
-{"name": "日向大和", "ruby": "ひゅうがやまと", "uid": "yamato_hyuga", "related": ["heavens"], "en": "Yamato Hyuga", "initial": ["は"], "singles": [], "others": [], "ruby4Sort": "ひゅうがやまと", "albums": [], "genres": []}
+{
+  "name": "日向大和",
+  "ruby": "ひゅうがやまと",
+  "uid": "yamato_hyuga",
+  "related": ["heavens"],
+  "en": "Yamato Hyuga",
+  "initial": ["は"],
+  "singles": [],
+  "others": [],
+  "ruby4Sort": "ひゅうがやまと",
+  "albums": [],
+  "genres": []
+}

@@ -1,1 +1,36 @@
-{"uid": "anthrax07", "date": "", "genres": [], "review_done": false, "name": "Stomp 442", "artist": ["Anthrax"], "year": 1995, "list": [{"list": [["", "Random Acts of Senseless Violence", "Fueled", "King Size", "Riding Shotgun", "Pertual Motion", "In a Zone", "", "Nothing", "Americal Pompeil", "Drop the Ball", "Tester", "Bare"]]}], "rate": 71, "comment": "前作とサウンド的にはほぼ変わらない7作目。しかし全体的に質が低下し、しまいにはメタルでない曲まで登場している。前作には割と好意的な評価をしていた専門誌も、今作には総じて辛口。かなり否定的なコメントも残している。当時はメタル氷河期。彼らががんばってシーンを支えないといけないはずが、その彼らが氷河期を助長させている。", "recommend": ["Fueled", "King Size"], "description": "7thアルバム", "type": "album", "img": ["anthrax07.jpg"]}
+{
+  "uid": "anthrax07",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Stomp 442",
+  "artist": ["Anthrax"],
+  "year": 1995,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Random Acts of Senseless Violence",
+          "Fueled",
+          "King Size",
+          "Riding Shotgun",
+          "Pertual Motion",
+          "In a Zone",
+          "",
+          "Nothing",
+          "Americal Pompeil",
+          "Drop the Ball",
+          "Tester",
+          "Bare"
+        ]
+      ]
+    }
+  ],
+  "rate": 71,
+  "comment": "前作とサウンド的にはほぼ変わらない7作目。しかし全体的に質が低下し、しまいにはメタルでない曲まで登場している。前作には割と好意的な評価をしていた専門誌も、今作には総じて辛口。かなり否定的なコメントも残している。当時はメタル氷河期。彼らががんばってシーンを支えないといけないはずが、その彼らが氷河期を助長させている。",
+  "recommend": ["Fueled", "King Size"],
+  "description": "7thアルバム",
+  "type": "album",
+  "img": ["anthrax07.jpg"]
+}

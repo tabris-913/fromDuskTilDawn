@@ -1,1 +1,34 @@
-{"uid": "megadeth", "name": "Megadeth", "ruby": "メガデス", "ruby4Sort": "めがです", "en": "Megadeth", "initial": ["M", "ま"], "kind": "バンド", "genres": [], "albums": ["megadeth01", "megadeth01ep", "megadeth02", "megadeth02ep", "megadeth03", "megadeth04", "megadeth05", "megadeth06", "megadeth07", "megadeth08", "megadeth09", "megadeth10", "megadeth11", "megadeth12", "megadeth13", "megadeth14", "megadeth15"], "singles": [], "others": [], "akas": [], "logo": [], "related": []}
+{
+  "uid": "megadeth",
+  "name": "Megadeth",
+  "ruby": "メガデス",
+  "ruby4Sort": "めがです",
+  "en": "Megadeth",
+  "initial": ["M", "ま"],
+  "kind": "バンド",
+  "genres": [],
+  "albums": [
+    "megadeth01",
+    "megadeth01ep",
+    "megadeth02",
+    "megadeth02ep",
+    "megadeth03",
+    "megadeth04",
+    "megadeth05",
+    "megadeth06",
+    "megadeth07",
+    "megadeth08",
+    "megadeth09",
+    "megadeth10",
+    "megadeth11",
+    "megadeth12",
+    "megadeth13",
+    "megadeth14",
+    "megadeth15"
+  ],
+  "singles": [],
+  "others": [],
+  "akas": [],
+  "logo": [],
+  "related": []
+}

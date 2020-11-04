@@ -1,1 +1,13 @@
-{"name": "篝火", "ruby": "かがりび", "uid": "kagaribi", "en": "Kagaribi", "kind": "バンド", "initial": ["か"], "singles": ["kagaribi01", "kagaribi02", "kagaribi03", "kagaribi04", "kagaribi05"], "albums": [], "ruby4Sort": "かがりび", "genres": ["hard_rock"], "others": []}
+{
+  "name": "篝火",
+  "ruby": "かがりび",
+  "uid": "kagaribi",
+  "en": "Kagaribi",
+  "kind": "バンド",
+  "initial": ["か"],
+  "singles": ["kagaribi01", "kagaribi02", "kagaribi03", "kagaribi04", "kagaribi05"],
+  "albums": [],
+  "ruby4Sort": "かがりび",
+  "genres": ["hard_rock"],
+  "others": []
+}

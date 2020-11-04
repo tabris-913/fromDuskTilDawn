@@ -1,1 +1,36 @@
-{"uid": "mrbig01", "date": "", "genres": [], "review_done": false, "name": "Mr. Big ", "artist": ["Mr. Big"], "year": 1989, "list": [{"list": [["", "Addicted to That Rush", "Wind Me Up", "Merciless", "Had Enough", "Blame It on My Youth", "Take a Walk", "", "Big Love", "How Can You Do What You Do", "Anything for You", "Rock & Roll Over", "30 Days in the Hole"]]}], "rate": 88, "comment": "LAグラムメタルのような派手さをもったゴージャスな一枚。ただグラム勢と決定的に違う点は、演奏のうまさだ。ノリのいいロックンロールから、ミドル／バラードまでしっかりと歌いこなすヴォーカル技量も半端ではない。壮大なバラードである9曲目から、テンポよく疾走る名ロック10曲目と終盤にかけてより一層磨きこまれた曲がある。Humble Pieのカヴァーである11曲目も見事にカヴァーしている。", "recommend": ["Addicted to That Rush", "How Can You Do What You Do", "Anything for You", "Rock & Roll Over"], "description": "Big 1stアルバム", "type": "album", "img": ["mrbig01.jpg"]}
+{
+  "uid": "mrbig01",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Mr. Big ",
+  "artist": ["Mr. Big"],
+  "year": 1989,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Addicted to That Rush",
+          "Wind Me Up",
+          "Merciless",
+          "Had Enough",
+          "Blame It on My Youth",
+          "Take a Walk",
+          "",
+          "Big Love",
+          "How Can You Do What You Do",
+          "Anything for You",
+          "Rock & Roll Over",
+          "30 Days in the Hole"
+        ]
+      ]
+    }
+  ],
+  "rate": 88,
+  "comment": "LAグラムメタルのような派手さをもったゴージャスな一枚。ただグラム勢と決定的に違う点は、演奏のうまさだ。ノリのいいロックンロールから、ミドル／バラードまでしっかりと歌いこなすヴォーカル技量も半端ではない。壮大なバラードである9曲目から、テンポよく疾走る名ロック10曲目と終盤にかけてより一層磨きこまれた曲がある。Humble Pieのカヴァーである11曲目も見事にカヴァーしている。",
+  "recommend": ["Addicted to That Rush", "How Can You Do What You Do", "Anything for You", "Rock & Roll Over"],
+  "description": "Big 1stアルバム",
+  "type": "album",
+  "img": ["mrbig01.jpg"]
+}

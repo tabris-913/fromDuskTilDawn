@@ -1,1 +1,18 @@
-{"uid": "shizuka_kudo04", "date": "1989-10-04", "genres": [], "review_done": false, "name": "カレリア", "ruby": "", "artist": "工藤静香", "year": 1989, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "4thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "shizuka_kudo04",
+  "date": "1989-10-04",
+  "genres": [],
+  "review_done": false,
+  "name": "カレリア",
+  "ruby": "",
+  "artist": "工藤静香",
+  "year": 1989,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "4thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

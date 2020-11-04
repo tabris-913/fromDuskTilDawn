@@ -1,1 +1,16 @@
-{"uid": "slayer01ep", "date": "", "genres": [], "review_done": false, "name": "Haunting the Chapel", "artist": ["Slayer"], "year": 1984, "list": [{"list": [["", "Chemical Warfare", "Captor of Sin", "", "Haunting the Chapel"]]}], "rate": 83, "comment": "フルレンス作品には未収録のミニアルバム。MetallicaのHit the Lightと共に、当時のメタル界最速と言われていたChemical Warfareを収録している。これはなかなかの名曲だ。まぁミニアルバムだし、3曲しか入ってないし、特にいうことはないかな。", "recommend": ["Chemical Warfare"], "description": "1stミニアルバム", "type": "album", "img": ["slayer01e.jpeg"]}
+{
+  "uid": "slayer01ep",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Haunting the Chapel",
+  "artist": ["Slayer"],
+  "year": 1984,
+  "list": [{ "list": [["", "Chemical Warfare", "Captor of Sin", "", "Haunting the Chapel"]] }],
+  "rate": 83,
+  "comment": "フルレンス作品には未収録のミニアルバム。MetallicaのHit the Lightと共に、当時のメタル界最速と言われていたChemical Warfareを収録している。これはなかなかの名曲だ。まぁミニアルバムだし、3曲しか入ってないし、特にいうことはないかな。",
+  "recommend": ["Chemical Warfare"],
+  "description": "1stミニアルバム",
+  "type": "album",
+  "img": ["slayer01e.jpeg"]
+}

@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi08compilation", "date": "1978-06-21", "genres": [], "review_done": false, "name": "THE BEST プレイバック", "ruby": "", "artist": "山口百恵", "year": 1978, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "8thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi08compilation",
+  "date": "1978-06-21",
+  "genres": [],
+  "review_done": false,
+  "name": "THE BEST プレイバック",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1978,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "8thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

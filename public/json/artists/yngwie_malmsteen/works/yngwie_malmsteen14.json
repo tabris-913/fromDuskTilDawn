@@ -1,1 +1,53 @@
-{"uid": "yngwie_malmsteen14", "date": "", "genres": [], "review_done": false, "name": "Unleash the Fury", "artist": ["Yngwie Malmsteen's Rising Force"], "year": 2005, "list": [{"list": [["", "Locked & Loaded", "Revolution", "Cracking the Whip", "Winds of War (Invasion)", "Crown of Thorns", "The Bogeyman", "Beauty and a Beast", "Fuguetta", "Cherokee Warrior", "", "Guardian Angel", "Let the Good Times Roll", "Revelation (Drinking with the Devil)", "Magic and Mayhem", "Exile", "The Hunt", "Russian Roulette", "Unleash the Fury", "Paraphrase"]]}], "rate": 82, "comment": "前作同様キーボードの出る幕が限りなく少ない14作目。そして18曲と言う過去最大の収録曲数を誇る作品でもある。今回もギターが暴れまくっているのだが、過去の繊細なプレイはもうない。音質の悪い荒っぽいプレイが目立ってしまっている。ただかなりの割合で疾走しているのだけは点数が高い。とりあえずインスト曲の割合が多いが、それがどれもなかなかの曲なので、そこに救われている感がある。", "recommend": ["Locked & Loaded", "Revolution", "Cracking the Whip", "Crown of Thorns", "Beauty and a Beast", "Fuguetta", "Guardian Angel", "Magic and Mayhem", "\n\t\t\tParaohrase"], "description": "Malmsteen's Rising Force 14thアルバム", "type": "album", "img": ["yngwie14.jpg"]}
+{
+  "uid": "yngwie_malmsteen14",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Unleash the Fury",
+  "artist": ["Yngwie Malmsteen's Rising Force"],
+  "year": 2005,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Locked & Loaded",
+          "Revolution",
+          "Cracking the Whip",
+          "Winds of War (Invasion)",
+          "Crown of Thorns",
+          "The Bogeyman",
+          "Beauty and a Beast",
+          "Fuguetta",
+          "Cherokee Warrior",
+          "",
+          "Guardian Angel",
+          "Let the Good Times Roll",
+          "Revelation (Drinking with the Devil)",
+          "Magic and Mayhem",
+          "Exile",
+          "The Hunt",
+          "Russian Roulette",
+          "Unleash the Fury",
+          "Paraphrase"
+        ]
+      ]
+    }
+  ],
+  "rate": 82,
+  "comment": "前作同様キーボードの出る幕が限りなく少ない14作目。そして18曲と言う過去最大の収録曲数を誇る作品でもある。今回もギターが暴れまくっているのだが、過去の繊細なプレイはもうない。音質の悪い荒っぽいプレイが目立ってしまっている。ただかなりの割合で疾走しているのだけは点数が高い。とりあえずインスト曲の割合が多いが、それがどれもなかなかの曲なので、そこに救われている感がある。",
+  "recommend": [
+    "Locked & Loaded",
+    "Revolution",
+    "Cracking the Whip",
+    "Crown of Thorns",
+    "Beauty and a Beast",
+    "Fuguetta",
+    "Guardian Angel",
+    "Magic and Mayhem",
+    "\n\t\t\tParaohrase"
+  ],
+  "description": "Malmsteen's Rising Force 14thアルバム",
+  "type": "album",
+  "img": ["yngwie14.jpg"]
+}

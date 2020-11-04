@@ -1,1 +1,39 @@
-{"uid": "metallica06", "date": "", "genres": [], "review_done": false, "name": "Load", "artist": ["Metallica"], "year": 1996, "list": [{"list": [["", "Ain't My Bitch", "2 X 4", "The House Jack Built", "Until It Sleeps", "King Nothing", "Hero of the Day", "Bleeding Me", "", "Cure", "Poor Twisted Me", "Wasting My Hate", "Mama Said", "Thorn Within", "Ronnie", "The Outlaw Torn"]]}], "rate": 75, "comment": "これまでリリースした作品はことごとく問題作と言われてきた彼らの6作目。そしておそらくこの時点で一番の問題作だ。基本的には前作から受け継いだグルーヴ重視のサウンドだ。前作でちらっと見せていた良質なメロディすら失い、完全に聴く価値が薄れてしまった。まぁ1曲目はグルーヴ・メタルとしてなかなかの曲なので、これだけは聴いておいていいかも。", "recommend": ["Ain't My Bitch", "Wasting My Hate　強いて言えばKing Nothing", "Thorn Within"], "description": "6thアルバム", "type": "album", "img": ["metallica06.jpg"]}
+{
+  "uid": "metallica06",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Load",
+  "artist": ["Metallica"],
+  "year": 1996,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Ain't My Bitch",
+          "2 X 4",
+          "The House Jack Built",
+          "Until It Sleeps",
+          "King Nothing",
+          "Hero of the Day",
+          "Bleeding Me",
+          "",
+          "Cure",
+          "Poor Twisted Me",
+          "Wasting My Hate",
+          "Mama Said",
+          "Thorn Within",
+          "Ronnie",
+          "The Outlaw Torn"
+        ]
+      ]
+    }
+  ],
+  "rate": 75,
+  "comment": "これまでリリースした作品はことごとく問題作と言われてきた彼らの6作目。そしておそらくこの時点で一番の問題作だ。基本的には前作から受け継いだグルーヴ重視のサウンドだ。前作でちらっと見せていた良質なメロディすら失い、完全に聴く価値が薄れてしまった。まぁ1曲目はグルーヴ・メタルとしてなかなかの曲なので、これだけは聴いておいていいかも。",
+  "recommend": ["Ain't My Bitch", "Wasting My Hate　強いて言えばKing Nothing", "Thorn Within"],
+  "description": "6thアルバム",
+  "type": "album",
+  "img": ["metallica06.jpg"]
+}

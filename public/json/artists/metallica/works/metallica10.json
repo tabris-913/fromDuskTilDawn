@@ -1,1 +1,37 @@
-{"uid": "metallica10", "date": "", "genres": [], "review_done": false, "name": "Hardwired... to Self-Destruct", "artist": ["Metallica"], "year": 2016, "list": [{"list": [["Disc 1", "Hardwired", "Atlas, Rise!", "Now That We're Dead", "Moth Into Flame", "Dream No More", "Halo on Fire", "Disc 2", "Confusion", "ManUNkind", "Here Comes Revenge", "Am I Savage?", "Murder One", "Spit Out the Bone"]]}], "rate": 84, "comment": "フルレンスとしては前作から7年ぶりの新作。前作はスラッシュらしい疾走感に溢れた作品だっただけに、今作には若干の期待を寄せていた。長尺が多いというのは前作も同様であるし、長くても速さがあれば問題ないという程度にしか考えてなかった。しかし蓋を開けてみればそこにあったのは、グルーヴの効いたミドル曲がほとんどで疾走曲はわずか。これはこれでカッコいいには違いないのだが、あくまでそれは悪しき時代に比べればの話。聴いていて楽しいのは先行リリースされた#1-1,2,4と、ラストの#2-6のみ。まぁ皆無よりはマシ、そう思っておくのが良いのだろう。", "recommend": ["Hardwired", "Atlas, Rise!", "Moth Into Flame", "Spit Out the Bone"], "description": "10thアルバム", "type": "album", "img": ["metallica10.jpg"]}
+{
+  "uid": "metallica10",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Hardwired... to Self-Destruct",
+  "artist": ["Metallica"],
+  "year": 2016,
+  "list": [
+    {
+      "list": [
+        [
+          "Disc 1",
+          "Hardwired",
+          "Atlas, Rise!",
+          "Now That We're Dead",
+          "Moth Into Flame",
+          "Dream No More",
+          "Halo on Fire",
+          "Disc 2",
+          "Confusion",
+          "ManUNkind",
+          "Here Comes Revenge",
+          "Am I Savage?",
+          "Murder One",
+          "Spit Out the Bone"
+        ]
+      ]
+    }
+  ],
+  "rate": 84,
+  "comment": "フルレンスとしては前作から7年ぶりの新作。前作はスラッシュらしい疾走感に溢れた作品だっただけに、今作には若干の期待を寄せていた。長尺が多いというのは前作も同様であるし、長くても速さがあれば問題ないという程度にしか考えてなかった。しかし蓋を開けてみればそこにあったのは、グルーヴの効いたミドル曲がほとんどで疾走曲はわずか。これはこれでカッコいいには違いないのだが、あくまでそれは悪しき時代に比べればの話。聴いていて楽しいのは先行リリースされた#1-1,2,4と、ラストの#2-6のみ。まぁ皆無よりはマシ、そう思っておくのが良いのだろう。",
+  "recommend": ["Hardwired", "Atlas, Rise!", "Moth Into Flame", "Spit Out the Bone"],
+  "description": "10thアルバム",
+  "type": "album",
+  "img": ["metallica10.jpg"]
+}

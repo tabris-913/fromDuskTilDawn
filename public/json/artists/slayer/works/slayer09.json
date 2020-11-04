@@ -1,1 +1,44 @@
-{"uid": "slayer09", "date": "", "genres": [], "review_done": false, "name": "Christ Illusion ", "artist": ["Slayer"], "year": 2006, "list": [{"list": [["", "Flesh Storm", "Catalyst", "Skeleton Christ", "Eyes of the Insane", "Jihad", "Consfearacy", "", "Catatonic", "Black Serenade", "Cult", "Supremist", "Final Six"]]}], "rate": 90, "comment": "全米5位の大ヒットとなった作品。Reign in Bloodを彷彿とさせる攻撃的なアートワークも目を引く。国によっては宗教に対する冒涜（主に3曲目と5曲目とジャケットが理由で）と非難され発売中止になることもあったが、4曲目と11曲目が2年連続でグラミー賞のベスト・メタル・パフォーマンスを受賞した。前作同様スラッシュ・メタルとグルーヴ・メタルをうまく調和させた名盤だ。", "recommend": ["全部　特にFlesh Storm", "Catalyst", "Eyes of the Insane", "Consfearacy", "Cult", "Supremist", "Final Six"], "description": "9thアルバム", "type": "album", "img": ["slayer09.jpg"]}
+{
+  "uid": "slayer09",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Christ Illusion ",
+  "artist": ["Slayer"],
+  "year": 2006,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Flesh Storm",
+          "Catalyst",
+          "Skeleton Christ",
+          "Eyes of the Insane",
+          "Jihad",
+          "Consfearacy",
+          "",
+          "Catatonic",
+          "Black Serenade",
+          "Cult",
+          "Supremist",
+          "Final Six"
+        ]
+      ]
+    }
+  ],
+  "rate": 90,
+  "comment": "全米5位の大ヒットとなった作品。Reign in Bloodを彷彿とさせる攻撃的なアートワークも目を引く。国によっては宗教に対する冒涜（主に3曲目と5曲目とジャケットが理由で）と非難され発売中止になることもあったが、4曲目と11曲目が2年連続でグラミー賞のベスト・メタル・パフォーマンスを受賞した。前作同様スラッシュ・メタルとグルーヴ・メタルをうまく調和させた名盤だ。",
+  "recommend": [
+    "全部　特にFlesh Storm",
+    "Catalyst",
+    "Eyes of the Insane",
+    "Consfearacy",
+    "Cult",
+    "Supremist",
+    "Final Six"
+  ],
+  "description": "9thアルバム",
+  "type": "album",
+  "img": ["slayer09.jpg"]
+}

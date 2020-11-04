@@ -1,1 +1,16 @@
-{"uid": "seiko_matsuda54", "date": "2019-02-20", "genres": [], "review_done": false, "name": "SEIKO JAZZ 2", "artist": ["SEIKO"], "year": 2019, "list": [{"list": [[]]}], "rate": null, "comment": "", "recommend": [], "description": "54thアルバム", "type": "album", "img": ["seiko54.jpg"]}
+{
+  "uid": "seiko_matsuda54",
+  "date": "2019-02-20",
+  "genres": [],
+  "review_done": false,
+  "name": "SEIKO JAZZ 2",
+  "artist": ["SEIKO"],
+  "year": 2019,
+  "list": [{ "list": [[]] }],
+  "rate": null,
+  "comment": "",
+  "recommend": [],
+  "description": "54thアルバム",
+  "type": "album",
+  "img": ["seiko54.jpg"]
+}

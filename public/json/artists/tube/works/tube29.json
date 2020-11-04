@@ -1,1 +1,18 @@
-{"uid": "tube29", "date": "2007-12-12", "genres": [], "review_done": false, "name": "WINTER LETTER", "ruby": "", "artist": "TUBE", "year": 2007, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "29thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "tube29",
+  "date": "2007-12-12",
+  "genres": [],
+  "review_done": false,
+  "name": "WINTER LETTER",
+  "ruby": "",
+  "artist": "TUBE",
+  "year": 2007,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "29thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

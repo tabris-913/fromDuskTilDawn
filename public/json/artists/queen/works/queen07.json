@@ -1,1 +1,38 @@
-{"uid": "queen07", "date": "", "genres": [], "review_done": false, "name": "Jazz ", "artist": ["Queen"], "year": 1978, "list": [{"list": [["", "Mustapha", "Fat Bottomed Girls", "Jealousy", "Bicycle Race", "If You Can't Beat Them （うちひしがれて／打ちのめせたら）", "Let Me Entertain You", "Dead on Time", "", "In Only Seven Days （七日間）", "Dreamer's Ball", "Fun It", "Leaving Home Ain't Easy （去りがたき家）", "Don't Stop me Now （僕を止めないで）", "More of That Jazz （ジャズはいかが）"]]}], "rate": 91, "comment": "音楽ジャンルのジャズとは無関係な7作目。かなりポップ寄りになったが、それでも質の高いロックであることに変わりはない。アラビア語やペルシャ語で歌われる1曲目から驚かされるが、その音楽性の広がりと質の高さには腰を抜かすのも当然。3曲目と12曲目は日本でもかなり有名な曲。特に後者はWe Will Rock You、We Are the Championsに並ぶ代表曲だ。", "recommend": ["全部　特にMustapha", "Jealousy", "Bicycle Race", "Dead on Time", "Don't Stop Me Now"], "description": "7thアルバム", "type": "album", "img": ["queen07.jpg"]}
+{
+  "uid": "queen07",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Jazz ",
+  "artist": ["Queen"],
+  "year": 1978,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Mustapha",
+          "Fat Bottomed Girls",
+          "Jealousy",
+          "Bicycle Race",
+          "If You Can't Beat Them （うちひしがれて／打ちのめせたら）",
+          "Let Me Entertain You",
+          "Dead on Time",
+          "",
+          "In Only Seven Days （七日間）",
+          "Dreamer's Ball",
+          "Fun It",
+          "Leaving Home Ain't Easy （去りがたき家）",
+          "Don't Stop me Now （僕を止めないで）",
+          "More of That Jazz （ジャズはいかが）"
+        ]
+      ]
+    }
+  ],
+  "rate": 91,
+  "comment": "音楽ジャンルのジャズとは無関係な7作目。かなりポップ寄りになったが、それでも質の高いロックであることに変わりはない。アラビア語やペルシャ語で歌われる1曲目から驚かされるが、その音楽性の広がりと質の高さには腰を抜かすのも当然。3曲目と12曲目は日本でもかなり有名な曲。特に後者はWe Will Rock You、We Are the Championsに並ぶ代表曲だ。",
+  "recommend": ["全部　特にMustapha", "Jealousy", "Bicycle Race", "Dead on Time", "Don't Stop Me Now"],
+  "description": "7thアルバム",
+  "type": "album",
+  "img": ["queen07.jpg"]
+}

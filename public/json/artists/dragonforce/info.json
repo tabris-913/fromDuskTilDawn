@@ -1,1 +1,16 @@
-{"uid": "dragonforce", "name": "DragonForce", "ruby": "ドラゴンフォース", "ruby4Sort": "どらごんふぉーす", "en": "DragonForce", "initial": ["D", "た"], "kind": "", "genres": [], "albums": ["dragonforce01", "dragonforce02", "dragonforce03", "dragonforce04", "dragonforce05", "dragonforce06"], "singles": [], "others": [], "akas": [], "logo": [], "related": []}
+{
+  "uid": "dragonforce",
+  "name": "DragonForce",
+  "ruby": "ドラゴンフォース",
+  "ruby4Sort": "どらごんふぉーす",
+  "en": "DragonForce",
+  "initial": ["D", "た"],
+  "kind": "",
+  "genres": [],
+  "albums": ["dragonforce01", "dragonforce02", "dragonforce03", "dragonforce04", "dragonforce05", "dragonforce06"],
+  "singles": [],
+  "others": [],
+  "akas": [],
+  "logo": [],
+  "related": []
+}

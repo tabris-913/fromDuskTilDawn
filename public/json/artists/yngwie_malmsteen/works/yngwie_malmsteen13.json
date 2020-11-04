@@ -1,1 +1,49 @@
-{"uid": "yngwie_malmsteen13", "date": "", "genres": [], "review_done": false, "name": "Attack!!", "artist": ["Yngwie J. Malmsteen's Rising Force"], "year": 2002, "list": [{"list": [["", "Razor Eater", "Rise Up", "Valley of the Kings", "Ship of Fools", "Attack!!", "Baroque 'n Roll", "Stronghold", "Mad Dog", "In the Name of God", "Freedom Isn't Free", "Majestic Blue", "Valhalla", "", "(US VERSION)", "Iron Clad", "Air", "(US BONUS TRACK)", "Battlefield", "Dreaming [Live]", "(JAPANESE VERSION)", "Touch the Sky", "Iron Clad", "Air", "(JAPANESE BONUS TRACK)", "Nobody's Fool"]]}], "rate": 75, "comment": "Rainbowのあの名盤Strainger in Us Allで歌っているDoogie Whiteをヴォーカルに迎えた13作目。とはいえ、とはいえ、だ。当然Stranger～のような名盤が生まれるわけもない。この頃のイングヴェイは本当にダメアーティストだ。これまでイングヴェイのギターと同じくらいの活躍を見せていたキーボードの使用割合がかなり少ないのだ。これによって当然ギターの存在感が大きくなりすぎ、あまりネオクラシカルさが感じられなくなっている。これはひどい。ダサいジャケット、そしてイングヴェイらしくないアルバムタイトル。中身までイングヴェイらしくない。", "recommend": ["Rise Up", "Ship of Fools", "Attack!!", "Baroque 'n Roll", "Mad Dog", "Majestic Blue", "Iron Clad", ""], "description": "J. Malmsteen's Rising Force 13thアルバム", "type": "album", "img": ["yngwie13.jpg"]}
+{
+  "uid": "yngwie_malmsteen13",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Attack!!",
+  "artist": ["Yngwie J. Malmsteen's Rising Force"],
+  "year": 2002,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Razor Eater",
+          "Rise Up",
+          "Valley of the Kings",
+          "Ship of Fools",
+          "Attack!!",
+          "Baroque 'n Roll",
+          "Stronghold",
+          "Mad Dog",
+          "In the Name of God",
+          "Freedom Isn't Free",
+          "Majestic Blue",
+          "Valhalla",
+          "",
+          "(US VERSION)",
+          "Iron Clad",
+          "Air",
+          "(US BONUS TRACK)",
+          "Battlefield",
+          "Dreaming [Live]",
+          "(JAPANESE VERSION)",
+          "Touch the Sky",
+          "Iron Clad",
+          "Air",
+          "(JAPANESE BONUS TRACK)",
+          "Nobody's Fool"
+        ]
+      ]
+    }
+  ],
+  "rate": 75,
+  "comment": "Rainbowのあの名盤Strainger in Us Allで歌っているDoogie Whiteをヴォーカルに迎えた13作目。とはいえ、とはいえ、だ。当然Stranger～のような名盤が生まれるわけもない。この頃のイングヴェイは本当にダメアーティストだ。これまでイングヴェイのギターと同じくらいの活躍を見せていたキーボードの使用割合がかなり少ないのだ。これによって当然ギターの存在感が大きくなりすぎ、あまりネオクラシカルさが感じられなくなっている。これはひどい。ダサいジャケット、そしてイングヴェイらしくないアルバムタイトル。中身までイングヴェイらしくない。",
+  "recommend": ["Rise Up", "Ship of Fools", "Attack!!", "Baroque 'n Roll", "Mad Dog", "Majestic Blue", "Iron Clad", ""],
+  "description": "J. Malmsteen's Rising Force 13thアルバム",
+  "type": "album",
+  "img": ["yngwie13.jpg"]
+}

@@ -1,1 +1,18 @@
-{"uid": "shizuka_kudo02cover", "date": "2008-08-20", "genres": [], "review_done": false, "name": "MY PRECIOUS", "ruby": "", "artist": "工藤静香", "year": 2008, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "2thカヴァーアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "shizuka_kudo02cover",
+  "date": "2008-08-20",
+  "genres": [],
+  "review_done": false,
+  "name": "MY PRECIOUS",
+  "ruby": "",
+  "artist": "工藤静香",
+  "year": 2008,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "2thカヴァーアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

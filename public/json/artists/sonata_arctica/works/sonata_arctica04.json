@@ -1,1 +1,48 @@
-{"uid": "sonata_arctica04", "date": "", "genres": [], "review_done": false, "name": "Reckoning Night ", "artist": ["Sonata Arctica"], "year": 2004, "list": [{"list": [["", "Misplaced", "Blinded No More", "Ain't Your Fairytale", "Reckoning Day, Reckoning Night...", "Don't Say a Word", "The Boy Who Wanted to Be a Real Puppet", "", "My Selene", "Wildfire", "White Pearl, Black Oceans...", "Shamandalie", "Jam [Hidden Track]", "(Japanese Bonus Track)", "Wrecking the Sphere"]]}], "rate": 92, "comment": "賛否両論が巻き起こった4作目。そう聞くとしょうもないアルバムなのかと思われてしまうだろう。しかしこれはそう簡単に切り捨てるべき作品ではない！普通に名盤じゃないか！確かに初期の路線とは違うが、クワイアを取り入れてややシンフォニックなテイストになった。どことなくQueen的な要素を感じるのは俺だけではないだろう。もちろん初期のサウンドのほうが好きだが、これはこれでいい作品ではないか。", "recommend": ["全部　特にMisplace", "Blinded No More", "Ain't Your Fairytale", "Reckoning Day, Reckoning Night...", "Don't Say a Word", "\n\t\t\tMy Selene", "Wildfire", "White Pearl, Black Oceans", "Wrecking the Sphere"], "description": "Arctica 4thアルバム", "type": "album", "img": ["sonata04.jpg"]}
+{
+  "uid": "sonata_arctica04",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Reckoning Night ",
+  "artist": ["Sonata Arctica"],
+  "year": 2004,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Misplaced",
+          "Blinded No More",
+          "Ain't Your Fairytale",
+          "Reckoning Day, Reckoning Night...",
+          "Don't Say a Word",
+          "The Boy Who Wanted to Be a Real Puppet",
+          "",
+          "My Selene",
+          "Wildfire",
+          "White Pearl, Black Oceans...",
+          "Shamandalie",
+          "Jam [Hidden Track]",
+          "(Japanese Bonus Track)",
+          "Wrecking the Sphere"
+        ]
+      ]
+    }
+  ],
+  "rate": 92,
+  "comment": "賛否両論が巻き起こった4作目。そう聞くとしょうもないアルバムなのかと思われてしまうだろう。しかしこれはそう簡単に切り捨てるべき作品ではない！普通に名盤じゃないか！確かに初期の路線とは違うが、クワイアを取り入れてややシンフォニックなテイストになった。どことなくQueen的な要素を感じるのは俺だけではないだろう。もちろん初期のサウンドのほうが好きだが、これはこれでいい作品ではないか。",
+  "recommend": [
+    "全部　特にMisplace",
+    "Blinded No More",
+    "Ain't Your Fairytale",
+    "Reckoning Day, Reckoning Night...",
+    "Don't Say a Word",
+    "\n\t\t\tMy Selene",
+    "Wildfire",
+    "White Pearl, Black Oceans",
+    "Wrecking the Sphere"
+  ],
+  "description": "Arctica 4thアルバム",
+  "type": "album",
+  "img": ["sonata04.jpg"]
+}

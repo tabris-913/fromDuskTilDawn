@@ -1,1 +1,33 @@
-{"uid": "black_sabbath05", "date": "", "genres": [], "review_done": false, "name": "Sabbath Bloody Sabbath (血まみれの安息日)", "artist": ["Black Sabbath"], "year": 1973, "list": [{"list": [["", "Sabbath Bloody Sabbath", "A National Acrobat", "Fluff", "Sabbra Cadabra", "", "Killing Yourself to Live", "Who Are You", "Looking for Today", "Spiral Architect"]]}], "rate": 85, "comment": "サウンドにタイトさが増した5作目。特に冒頭の#1は音がより鋭角的になったように感じられる。それ以外では大きな変化はないのだが、逆にそれがマンネリのようにも感じられてしまう。前作同様アコースティックな#3、デジタルなイントロの#6が収録されるなど、変化していないわけではない。疾走チューン#4や代表曲#5など、中盤が特にアツい。ストリングスを取り入れた#8はも新しい雰囲気だが、絶妙にSabbathサウンドにマッチしている。", "recommend": ["Sabbath Bloody Sabbath", "Sabbra Cadabra", "Killing Yourself to Live", "Spiral Architect"], "description": "Sabbath 5thアルバム", "type": "album", "img": ["sabbath05.jpg"]}
+{
+  "uid": "black_sabbath05",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Sabbath Bloody Sabbath (血まみれの安息日)",
+  "artist": ["Black Sabbath"],
+  "year": 1973,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Sabbath Bloody Sabbath",
+          "A National Acrobat",
+          "Fluff",
+          "Sabbra Cadabra",
+          "",
+          "Killing Yourself to Live",
+          "Who Are You",
+          "Looking for Today",
+          "Spiral Architect"
+        ]
+      ]
+    }
+  ],
+  "rate": 85,
+  "comment": "サウンドにタイトさが増した5作目。特に冒頭の#1は音がより鋭角的になったように感じられる。それ以外では大きな変化はないのだが、逆にそれがマンネリのようにも感じられてしまう。前作同様アコースティックな#3、デジタルなイントロの#6が収録されるなど、変化していないわけではない。疾走チューン#4や代表曲#5など、中盤が特にアツい。ストリングスを取り入れた#8はも新しい雰囲気だが、絶妙にSabbathサウンドにマッチしている。",
+  "recommend": ["Sabbath Bloody Sabbath", "Sabbra Cadabra", "Killing Yourself to Live", "Spiral Architect"],
+  "description": "Sabbath 5thアルバム",
+  "type": "album",
+  "img": ["sabbath05.jpg"]
+}

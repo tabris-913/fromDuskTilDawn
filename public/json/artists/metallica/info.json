@@ -1,1 +1,30 @@
-{"uid": "metallica", "name": "Metallica", "ruby": "メタリカ", "ruby4Sort": "めたりか", "en": "Metallica", "initial": ["M", "ま"], "kind": "バンド", "genres": [], "albums": ["metallica01", "metallica01ep", "metallica01symphonic", "metallica02", "metallica02ep", "metallica03", "metallica04", "metallica05", "metallica06", "metallica07", "metallica08", "metallica09", "metallica10"], "singles": [], "others": [], "akas": [], "logo": [], "related": []}
+{
+  "uid": "metallica",
+  "name": "Metallica",
+  "ruby": "メタリカ",
+  "ruby4Sort": "めたりか",
+  "en": "Metallica",
+  "initial": ["M", "ま"],
+  "kind": "バンド",
+  "genres": [],
+  "albums": [
+    "metallica01",
+    "metallica01ep",
+    "metallica01symphonic",
+    "metallica02",
+    "metallica02ep",
+    "metallica03",
+    "metallica04",
+    "metallica05",
+    "metallica06",
+    "metallica07",
+    "metallica08",
+    "metallica09",
+    "metallica10"
+  ],
+  "singles": [],
+  "others": [],
+  "akas": [],
+  "logo": [],
+  "related": []
+}

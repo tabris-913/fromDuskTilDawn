@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi21compilation", "date": "1992-02-21", "genres": [], "review_done": false, "name": "百恵復活", "ruby": "", "artist": "山口百恵", "year": 1992, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "21thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi21compilation",
+  "date": "1992-02-21",
+  "genres": [],
+  "review_done": false,
+  "name": "百恵復活",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1992,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "21thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

@@ -1,1 +1,12 @@
-{"name": "シャッフルユニットCD 蘭丸&セシル", "description": "", "date": "2012-11-28", "year": 2012, "artist": ["rammaru", "cecil"], "list": [{"disk_no": 1, "name": "", "list": ["恋色センチメンタル"]}], "comment": "", "uid": "utapri02shuffle", "img": ["utapri02shuffle.jpg"], "rate": 0}
+{
+  "name": "シャッフルユニットCD 蘭丸&セシル",
+  "description": "",
+  "date": "2012-11-28",
+  "year": 2012,
+  "artist": ["rammaru", "cecil"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["恋色センチメンタル"] }],
+  "comment": "",
+  "uid": "utapri02shuffle",
+  "img": ["utapri02shuffle.jpg"],
+  "rate": 0
+}

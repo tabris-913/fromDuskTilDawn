@@ -1,1 +1,35 @@
-{"uid": "yngwie_malmsteen01selfcover", "date": "", "genres": [], "review_done": false, "name": "Angels of Love", "artist": ["Yngwie Malmsteen"], "year": 2009, "list": [{"list": [["", "Forever One", "Like an Angel", "Crying", "Brothers", "Memories", "", "Save Our Love", "Ocean Sonata", "Miracle of Love", "Sorrow", "Prelude to April"]]}], "rate": 86, "comment": "アコースティックなセルフカヴァーアルバムだ。とはいってもヴォーカルレスであるし、曲によってはエレキも使われている。これは3人目の奥様であるAprilさんへ捧げられたそうでございますね。大胆なアレンジはなく、正直すべて予想の範囲内だ。悪く言えばつまらなく、よく言えば安心した。まぁアコースティックギターを弾かせてもイングヴェイの技量は確かなので、このアルバムに対して不満はない。4曲目の激烈エモーショナルには涙。", "recommend": ["全部　特にForever One", "Brothers"], "description": "Malmsteen 1stインストゥルメンタルアルバム", "type": "album", "img": ["yngwie01sc.jpg"]}
+{
+  "uid": "yngwie_malmsteen01selfcover",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Angels of Love",
+  "artist": ["Yngwie Malmsteen"],
+  "year": 2009,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Forever One",
+          "Like an Angel",
+          "Crying",
+          "Brothers",
+          "Memories",
+          "",
+          "Save Our Love",
+          "Ocean Sonata",
+          "Miracle of Love",
+          "Sorrow",
+          "Prelude to April"
+        ]
+      ]
+    }
+  ],
+  "rate": 86,
+  "comment": "アコースティックなセルフカヴァーアルバムだ。とはいってもヴォーカルレスであるし、曲によってはエレキも使われている。これは3人目の奥様であるAprilさんへ捧げられたそうでございますね。大胆なアレンジはなく、正直すべて予想の範囲内だ。悪く言えばつまらなく、よく言えば安心した。まぁアコースティックギターを弾かせてもイングヴェイの技量は確かなので、このアルバムに対して不満はない。4曲目の激烈エモーショナルには涙。",
+  "recommend": ["全部　特にForever One", "Brothers"],
+  "description": "Malmsteen 1stインストゥルメンタルアルバム",
+  "type": "album",
+  "img": ["yngwie01sc.jpg"]
+}

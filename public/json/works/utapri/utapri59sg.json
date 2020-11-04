@@ -1,1 +1,12 @@
-{"name": "ウルトラブラスト", "description": "", "date": "2018-02-14", "year": 0, "artist": ["starish"], "list": [{"disk_no": 1, "name": "", "list": ["ウルトラブラスト", "ファンタジック☆プレリュード"]}], "comment": "", "uid": "utapri59sg", "img": ["utapri59sg.jpg"], "rate": 0}
+{
+  "name": "ウルトラブラスト",
+  "description": "",
+  "date": "2018-02-14",
+  "year": 0,
+  "artist": ["starish"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["ウルトラブラスト", "ファンタジック☆プレリュード"] }],
+  "comment": "",
+  "uid": "utapri59sg",
+  "img": ["utapri59sg.jpg"],
+  "rate": 0
+}

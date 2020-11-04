@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi13compilation", "date": "1980-12-21", "genres": [], "review_done": false, "name": "歌い継がれてゆく歌のように '78-'80", "ruby": "", "artist": "山口百恵", "year": 1980, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "13thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi13compilation",
+  "date": "1980-12-21",
+  "genres": [],
+  "review_done": false,
+  "name": "歌い継がれてゆく歌のように '78-'80",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1980,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "13thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

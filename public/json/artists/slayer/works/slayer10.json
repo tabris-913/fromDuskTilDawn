@@ -1,1 +1,49 @@
-{"uid": "slayer10", "date": "", "genres": [], "review_done": false, "name": "World Painted Blood （血塗ラレタ世界） ", "artist": ["Slayer"], "year": 2009, "list": [{"list": [["", "World Painted Blood", "Unit 731", "Snuff", "Beauty Through Order", "Hate Worldwide", "Public Display of Dismemberment", "Human Strain", "Americon", "", "Psychopathy Red", "Playing with Dolls", "Not of This God", "(LIMITED BONUS TRACK)", "Atrocity Vendor", "(JAPANESE BONUS TRACK)", "Psychopathy Red [Explicit Live Version]"]]}], "rate": 92, "comment": "もうここまで来るとさすがとしか言いようがない。前作よりもスピード感が明らかに増しており、前作をさらに超える名盤と言える。もちろん最近のグルーヴ重視曲もしっかり収録されている。8曲目と10曲目は今までのスレイヤーの音よりもニューメタル寄りの雰囲気があるが、それはそれでアクセントとしていい役目だ。", "recommend": ["全部　特にWorld Painted Blood", "Unit 731", "Snuff", "Hate Worldwide", "Public Display of Dismemberment", "Psychopathy Red", "Nod of This God", "\n\t\t\tAtrocity Vendor"], "description": "10thアルバム", "type": "album", "img": ["slayer10.jpg"]}
+{
+  "uid": "slayer10",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "World Painted Blood （血塗ラレタ世界） ",
+  "artist": ["Slayer"],
+  "year": 2009,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "World Painted Blood",
+          "Unit 731",
+          "Snuff",
+          "Beauty Through Order",
+          "Hate Worldwide",
+          "Public Display of Dismemberment",
+          "Human Strain",
+          "Americon",
+          "",
+          "Psychopathy Red",
+          "Playing with Dolls",
+          "Not of This God",
+          "(LIMITED BONUS TRACK)",
+          "Atrocity Vendor",
+          "(JAPANESE BONUS TRACK)",
+          "Psychopathy Red [Explicit Live Version]"
+        ]
+      ]
+    }
+  ],
+  "rate": 92,
+  "comment": "もうここまで来るとさすがとしか言いようがない。前作よりもスピード感が明らかに増しており、前作をさらに超える名盤と言える。もちろん最近のグルーヴ重視曲もしっかり収録されている。8曲目と10曲目は今までのスレイヤーの音よりもニューメタル寄りの雰囲気があるが、それはそれでアクセントとしていい役目だ。",
+  "recommend": [
+    "全部　特にWorld Painted Blood",
+    "Unit 731",
+    "Snuff",
+    "Hate Worldwide",
+    "Public Display of Dismemberment",
+    "Psychopathy Red",
+    "Nod of This God",
+    "\n\t\t\tAtrocity Vendor"
+  ],
+  "description": "10thアルバム",
+  "type": "album",
+  "img": ["slayer10.jpg"]
+}

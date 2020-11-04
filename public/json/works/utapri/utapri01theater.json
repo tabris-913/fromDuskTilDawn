@@ -1,1 +1,12 @@
-{"name": "劇団シャイニング マスカレイドミラージュ", "description": "", "date": "2013-12-25", "year": 2013, "artist": ["reiji", "ai", "natsuki"], "list": [{"disk_no": 1, "name": "", "list": ["マスカレイドミラージュ"]}], "comment": "", "uid": "utapri01theater", "img": ["utapri01theater.jpg"], "rate": 0}
+{
+  "name": "劇団シャイニング マスカレイドミラージュ",
+  "description": "",
+  "date": "2013-12-25",
+  "year": 2013,
+  "artist": ["reiji", "ai", "natsuki"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["マスカレイドミラージュ"] }],
+  "comment": "",
+  "uid": "utapri01theater",
+  "img": ["utapri01theater.jpg"],
+  "rate": 0
+}

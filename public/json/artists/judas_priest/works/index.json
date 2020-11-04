@@ -1,1 +1,125 @@
-{"albums": {"judas_priest01": {"uid": "judas_priest01", "name": "Rocka Rolla", "date": "", "img": ["judas01.jpg"], "review_done": false}, "judas_priest02": {"uid": "judas_priest02", "name": "Sad Wings of Destiny （運命の翼）", "date": "", "img": ["judas02.jpg"], "review_done": false}, "judas_priest03": {"uid": "judas_priest03", "name": "Sin after Sin （背信の門）", "date": "", "img": ["judas03.jpg"], "review_done": false}, "judas_priest04": {"uid": "judas_priest04", "name": "Stained Class ", "date": "", "img": ["judas04.jpg"], "review_done": false}, "judas_priest05": {"uid": "judas_priest05", "name": "Killing Machine (Hell Bent for Leather) （殺人機械）", "date": "", "img": ["judas05_km.jpg"], "review_done": false}, "judas_priest06": {"uid": "judas_priest06", "name": "British Steel", "date": "", "img": ["judas06.jpg"], "review_done": false}, "judas_priest07": {"uid": "judas_priest07", "name": "Point of Entry （黄金のスペクトル）", "date": "", "img": ["judas07.jpg"], "review_done": false}, "judas_priest08": {"uid": "judas_priest08", "name": "Screaming for Vengeance （復讐の叫び） ", "date": "", "img": ["judas08.jpg"], "review_done": false}, "judas_priest09": {"uid": "judas_priest09", "name": "Defenders of the Faith （背徳の掟） ", "date": "", "img": ["judas09.jpg"], "review_done": false}, "judas_priest10": {"uid": "judas_priest10", "name": "Turbo", "date": "", "img": ["judas10.jpg"], "review_done": false}, "judas_priest11": {"uid": "judas_priest11", "name": "Ram It Down", "date": "", "img": ["judas11.jpg"], "review_done": false}, "judas_priest12": {"uid": "judas_priest12", "name": "Painkiller ", "date": "", "img": ["judas12.jpg"], "review_done": false}, "judas_priest13": {"uid": "judas_priest13", "name": "Jugulator", "date": "", "img": ["judas13.jpg"], "review_done": false}, "judas_priest14": {"uid": "judas_priest14", "name": "Demolition", "date": "", "img": ["judas14.jpg"], "review_done": false}, "judas_priest15": {"uid": "judas_priest15", "name": "Angel of Retribution", "date": "", "img": ["judas15.jpg"], "review_done": false}, "judas_priest16": {"uid": "judas_priest16", "name": "Nostradamus", "date": "", "img": ["judas16.jpg"], "review_done": false}, "judas_priest17": {"uid": "judas_priest17", "name": "Redeemer of Souls （贖罪の化身）", "date": "", "img": ["judas17.jpg"], "review_done": false}}, "singles": {}, "others": {}}
+{
+  "albums": {
+    "judas_priest01": {
+      "uid": "judas_priest01",
+      "name": "Rocka Rolla",
+      "date": "",
+      "img": ["judas01.jpg"],
+      "review_done": false
+    },
+    "judas_priest02": {
+      "uid": "judas_priest02",
+      "name": "Sad Wings of Destiny （運命の翼）",
+      "date": "",
+      "img": ["judas02.jpg"],
+      "review_done": false
+    },
+    "judas_priest03": {
+      "uid": "judas_priest03",
+      "name": "Sin after Sin （背信の門）",
+      "date": "",
+      "img": ["judas03.jpg"],
+      "review_done": false
+    },
+    "judas_priest04": {
+      "uid": "judas_priest04",
+      "name": "Stained Class ",
+      "date": "",
+      "img": ["judas04.jpg"],
+      "review_done": false
+    },
+    "judas_priest05": {
+      "uid": "judas_priest05",
+      "name": "Killing Machine (Hell Bent for Leather) （殺人機械）",
+      "date": "",
+      "img": ["judas05_km.jpg"],
+      "review_done": false
+    },
+    "judas_priest06": {
+      "uid": "judas_priest06",
+      "name": "British Steel",
+      "date": "",
+      "img": ["judas06.jpg"],
+      "review_done": false
+    },
+    "judas_priest07": {
+      "uid": "judas_priest07",
+      "name": "Point of Entry （黄金のスペクトル）",
+      "date": "",
+      "img": ["judas07.jpg"],
+      "review_done": false
+    },
+    "judas_priest08": {
+      "uid": "judas_priest08",
+      "name": "Screaming for Vengeance （復讐の叫び） ",
+      "date": "",
+      "img": ["judas08.jpg"],
+      "review_done": false
+    },
+    "judas_priest09": {
+      "uid": "judas_priest09",
+      "name": "Defenders of the Faith （背徳の掟） ",
+      "date": "",
+      "img": ["judas09.jpg"],
+      "review_done": false
+    },
+    "judas_priest10": {
+      "uid": "judas_priest10",
+      "name": "Turbo",
+      "date": "",
+      "img": ["judas10.jpg"],
+      "review_done": false
+    },
+    "judas_priest11": {
+      "uid": "judas_priest11",
+      "name": "Ram It Down",
+      "date": "",
+      "img": ["judas11.jpg"],
+      "review_done": false
+    },
+    "judas_priest12": {
+      "uid": "judas_priest12",
+      "name": "Painkiller ",
+      "date": "",
+      "img": ["judas12.jpg"],
+      "review_done": false
+    },
+    "judas_priest13": {
+      "uid": "judas_priest13",
+      "name": "Jugulator",
+      "date": "",
+      "img": ["judas13.jpg"],
+      "review_done": false
+    },
+    "judas_priest14": {
+      "uid": "judas_priest14",
+      "name": "Demolition",
+      "date": "",
+      "img": ["judas14.jpg"],
+      "review_done": false
+    },
+    "judas_priest15": {
+      "uid": "judas_priest15",
+      "name": "Angel of Retribution",
+      "date": "",
+      "img": ["judas15.jpg"],
+      "review_done": false
+    },
+    "judas_priest16": {
+      "uid": "judas_priest16",
+      "name": "Nostradamus",
+      "date": "",
+      "img": ["judas16.jpg"],
+      "review_done": false
+    },
+    "judas_priest17": {
+      "uid": "judas_priest17",
+      "name": "Redeemer of Souls （贖罪の化身）",
+      "date": "",
+      "img": ["judas17.jpg"],
+      "review_done": false
+    }
+  },
+  "singles": {},
+  "others": {}
+}

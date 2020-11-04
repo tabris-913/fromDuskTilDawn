@@ -1,1 +1,12 @@
-{"name": "Amazing Aria & Sweet Serenade", "description": "", "date": "2011-02-10", "year": 2011, "artist": ["otoya", "sho"], "list": [{"disk_no": 1, "name": "", "list": ["ファンタスティックmelody"]}], "comment": "", "uid": "utapri02sp", "img": ["utapri02sp.jpg"], "rate": 0}
+{
+  "name": "Amazing Aria & Sweet Serenade",
+  "description": "",
+  "date": "2011-02-10",
+  "year": 2011,
+  "artist": ["otoya", "sho"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["ファンタスティックmelody"] }],
+  "comment": "",
+  "uid": "utapri02sp",
+  "img": ["utapri02sp.jpg"],
+  "rate": 0
+}

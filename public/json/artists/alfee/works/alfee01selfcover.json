@@ -1,1 +1,16 @@
-{"uid": "alfee01selfcover", "date": "2012-07-25", "genres": [], "review_done": false, "name": "ALFEE GET REQUESTS", "artist": ["THE ALFEE"], "year": 2012, "list": [{"list": [["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]]}], "rate": 0, "comment": "", "recommend": [""], "description": "ALFEE 1stセルフカヴァーアルバム", "type": "album", "img": ["alfee01sc.jpg"]}
+{
+  "uid": "alfee01selfcover",
+  "date": "2012-07-25",
+  "genres": [],
+  "review_done": false,
+  "name": "ALFEE GET REQUESTS",
+  "artist": ["THE ALFEE"],
+  "year": 2012,
+  "list": [{ "list": [["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "ALFEE 1stセルフカヴァーアルバム",
+  "type": "album",
+  "img": ["alfee01sc.jpg"]
+}

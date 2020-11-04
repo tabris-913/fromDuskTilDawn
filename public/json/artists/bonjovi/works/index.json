@@ -1,1 +1,48 @@
-{"albums": {"bonjovi01": {"uid": "bonjovi01", "name": "Bon Jovi （夜明けのランナウェイ） ", "date": "", "img": ["bonjovi01.jpg"], "review_done": false}, "bonjovi02": {"uid": "bonjovi02", "name": "7800° Fahrenheit ", "date": "", "img": ["bonjovi02.jpg"], "review_done": false}, "bonjovi03": {"uid": "bonjovi03", "name": "Slippery When Wet （ワイルド・イン・ザ・ストリーツ）", "date": "", "img": ["bonjovi03_b.jpg"], "review_done": false}, "bonjovi04": {"uid": "bonjovi04", "name": "New Jersey ", "date": "", "img": ["bonjovi04.jpg"], "review_done": false}, "bonjovi05": {"uid": "bonjovi05", "name": "Keep the Faith", "date": "", "img": ["bonjovi05.jpg"], "review_done": false}, "bonjovi13": {"uid": "bonjovi13", "name": "Burning Bridges", "date": "", "img": ["bonjovi13.jpg"], "review_done": false}}, "singles": {}, "others": {}}
+{
+  "albums": {
+    "bonjovi01": {
+      "uid": "bonjovi01",
+      "name": "Bon Jovi （夜明けのランナウェイ） ",
+      "date": "",
+      "img": ["bonjovi01.jpg"],
+      "review_done": false
+    },
+    "bonjovi02": {
+      "uid": "bonjovi02",
+      "name": "7800° Fahrenheit ",
+      "date": "",
+      "img": ["bonjovi02.jpg"],
+      "review_done": false
+    },
+    "bonjovi03": {
+      "uid": "bonjovi03",
+      "name": "Slippery When Wet （ワイルド・イン・ザ・ストリーツ）",
+      "date": "",
+      "img": ["bonjovi03_b.jpg"],
+      "review_done": false
+    },
+    "bonjovi04": {
+      "uid": "bonjovi04",
+      "name": "New Jersey ",
+      "date": "",
+      "img": ["bonjovi04.jpg"],
+      "review_done": false
+    },
+    "bonjovi05": {
+      "uid": "bonjovi05",
+      "name": "Keep the Faith",
+      "date": "",
+      "img": ["bonjovi05.jpg"],
+      "review_done": false
+    },
+    "bonjovi13": {
+      "uid": "bonjovi13",
+      "name": "Burning Bridges",
+      "date": "",
+      "img": ["bonjovi13.jpg"],
+      "review_done": false
+    }
+  },
+  "singles": {},
+  "others": {}
+}

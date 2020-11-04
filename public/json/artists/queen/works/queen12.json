@@ -1,1 +1,34 @@
-{"uid": "queen12", "date": "", "genres": [], "review_done": false, "name": "A Kind of Magic", "artist": ["Queen"], "year": 1986, "list": [{"list": [["", "One Vision （ひとつだけの世界）", "A Kind of Magic", "One Year of Love （愛ある日々）", "Pain Is So Close to Pleasure （喜びへの道）", "Friends Will Be Friends （心の絆）", "", "Who Wants to Live Forever", "Gimme the Prize (Kurgan's Theme)", "Don't Lose Your Head", "Princes of the Universe"]]}], "rate": 85, "comment": "クイーンの復活作となった12作目。映画のサウンドトラックを基にしているが、Flash Gordonの不振に習ってスタジオ盤としての要素を濃くしている。その結果として、クイーン本来の持ち味であるポップかつドラマティックなロックが復活。メンバー間の仲違いも解消され、作品の質の向上につながっている。非常に美しい曲が多く、これぞクイーンといったアルバムに仕上がった。", "recommend": ["A Kind of Magic", "Friends Will Be Friends", "Who Wants to Live Forever", "Princes of the Universe"], "description": "12thアルバム", "type": "album", "img": ["queen12.jpg"]}
+{
+  "uid": "queen12",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "A Kind of Magic",
+  "artist": ["Queen"],
+  "year": 1986,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "One Vision （ひとつだけの世界）",
+          "A Kind of Magic",
+          "One Year of Love （愛ある日々）",
+          "Pain Is So Close to Pleasure （喜びへの道）",
+          "Friends Will Be Friends （心の絆）",
+          "",
+          "Who Wants to Live Forever",
+          "Gimme the Prize (Kurgan's Theme)",
+          "Don't Lose Your Head",
+          "Princes of the Universe"
+        ]
+      ]
+    }
+  ],
+  "rate": 85,
+  "comment": "クイーンの復活作となった12作目。映画のサウンドトラックを基にしているが、Flash Gordonの不振に習ってスタジオ盤としての要素を濃くしている。その結果として、クイーン本来の持ち味であるポップかつドラマティックなロックが復活。メンバー間の仲違いも解消され、作品の質の向上につながっている。非常に美しい曲が多く、これぞクイーンといったアルバムに仕上がった。",
+  "recommend": ["A Kind of Magic", "Friends Will Be Friends", "Who Wants to Live Forever", "Princes of the Universe"],
+  "description": "12thアルバム",
+  "type": "album",
+  "img": ["queen12.jpg"]
+}

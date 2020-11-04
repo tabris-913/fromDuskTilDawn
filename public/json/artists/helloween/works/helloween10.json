@@ -1,1 +1,48 @@
-{"uid": "helloween10", "date": "", "genres": [], "review_done": false, "name": "Rabbit Don't Come Easy", "artist": ["Helloween"], "year": 2003, "list": [{"list": [["", "Just a Little Sign", "Open Your Life", "The Tune", "Never Be a Star", "Liar", "Sun 4 the World", "Don't Stop Being Crazy", "Do You Feel Good", "", "Hell Was Made in Heaven", "Back Against the Wall", "Listen to the Flies", "Nothing to Say", "(JAPANESE BONUS TRACK)", "Fast as a Shark", "(LIMITED EDITION BONUS TRACK)", "Far Away"]]}], "rate": 88, "comment": "前2作のヘヴィネス路線から、メロディ中心の初期路線へ回帰した。しかも復活2作よりもメロディの質が良く、新たに加わったギタリストSaschaとのツインリードも聴ける。今までのアルバムの中で一番Keeperに近い位置にあるといえる。1曲目なんかは復活以来この時点で最高の曲だ。こりゃ素晴らしい。なんかKeeperの再来に対する期待度が高まってきたぞ！", "recommend": ["全部　特にJust a Little Sign", "The Tune", "Liar", "Hell Was Made in Heaven", "Listen to the Flies", "Far Away"], "description": "10thアルバム", "type": "album", "img": ["hw10.jpg"]}
+{
+  "uid": "helloween10",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Rabbit Don't Come Easy",
+  "artist": ["Helloween"],
+  "year": 2003,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Just a Little Sign",
+          "Open Your Life",
+          "The Tune",
+          "Never Be a Star",
+          "Liar",
+          "Sun 4 the World",
+          "Don't Stop Being Crazy",
+          "Do You Feel Good",
+          "",
+          "Hell Was Made in Heaven",
+          "Back Against the Wall",
+          "Listen to the Flies",
+          "Nothing to Say",
+          "(JAPANESE BONUS TRACK)",
+          "Fast as a Shark",
+          "(LIMITED EDITION BONUS TRACK)",
+          "Far Away"
+        ]
+      ]
+    }
+  ],
+  "rate": 88,
+  "comment": "前2作のヘヴィネス路線から、メロディ中心の初期路線へ回帰した。しかも復活2作よりもメロディの質が良く、新たに加わったギタリストSaschaとのツインリードも聴ける。今までのアルバムの中で一番Keeperに近い位置にあるといえる。1曲目なんかは復活以来この時点で最高の曲だ。こりゃ素晴らしい。なんかKeeperの再来に対する期待度が高まってきたぞ！",
+  "recommend": [
+    "全部　特にJust a Little Sign",
+    "The Tune",
+    "Liar",
+    "Hell Was Made in Heaven",
+    "Listen to the Flies",
+    "Far Away"
+  ],
+  "description": "10thアルバム",
+  "type": "album",
+  "img": ["hw10.jpg"]
+}

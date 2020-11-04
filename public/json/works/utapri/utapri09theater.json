@@ -1,1 +1,12 @@
-{"name": "Shining Masterpiece Show トロワ", "description": "", "date": "2018-02-07", "year": 0, "artist": ["camus", "sho", "ai"], "list": [{"disk_no": 1, "name": "", "list": ["トロワ"]}], "comment": "", "uid": "utapri09theater", "img": ["utapri09theater.jpg"], "rate": 0}
+{
+  "name": "Shining Masterpiece Show トロワ",
+  "description": "",
+  "date": "2018-02-07",
+  "year": 0,
+  "artist": ["camus", "sho", "ai"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["トロワ"] }],
+  "comment": "",
+  "uid": "utapri09theater",
+  "img": ["utapri09theater.jpg"],
+  "rate": 0
+}

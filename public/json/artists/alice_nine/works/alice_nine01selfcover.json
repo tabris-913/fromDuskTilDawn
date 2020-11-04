@@ -1,34 +1,33 @@
 {
-    "uid": "alice_nine01selfcover",
-    "date": "2019-04-24",
-    "genres": ["pop_rock", "hard_rock", "visual_rock"],
-    "review_done": false,
-    "name": "花鳥ノ調",
-    "artist": ["A9"],
-    "year": 2019,
-    "list": [
-      {
-        "list": [
-          [
-            "タイムマシン",
-            "華一匁",
-            "グラデーション",
-            "H.A.N.A.B.I.",
-            "銀の月 黒い星",
-            "無限の花",
-            "平成十七年七月七日",
-            "光環",
-            "ヴェルヴェット",
-            "FANTASY"
-          ]
+  "uid": "alice_nine01selfcover",
+  "date": "2019-04-24",
+  "genres": ["pop_rock", "hard_rock", "visual_rock"],
+  "review_done": false,
+  "name": "花鳥ノ調",
+  "artist": ["A9"],
+  "year": 2019,
+  "list": [
+    {
+      "list": [
+        [
+          "タイムマシン",
+          "華一匁",
+          "グラデーション",
+          "H.A.N.A.B.I.",
+          "銀の月 黒い星",
+          "無限の花",
+          "平成十七年七月七日",
+          "光環",
+          "ヴェルヴェット",
+          "FANTASY"
         ]
-      }
-    ],
-    "rate": 85,
-    "comment": "",
-    "recommend": [],
-    "description": "1stセルフカヴァーアルバム",
-    "type": "album",
-    "img": ["alice_nine01selfcover.jpg"]
-  }
-  
+      ]
+    }
+  ],
+  "rate": 85,
+  "comment": "",
+  "recommend": [],
+  "description": "1stセルフカヴァーアルバム",
+  "type": "album",
+  "img": ["alice_nine01selfcover.jpg"]
+}

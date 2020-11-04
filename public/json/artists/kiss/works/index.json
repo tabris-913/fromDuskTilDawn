@@ -1,1 +1,98 @@
-{"albums": {"kiss01": {"uid": "kiss01", "name": "Kiss （キッス・ファースト～地獄からの使者） ", "date": "", "img": ["kiss01.jpg"], "review_done": false}, "kiss02": {"uid": "kiss02", "name": "Hotter than Hell （地獄のさけび）", "date": "", "img": ["kiss02.jpg"], "review_done": false}, "kiss03": {"uid": "kiss03", "name": "Dressed to Kill （地獄への接吻）", "date": "", "img": ["kiss03.jpg"], "review_done": false}, "kiss04": {"uid": "kiss04", "name": "Destroyer （地獄の軍団） ", "date": "", "img": ["kiss04.jpg"], "review_done": false}, "kiss05": {"uid": "kiss05", "name": "Rock and Roll Over （地獄のロックファイアー） ", "date": "", "img": ["kiss05.jpg"], "review_done": false}, "kiss06": {"uid": "kiss06", "name": "Love Gun ", "date": "", "img": ["kiss06.jpg"], "review_done": false}, "kiss07": {"uid": "kiss07", "name": "Dynasty （地獄からの脱出）", "date": "", "img": ["kiss07.jpg"], "review_done": false}, "kiss08": {"uid": "kiss08", "name": "Unmasked （仮面の正体） ", "date": "", "img": ["kiss08.jpg"], "review_done": false}, "kiss09": {"uid": "kiss09", "name": "Music from \"The Elder\" （エルダー～魔界大決戦～）", "date": "", "img": ["kiss09.jpg"], "review_done": false}, "kiss10": {"uid": "kiss10", "name": "Creatures of the Night （暗黒の神話）", "date": "", "img": ["kiss10.jpg"], "review_done": false}, "kiss11": {"uid": "kiss11", "name": "Lick It Up （地獄の回想）", "date": "", "img": ["kiss11.jpg"], "review_done": false}, "kiss12": {"uid": "kiss12", "name": "Animalize ", "date": "", "img": ["kiss12.jpg"], "review_done": false}, "kiss13": {"uid": "kiss13", "name": "ASYLUM ", "date": "", "img": ["kiss13.jpg"], "review_done": false}, "kiss14": {"uid": "kiss14", "name": "Crazy Nights ", "date": "", "img": ["kiss14.jpg"], "review_done": false}, "kiss15": {"uid": "kiss15", "name": "Hot in the Shade", "date": "", "img": ["kiss15.jpg"], "review_done": false}, "kiss16": {"uid": "kiss16", "name": "Revenge", "date": "", "img": ["kiss16.jpg"], "review_done": false}, "kiss17": {"uid": "kiss17", "name": "Carnival of Souls: The Final Sessions", "date": "", "img": ["kiss17.jpg"], "review_done": false}, "kiss18": {"uid": "kiss18", "name": "Psycho Circus", "date": "", "img": ["kiss18.jpg"], "review_done": false}, "kiss19": {"uid": "kiss19", "name": "Sonic Boom", "date": "", "img": ["kiss19.jpg"], "review_done": false}, "kiss20": {"uid": "kiss20", "name": "Monster （地獄の獣神） ", "date": "", "img": ["kiss20.jpg"], "review_done": false}}, "singles": {}, "others": {}}
+{
+  "albums": {
+    "kiss01": {
+      "uid": "kiss01",
+      "name": "Kiss （キッス・ファースト～地獄からの使者） ",
+      "date": "",
+      "img": ["kiss01.jpg"],
+      "review_done": false
+    },
+    "kiss02": {
+      "uid": "kiss02",
+      "name": "Hotter than Hell （地獄のさけび）",
+      "date": "",
+      "img": ["kiss02.jpg"],
+      "review_done": false
+    },
+    "kiss03": {
+      "uid": "kiss03",
+      "name": "Dressed to Kill （地獄への接吻）",
+      "date": "",
+      "img": ["kiss03.jpg"],
+      "review_done": false
+    },
+    "kiss04": {
+      "uid": "kiss04",
+      "name": "Destroyer （地獄の軍団） ",
+      "date": "",
+      "img": ["kiss04.jpg"],
+      "review_done": false
+    },
+    "kiss05": {
+      "uid": "kiss05",
+      "name": "Rock and Roll Over （地獄のロックファイアー） ",
+      "date": "",
+      "img": ["kiss05.jpg"],
+      "review_done": false
+    },
+    "kiss06": { "uid": "kiss06", "name": "Love Gun ", "date": "", "img": ["kiss06.jpg"], "review_done": false },
+    "kiss07": {
+      "uid": "kiss07",
+      "name": "Dynasty （地獄からの脱出）",
+      "date": "",
+      "img": ["kiss07.jpg"],
+      "review_done": false
+    },
+    "kiss08": {
+      "uid": "kiss08",
+      "name": "Unmasked （仮面の正体） ",
+      "date": "",
+      "img": ["kiss08.jpg"],
+      "review_done": false
+    },
+    "kiss09": {
+      "uid": "kiss09",
+      "name": "Music from \"The Elder\" （エルダー～魔界大決戦～）",
+      "date": "",
+      "img": ["kiss09.jpg"],
+      "review_done": false
+    },
+    "kiss10": {
+      "uid": "kiss10",
+      "name": "Creatures of the Night （暗黒の神話）",
+      "date": "",
+      "img": ["kiss10.jpg"],
+      "review_done": false
+    },
+    "kiss11": {
+      "uid": "kiss11",
+      "name": "Lick It Up （地獄の回想）",
+      "date": "",
+      "img": ["kiss11.jpg"],
+      "review_done": false
+    },
+    "kiss12": { "uid": "kiss12", "name": "Animalize ", "date": "", "img": ["kiss12.jpg"], "review_done": false },
+    "kiss13": { "uid": "kiss13", "name": "ASYLUM ", "date": "", "img": ["kiss13.jpg"], "review_done": false },
+    "kiss14": { "uid": "kiss14", "name": "Crazy Nights ", "date": "", "img": ["kiss14.jpg"], "review_done": false },
+    "kiss15": { "uid": "kiss15", "name": "Hot in the Shade", "date": "", "img": ["kiss15.jpg"], "review_done": false },
+    "kiss16": { "uid": "kiss16", "name": "Revenge", "date": "", "img": ["kiss16.jpg"], "review_done": false },
+    "kiss17": {
+      "uid": "kiss17",
+      "name": "Carnival of Souls: The Final Sessions",
+      "date": "",
+      "img": ["kiss17.jpg"],
+      "review_done": false
+    },
+    "kiss18": { "uid": "kiss18", "name": "Psycho Circus", "date": "", "img": ["kiss18.jpg"], "review_done": false },
+    "kiss19": { "uid": "kiss19", "name": "Sonic Boom", "date": "", "img": ["kiss19.jpg"], "review_done": false },
+    "kiss20": {
+      "uid": "kiss20",
+      "name": "Monster （地獄の獣神） ",
+      "date": "",
+      "img": ["kiss20.jpg"],
+      "review_done": false
+    }
+  },
+  "singles": {},
+  "others": {}
+}

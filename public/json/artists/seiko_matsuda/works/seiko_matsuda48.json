@@ -1,1 +1,35 @@
-{"uid": "seiko_matsuda48", "date": "2014-06-04", "genres": [], "review_done": false, "name": "Dream & Fantasy", "artist": ["松田聖子"], "year": 2014, "list": [{"list": [["", "Dancing Dancing!!", "I Love You!! ～あなたの微笑みに～", "Love Island", "Angel", "My Wedding Day", "", "Only one for me", "私からのさよなら", "さよならBaby", "Believe", "I reach for you"]]}], "rate": 83, "comment": "デビュー35年を前に、まだまだ現役であることを証明する名作をリリース！ここ最近は、一応毎年スタジオ作品をリリースしていたもの、良くも悪くも無難で平凡な作品であった。特に前作は妙にフランスかぶれと言うか、とりあえず今までとは一味違った作風を提示してきたが、正直成功だったとは思えない。しかし今作は本来の明るく柔らかい、それでいてどこかパワフルな雰囲気を取り戻した。曲の質も高めだ。10年代に入ってからの作品の中では、今のところ間違いなくトップクラスの作品だ。52にして純白のウェディングドレスを着ようとする気概も素晴らしい。", "recommend": ["Dancing Dancing!!", "I Love You!!", "Love Island", "Only one for me", ""], "description": "48thアルバム", "type": "album", "img": ["seiko48.jpg"]}
+{
+  "uid": "seiko_matsuda48",
+  "date": "2014-06-04",
+  "genres": [],
+  "review_done": false,
+  "name": "Dream & Fantasy",
+  "artist": ["松田聖子"],
+  "year": 2014,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Dancing Dancing!!",
+          "I Love You!! ～あなたの微笑みに～",
+          "Love Island",
+          "Angel",
+          "My Wedding Day",
+          "",
+          "Only one for me",
+          "私からのさよなら",
+          "さよならBaby",
+          "Believe",
+          "I reach for you"
+        ]
+      ]
+    }
+  ],
+  "rate": 83,
+  "comment": "デビュー35年を前に、まだまだ現役であることを証明する名作をリリース！ここ最近は、一応毎年スタジオ作品をリリースしていたもの、良くも悪くも無難で平凡な作品であった。特に前作は妙にフランスかぶれと言うか、とりあえず今までとは一味違った作風を提示してきたが、正直成功だったとは思えない。しかし今作は本来の明るく柔らかい、それでいてどこかパワフルな雰囲気を取り戻した。曲の質も高めだ。10年代に入ってからの作品の中では、今のところ間違いなくトップクラスの作品だ。52にして純白のウェディングドレスを着ようとする気概も素晴らしい。",
+  "recommend": ["Dancing Dancing!!", "I Love You!!", "Love Island", "Only one for me", ""],
+  "description": "48thアルバム",
+  "type": "album",
+  "img": ["seiko48.jpg"]
+}

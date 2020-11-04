@@ -1,1 +1,12 @@
-{"name": "スペシャルユニットドラマCD 那月・蘭丸・瑛一", "description": "", "date": "2018-12-26", "year": 0, "artist": ["natsuki", "rammaru", "eiichi"], "list": [{"disk_no": 1, "name": "", "list": ["エゴイスティック"]}], "comment": "", "uid": "utapri16drama", "img": ["utapri16drama.jpg"], "rate": 0}
+{
+  "name": "スペシャルユニットドラマCD 那月・蘭丸・瑛一",
+  "description": "",
+  "date": "2018-12-26",
+  "year": 0,
+  "artist": ["natsuki", "rammaru", "eiichi"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["エゴイスティック"] }],
+  "comment": "",
+  "uid": "utapri16drama",
+  "img": ["utapri16drama.jpg"],
+  "rate": 0
+}

@@ -1,1 +1,37 @@
-{"uid": "kiss17", "date": "", "genres": [], "review_done": false, "name": "Carnival of Souls: The Final Sessions", "artist": ["Kiss"], "year": 1997, "list": [{"list": [["", "Hate", "Rain", "Mater & Slave", "Childhood's End", "I Will Be There", "Jungle", "", "In My Head", "It Never Goes Away", "Seduction of the Innocent", "I Confess", "In the Mirror", "I Walk Alone"]]}], "rate": 67, "comment": "キッス一番の駄作。グランジブームが終わってからリリースしてもねぇ。売れないでしょ。とはいえ製作されたのはまだグランジに火がついていた1995年（残り火程度だが）。しかしオリジナルメンバーでの再結成を経て、ツアーを回っていたこともあってお蔵入りとなっていたようだ。しかしその後のブートレッグ対策として本作がリリースされることになった。キッスがわざわざグランジアルバムなんて作らなくてもいいのに。こういう音は彼らには合わない。", "recommend": ["なし　強いて挙げるならI Will Be There"], "description": "17thアルバム", "type": "album", "img": ["kiss17.jpg"]}
+{
+  "uid": "kiss17",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Carnival of Souls: The Final Sessions",
+  "artist": ["Kiss"],
+  "year": 1997,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Hate",
+          "Rain",
+          "Mater & Slave",
+          "Childhood's End",
+          "I Will Be There",
+          "Jungle",
+          "",
+          "In My Head",
+          "It Never Goes Away",
+          "Seduction of the Innocent",
+          "I Confess",
+          "In the Mirror",
+          "I Walk Alone"
+        ]
+      ]
+    }
+  ],
+  "rate": 67,
+  "comment": "キッス一番の駄作。グランジブームが終わってからリリースしてもねぇ。売れないでしょ。とはいえ製作されたのはまだグランジに火がついていた1995年（残り火程度だが）。しかしオリジナルメンバーでの再結成を経て、ツアーを回っていたこともあってお蔵入りとなっていたようだ。しかしその後のブートレッグ対策として本作がリリースされることになった。キッスがわざわざグランジアルバムなんて作らなくてもいいのに。こういう音は彼らには合わない。",
+  "recommend": ["なし　強いて挙げるならI Will Be There"],
+  "description": "17thアルバム",
+  "type": "album",
+  "img": ["kiss17.jpg"]
+}

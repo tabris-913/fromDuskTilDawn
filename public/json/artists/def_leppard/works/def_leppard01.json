@@ -1,1 +1,42 @@
-{"uid": "def_leppard01", "date": "", "genres": [], "review_done": false, "name": "On Through the Night", "artist": ["Def Leppard"], "year": 1980, "list": [{"list": [["", "Rock Brigade", "Hello America", "Sorrow Is a Woman", "It Could Be You", "Satellite", "When the Walls Came Tumbling Down", "", "Wasted", "Rocks Off", "It Don't Matter", "Answer to the Master", "Overture"]]}], "rate": 85, "comment": "Iron Maiden、Saxonと並んでNWOBHMの代表格とされるバンドのデビュー作。NWOBHMといってもその路線だったのは精々初期2作であり、それ以降はグラム・メタル／ポップ・メタルへと移行する。この頃から後に通じるポップ性とメロディ・センスは兼ね備えている。最初からアメリカ進出を狙っており、#2のタイトルにそれが現れている。いずれの曲も初期衝動的なアグレッションとスピードが感じられる。デビュー作にして完成度も高く、名作と呼ばれることも少なくない。", "recommend": ["全部　特にRock Brigade", "Hello America", "It Could Be You", "When the Walls Came Tumbling Down", "Rocks Off"], "description": "Leppard 1stアルバム", "type": "album", "img": ["def01.jpg"]}
+{
+  "uid": "def_leppard01",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "On Through the Night",
+  "artist": ["Def Leppard"],
+  "year": 1980,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Rock Brigade",
+          "Hello America",
+          "Sorrow Is a Woman",
+          "It Could Be You",
+          "Satellite",
+          "When the Walls Came Tumbling Down",
+          "",
+          "Wasted",
+          "Rocks Off",
+          "It Don't Matter",
+          "Answer to the Master",
+          "Overture"
+        ]
+      ]
+    }
+  ],
+  "rate": 85,
+  "comment": "Iron Maiden、Saxonと並んでNWOBHMの代表格とされるバンドのデビュー作。NWOBHMといってもその路線だったのは精々初期2作であり、それ以降はグラム・メタル／ポップ・メタルへと移行する。この頃から後に通じるポップ性とメロディ・センスは兼ね備えている。最初からアメリカ進出を狙っており、#2のタイトルにそれが現れている。いずれの曲も初期衝動的なアグレッションとスピードが感じられる。デビュー作にして完成度も高く、名作と呼ばれることも少なくない。",
+  "recommend": [
+    "全部　特にRock Brigade",
+    "Hello America",
+    "It Could Be You",
+    "When the Walls Came Tumbling Down",
+    "Rocks Off"
+  ],
+  "description": "Leppard 1stアルバム",
+  "type": "album",
+  "img": ["def01.jpg"]
+}

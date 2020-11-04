@@ -1,1 +1,31 @@
-{"uid": "alfee01beatboys", "date": "1988-10-21", "genres": [], "review_done": false, "name": "BE∀T BOYS TOJO!!", "artist": ["BE∀T BOYS"], "year": 1988, "list": [{"list": [["", "HARD FUNKY NIGHT", "DIAMOND DANDY", "BAD MORNING", "", "HEARTBREAK LONELY RAIN", "YELLOW SUNSHINE", "SHADE OF LADY"]]}], "rate": 81, "comment": "アルフィーの別名義サイド・プロジェクト初のミニアルバム。ディスコ／ファンクの要素を大胆にも取り入れたサウンドには驚かされる。やはりこれがバブル絶頂期の為せる技なのだろう。しかしいつもと違うサウンドだからこそ、彼らの持ち味であるコーラスの技量の高さが分かるというモノだ。4曲目はシングルカットされたが、アルフィー（によく似た3人組）が歌って踊る姿にはさぞ驚かれただろう。5曲目は素晴らしく低俗な歌詞だがノリはいいという甲乙つけがたい曲だが、明石家さんまへの提供曲のセルフカヴァーだ。ラストが落ち着いたバラードと言う構成は本家と変わらない。", "recommend": ["HARD FUNKY NIGHT", "DIAMOND DANDY", "HEARTBREAK LONELY RAIN"], "description": "BOYS 1stミニアルバム", "type": "album", "img": ["alfee01bb.jpg"]}
+{
+  "uid": "alfee01beatboys",
+  "date": "1988-10-21",
+  "genres": [],
+  "review_done": false,
+  "name": "BE∀T BOYS TOJO!!",
+  "artist": ["BE∀T BOYS"],
+  "year": 1988,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "HARD FUNKY NIGHT",
+          "DIAMOND DANDY",
+          "BAD MORNING",
+          "",
+          "HEARTBREAK LONELY RAIN",
+          "YELLOW SUNSHINE",
+          "SHADE OF LADY"
+        ]
+      ]
+    }
+  ],
+  "rate": 81,
+  "comment": "アルフィーの別名義サイド・プロジェクト初のミニアルバム。ディスコ／ファンクの要素を大胆にも取り入れたサウンドには驚かされる。やはりこれがバブル絶頂期の為せる技なのだろう。しかしいつもと違うサウンドだからこそ、彼らの持ち味であるコーラスの技量の高さが分かるというモノだ。4曲目はシングルカットされたが、アルフィー（によく似た3人組）が歌って踊る姿にはさぞ驚かれただろう。5曲目は素晴らしく低俗な歌詞だがノリはいいという甲乙つけがたい曲だが、明石家さんまへの提供曲のセルフカヴァーだ。ラストが落ち着いたバラードと言う構成は本家と変わらない。",
+  "recommend": ["HARD FUNKY NIGHT", "DIAMOND DANDY", "HEARTBREAK LONELY RAIN"],
+  "description": "BOYS 1stミニアルバム",
+  "type": "album",
+  "img": ["alfee01bb.jpg"]
+}

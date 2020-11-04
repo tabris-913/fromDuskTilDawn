@@ -1,1 +1,55 @@
-{"albums": {}, "singles": {"mamoru_miyano05sg": {"uid": "mamoru_miyano05sg", "name": "REFRAIN", "date": "2009-10-21", "img": ["mamoru_miyano05sg.jpg"], "review_done": false}, "mamoru_miyano07sg": {"uid": "mamoru_miyano07sg", "name": "オルフェ", "date": "2011-07-13", "img": ["mamoru_miyano07sg.jpg"], "review_done": false}, "mamoru_miyano08sg": {"uid": "mamoru_miyano08sg", "name": "DREAM FIGHTER", "date": "2011-11-16", "img": ["mamoru_miyano08sg.jpg"], "review_done": false}, "mamoru_miyano10sg": {"uid": "mamoru_miyano10sg", "name": "カノン", "date": "2013-04-10", "img": ["mamoru_miyano10sg.jpg"], "review_done": false}, "mamoru_miyano13sg": {"uid": "mamoru_miyano13sg", "name": "シャイン", "date": "2015-04-15", "img": ["mamoru_miyano13sg.jpg"], "review_done": false}, "mamoru_miyano16sg": {"uid": "mamoru_miyano16sg", "name": "テンペスト", "date": "2016-10-12", "img": ["mamoru_miyano16sg.jpg"], "review_done": false}, "mamoru_miyano18sg": {"uid": "mamoru_miyano18sg", "name": "アンコール", "date": "2019-05-29", "img": ["mamoru_miyano18sg.jpg"], "review_done": false}}, "others": {}}
+{
+  "albums": {},
+  "singles": {
+    "mamoru_miyano05sg": {
+      "uid": "mamoru_miyano05sg",
+      "name": "REFRAIN",
+      "date": "2009-10-21",
+      "img": ["mamoru_miyano05sg.jpg"],
+      "review_done": false
+    },
+    "mamoru_miyano07sg": {
+      "uid": "mamoru_miyano07sg",
+      "name": "オルフェ",
+      "date": "2011-07-13",
+      "img": ["mamoru_miyano07sg.jpg"],
+      "review_done": false
+    },
+    "mamoru_miyano08sg": {
+      "uid": "mamoru_miyano08sg",
+      "name": "DREAM FIGHTER",
+      "date": "2011-11-16",
+      "img": ["mamoru_miyano08sg.jpg"],
+      "review_done": false
+    },
+    "mamoru_miyano10sg": {
+      "uid": "mamoru_miyano10sg",
+      "name": "カノン",
+      "date": "2013-04-10",
+      "img": ["mamoru_miyano10sg.jpg"],
+      "review_done": false
+    },
+    "mamoru_miyano13sg": {
+      "uid": "mamoru_miyano13sg",
+      "name": "シャイン",
+      "date": "2015-04-15",
+      "img": ["mamoru_miyano13sg.jpg"],
+      "review_done": false
+    },
+    "mamoru_miyano16sg": {
+      "uid": "mamoru_miyano16sg",
+      "name": "テンペスト",
+      "date": "2016-10-12",
+      "img": ["mamoru_miyano16sg.jpg"],
+      "review_done": false
+    },
+    "mamoru_miyano18sg": {
+      "uid": "mamoru_miyano18sg",
+      "name": "アンコール",
+      "date": "2019-05-29",
+      "img": ["mamoru_miyano18sg.jpg"],
+      "review_done": false
+    }
+  },
+  "others": {}
+}

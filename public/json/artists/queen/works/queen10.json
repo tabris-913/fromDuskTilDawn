@@ -1,1 +1,36 @@
-{"uid": "queen10", "date": "", "genres": [], "review_done": false, "name": "Hot Space", "artist": ["Queen"], "year": 1982, "list": [{"list": [["", "Staying Power", "Dancer", "Back Chat", "Body Language", "Action This Day", "Put on the Fire", "", "Life Is Real (Song for Lennon)", "Calling All Girls", "Las Palabras de Amor (The Words of Love)", "Cool Cat", "Under Pressure"]]}], "rate": 66, "comment": "The GameのAnothe One Bites the Dustで見せたファンク／ダンスの要素を推し進めたもの。これはひどい。わざわざクイーンがやる音楽ではない。7曲目と9曲目のバラードがなければ最悪のところまでいっていただろう。David Bowieとのコラボである11曲目が一番いい曲っていうのは皮肉だ。", "recommend": ["Life Is Real", "Las Parabras de Amor", "Under Pressure　それ以外でまだマシなのはCalling All Girls"], "description": "10thアルバム", "type": "album", "img": ["queen10.jpg"]}
+{
+  "uid": "queen10",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Hot Space",
+  "artist": ["Queen"],
+  "year": 1982,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Staying Power",
+          "Dancer",
+          "Back Chat",
+          "Body Language",
+          "Action This Day",
+          "Put on the Fire",
+          "",
+          "Life Is Real (Song for Lennon)",
+          "Calling All Girls",
+          "Las Palabras de Amor (The Words of Love)",
+          "Cool Cat",
+          "Under Pressure"
+        ]
+      ]
+    }
+  ],
+  "rate": 66,
+  "comment": "The GameのAnothe One Bites the Dustで見せたファンク／ダンスの要素を推し進めたもの。これはひどい。わざわざクイーンがやる音楽ではない。7曲目と9曲目のバラードがなければ最悪のところまでいっていただろう。David Bowieとのコラボである11曲目が一番いい曲っていうのは皮肉だ。",
+  "recommend": ["Life Is Real", "Las Parabras de Amor", "Under Pressure　それ以外でまだマシなのはCalling All Girls"],
+  "description": "10thアルバム",
+  "type": "album",
+  "img": ["queen10.jpg"]
+}

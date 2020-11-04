@@ -1,1 +1,12 @@
-{"name": "オーディションソング (1)", "description": "", "date": "2009-11-26", "year": 2009, "artist": ["otoya", "tokiya"], "list": [{"disk_no": 1, "name": "", "list": ["TRUST☆MY DREAM", "BELIEVE☆MY VOICE"]}], "comment": "", "uid": "utapri01sg", "img": ["utapri01sg.jpg"], "rate": 0}
+{
+  "name": "オーディションソング (1)",
+  "description": "",
+  "date": "2009-11-26",
+  "year": 2009,
+  "artist": ["otoya", "tokiya"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["TRUST☆MY DREAM", "BELIEVE☆MY VOICE"] }],
+  "comment": "",
+  "uid": "utapri01sg",
+  "img": ["utapri01sg.jpg"],
+  "rate": 0
+}

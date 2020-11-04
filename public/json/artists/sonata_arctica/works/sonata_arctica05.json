@@ -1,1 +1,59 @@
-{"uid": "sonata_arctica05", "date": "", "genres": [], "review_done": false, "name": "Unia （戦記）", "artist": ["Sonata Arctica"], "year": 2007, "list": [{"list": [["", "In Black and White", "Paid in Full", "For the Sake of Revenge", "It Won't Fade", "Under Your Tree", "Caleb", "The Vice", "My Dream's But a Drop of Fuel for a Nightmare", "The Harvest", "(Europe)", "To Create a Warlike Feel", "The Worlds Forgotten, the Worlds Forbidden", "Fly with the Black Swan", "Good Enough Is Good Enough", "Out in the Fields", "", "(Japan)", "The Worlds Forgotten, the Worlds Forbidden", "Fly with the Black Swan", "Good Enough Is Good Enough", "They Follow", "Out in the Fields", "My Dream's But a Drop of Fuel for a Nightmare [Instrumantal]", "(North America)", "The Worlds Forgotten, the Worlds Forbidden", "Fly with the Black Swan", "Good Enough Is Good Enough", "Out in the Fields"]]}], "rate": 84, "comment": "初期のようにひたすら疾走するわけでもなく、前作のようにクワイア系シンフォを極めるわけでもなく、今までよりもダークな雰囲気をまとう今作は、ついにソナタの時代が終わったことを示す作品。本人たちの言葉を借りれば、ターニングポイントだ。誤解を恐れずに言えば、このアルバムはメロディック・ハードだ。ソナタのアルバムとして聴くと非常に残念な作品だが、メロハーアルバムとしてはそこそこいい作品だと思う。どうせメロハーに転換するなら、Fair WarningやSteelheartも裸足で逃げ出すようなアルバムを作るくらい本気になってほしかった。", "recommend": ["In Black and White", "Paid in Full", "The Vice", "My Dream's But a Drop of Fuel for a Nightmare", "The Harvest", "\n\t\t\tGood Enough Is Good Enough"], "description": "Arctica 5thアルバム", "type": "album", "img": ["sonata05.jpg"]}
+{
+  "uid": "sonata_arctica05",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Unia （戦記）",
+  "artist": ["Sonata Arctica"],
+  "year": 2007,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "In Black and White",
+          "Paid in Full",
+          "For the Sake of Revenge",
+          "It Won't Fade",
+          "Under Your Tree",
+          "Caleb",
+          "The Vice",
+          "My Dream's But a Drop of Fuel for a Nightmare",
+          "The Harvest",
+          "(Europe)",
+          "To Create a Warlike Feel",
+          "The Worlds Forgotten, the Worlds Forbidden",
+          "Fly with the Black Swan",
+          "Good Enough Is Good Enough",
+          "Out in the Fields",
+          "",
+          "(Japan)",
+          "The Worlds Forgotten, the Worlds Forbidden",
+          "Fly with the Black Swan",
+          "Good Enough Is Good Enough",
+          "They Follow",
+          "Out in the Fields",
+          "My Dream's But a Drop of Fuel for a Nightmare [Instrumantal]",
+          "(North America)",
+          "The Worlds Forgotten, the Worlds Forbidden",
+          "Fly with the Black Swan",
+          "Good Enough Is Good Enough",
+          "Out in the Fields"
+        ]
+      ]
+    }
+  ],
+  "rate": 84,
+  "comment": "初期のようにひたすら疾走するわけでもなく、前作のようにクワイア系シンフォを極めるわけでもなく、今までよりもダークな雰囲気をまとう今作は、ついにソナタの時代が終わったことを示す作品。本人たちの言葉を借りれば、ターニングポイントだ。誤解を恐れずに言えば、このアルバムはメロディック・ハードだ。ソナタのアルバムとして聴くと非常に残念な作品だが、メロハーアルバムとしてはそこそこいい作品だと思う。どうせメロハーに転換するなら、Fair WarningやSteelheartも裸足で逃げ出すようなアルバムを作るくらい本気になってほしかった。",
+  "recommend": [
+    "In Black and White",
+    "Paid in Full",
+    "The Vice",
+    "My Dream's But a Drop of Fuel for a Nightmare",
+    "The Harvest",
+    "\n\t\t\tGood Enough Is Good Enough"
+  ],
+  "description": "Arctica 5thアルバム",
+  "type": "album",
+  "img": ["sonata05.jpg"]
+}

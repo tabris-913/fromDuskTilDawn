@@ -1,1 +1,35 @@
-{"uid": "slayer03", "date": "", "genres": [], "review_done": false, "name": "Reign in Blood （血の王朝） ", "artist": ["Slayer"], "year": 1986, "list": [{"list": [["", "Angel of Death", "Piece by Piece", "Necrophobic", "Altar of Sacrifice", "Jesus Saves", "", "Criminally Insane", "Reborn", "Epidemic", "Postmortem", "Raining Blood"]]}], "rate": 99, "comment": "世界最強のスラッシュ・アルバム！メタリカのMaster of Puppetsなんて比べるまでもない。これが最強。全10曲を29分で駆け抜ける。29分だよ？X JAPANのART OF LIFEと同じ長さだよ？スレイヤーの持つ攻撃性を濃縮したアルバムだ。始まりと終わりに最強の曲が置いてあるのは確信犯。1曲目から暴走。これが最強。Angel of Deathよりもかっこよくて激しくて強くて恐ろしい曲はない。ヘヴィ・メタルという音楽ジャンルが持つ攻撃性を、最もよく表現しているのがこのアルバムだ。最初はゆっくりに感じる曲でも、終盤に行くにつれて疾走するから。全曲疾走。アルバム一枚聴き終わった後の達成感が大きい。満足感が大きい。やっぱりスレイヤー最強。", "recommend": ["全部　特にAngel of Death", "Necrophobic", "Altar of Sacrifice", "Reborn", "Epidemic", "Raining Blood"], "description": "3rdアルバム", "type": "album", "img": ["slayer03.jpg"]}
+{
+  "uid": "slayer03",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Reign in Blood （血の王朝） ",
+  "artist": ["Slayer"],
+  "year": 1986,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Angel of Death",
+          "Piece by Piece",
+          "Necrophobic",
+          "Altar of Sacrifice",
+          "Jesus Saves",
+          "",
+          "Criminally Insane",
+          "Reborn",
+          "Epidemic",
+          "Postmortem",
+          "Raining Blood"
+        ]
+      ]
+    }
+  ],
+  "rate": 99,
+  "comment": "世界最強のスラッシュ・アルバム！メタリカのMaster of Puppetsなんて比べるまでもない。これが最強。全10曲を29分で駆け抜ける。29分だよ？X JAPANのART OF LIFEと同じ長さだよ？スレイヤーの持つ攻撃性を濃縮したアルバムだ。始まりと終わりに最強の曲が置いてあるのは確信犯。1曲目から暴走。これが最強。Angel of Deathよりもかっこよくて激しくて強くて恐ろしい曲はない。ヘヴィ・メタルという音楽ジャンルが持つ攻撃性を、最もよく表現しているのがこのアルバムだ。最初はゆっくりに感じる曲でも、終盤に行くにつれて疾走するから。全曲疾走。アルバム一枚聴き終わった後の達成感が大きい。満足感が大きい。やっぱりスレイヤー最強。",
+  "recommend": ["全部　特にAngel of Death", "Necrophobic", "Altar of Sacrifice", "Reborn", "Epidemic", "Raining Blood"],
+  "description": "3rdアルバム",
+  "type": "album",
+  "img": ["slayer03.jpg"]
+}

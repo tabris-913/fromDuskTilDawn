@@ -1,1 +1,34 @@
-{"uid": "tmrevolution01", "date": "", "genres": [], "review_done": false, "name": "MAKES REVOLUTION", "artist": ["T.M.Revolution"], "year": 1996, "list": [{"list": [["", "We Make Revolution", "独裁-monopolize- ESPECIAL \"D-Mix\"", "BLACK OR WHITE? ESPECIAL \"MATT Mix\"", "PIN UP LADY", "", "夢の雫", "URBAN BEAST", "臍淑女-ヴィーナス- ESPECIAL \"D-Mix\"", "LIAR'S SMILE", "HEALING MY SOUL"]]}], "rate": 84, "comment": "Luis-Mary解散後、しばらくの充電期間を経てソロ活動を開始したデビュー作。浅倉大介をプロデューサーに据え、デジタル色の強いロックサウンドを展開。下賤な曲もあるが実にロックらしい（笑）。ハジマリの曲#3、優等生バラード#5とキャリアを語る上で外せない名曲も少なくない。ミドルテンポの名ロックチューン#8のカッコよさも素晴らしい。割りと散漫なあたりはロックというよりJ-POP寄りだが、兄貴のカッコよさが充分に感じられる作品。", "recommend": ["独裁", "BLACK OR WHITE?", "夢の雫", "臍淑女", "LIAR'S SMILE"], "description": "1stアルバム", "type": "album", "img": ["tmr01.jpg"]}
+{
+  "uid": "tmrevolution01",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "MAKES REVOLUTION",
+  "artist": ["T.M.Revolution"],
+  "year": 1996,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "We Make Revolution",
+          "独裁-monopolize- ESPECIAL \"D-Mix\"",
+          "BLACK OR WHITE? ESPECIAL \"MATT Mix\"",
+          "PIN UP LADY",
+          "",
+          "夢の雫",
+          "URBAN BEAST",
+          "臍淑女-ヴィーナス- ESPECIAL \"D-Mix\"",
+          "LIAR'S SMILE",
+          "HEALING MY SOUL"
+        ]
+      ]
+    }
+  ],
+  "rate": 84,
+  "comment": "Luis-Mary解散後、しばらくの充電期間を経てソロ活動を開始したデビュー作。浅倉大介をプロデューサーに据え、デジタル色の強いロックサウンドを展開。下賤な曲もあるが実にロックらしい（笑）。ハジマリの曲#3、優等生バラード#5とキャリアを語る上で外せない名曲も少なくない。ミドルテンポの名ロックチューン#8のカッコよさも素晴らしい。割りと散漫なあたりはロックというよりJ-POP寄りだが、兄貴のカッコよさが充分に感じられる作品。",
+  "recommend": ["独裁", "BLACK OR WHITE?", "夢の雫", "臍淑女", "LIAR'S SMILE"],
+  "description": "1stアルバム",
+  "type": "album",
+  "img": ["tmr01.jpg"]
+}

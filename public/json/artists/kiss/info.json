@@ -1,1 +1,37 @@
-{"uid": "kiss", "name": "Kiss", "ruby": "キッス", "ruby4Sort": "きっす", "en": "Kiss", "initial": ["K", "か"], "kind": "バンド", "genres": [], "albums": ["kiss01", "kiss02", "kiss03", "kiss04", "kiss05", "kiss06", "kiss07", "kiss08", "kiss09", "kiss10", "kiss11", "kiss12", "kiss13", "kiss14", "kiss15", "kiss16", "kiss17", "kiss18", "kiss19", "kiss20"], "singles": [], "others": [], "akas": [], "logo": [], "related": []}
+{
+  "uid": "kiss",
+  "name": "Kiss",
+  "ruby": "キッス",
+  "ruby4Sort": "きっす",
+  "en": "Kiss",
+  "initial": ["K", "か"],
+  "kind": "バンド",
+  "genres": [],
+  "albums": [
+    "kiss01",
+    "kiss02",
+    "kiss03",
+    "kiss04",
+    "kiss05",
+    "kiss06",
+    "kiss07",
+    "kiss08",
+    "kiss09",
+    "kiss10",
+    "kiss11",
+    "kiss12",
+    "kiss13",
+    "kiss14",
+    "kiss15",
+    "kiss16",
+    "kiss17",
+    "kiss18",
+    "kiss19",
+    "kiss20"
+  ],
+  "singles": [],
+  "others": [],
+  "akas": [],
+  "logo": [],
+  "related": []
+}

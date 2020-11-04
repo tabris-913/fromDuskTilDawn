@@ -1,1 +1,39 @@
-{"uid": "angra01", "date": "", "genres": [], "review_done": false, "name": "Angels Cry", "artist": ["Angra"], "year": 1993, "list": [{"list": [["", "Unfinished Allegro", "Carry On", "Time", "Angels Cry", "Stand Away", "", "Never Understand", "Wuthering Heights （嵐が丘）", "Streets of Tomorrow", "Evil Warning", "Lasting Child", "", "The Parting Words", "Renaissance", ""]]}], "rate": 86, "comment": "ブラジルの至宝と言われるバンドのデビュー作。メロディック・パワー・メタル界を代表するキラーチューンである2曲目を筆頭に、しんふぉにっく加減が絶妙な名曲が多い。とはいえせっかく上がったテンションが殺がれてしまうような残念な曲順もある。7曲目では男性とは思えない澄んだハイトーン・ヴォーカルを見せている。そして9曲目は、2曲目と並ぶほどの名曲で終盤を彩るハイライトとなっている。", "recommend": ["Carry On", "Angels Cry", "Wuthering Heights", "Evil Warning", "Lasting Chind"], "description": "1stアルバム", "type": "album", "img": ["angra01.jpg"]}
+{
+  "uid": "angra01",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Angels Cry",
+  "artist": ["Angra"],
+  "year": 1993,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Unfinished Allegro",
+          "Carry On",
+          "Time",
+          "Angels Cry",
+          "Stand Away",
+          "",
+          "Never Understand",
+          "Wuthering Heights （嵐が丘）",
+          "Streets of Tomorrow",
+          "Evil Warning",
+          "Lasting Child",
+          "",
+          "The Parting Words",
+          "Renaissance",
+          ""
+        ]
+      ]
+    }
+  ],
+  "rate": 86,
+  "comment": "ブラジルの至宝と言われるバンドのデビュー作。メロディック・パワー・メタル界を代表するキラーチューンである2曲目を筆頭に、しんふぉにっく加減が絶妙な名曲が多い。とはいえせっかく上がったテンションが殺がれてしまうような残念な曲順もある。7曲目では男性とは思えない澄んだハイトーン・ヴォーカルを見せている。そして9曲目は、2曲目と並ぶほどの名曲で終盤を彩るハイライトとなっている。",
+  "recommend": ["Carry On", "Angels Cry", "Wuthering Heights", "Evil Warning", "Lasting Chind"],
+  "description": "1stアルバム",
+  "type": "album",
+  "img": ["angra01.jpg"]
+}

@@ -1,1 +1,33 @@
-{"uid": "iron_maiden01", "date": "", "genres": [], "review_done": false, "name": "Iron Maiden （鋼鉄の処女）", "artist": ["Iron Maiden"], "year": 1980, "list": [{"list": [["", "Prowler", "Remember Tomorrow", "Running Free", "Phantom of the Opera （オペラ座の怪人）", "", "Transylvania", "Strange World", "Charlotte the Harlot （娼婦シャーロット）", "Iron Maiden （鋼鉄の処女）"]]}], "rate": 84, "comment": "1曲目と8曲目はデビューEPにも収録されていたもの。当時イギリスで流行していたパンクも終焉を迎えた。そんな時期にパンクも顔負けな攻撃性と、プログレッシヴ・ロック由来の芸術性をもった紛れもないヘヴィ・メタルと共に現れたのが彼らだ。初フルレンス作品から全英4位と、その期待の大きさがうかがえる。2曲目からいきなりプログレッシヴなアレンジが飛び出すのだが、何よりも特に4曲目はアグレッシヴなメタルサウンドと、プログレのアートが融合した初期の名曲の一つだ。", "recommend": ["Prowler", "Phantom of the Opera", "Transylvania", "Iron Maiden"], "description": "Maiden 1stアルバム", "type": "album", "img": ["maiden01.jpg"]}
+{
+  "uid": "iron_maiden01",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Iron Maiden （鋼鉄の処女）",
+  "artist": ["Iron Maiden"],
+  "year": 1980,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Prowler",
+          "Remember Tomorrow",
+          "Running Free",
+          "Phantom of the Opera （オペラ座の怪人）",
+          "",
+          "Transylvania",
+          "Strange World",
+          "Charlotte the Harlot （娼婦シャーロット）",
+          "Iron Maiden （鋼鉄の処女）"
+        ]
+      ]
+    }
+  ],
+  "rate": 84,
+  "comment": "1曲目と8曲目はデビューEPにも収録されていたもの。当時イギリスで流行していたパンクも終焉を迎えた。そんな時期にパンクも顔負けな攻撃性と、プログレッシヴ・ロック由来の芸術性をもった紛れもないヘヴィ・メタルと共に現れたのが彼らだ。初フルレンス作品から全英4位と、その期待の大きさがうかがえる。2曲目からいきなりプログレッシヴなアレンジが飛び出すのだが、何よりも特に4曲目はアグレッシヴなメタルサウンドと、プログレのアートが融合した初期の名曲の一つだ。",
+  "recommend": ["Prowler", "Phantom of the Opera", "Transylvania", "Iron Maiden"],
+  "description": "Maiden 1stアルバム",
+  "type": "album",
+  "img": ["maiden01.jpg"]
+}

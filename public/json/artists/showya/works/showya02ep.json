@@ -1,1 +1,16 @@
-{"uid": "showya02ep", "date": "", "genres": [], "review_done": false, "name": "This my way", "artist": ["SHOW-YA"], "year": 1998, "list": [{"list": [["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]]}], "rate": 0, "comment": "", "recommend": [""], "description": "2ndミニアルバム", "type": "album", "img": ["showya02e.jpg"]}
+{
+  "uid": "showya02ep",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "This my way",
+  "artist": ["SHOW-YA"],
+  "year": 1998,
+  "list": [{ "list": [["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "2ndミニアルバム",
+  "type": "album",
+  "img": ["showya02e.jpg"]
+}

@@ -1,1 +1,63 @@
-{"uid": "queen14compilation", "date": "", "genres": [], "review_done": false, "name": "Queen Forever", "artist": ["Queen"], "year": 2014, "list": [{"list": [["Disc 1", "Let Me in Your Heart Again", "Love Kills", "There Must Be More to Life than This （生命の証）", "Play the Game", "Dear Friends", "You're My Best Friend", "Love of My Life", "Drowse （さまよい）", "You Take My Breath Away", "Spread Your Wings （永遠の翼）", "Long Away", "Lily of the Valley （谷間のゆり）", "Don't Try So Hard", "Bijou", "These Are the Days of Our Lives （輝ける日々）", "Nevermore", "Las Palaras de Amor (The Worlds of Love) （愛の言葉）", "Who Wants to Live Forever", "Disc 2", "I Was Born to Love You", "Somebody to Love （愛にすべてを）", "Crazy Little Thing Called Love （愛という名の欲望）", "Friends Will Be Driends （心の絆）", "Jealousy", "One Year of Love （愛ある日々）", "A Winter's Tale", "'39", "Mother Love", "It's a Hard Life （永遠の誓い）", "Save Me", "Made in Heaven", "Too Much Love Will Kill You", "Sail Away Sweet Sister", "The Miracle", "Is This the World We Created...? （悲しい世界）", "In the Lap of the Gods... Revisited （神々の業）", "Forever", "(Japanese Bonus Track)", "Teo Torriatte (Let Us Cling Together)"]]}], "rate": 84, "comment": "俺はてっきりスタジオ作品が出るものだとばかり思っていた。収録曲が発表されるまでは。だが実際は未発表を含むベスト盤ということで、ちょっと残念というか何と言うか.......やはり注目すべきはDisc 1-3で、Michael Jacksonとのコラボ曲だ。これは素晴らしい！ベストのほうはというと、メジャーどころからマイナーどころまでラヴソングで統一されている！だからBohemian RhapsodyやWe Will Rock You、We Are the Champions、Don't Stop Me Now、Show Must Go Onといった代表曲は収録されていない。しかししっかりとベストアルバムとしての価値を持っている。これぞQueenクオリティだ。", "recommend": ["Love Kills", "There Must Be More to Life than This"], "description": "14thベストアルバム", "type": "album", "img": ["queen14c.jpg"]}
+{
+  "uid": "queen14compilation",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Queen Forever",
+  "artist": ["Queen"],
+  "year": 2014,
+  "list": [
+    {
+      "list": [
+        [
+          "Disc 1",
+          "Let Me in Your Heart Again",
+          "Love Kills",
+          "There Must Be More to Life than This （生命の証）",
+          "Play the Game",
+          "Dear Friends",
+          "You're My Best Friend",
+          "Love of My Life",
+          "Drowse （さまよい）",
+          "You Take My Breath Away",
+          "Spread Your Wings （永遠の翼）",
+          "Long Away",
+          "Lily of the Valley （谷間のゆり）",
+          "Don't Try So Hard",
+          "Bijou",
+          "These Are the Days of Our Lives （輝ける日々）",
+          "Nevermore",
+          "Las Palaras de Amor (The Worlds of Love) （愛の言葉）",
+          "Who Wants to Live Forever",
+          "Disc 2",
+          "I Was Born to Love You",
+          "Somebody to Love （愛にすべてを）",
+          "Crazy Little Thing Called Love （愛という名の欲望）",
+          "Friends Will Be Driends （心の絆）",
+          "Jealousy",
+          "One Year of Love （愛ある日々）",
+          "A Winter's Tale",
+          "'39",
+          "Mother Love",
+          "It's a Hard Life （永遠の誓い）",
+          "Save Me",
+          "Made in Heaven",
+          "Too Much Love Will Kill You",
+          "Sail Away Sweet Sister",
+          "The Miracle",
+          "Is This the World We Created...? （悲しい世界）",
+          "In the Lap of the Gods... Revisited （神々の業）",
+          "Forever",
+          "(Japanese Bonus Track)",
+          "Teo Torriatte (Let Us Cling Together)"
+        ]
+      ]
+    }
+  ],
+  "rate": 84,
+  "comment": "俺はてっきりスタジオ作品が出るものだとばかり思っていた。収録曲が発表されるまでは。だが実際は未発表を含むベスト盤ということで、ちょっと残念というか何と言うか.......やはり注目すべきはDisc 1-3で、Michael Jacksonとのコラボ曲だ。これは素晴らしい！ベストのほうはというと、メジャーどころからマイナーどころまでラヴソングで統一されている！だからBohemian RhapsodyやWe Will Rock You、We Are the Champions、Don't Stop Me Now、Show Must Go Onといった代表曲は収録されていない。しかししっかりとベストアルバムとしての価値を持っている。これぞQueenクオリティだ。",
+  "recommend": ["Love Kills", "There Must Be More to Life than This"],
+  "description": "14thベストアルバム",
+  "type": "album",
+  "img": ["queen14c.jpg"]
+}

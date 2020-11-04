@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi02compilation", "date": "1975-06-01", "genres": [], "review_done": false, "name": "山口百恵デラックス", "ruby": "", "artist": "山口百恵", "year": 1975, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "2thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi02compilation",
+  "date": "1975-06-01",
+  "genres": [],
+  "review_done": false,
+  "name": "山口百恵デラックス",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1975,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "2thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

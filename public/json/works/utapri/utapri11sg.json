@@ -1,1 +1,12 @@
-{"name": "アイドルソング 一十木音也", "description": "", "date": "2011-07-27", "year": 2011, "artist": ["otoya"], "list": [{"disk_no": 1, "name": "", "list": ["BRAND NEW MELODY", "Over the Rainbow"]}], "comment": "", "uid": "utapri11sg", "img": ["utapri11sg.jpg"], "rate": 0}
+{
+  "name": "アイドルソング 一十木音也",
+  "description": "",
+  "date": "2011-07-27",
+  "year": 2011,
+  "artist": ["otoya"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["BRAND NEW MELODY", "Over the Rainbow"] }],
+  "comment": "",
+  "uid": "utapri11sg",
+  "img": ["utapri11sg.jpg"],
+  "rate": 0
+}

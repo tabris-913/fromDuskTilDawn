@@ -1,1 +1,42 @@
-{"uid": "yngwie_malmsteen01special", "date": "", "genres": [], "review_done": false, "name": "The Genesis", "artist": ["Yngwie J. Malmsteen"], "year": 2002, "list": [{"list": [["", "Birth of the Sun", "Plague in Lucifer's Mind", "Dying Man", "Black Magic Suite Op.3", "Merlin's Castle", "", "Voodoo Nights", "Hello", "Voodoo Child", "On a Serious Note"]]}], "rate": 72, "comment": "海賊盤対策として発売に踏み切ったデモ集。1曲目から6曲目までは当時16,17歳のイングヴェイが制作した楽曲で、音質こそ悪いものの、すでに彼のプレイスタイルが確立されていることが分かる。ソロ活動を始めてから完成された曲に流用されたフレーズもいたるところで聴くことができる。卓越したギタープレイを見せつけるためなのか、一曲一曲が比較的長尺である。", "recommend": ["Birth of the Sun", "Dying Man", "Black Magic Suite Op.3", "Merlin's Castle", "Voodoo Nights", "Voodoo Child", "On a Serious Note"], "description": "J. Malmsteen デモ集アルバム", "type": "album", "img": ["yngwie01s.jpg"]}
+{
+  "uid": "yngwie_malmsteen01special",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "The Genesis",
+  "artist": ["Yngwie J. Malmsteen"],
+  "year": 2002,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Birth of the Sun",
+          "Plague in Lucifer's Mind",
+          "Dying Man",
+          "Black Magic Suite Op.3",
+          "Merlin's Castle",
+          "",
+          "Voodoo Nights",
+          "Hello",
+          "Voodoo Child",
+          "On a Serious Note"
+        ]
+      ]
+    }
+  ],
+  "rate": 72,
+  "comment": "海賊盤対策として発売に踏み切ったデモ集。1曲目から6曲目までは当時16,17歳のイングヴェイが制作した楽曲で、音質こそ悪いものの、すでに彼のプレイスタイルが確立されていることが分かる。ソロ活動を始めてから完成された曲に流用されたフレーズもいたるところで聴くことができる。卓越したギタープレイを見せつけるためなのか、一曲一曲が比較的長尺である。",
+  "recommend": [
+    "Birth of the Sun",
+    "Dying Man",
+    "Black Magic Suite Op.3",
+    "Merlin's Castle",
+    "Voodoo Nights",
+    "Voodoo Child",
+    "On a Serious Note"
+  ],
+  "description": "J. Malmsteen デモ集アルバム",
+  "type": "album",
+  "img": ["yngwie01s.jpg"]
+}

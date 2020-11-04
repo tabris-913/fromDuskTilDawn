@@ -1,1 +1,6 @@
-{"uid": "symphonic_power_metal", "name": "シンフォニック・パワー・メタル", "en": "Symphonic Power Metal", "list": ["stratovarius"]}
+{
+  "uid": "symphonic_power_metal",
+  "name": "シンフォニック・パワー・メタル",
+  "en": "Symphonic Power Metal",
+  "list": ["stratovarius"]
+}

@@ -1,1 +1,42 @@
-{"uid": "anthrax09", "date": "", "genres": [], "review_done": false, "name": "We've Come for You All", "artist": ["Anthrax"], "year": 2003, "list": [{"list": [["", "Contact", "What Doesn't Die", "Superhero", "Refuse to Be Denied", "Safe Home", "Any Place But Here", "Nobody Knows Anything", "Strap It on", "Black Dahlia", "", "Cadillac Rock Box", "Taking the Music Back", "Crash", "Think About an End", "W.C.F.Y.A.", "(BONUS TRACK)", "Safe Home [Acoustic]", "We're a Happy Family"]]}], "rate": 78, "comment": "スラッシュへの回帰は果たしていないが、曲の質はかなり戻ってきた。とはいってもまだ改善の余地はありそうだが。それだけでも十分素晴らしい。これでスラッシュに戻ってくれれば何も言うことがないのだが。曲数の多さは前作同様だが、曲のレヴェルが上がったためそれほど無駄には感じない。前作に続いてDimebag Darrellが参加している曲もある。", "recommend": ["What Doesn't Die", "Refuse to Be Denied", "Nobody Knows Anything", "Black Dahlia"], "description": "9thアルバム", "type": "album", "img": ["anthrax09.jpg"]}
+{
+  "uid": "anthrax09",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "We've Come for You All",
+  "artist": ["Anthrax"],
+  "year": 2003,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Contact",
+          "What Doesn't Die",
+          "Superhero",
+          "Refuse to Be Denied",
+          "Safe Home",
+          "Any Place But Here",
+          "Nobody Knows Anything",
+          "Strap It on",
+          "Black Dahlia",
+          "",
+          "Cadillac Rock Box",
+          "Taking the Music Back",
+          "Crash",
+          "Think About an End",
+          "W.C.F.Y.A.",
+          "(BONUS TRACK)",
+          "Safe Home [Acoustic]",
+          "We're a Happy Family"
+        ]
+      ]
+    }
+  ],
+  "rate": 78,
+  "comment": "スラッシュへの回帰は果たしていないが、曲の質はかなり戻ってきた。とはいってもまだ改善の余地はありそうだが。それだけでも十分素晴らしい。これでスラッシュに戻ってくれれば何も言うことがないのだが。曲数の多さは前作同様だが、曲のレヴェルが上がったためそれほど無駄には感じない。前作に続いてDimebag Darrellが参加している曲もある。",
+  "recommend": ["What Doesn't Die", "Refuse to Be Denied", "Nobody Knows Anything", "Black Dahlia"],
+  "description": "9thアルバム",
+  "type": "album",
+  "img": ["anthrax09.jpg"]
+}

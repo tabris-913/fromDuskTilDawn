@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi17", "date": "1979-04-01", "genres": [], "review_done": false, "name": "A Face in a Vision", "ruby": "", "artist": "山口百恵", "year": 1979, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "17thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi17",
+  "date": "1979-04-01",
+  "genres": [],
+  "review_done": false,
+  "name": "A Face in a Vision",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1979,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "17thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

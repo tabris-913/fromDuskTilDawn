@@ -1,1 +1,38 @@
-{"uid": "metallica07", "date": "", "genres": [], "review_done": false, "name": "ReLoad", "artist": ["Metallica"], "year": 1997, "list": [{"list": [["", "Fuel", "The Memory Remains", "Devil's Dance", "The Unforgiven II", "Betther than You", "Slither", "Carpe Diem baby", "", "Bad Seed", "Where the Wild Things Are", "Prince Charming", "Low Man's Lyric", "Attitude", "Fixxxer"]]}], "rate": 67, "comment": "きたこれ。きちゃったよこれ。過去最大級の駄作だ。一番の問題作だ。グルーヴ重視になるだけならともかく、なんかニュー・メタル的な方向性を感じる。ノリが良くなったのはいいんだけど……もう完全にメタリカじゃない。あんまり聴きたくないアルバムだ。", "recommend": ["Fuel", "Prince Charming"], "description": "7thアルバム", "type": "album", "img": ["metallica07.jpg"]}
+{
+  "uid": "metallica07",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "ReLoad",
+  "artist": ["Metallica"],
+  "year": 1997,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Fuel",
+          "The Memory Remains",
+          "Devil's Dance",
+          "The Unforgiven II",
+          "Betther than You",
+          "Slither",
+          "Carpe Diem baby",
+          "",
+          "Bad Seed",
+          "Where the Wild Things Are",
+          "Prince Charming",
+          "Low Man's Lyric",
+          "Attitude",
+          "Fixxxer"
+        ]
+      ]
+    }
+  ],
+  "rate": 67,
+  "comment": "きたこれ。きちゃったよこれ。過去最大級の駄作だ。一番の問題作だ。グルーヴ重視になるだけならともかく、なんかニュー・メタル的な方向性を感じる。ノリが良くなったのはいいんだけど……もう完全にメタリカじゃない。あんまり聴きたくないアルバムだ。",
+  "recommend": ["Fuel", "Prince Charming"],
+  "description": "7thアルバム",
+  "type": "album",
+  "img": ["metallica07.jpg"]
+}

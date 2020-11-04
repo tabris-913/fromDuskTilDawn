@@ -1,1 +1,29 @@
-{"name": "SUKI×SUKIはなまる!", "description": "", "date": "2019-08-07", "year": 0, "artist": ["natsuki"], "list": [{"disk_no": 1, "name": "", "list": ["サザンクロス恋唄", "アンドロメダでクチヅケを", "オリオンでSHOUT OUT!", "Top Star Revolution", "シリウスへの誓い", "☆YELL☆", "The New World", "Tears in love", "月ノ唄", "SUKI×SUKIはなまる！"]}], "comment": "", "uid": "utapri04", "img": ["utapri04.jpg"], "rate": 0}
+{
+  "name": "SUKI×SUKIはなまる!",
+  "description": "",
+  "date": "2019-08-07",
+  "year": 0,
+  "artist": ["natsuki"],
+  "list": [
+    {
+      "disk_no": 1,
+      "name": "",
+      "list": [
+        "サザンクロス恋唄",
+        "アンドロメダでクチヅケを",
+        "オリオンでSHOUT OUT!",
+        "Top Star Revolution",
+        "シリウスへの誓い",
+        "☆YELL☆",
+        "The New World",
+        "Tears in love",
+        "月ノ唄",
+        "SUKI×SUKIはなまる！"
+      ]
+    }
+  ],
+  "comment": "",
+  "uid": "utapri04",
+  "img": ["utapri04.jpg"],
+  "rate": 0
+}

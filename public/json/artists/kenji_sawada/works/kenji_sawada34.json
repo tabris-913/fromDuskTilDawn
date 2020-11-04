@@ -1,1 +1,18 @@
-{"uid": "kenji_sawada34", "date": "1996-09-19", "genres": [], "review_done": false, "name": "愛まで待てない", "ruby": "", "artist": "沢田研二", "year": 1996, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "34thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "kenji_sawada34",
+  "date": "1996-09-19",
+  "genres": [],
+  "review_done": false,
+  "name": "愛まで待てない",
+  "ruby": "",
+  "artist": "沢田研二",
+  "year": 1996,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "34thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

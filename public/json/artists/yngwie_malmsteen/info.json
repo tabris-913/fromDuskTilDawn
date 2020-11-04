@@ -1,1 +1,44 @@
-{"uid": "yngwie_malmsteen", "name": "Yngwie Malmsteen", "ruby": "イングヴェイ・マルムスティーン", "ruby4Sort": "いんぐゔぇいまるむすてぃーん", "en": "Yngwie Malmsteen", "initial": ["Y", "あ"], "kind": "ソロ", "genres": [], "albums": ["yngwie_malmsteen01", "yngwie_malmsteen01cover", "yngwie_malmsteen01selfcover", "yngwie_malmsteen01special", "yngwie_malmsteen02", "yngwie_malmsteen03", "yngwie_malmsteen03live", "yngwie_malmsteen04", "yngwie_malmsteen05", "yngwie_malmsteen06", "yngwie_malmsteen07", "yngwie_malmsteen08", "yngwie_malmsteen09", "yngwie_malmsteen10", "yngwie_malmsteen11", "yngwie_malmsteen12", "yngwie_malmsteen13", "yngwie_malmsteen14", "yngwie_malmsteen15", "yngwie_malmsteen16", "yngwie_malmsteen17", "yngwie_malmsteen18"], "singles": [], "others": [], "akas": ["Yngwie J. Malmsteen", "Yngwie Johann Malmsteen", "Yngwie Malmsteen's Rising Force", "Yngwie J. Malmsteen's Rising Force"], "logo": [], "related": []}
+{
+  "uid": "yngwie_malmsteen",
+  "name": "Yngwie Malmsteen",
+  "ruby": "イングヴェイ・マルムスティーン",
+  "ruby4Sort": "いんぐゔぇいまるむすてぃーん",
+  "en": "Yngwie Malmsteen",
+  "initial": ["Y", "あ"],
+  "kind": "ソロ",
+  "genres": [],
+  "albums": [
+    "yngwie_malmsteen01",
+    "yngwie_malmsteen01cover",
+    "yngwie_malmsteen01selfcover",
+    "yngwie_malmsteen01special",
+    "yngwie_malmsteen02",
+    "yngwie_malmsteen03",
+    "yngwie_malmsteen03live",
+    "yngwie_malmsteen04",
+    "yngwie_malmsteen05",
+    "yngwie_malmsteen06",
+    "yngwie_malmsteen07",
+    "yngwie_malmsteen08",
+    "yngwie_malmsteen09",
+    "yngwie_malmsteen10",
+    "yngwie_malmsteen11",
+    "yngwie_malmsteen12",
+    "yngwie_malmsteen13",
+    "yngwie_malmsteen14",
+    "yngwie_malmsteen15",
+    "yngwie_malmsteen16",
+    "yngwie_malmsteen17",
+    "yngwie_malmsteen18"
+  ],
+  "singles": [],
+  "others": [],
+  "akas": [
+    "Yngwie J. Malmsteen",
+    "Yngwie Johann Malmsteen",
+    "Yngwie Malmsteen's Rising Force",
+    "Yngwie J. Malmsteen's Rising Force"
+  ],
+  "logo": [],
+  "related": []
+}

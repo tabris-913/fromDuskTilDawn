@@ -1,1 +1,12 @@
-{"name": "Shining Masterpiece Show Lost Alice", "description": "", "date": "2018-01-17", "year": 0, "artist": ["natsuki", "reiji", "masato", "rammaru"], "list": [{"disk_no": 1, "name": "", "list": ["Lost Alice"]}], "comment": "", "uid": "utapri08theater", "img": ["utapri08theater.jpg"], "rate": 0}
+{
+  "name": "Shining Masterpiece Show Lost Alice",
+  "description": "",
+  "date": "2018-01-17",
+  "year": 0,
+  "artist": ["natsuki", "reiji", "masato", "rammaru"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["Lost Alice"] }],
+  "comment": "",
+  "uid": "utapri08theater",
+  "img": ["utapri08theater.jpg"],
+  "rate": 0
+}

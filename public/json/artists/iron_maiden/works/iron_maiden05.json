@@ -1,1 +1,33 @@
-{"uid": "iron_maiden05", "date": "", "genres": [], "review_done": false, "name": "Powerslave ", "artist": ["Iron Maiden"], "year": 1984, "list": [{"list": [["", "Aces High （撃墜王の孤独）", "2 Minutes to Midnight （悪夢の最終兵器(絶滅2分前)）", "Losfer Words (Big 'Orra)", "Flash of the Blade （殺意の閃き）", "", "The Duellists （誇り高き決闘）", "Back in the Village", "Powerslave （死界の王、オシリスの謎）", "Rime of the Ancient Mariner （暗黒の航海）"]]}], "rate": 94, "comment": "デビュー以降彼らの持ち味であったメタルにプログレの芸術性を混ぜたスタイルがこの作品で頂点を極めた。冒頭の2曲はライヴでも定番となった彼らのアンセムで、Aces Highを聴かずにメイデンは語れない。その後も強弱はありつつも捨て曲と呼べるほどのものはなく、終盤での盛り上がりに向かう。タイトル曲はどことなく古代エジプトのような雰囲気を感じさせ、8曲目はメイデン史上最長の大作。しかし長さの割に飽きさせない作りで、ソングライティングの腕の高さを証明した。", "recommend": ["全部 特にAces High", "2 Minutes to Midnight", "The Duellists", "Rime of the Ancient Mariner"], "description": "Maiden 5thアルバム", "type": "album", "img": ["maiden05.jpg"]}
+{
+  "uid": "iron_maiden05",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Powerslave ",
+  "artist": ["Iron Maiden"],
+  "year": 1984,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Aces High （撃墜王の孤独）",
+          "2 Minutes to Midnight （悪夢の最終兵器(絶滅2分前)）",
+          "Losfer Words (Big 'Orra)",
+          "Flash of the Blade （殺意の閃き）",
+          "",
+          "The Duellists （誇り高き決闘）",
+          "Back in the Village",
+          "Powerslave （死界の王、オシリスの謎）",
+          "Rime of the Ancient Mariner （暗黒の航海）"
+        ]
+      ]
+    }
+  ],
+  "rate": 94,
+  "comment": "デビュー以降彼らの持ち味であったメタルにプログレの芸術性を混ぜたスタイルがこの作品で頂点を極めた。冒頭の2曲はライヴでも定番となった彼らのアンセムで、Aces Highを聴かずにメイデンは語れない。その後も強弱はありつつも捨て曲と呼べるほどのものはなく、終盤での盛り上がりに向かう。タイトル曲はどことなく古代エジプトのような雰囲気を感じさせ、8曲目はメイデン史上最長の大作。しかし長さの割に飽きさせない作りで、ソングライティングの腕の高さを証明した。",
+  "recommend": ["全部 特にAces High", "2 Minutes to Midnight", "The Duellists", "Rime of the Ancient Mariner"],
+  "description": "Maiden 5thアルバム",
+  "type": "album",
+  "img": ["maiden05.jpg"]
+}

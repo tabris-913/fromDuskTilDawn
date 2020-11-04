@@ -1,1 +1,35 @@
-{"uid": "kiss03", "date": "", "genres": [], "review_done": false, "name": "Dressed to Kill （地獄への接吻）", "artist": ["Kiss"], "year": 1975, "list": [{"list": [["", "Room Survice", "Two Timer", "Ladies in Waiting", "Getaway", "Rock Bottom", "", "C'mon and Love Me （激しい愛を）", "Anything for My Baby （あの娘のために）", "She （彼女）", "Love Her All I Can （すべての愛を）", "Rock and Roll All Nite"]]}], "rate": 85, "comment": "出だしからなかなかスピーディーで期待の高まる3作目。だがそのテンションは続かずに2曲目からはいつも通りになってしまっている。いい曲と捨て曲の割合は前作とほぼ同じだが、固まっていた前作に対してこちらはしっかり散らばっているので、途中で飽きたりすることなく聴ける。しかもこの頃は1曲1曲が短いため、捨て曲でも長く時間がかからないのであまり気にならない。", "recommend": ["Room Service", "Rock Bottom", "C'mon and Love Me", "Anything for My Baby", "Rock and Roll All Nite"], "description": "3rdアルバム", "type": "album", "img": ["kiss03.jpg"]}
+{
+  "uid": "kiss03",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Dressed to Kill （地獄への接吻）",
+  "artist": ["Kiss"],
+  "year": 1975,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Room Survice",
+          "Two Timer",
+          "Ladies in Waiting",
+          "Getaway",
+          "Rock Bottom",
+          "",
+          "C'mon and Love Me （激しい愛を）",
+          "Anything for My Baby （あの娘のために）",
+          "She （彼女）",
+          "Love Her All I Can （すべての愛を）",
+          "Rock and Roll All Nite"
+        ]
+      ]
+    }
+  ],
+  "rate": 85,
+  "comment": "出だしからなかなかスピーディーで期待の高まる3作目。だがそのテンションは続かずに2曲目からはいつも通りになってしまっている。いい曲と捨て曲の割合は前作とほぼ同じだが、固まっていた前作に対してこちらはしっかり散らばっているので、途中で飽きたりすることなく聴ける。しかもこの頃は1曲1曲が短いため、捨て曲でも長く時間がかからないのであまり気にならない。",
+  "recommend": ["Room Service", "Rock Bottom", "C'mon and Love Me", "Anything for My Baby", "Rock and Roll All Nite"],
+  "description": "3rdアルバム",
+  "type": "album",
+  "img": ["kiss03.jpg"]
+}

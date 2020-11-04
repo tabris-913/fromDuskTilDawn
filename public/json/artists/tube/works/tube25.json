@@ -1,1 +1,18 @@
-{"uid": "tube25", "date": "2003-07-16", "genres": [], "review_done": false, "name": "OASIS", "ruby": "", "artist": "TUBE", "year": 2003, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "25thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "tube25",
+  "date": "2003-07-16",
+  "genres": [],
+  "review_done": false,
+  "name": "OASIS",
+  "ruby": "",
+  "artist": "TUBE",
+  "year": 2003,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "25thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

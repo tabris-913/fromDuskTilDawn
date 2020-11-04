@@ -1,1 +1,13 @@
-{"name": "黒崎蘭丸", "ruby": "くろさきらんまる", "uid": "rammaru_kurosaki", "related": ["quartet_night"], "en": "Rammaru Kurosaki", "initial": ["か"], "singles": [], "others": [], "ruby4Sort": "くろさきらんまる", "albums": [], "genres": []}
+{
+  "name": "黒崎蘭丸",
+  "ruby": "くろさきらんまる",
+  "uid": "rammaru_kurosaki",
+  "related": ["quartet_night"],
+  "en": "Rammaru Kurosaki",
+  "initial": ["か"],
+  "singles": [],
+  "others": [],
+  "ruby4Sort": "くろさきらんまる",
+  "albums": [],
+  "genres": []
+}

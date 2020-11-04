@@ -1,1 +1,42 @@
-{"uid": "slayer05", "date": "", "genres": [], "review_done": false, "name": "Seasons in the Abyss", "artist": ["Slayer"], "year": 1990, "list": [{"list": [["", "War Ensemble", "Blood Red", "Spirit in Black", "Expendable Youth", "Dead Skin Mask", "", "Hallowed Point", "Skeletons of Society", "Temptation", "Born of Fire", "Seasons in the Abyss"]]}], "rate": 87, "comment": "前作のようにスロウなヘヴィネスを見せる曲もあるが、1曲目や6曲目のようなスラッシュも健在。特に後半につれて疾走が多くなるのは前作と同様の構成だ。しかしこちらの方がヘヴィネスとスピードのバランスがいい。しかし前作よりもかっこいいリフが多く、彼らのスタイルを一番よく表しているアルバムと言える。1曲目はAngel of DeathやRaining Bloodと並ぶ名曲だ。", "recommend": ["War Ensemble", "Spirit in Black", "Hallowed Point", "Temptation", "Born of Fire", "Seasons in the Abyss"], "description": "5thアルバム", "type": "album", "img": ["slayer05.jpg"]}
+{
+  "uid": "slayer05",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Seasons in the Abyss",
+  "artist": ["Slayer"],
+  "year": 1990,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "War Ensemble",
+          "Blood Red",
+          "Spirit in Black",
+          "Expendable Youth",
+          "Dead Skin Mask",
+          "",
+          "Hallowed Point",
+          "Skeletons of Society",
+          "Temptation",
+          "Born of Fire",
+          "Seasons in the Abyss"
+        ]
+      ]
+    }
+  ],
+  "rate": 87,
+  "comment": "前作のようにスロウなヘヴィネスを見せる曲もあるが、1曲目や6曲目のようなスラッシュも健在。特に後半につれて疾走が多くなるのは前作と同様の構成だ。しかしこちらの方がヘヴィネスとスピードのバランスがいい。しかし前作よりもかっこいいリフが多く、彼らのスタイルを一番よく表しているアルバムと言える。1曲目はAngel of DeathやRaining Bloodと並ぶ名曲だ。",
+  "recommend": [
+    "War Ensemble",
+    "Spirit in Black",
+    "Hallowed Point",
+    "Temptation",
+    "Born of Fire",
+    "Seasons in the Abyss"
+  ],
+  "description": "5thアルバム",
+  "type": "album",
+  "img": ["slayer05.jpg"]
+}

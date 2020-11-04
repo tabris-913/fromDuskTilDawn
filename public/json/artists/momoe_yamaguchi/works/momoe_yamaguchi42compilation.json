@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi42compilation", "date": "2013-05-22", "genres": [], "review_done": false, "name": "GOLDEN☆BEST 山口百恵 アルバム・セレクション", "ruby": "", "artist": "山口百恵", "year": 2013, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "42thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi42compilation",
+  "date": "2013-05-22",
+  "genres": [],
+  "review_done": false,
+  "name": "GOLDEN☆BEST 山口百恵 アルバム・セレクション",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 2013,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "42thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

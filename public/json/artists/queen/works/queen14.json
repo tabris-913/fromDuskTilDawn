@@ -1,1 +1,44 @@
-{"uid": "queen14", "date": "", "genres": [], "review_done": false, "name": "Innuendo ", "artist": ["Queen"], "year": 1991, "list": [{"list": [["", "Innuendo", "I'm Going Slightly Mad （狂気への序曲）", "Headlong", "I Can't Live with You", "Don't Try So Hard", "Ride the Wild Wind", "", "All God's People （神々の民）", "These Are the Days of Our Lives （輝ける日々）", "Delilah （愛しきデライラ）", "The Hitman", "Bijou", "The Show Must Go On"]]}], "rate": 99, "comment": "完璧なアルバム。Queen IIも、A Night at the Operaもやすやすと超える超傑作。Freddieの鬼気迫るヴォーカルは、命の灯が消えかかっている者にのみ許されたエモーションを孕んでいる。後にも先にもこれを超える作品は存在しない。誰も到達できなかった場所に彼らは立った。ただスピーカーから流れる音を、体全体で感じればいい。そうすればクイーンは、Freddieは生き返る。始まりと終わり、1曲目と12曲目にはもはや説明の言葉はいらないだろう。ネオクラシカルなインストから始まる11曲目から、世界で最もエモーショナルな曲と言っても過言ではないどころかまだ言葉が足りない12曲目というエンディングは、ロック史上最もドラマティックかつ感動的なアルバムのエンディングである。しかしThe Show Must Go Onという言葉はかなわず、本作リリースから10か月でFreddie Mercuryは鬼籍に入った。", "recommend": ["全部　特に全部　特にの特にInnuendo", "Don't Try So Hard", "All God's People", "The Hit Man", "Bijou", "The Show Must Go On"], "description": "14thアルバム", "type": "album", "img": ["queen14.jpg"]}
+{
+  "uid": "queen14",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Innuendo ",
+  "artist": ["Queen"],
+  "year": 1991,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Innuendo",
+          "I'm Going Slightly Mad （狂気への序曲）",
+          "Headlong",
+          "I Can't Live with You",
+          "Don't Try So Hard",
+          "Ride the Wild Wind",
+          "",
+          "All God's People （神々の民）",
+          "These Are the Days of Our Lives （輝ける日々）",
+          "Delilah （愛しきデライラ）",
+          "The Hitman",
+          "Bijou",
+          "The Show Must Go On"
+        ]
+      ]
+    }
+  ],
+  "rate": 99,
+  "comment": "完璧なアルバム。Queen IIも、A Night at the Operaもやすやすと超える超傑作。Freddieの鬼気迫るヴォーカルは、命の灯が消えかかっている者にのみ許されたエモーションを孕んでいる。後にも先にもこれを超える作品は存在しない。誰も到達できなかった場所に彼らは立った。ただスピーカーから流れる音を、体全体で感じればいい。そうすればクイーンは、Freddieは生き返る。始まりと終わり、1曲目と12曲目にはもはや説明の言葉はいらないだろう。ネオクラシカルなインストから始まる11曲目から、世界で最もエモーショナルな曲と言っても過言ではないどころかまだ言葉が足りない12曲目というエンディングは、ロック史上最もドラマティックかつ感動的なアルバムのエンディングである。しかしThe Show Must Go Onという言葉はかなわず、本作リリースから10か月でFreddie Mercuryは鬼籍に入った。",
+  "recommend": [
+    "全部　特に全部　特にの特にInnuendo",
+    "Don't Try So Hard",
+    "All God's People",
+    "The Hit Man",
+    "Bijou",
+    "The Show Must Go On"
+  ],
+  "description": "14thアルバム",
+  "type": "album",
+  "img": ["queen14.jpg"]
+}

@@ -1,1 +1,18 @@
-{"uid": "tube37", "date": "2020-07-08", "genres": [], "review_done": false, "name": "日本の夏からこんにちは", "ruby": "", "artist": "TUBE", "year": 2020, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "37thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "tube37",
+  "date": "2020-07-08",
+  "genres": [],
+  "review_done": false,
+  "name": "日本の夏からこんにちは",
+  "ruby": "",
+  "artist": "TUBE",
+  "year": 2020,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "37thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

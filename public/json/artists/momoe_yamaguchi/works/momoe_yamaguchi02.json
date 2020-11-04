@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi02", "date": "1973-12-21", "genres": [], "review_done": false, "name": "青い果実／禁じられた遊び", "ruby": "", "artist": "山口百恵", "year": 1973, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "2thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi02",
+  "date": "1973-12-21",
+  "genres": [],
+  "review_done": false,
+  "name": "青い果実／禁じられた遊び",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1973,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "2thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

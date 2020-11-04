@@ -1,1 +1,41 @@
-{"uid": "yngwie_malmsteen03live", "date": "", "genres": [], "review_done": false, "name": "Concerto Suite for Electric Guitar and Orchestra in E Flat Minor Live with the New Japan Philharmonic （エレクトリックギターとオーケストラのための協奏組曲 変ホ短調：コンチェルト・ライヴ・イン・ジャパン・ウィズ・新日本フィルハーモニー交響楽団） ", "artist": ["Yngwie Johann Malmsteen"], "year": 2002, "list": [{"list": [["", "Black Star Overture [Orchestra Only]", "Trilogy Suite Op.5, The First Movement", "Brothers", "Icarus Dream Fanfare", "Cavallino Rampante", "Fugue", "Prelude to April", "Toccata", "", "Andante", "Sarabande", "Allegro", "Vivace", "Presto Vivace", "Finale", "Blitzkrieg", "Far Beyond the Sun"]]}], "rate": 98, "comment": "イングヴェイの最高傑作である、あのコンチェルト・スイートのライヴアルバム。もちろん演奏されたのはConcerto Suiteのみではなく、代表曲も少し演奏されている。もとから素晴らしいのに、そこにオーケストラが絡むわけだから名曲ども素晴らしく向上。終わり2曲はアンコールなのだが、なんといってもラストは究極だ。イングヴェイ屈指の名曲をオーケストラと共に堪能できるとは。これは紛れもなくライヴアルバムの大傑作だ。完璧すぎて怖い。", "recommend": ["全部"], "description": "Johann Malmsteen 3rdライヴアルバム", "type": "album", "img": ["yngwie03l.jpg"]}
+{
+  "uid": "yngwie_malmsteen03live",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Concerto Suite for Electric Guitar and Orchestra in E Flat Minor Live with the New Japan Philharmonic （エレクトリックギターとオーケストラのための協奏組曲 変ホ短調：コンチェルト・ライヴ・イン・ジャパン・ウィズ・新日本フィルハーモニー交響楽団） ",
+  "artist": ["Yngwie Johann Malmsteen"],
+  "year": 2002,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Black Star Overture [Orchestra Only]",
+          "Trilogy Suite Op.5, The First Movement",
+          "Brothers",
+          "Icarus Dream Fanfare",
+          "Cavallino Rampante",
+          "Fugue",
+          "Prelude to April",
+          "Toccata",
+          "",
+          "Andante",
+          "Sarabande",
+          "Allegro",
+          "Vivace",
+          "Presto Vivace",
+          "Finale",
+          "Blitzkrieg",
+          "Far Beyond the Sun"
+        ]
+      ]
+    }
+  ],
+  "rate": 98,
+  "comment": "イングヴェイの最高傑作である、あのコンチェルト・スイートのライヴアルバム。もちろん演奏されたのはConcerto Suiteのみではなく、代表曲も少し演奏されている。もとから素晴らしいのに、そこにオーケストラが絡むわけだから名曲ども素晴らしく向上。終わり2曲はアンコールなのだが、なんといってもラストは究極だ。イングヴェイ屈指の名曲をオーケストラと共に堪能できるとは。これは紛れもなくライヴアルバムの大傑作だ。完璧すぎて怖い。",
+  "recommend": ["全部"],
+  "description": "Johann Malmsteen 3rdライヴアルバム",
+  "type": "album",
+  "img": ["yngwie03l.jpg"]
+}

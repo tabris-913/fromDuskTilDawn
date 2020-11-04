@@ -1,1 +1,43 @@
-{"uid": "rhapsody_of_fire06", "date": "", "genres": [], "review_done": false, "name": "Symphony of Enchanted Lands II -The Dark Secret", "artist": ["Rhapsody"], "year": 2004, "list": [{"list": [["", "The Dark Secret -Ira Divina", "Unholy Warcry", "Never Forgotten Heroes", "Elgard's Green Valleys", "The Magic of the Wizard's Dream", "Erian's Mystical Rhymes -The White Dragon's Order", "", "The Last Angel's Call", "Dragonland's River", "Sacred Power of Raging Winds", "Guardiani del Destino", "Shadow of Death", "Nightfall on the Grey Mountains"]]}], "rate": 82, "comment": "新たな物語、その名もThe Dark Secret Sagaの始まりだ！Emerald Sword Sagaよりも落ち着いた雰囲気のためか、若干物足りなさを感じてしまう。しかも先行発売されたミニアルバムに今作のキラーチューンである2曲目や、名曲9曲目が収録されていたので新鮮さも欠ける。", "recommend": ["Unholy Warcry", "Never Forgotten Heroes", "The Last Angel's Call", "Sacred Power of Raging Winds", "Shadows of Death"], "description": "6thアルバム", "type": "album", "img": ["rhapsody06.jpg"]}
+{
+  "uid": "rhapsody_of_fire06",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Symphony of Enchanted Lands II -The Dark Secret",
+  "artist": ["Rhapsody"],
+  "year": 2004,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "The Dark Secret -Ira Divina",
+          "Unholy Warcry",
+          "Never Forgotten Heroes",
+          "Elgard's Green Valleys",
+          "The Magic of the Wizard's Dream",
+          "Erian's Mystical Rhymes -The White Dragon's Order",
+          "",
+          "The Last Angel's Call",
+          "Dragonland's River",
+          "Sacred Power of Raging Winds",
+          "Guardiani del Destino",
+          "Shadow of Death",
+          "Nightfall on the Grey Mountains"
+        ]
+      ]
+    }
+  ],
+  "rate": 82,
+  "comment": "新たな物語、その名もThe Dark Secret Sagaの始まりだ！Emerald Sword Sagaよりも落ち着いた雰囲気のためか、若干物足りなさを感じてしまう。しかも先行発売されたミニアルバムに今作のキラーチューンである2曲目や、名曲9曲目が収録されていたので新鮮さも欠ける。",
+  "recommend": [
+    "Unholy Warcry",
+    "Never Forgotten Heroes",
+    "The Last Angel's Call",
+    "Sacred Power of Raging Winds",
+    "Shadows of Death"
+  ],
+  "description": "6thアルバム",
+  "type": "album",
+  "img": ["rhapsody06.jpg"]
+}

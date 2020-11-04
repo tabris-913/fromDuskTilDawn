@@ -1,1 +1,12 @@
-{"name": "アイドルソング 美風藍", "description": "", "date": "2014-06-25", "year": 2014, "artist": ["ai"], "list": [{"disk_no": 1, "name": "", "list": ["A.I", "二人のモノグラム"]}], "comment": "", "uid": "utapri32sg", "img": ["utapri32sg.jpg"], "rate": 0}
+{
+  "name": "アイドルソング 美風藍",
+  "description": "",
+  "date": "2014-06-25",
+  "year": 2014,
+  "artist": ["ai"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["A.I", "二人のモノグラム"] }],
+  "comment": "",
+  "uid": "utapri32sg",
+  "img": ["utapri32sg.jpg"],
+  "rate": 0
+}

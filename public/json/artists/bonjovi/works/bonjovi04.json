@@ -1,1 +1,44 @@
-{"uid": "bonjovi04", "date": "", "genres": [], "review_done": false, "name": "New Jersey ", "artist": ["Bon Jovi"], "year": 1988, "list": [{"list": [["", "Lay Your Hands on Me", "Bad Medicine", "Born to Be My Baby", "Living in Sin", "Blood on Blood", "Homebound Train", "", "Wild Is the Wind", "Ride Cowboy Ride", "Stick to You Guns", "I'll Be There for You", "99 in the Shade", "Love for Sale"]]}], "rate": 89, "comment": "大ヒットした前作の余波が消えぬうちにリリースされた4作目。本作ではアメリカだけでなくイギリスでも1位を獲得。リリースしたシングルも#2,10が1位、#3が3位、#1が7位、#4が9位とことごとくTOP 10入り。今作も冒頭から畳み掛けるスタイルで、これぞBon Joviという名曲が立ち並ぶ。特に#2,3はこれまでの代表曲と比べても遜色ない完成度で、本作を支える二本柱という印象だ。とはいえ前作よりもさらに日本人の好みから逸れてしまったように感じられる。", "recommend": ["Lay Your Hands on Me", "Bad Medicine", "Born to Be My Baby", "Homebound Train", "Wil Is the Wind", "I'll Be There for You"], "description": "Jovi 4thアルバム", "type": "album", "img": ["bonjovi04.jpg"]}
+{
+  "uid": "bonjovi04",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "New Jersey ",
+  "artist": ["Bon Jovi"],
+  "year": 1988,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Lay Your Hands on Me",
+          "Bad Medicine",
+          "Born to Be My Baby",
+          "Living in Sin",
+          "Blood on Blood",
+          "Homebound Train",
+          "",
+          "Wild Is the Wind",
+          "Ride Cowboy Ride",
+          "Stick to You Guns",
+          "I'll Be There for You",
+          "99 in the Shade",
+          "Love for Sale"
+        ]
+      ]
+    }
+  ],
+  "rate": 89,
+  "comment": "大ヒットした前作の余波が消えぬうちにリリースされた4作目。本作ではアメリカだけでなくイギリスでも1位を獲得。リリースしたシングルも#2,10が1位、#3が3位、#1が7位、#4が9位とことごとくTOP 10入り。今作も冒頭から畳み掛けるスタイルで、これぞBon Joviという名曲が立ち並ぶ。特に#2,3はこれまでの代表曲と比べても遜色ない完成度で、本作を支える二本柱という印象だ。とはいえ前作よりもさらに日本人の好みから逸れてしまったように感じられる。",
+  "recommend": [
+    "Lay Your Hands on Me",
+    "Bad Medicine",
+    "Born to Be My Baby",
+    "Homebound Train",
+    "Wil Is the Wind",
+    "I'll Be There for You"
+  ],
+  "description": "Jovi 4thアルバム",
+  "type": "album",
+  "img": ["bonjovi04.jpg"]
+}

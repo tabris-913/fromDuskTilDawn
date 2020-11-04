@@ -1,1 +1,12 @@
-{"name": "Shining Masterpiece Show リコリスの森", "description": "", "date": "2018-02-28", "year": 0, "artist": ["otoya", "tokiya", "ren", "cecil"], "list": [{"disk_no": 1, "name": "", "list": ["リコリスの森"]}], "comment": "", "uid": "utapri10theater", "img": ["utapri10theater.jpg"], "rate": 0}
+{
+  "name": "Shining Masterpiece Show リコリスの森",
+  "description": "",
+  "date": "2018-02-28",
+  "year": 0,
+  "artist": ["otoya", "tokiya", "ren", "cecil"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["リコリスの森"] }],
+  "comment": "",
+  "uid": "utapri10theater",
+  "img": ["utapri10theater.jpg"],
+  "rate": 0
+}

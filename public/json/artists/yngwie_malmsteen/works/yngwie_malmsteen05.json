@@ -1,1 +1,38 @@
-{"uid": "yngwie_malmsteen05", "date": "", "genres": [], "review_done": false, "name": "Eclipse ", "artist": ["Yngwie Malmsteen"], "year": 1990, "list": [{"list": [["", "Making Love", "Bedroom Eyes", "Save Our Love", "Motherless Child", "Devil in Disguise", "Judas", "What Do You Want", "", "Demon Driver", "Faultline", "See You in Hell (Don't Be Late)", "Eclipse", "(JAPANESE BONUS TRACK)", "Making Love [extended guitar mix]"]]}], "rate": 91, "comment": "キレが大分戻ってきた作品。疾走曲はあまり大きくなく、ミドル曲が中心と言う印象が強い。しかしクラシカルなギターのメロディは秀逸だ。4曲目は本作一のキラーチューンで、その爽やかなスピード感は筆舌に尽くしがたい。それから後半に優れた曲が多い印象を受けるが、本編ラストのインストであるタイトル曲は凄まじい。イングヴェイ完全復活だ。", "recommend": ["全部　特にMotherless Child", "Demon Driver", "See You in Hell", "Eclipse"], "description": "Malmsteen 5thアルバム", "type": "album", "img": ["yngwie05.jpg"]}
+{
+  "uid": "yngwie_malmsteen05",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Eclipse ",
+  "artist": ["Yngwie Malmsteen"],
+  "year": 1990,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Making Love",
+          "Bedroom Eyes",
+          "Save Our Love",
+          "Motherless Child",
+          "Devil in Disguise",
+          "Judas",
+          "What Do You Want",
+          "",
+          "Demon Driver",
+          "Faultline",
+          "See You in Hell (Don't Be Late)",
+          "Eclipse",
+          "(JAPANESE BONUS TRACK)",
+          "Making Love [extended guitar mix]"
+        ]
+      ]
+    }
+  ],
+  "rate": 91,
+  "comment": "キレが大分戻ってきた作品。疾走曲はあまり大きくなく、ミドル曲が中心と言う印象が強い。しかしクラシカルなギターのメロディは秀逸だ。4曲目は本作一のキラーチューンで、その爽やかなスピード感は筆舌に尽くしがたい。それから後半に優れた曲が多い印象を受けるが、本編ラストのインストであるタイトル曲は凄まじい。イングヴェイ完全復活だ。",
+  "recommend": ["全部　特にMotherless Child", "Demon Driver", "See You in Hell", "Eclipse"],
+  "description": "Malmsteen 5thアルバム",
+  "type": "album",
+  "img": ["yngwie05.jpg"]
+}

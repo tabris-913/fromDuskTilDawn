@@ -8,7 +8,10 @@
       "uid": "utapri46sg",
       "artist": ["starish"],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
@@ -99,14 +102,20 @@
       "uid": "utapri54sg",
       "artist": ["quartet_night"],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
       "uid": "utapri55sg",
       "artist": ["heavens"],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
@@ -182,7 +191,10 @@
       "uid": "utapri58sg",
       "artist": [],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     }
   ]

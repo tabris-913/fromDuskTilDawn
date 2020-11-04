@@ -15,7 +15,10 @@
       "uid": "utapri59sg",
       "artist": ["starish"],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
@@ -36,7 +39,10 @@
       "uid": "utapri60sg",
       "artist": ["quartet_night"],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
@@ -121,7 +127,10 @@
       "uid": "utapri62sg",
       "artist": ["heavens"],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
@@ -135,56 +144,80 @@
       "uid": "utapri02",
       "artist": ["otoya_ittoki"],
       "comment": "",
-      "song_list": [{ "track_no": 9, "comment": "" }, { "track_no": 10, "comment": "" }],
+      "song_list": [
+        { "track_no": 9, "comment": "" },
+        { "track_no": 10, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
       "uid": "utapri03",
       "artist": ["masato_hijirikawa"],
       "comment": "",
-      "song_list": [{ "track_no": 9, "comment": "" }, { "track_no": 10, "comment": "" }],
+      "song_list": [
+        { "track_no": 9, "comment": "" },
+        { "track_no": 10, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
       "uid": "utapri04",
       "artist": ["natsuki_shinomiya"],
       "comment": "",
-      "song_list": [{ "track_no": 9, "comment": "" }, { "track_no": 10, "comment": "" }],
+      "song_list": [
+        { "track_no": 9, "comment": "" },
+        { "track_no": 10, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
       "uid": "utapri63sg",
       "artist": [],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
       "uid": "utapri05",
       "artist": ["tokiya_ichinose"],
       "comment": "",
-      "song_list": [{ "track_no": 9, "comment": "" }, { "track_no": 10, "comment": "" }],
+      "song_list": [
+        { "track_no": 9, "comment": "" },
+        { "track_no": 10, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
       "uid": "utapri06",
       "artist": ["ren_jinguji"],
       "comment": "",
-      "song_list": [{ "track_no": 9, "comment": "" }, { "track_no": 10, "comment": "" }],
+      "song_list": [
+        { "track_no": 9, "comment": "" },
+        { "track_no": 10, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
       "uid": "utapri07",
       "artist": ["sho_kurusu"],
       "comment": "",
-      "song_list": [{ "track_no": 9, "comment": "" }, { "track_no": 10, "comment": "" }],
+      "song_list": [
+        { "track_no": 9, "comment": "" },
+        { "track_no": 10, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
       "uid": "utapri08",
       "artist": ["cecil_aijima"],
       "comment": "",
-      "song_list": [{ "track_no": 9, "comment": "" }, { "track_no": 10, "comment": "" }],
+      "song_list": [
+        { "track_no": 9, "comment": "" },
+        { "track_no": 10, "comment": "" }
+      ],
       "workArtistId": "utapri"
     }
   ]

@@ -1,1 +1,13 @@
-{"name": "QUARTET NIGHT", "ruby": "カルテット・ナイト", "uid": "quartet_night", "related": ["reiji_kotobuki", "rammaru_kurosaki", "ai_mikaze", "camus", "shining_stars"], "ruby4Sort": "かるてっと・ないと", "initial": ["か", "Q"], "singles": [], "others": [], "en": "QUARTET NIGHT", "albums": [], "genres": []}
+{
+  "name": "QUARTET NIGHT",
+  "ruby": "カルテット・ナイト",
+  "uid": "quartet_night",
+  "related": ["reiji_kotobuki", "rammaru_kurosaki", "ai_mikaze", "camus", "shining_stars"],
+  "ruby4Sort": "かるてっと・ないと",
+  "initial": ["か", "Q"],
+  "singles": [],
+  "others": [],
+  "en": "QUARTET NIGHT",
+  "albums": [],
+  "genres": []
+}

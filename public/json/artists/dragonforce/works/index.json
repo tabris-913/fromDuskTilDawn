@@ -1,1 +1,48 @@
-{"albums": {"dragonforce01": {"uid": "dragonforce01", "name": "Valley of the Damned ", "date": "", "img": ["df01.jpg"], "review_done": false}, "dragonforce02": {"uid": "dragonforce02", "name": "Sonic Firestorm ", "date": "", "img": ["df02.jpg"], "review_done": false}, "dragonforce03": {"uid": "dragonforce03", "name": "Inhuman Rampage ", "date": "", "img": ["df03.jpg"], "review_done": false}, "dragonforce04": {"uid": "dragonforce04", "name": "Ultra Beatdown ", "date": "", "img": ["df04.jpg"], "review_done": false}, "dragonforce05": {"uid": "dragonforce05", "name": "The Power Within ", "date": "", "img": ["df05.jpg"], "review_done": false}, "dragonforce06": {"uid": "dragonforce06", "name": "Maximum Overload ", "date": "", "img": ["df06.jpg"], "review_done": false}}, "singles": {}, "others": {}}
+{
+  "albums": {
+    "dragonforce01": {
+      "uid": "dragonforce01",
+      "name": "Valley of the Damned ",
+      "date": "",
+      "img": ["df01.jpg"],
+      "review_done": false
+    },
+    "dragonforce02": {
+      "uid": "dragonforce02",
+      "name": "Sonic Firestorm ",
+      "date": "",
+      "img": ["df02.jpg"],
+      "review_done": false
+    },
+    "dragonforce03": {
+      "uid": "dragonforce03",
+      "name": "Inhuman Rampage ",
+      "date": "",
+      "img": ["df03.jpg"],
+      "review_done": false
+    },
+    "dragonforce04": {
+      "uid": "dragonforce04",
+      "name": "Ultra Beatdown ",
+      "date": "",
+      "img": ["df04.jpg"],
+      "review_done": false
+    },
+    "dragonforce05": {
+      "uid": "dragonforce05",
+      "name": "The Power Within ",
+      "date": "",
+      "img": ["df05.jpg"],
+      "review_done": false
+    },
+    "dragonforce06": {
+      "uid": "dragonforce06",
+      "name": "Maximum Overload ",
+      "date": "",
+      "img": ["df06.jpg"],
+      "review_done": false
+    }
+  },
+  "singles": {},
+  "others": {}
+}

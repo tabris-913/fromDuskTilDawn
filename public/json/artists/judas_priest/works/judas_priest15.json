@@ -1,1 +1,35 @@
-{"uid": "judas_priest15", "date": "", "genres": [], "review_done": false, "name": "Angel of Retribution", "artist": ["Judas Priest"], "year": 2005, "list": [{"list": [["", "Judas Rising", "Deal with the Devil", "Revolution", "Worth Fighting for", "Demonizer", "", "Wheels of Fire", "Angel", "Hellrider", "Eulogy", "Lochness"]]}], "rate": 82, "comment": "Judas Risingというなんともあざといタイトルの曲から始まる15作目。ハルフォードが復帰したアルバムで、Painkillerの勿れを汲む作品だ。同じくPainkillerの流れを汲んでいたリッパー時代の作品よりも、ジューダスらしさに溢れたものとなっている。しかしやはり黄金期と比べてしまえば非常に地味だ。しかしデビューから30年を迎えるバンドとして、新しい世代にどのような音楽を提示していけばよいのかを示した名作だ。", "recommend": ["Judas Rising", "Deal with the Devil", "Demonizer", "Hellrider", "Lochness"], "description": "Priest 15thアルバム", "type": "album", "img": ["judas15.jpg"]}
+{
+  "uid": "judas_priest15",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Angel of Retribution",
+  "artist": ["Judas Priest"],
+  "year": 2005,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Judas Rising",
+          "Deal with the Devil",
+          "Revolution",
+          "Worth Fighting for",
+          "Demonizer",
+          "",
+          "Wheels of Fire",
+          "Angel",
+          "Hellrider",
+          "Eulogy",
+          "Lochness"
+        ]
+      ]
+    }
+  ],
+  "rate": 82,
+  "comment": "Judas Risingというなんともあざといタイトルの曲から始まる15作目。ハルフォードが復帰したアルバムで、Painkillerの勿れを汲む作品だ。同じくPainkillerの流れを汲んでいたリッパー時代の作品よりも、ジューダスらしさに溢れたものとなっている。しかしやはり黄金期と比べてしまえば非常に地味だ。しかしデビューから30年を迎えるバンドとして、新しい世代にどのような音楽を提示していけばよいのかを示した名作だ。",
+  "recommend": ["Judas Rising", "Deal with the Devil", "Demonizer", "Hellrider", "Lochness"],
+  "description": "Priest 15thアルバム",
+  "type": "album",
+  "img": ["judas15.jpg"]
+}

@@ -1,1 +1,36 @@
-{"uid": "metallica08", "date": "", "genres": [], "review_done": false, "name": "St. Anger", "artist": ["Metallica"], "year": 2003, "list": [{"list": [["", "Frantic", "St. Anger", "Some Kind of Monster", "Dirty Window", "Invisible Kid", "My World", "", "Shoot Me Again", "Sweet Amber", "The Unnamed Feeling", "Purify", "All Within My Hands"]]}], "rate": 77, "comment": "おお！復活か！？……と思ったけど、なんかちょっと違うかな。でも明らかにLoad、ReLoadよりは遥かにいい。ハードコアな雰囲気を感じるけど、勢いがないよりはあったほうがいい。でもこれはReLoadのあまりの不出来さでマシに思えてるだ。それでも少しは勢いを取り戻してくれてよかった。この調子で徐々に本来の姿に戻ってくれるといいのだが", "recommend": ["Frantic", "St. Anger", "Invisible Kid", "My World"], "description": "8thアルバム", "type": "album", "img": ["metallica08.jpg"]}
+{
+  "uid": "metallica08",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "St. Anger",
+  "artist": ["Metallica"],
+  "year": 2003,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Frantic",
+          "St. Anger",
+          "Some Kind of Monster",
+          "Dirty Window",
+          "Invisible Kid",
+          "My World",
+          "",
+          "Shoot Me Again",
+          "Sweet Amber",
+          "The Unnamed Feeling",
+          "Purify",
+          "All Within My Hands"
+        ]
+      ]
+    }
+  ],
+  "rate": 77,
+  "comment": "おお！復活か！？……と思ったけど、なんかちょっと違うかな。でも明らかにLoad、ReLoadよりは遥かにいい。ハードコアな雰囲気を感じるけど、勢いがないよりはあったほうがいい。でもこれはReLoadのあまりの不出来さでマシに思えてるだ。それでも少しは勢いを取り戻してくれてよかった。この調子で徐々に本来の姿に戻ってくれるといいのだが",
+  "recommend": ["Frantic", "St. Anger", "Invisible Kid", "My World"],
+  "description": "8thアルバム",
+  "type": "album",
+  "img": ["metallica08.jpg"]
+}

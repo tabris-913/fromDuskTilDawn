@@ -1,1 +1,39 @@
-{"uid": "iron_maiden07", "date": "", "genres": [], "review_done": false, "name": "Seventh Son of a Seventh Son （第七の予言） ", "artist": ["Iron Maiden"], "year": 1988, "list": [{"list": [["", "Moonchild", "Infinite Dreams", "Can I Play with Madness", "The Evil That Men Do", "", "Seventh Son of a Seventh Son （第七の予言）", "The Prophecy", "The Clairvoyant （透視能力者）", "Only the Good Die Young"]]}], "rate": 88, "comment": "前作で取り入れたポップな要素と、それ以前のプログレッシヴな要素をうまく織り交ぜた7作目。3曲目は前者の極みというべき名曲で、ポップなコーラスワークには腰を抜かす。しかも「君がセックス当番だ」という空耳まで聞こえる(笑)。5曲目はRime of the Ancient Marinerには及ばないものの緊張感ある長尺曲だ。七番目の息子の七番目の息子は悪魔であるという伝承にのっとったコンセプト作でもある。", "recommend": ["Infinite Dreams", "Can I Play with Madness", "The Evil That Men Do", "Seventh Son of a Seventh Son", "The Clairvoyant"], "description": "Maiden 7thアルバム", "type": "album", "img": ["maiden07.jpg"]}
+{
+  "uid": "iron_maiden07",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Seventh Son of a Seventh Son （第七の予言） ",
+  "artist": ["Iron Maiden"],
+  "year": 1988,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Moonchild",
+          "Infinite Dreams",
+          "Can I Play with Madness",
+          "The Evil That Men Do",
+          "",
+          "Seventh Son of a Seventh Son （第七の予言）",
+          "The Prophecy",
+          "The Clairvoyant （透視能力者）",
+          "Only the Good Die Young"
+        ]
+      ]
+    }
+  ],
+  "rate": 88,
+  "comment": "前作で取り入れたポップな要素と、それ以前のプログレッシヴな要素をうまく織り交ぜた7作目。3曲目は前者の極みというべき名曲で、ポップなコーラスワークには腰を抜かす。しかも「君がセックス当番だ」という空耳まで聞こえる(笑)。5曲目はRime of the Ancient Marinerには及ばないものの緊張感ある長尺曲だ。七番目の息子の七番目の息子は悪魔であるという伝承にのっとったコンセプト作でもある。",
+  "recommend": [
+    "Infinite Dreams",
+    "Can I Play with Madness",
+    "The Evil That Men Do",
+    "Seventh Son of a Seventh Son",
+    "The Clairvoyant"
+  ],
+  "description": "Maiden 7thアルバム",
+  "type": "album",
+  "img": ["maiden07.jpg"]
+}

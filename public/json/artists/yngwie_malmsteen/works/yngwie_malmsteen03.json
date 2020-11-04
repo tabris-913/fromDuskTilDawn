@@ -1,1 +1,34 @@
-{"uid": "yngwie_malmsteen03", "date": "", "genres": [], "review_done": false, "name": "Trilogy ", "artist": ["Yngwie J. Malmsteen"], "year": 1986, "list": [{"list": [["", "You Don't Remember, I'll Never Forget", "Liar", "Queen in Love", "Cruing", "", "Fury", "Fire", "Magic Mirror", "Dark Ages", "Trilogy Suite Op.5"]]}], "rate": 94, "comment": "前作でヴォーカル入りネオ・クラシカル・メタルを完成させたインギー。本作ではこれまで徐々に進化を遂げてきたジャンルの到達点と言える作品だ。デビュー作のように研ぎ澄まされたインスト曲は、9曲目で究極の形となった。前作のようにヴォーカルが生かされた曲は、1,2,5,6曲目のように良質なメロディが溢れる形となった。最高傑作と呼んでも差し支えないほどの出来栄えであり、間違いなく彼の代表作である。", "recommend": ["全部　特にYou Don't Remember, I'll Never Forget", "Liar", "Fury", "Fire", "Trilogy Suite Op.5"], "description": "J. Malmsteen 3rdアルバム", "type": "album", "img": ["yngwie03.jpg"]}
+{
+  "uid": "yngwie_malmsteen03",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Trilogy ",
+  "artist": ["Yngwie J. Malmsteen"],
+  "year": 1986,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "You Don't Remember, I'll Never Forget",
+          "Liar",
+          "Queen in Love",
+          "Cruing",
+          "",
+          "Fury",
+          "Fire",
+          "Magic Mirror",
+          "Dark Ages",
+          "Trilogy Suite Op.5"
+        ]
+      ]
+    }
+  ],
+  "rate": 94,
+  "comment": "前作でヴォーカル入りネオ・クラシカル・メタルを完成させたインギー。本作ではこれまで徐々に進化を遂げてきたジャンルの到達点と言える作品だ。デビュー作のように研ぎ澄まされたインスト曲は、9曲目で究極の形となった。前作のようにヴォーカルが生かされた曲は、1,2,5,6曲目のように良質なメロディが溢れる形となった。最高傑作と呼んでも差し支えないほどの出来栄えであり、間違いなく彼の代表作である。",
+  "recommend": ["全部　特にYou Don't Remember, I'll Never Forget", "Liar", "Fury", "Fire", "Trilogy Suite Op.5"],
+  "description": "J. Malmsteen 3rdアルバム",
+  "type": "album",
+  "img": ["yngwie03.jpg"]
+}

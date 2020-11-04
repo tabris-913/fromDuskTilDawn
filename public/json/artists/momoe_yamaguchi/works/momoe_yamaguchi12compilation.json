@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi12compilation", "date": "1980-07-21", "genres": [], "review_done": false, "name": "Star Legend 百恵伝説", "ruby": "", "artist": "山口百恵", "year": 1980, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "12thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi12compilation",
+  "date": "1980-07-21",
+  "genres": [],
+  "review_done": false,
+  "name": "Star Legend 百恵伝説",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1980,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "12thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

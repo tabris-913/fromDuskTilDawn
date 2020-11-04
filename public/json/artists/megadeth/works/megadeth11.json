@@ -1,1 +1,47 @@
-{"uid": "megadeth11", "date": "", "genres": [], "review_done": false, "name": "United Abominations", "artist": ["Megadeth"], "year": 2007, "list": [{"list": [["", "Sleepwalker", "Washington Is Next!", "Never Walk Alone... A Call to Arms", "United Abominations", "Gears of War", "Blessed Are the Dead", "Pray for Blood", "À Tout le Monde (Set Me Free)", "", "Amerikhastan", "You're Dead", "Burnt Ice", "(JAPANESE BONUS TRACK)", "Out on the Tiles", "(PREORDER BONUS TRACK)", "Black Swan"]]}], "rate": 84, "comment": "全米8位と、久々のヒットとなった11作目。メガデス完全復活と言った様子を見せている。スラッシュ・メタルとも呼べるアグレッションを取り戻している。2曲目はBURRN!でこの年のベストチューンに選出されたが、それも頷けるだけの曲となっている。中盤は若干モダンさを見せるが、基盤はしっかりとスラッシュなので大した問題ではない。Led Zeppelinのカヴァー日本盤12曲目も非常にかっこいい！", "recommend": ["Sleepwalker", "Washington Is Next!", "Never Walk Alone... A Call to Arms", "Pray for Blood", "Burnt Ice", "Out on the Tiles"], "description": "11thアルバム", "type": "album", "img": ["megadeth11.jpg"]}
+{
+  "uid": "megadeth11",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "United Abominations",
+  "artist": ["Megadeth"],
+  "year": 2007,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Sleepwalker",
+          "Washington Is Next!",
+          "Never Walk Alone... A Call to Arms",
+          "United Abominations",
+          "Gears of War",
+          "Blessed Are the Dead",
+          "Pray for Blood",
+          "À Tout le Monde (Set Me Free)",
+          "",
+          "Amerikhastan",
+          "You're Dead",
+          "Burnt Ice",
+          "(JAPANESE BONUS TRACK)",
+          "Out on the Tiles",
+          "(PREORDER BONUS TRACK)",
+          "Black Swan"
+        ]
+      ]
+    }
+  ],
+  "rate": 84,
+  "comment": "全米8位と、久々のヒットとなった11作目。メガデス完全復活と言った様子を見せている。スラッシュ・メタルとも呼べるアグレッションを取り戻している。2曲目はBURRN!でこの年のベストチューンに選出されたが、それも頷けるだけの曲となっている。中盤は若干モダンさを見せるが、基盤はしっかりとスラッシュなので大した問題ではない。Led Zeppelinのカヴァー日本盤12曲目も非常にかっこいい！",
+  "recommend": [
+    "Sleepwalker",
+    "Washington Is Next!",
+    "Never Walk Alone... A Call to Arms",
+    "Pray for Blood",
+    "Burnt Ice",
+    "Out on the Tiles"
+  ],
+  "description": "11thアルバム",
+  "type": "album",
+  "img": ["megadeth11.jpg"]
+}

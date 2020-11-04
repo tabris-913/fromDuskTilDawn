@@ -1,1 +1,12 @@
-{"name": "アイドルソング 神宮寺レン", "description": "", "date": "2011-08-10", "year": 2011, "artist": ["ren"], "list": [{"disk_no": 1, "name": "", "list": ["世界の果てまでBelieve Heart", "Dear... Burning my Lady!"]}], "comment": "", "uid": "utapri13sg", "img": ["utapri13sg.jpg"], "rate": 0}
+{
+  "name": "アイドルソング 神宮寺レン",
+  "description": "",
+  "date": "2011-08-10",
+  "year": 2011,
+  "artist": ["ren"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["世界の果てまでBelieve Heart", "Dear... Burning my Lady!"] }],
+  "comment": "",
+  "uid": "utapri13sg",
+  "img": ["utapri13sg.jpg"],
+  "rate": 0
+}

@@ -1,1 +1,44 @@
-{"uid": "blind_guardian05", "date": "", "genres": [], "review_done": false, "name": "Imaginations from the Other Side ", "artist": ["Blind Guardian"], "year": 1995, "list": [{"list": [["", "Imaginations from the Other Side", "I'm Alive", "A Past and Future Secret", "The Script for My Requiem", "Mordred's Song", "Born in a Mountain Hall", "", "Bright Eyes", "Another Holy War", "And the Story Ends", "(JAPANESE BONUS TRACK)", "The Wizard （魔法使い）", "The Script for My Requiem [Demo Version]"]]}], "rate": 93, "comment": "ブラガらしい男臭いパワーが漲る5作目。1曲目からバンドを代表するキラーチューンを配置！このアルバムへの自信がうかがえる。4曲目はバンド一といえる名曲で、そこまで激しく疾走しているわけではないが、サビのクワイアによる勇壮さは桁外れ。前作よりもタイトな仕上がりになっている。デビュー作からここまで名盤を作り続けるなんて、やっぱりすごい。ボーナスの10曲目はUriah Heepのカヴァー。原曲はアコースティックギターの存在感が大きいのだが、ブラガver.は完全にブラガの音だ。", "recommend": ["Imaginations from the Other Side", "I'm Alive", "The Script for My Requiem", "Born in a Mountain Hall", "Another Holy War", "\n\t\t\tAnd the Story Ends"], "description": "Guardian 5thアルバム", "type": "album", "img": ["blind05.jpg"]}
+{
+  "uid": "blind_guardian05",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Imaginations from the Other Side ",
+  "artist": ["Blind Guardian"],
+  "year": 1995,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Imaginations from the Other Side",
+          "I'm Alive",
+          "A Past and Future Secret",
+          "The Script for My Requiem",
+          "Mordred's Song",
+          "Born in a Mountain Hall",
+          "",
+          "Bright Eyes",
+          "Another Holy War",
+          "And the Story Ends",
+          "(JAPANESE BONUS TRACK)",
+          "The Wizard （魔法使い）",
+          "The Script for My Requiem [Demo Version]"
+        ]
+      ]
+    }
+  ],
+  "rate": 93,
+  "comment": "ブラガらしい男臭いパワーが漲る5作目。1曲目からバンドを代表するキラーチューンを配置！このアルバムへの自信がうかがえる。4曲目はバンド一といえる名曲で、そこまで激しく疾走しているわけではないが、サビのクワイアによる勇壮さは桁外れ。前作よりもタイトな仕上がりになっている。デビュー作からここまで名盤を作り続けるなんて、やっぱりすごい。ボーナスの10曲目はUriah Heepのカヴァー。原曲はアコースティックギターの存在感が大きいのだが、ブラガver.は完全にブラガの音だ。",
+  "recommend": [
+    "Imaginations from the Other Side",
+    "I'm Alive",
+    "The Script for My Requiem",
+    "Born in a Mountain Hall",
+    "Another Holy War",
+    "\n\t\t\tAnd the Story Ends"
+  ],
+  "description": "Guardian 5thアルバム",
+  "type": "album",
+  "img": ["blind05.jpg"]
+}

@@ -14,56 +14,80 @@
       "uid": "utapri01sg",
       "artist": ["otoya_ittoki", "tokiya_ichinose"],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
       "uid": "utapri02sg",
       "artist": ["masato_hijirikawa", "ren_jinguji"],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
       "uid": "utapri03sg",
       "artist": ["natsuki_shinomiya", "sho_kurusu"],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
       "uid": "utapri04sg",
       "artist": [],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
       "uid": "utapri01ost",
       "artist": [],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 30, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 30, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
       "uid": "utapri05sg",
       "artist": ["otoya_ittoki", "tokiya_ichinose"],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
       "uid": "utapri06sg",
       "artist": ["masato_hijirikawa", "ren_jinguji"],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
       "uid": "utapri07sg",
       "artist": ["natsuki_shinomiya", "sho_kurusu"],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {

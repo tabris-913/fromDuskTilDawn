@@ -1,1 +1,12 @@
-{"name": "アイドルソング 一ノ瀬トキヤ", "description": "", "date": "2013-06-12", "year": 2013, "artist": ["tokiya"], "list": [{"disk_no": 1, "name": "", "list": ["CRYSTAL TIME", "Independence"]}], "comment": "", "uid": "utapri29sg", "img": ["utapri29sg.jpg"], "rate": 0}
+{
+  "name": "アイドルソング 一ノ瀬トキヤ",
+  "description": "",
+  "date": "2013-06-12",
+  "year": 2013,
+  "artist": ["tokiya"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["CRYSTAL TIME", "Independence"] }],
+  "comment": "",
+  "uid": "utapri29sg",
+  "img": ["utapri29sg.jpg"],
+  "rate": 0
+}

@@ -1,1 +1,104 @@
-{"albums": {"sonata_arctica01": {"uid": "sonata_arctica01", "name": "Ecliptica ", "date": "", "img": ["sonata01.jpg"], "review_done": false}, "sonata_arctica01ep": {"uid": "sonata_arctica01ep", "name": "Successor", "date": "", "img": ["sonata01e.jpg"], "review_done": false}, "sonata_arctica01selfcover": {"uid": "sonata_arctica01selfcover", "name": "Ecliptica Revisited ", "date": "", "img": ["sonata01sc.jpg"], "review_done": false}, "sonata_arctica02": {"uid": "sonata_arctica02", "name": "Silence ", "date": "", "img": ["sonata02.jpg"], "review_done": false}, "sonata_arctica02ep": {"uid": "sonata_arctica02ep", "name": "Orientation", "date": "", "img": ["sonata02e.jpg"], "review_done": false}, "sonata_arctica03": {"uid": "sonata_arctica03", "name": "Winterheart's Guild ", "date": "", "img": ["sonata03.jpg"], "review_done": false}, "sonata_arctica03ep": {"uid": "sonata_arctica03ep", "name": "Takatalvi", "date": "", "img": ["sonata03e.jpg"], "review_done": false}, "sonata_arctica04": {"uid": "sonata_arctica04", "name": "Reckoning Night ", "date": "", "img": ["sonata04.jpg"], "review_done": false}, "sonata_arctica04ep": {"uid": "sonata_arctica04ep", "name": "Don't Say a Word", "date": "", "img": ["sonata04e.jpg"], "review_done": false}, "sonata_arctica05": {"uid": "sonata_arctica05", "name": "Unia （戦記）", "date": "", "img": ["sonata05.jpg"], "review_done": false}, "sonata_arctica06": {"uid": "sonata_arctica06", "name": "The Days of Grays", "date": "", "img": ["sonata06.jpg"], "review_done": false}, "sonata_arctica07": {"uid": "sonata_arctica07", "name": "Stones Grow Her Name", "date": "", "img": ["sonata07.jpg"], "review_done": false}, "sonata_arctica08": {"uid": "sonata_arctica08", "name": "Pariah's Child", "date": "", "img": ["sonata08.jpg"], "review_done": false}, "sonata_arctica09": {"uid": "sonata_arctica09", "name": "The Ninth Hour", "date": "", "img": ["sonata09.jpg"], "review_done": false}}, "singles": {}, "others": {}}
+{
+  "albums": {
+    "sonata_arctica01": {
+      "uid": "sonata_arctica01",
+      "name": "Ecliptica ",
+      "date": "",
+      "img": ["sonata01.jpg"],
+      "review_done": false
+    },
+    "sonata_arctica01ep": {
+      "uid": "sonata_arctica01ep",
+      "name": "Successor",
+      "date": "",
+      "img": ["sonata01e.jpg"],
+      "review_done": false
+    },
+    "sonata_arctica01selfcover": {
+      "uid": "sonata_arctica01selfcover",
+      "name": "Ecliptica Revisited ",
+      "date": "",
+      "img": ["sonata01sc.jpg"],
+      "review_done": false
+    },
+    "sonata_arctica02": {
+      "uid": "sonata_arctica02",
+      "name": "Silence ",
+      "date": "",
+      "img": ["sonata02.jpg"],
+      "review_done": false
+    },
+    "sonata_arctica02ep": {
+      "uid": "sonata_arctica02ep",
+      "name": "Orientation",
+      "date": "",
+      "img": ["sonata02e.jpg"],
+      "review_done": false
+    },
+    "sonata_arctica03": {
+      "uid": "sonata_arctica03",
+      "name": "Winterheart's Guild ",
+      "date": "",
+      "img": ["sonata03.jpg"],
+      "review_done": false
+    },
+    "sonata_arctica03ep": {
+      "uid": "sonata_arctica03ep",
+      "name": "Takatalvi",
+      "date": "",
+      "img": ["sonata03e.jpg"],
+      "review_done": false
+    },
+    "sonata_arctica04": {
+      "uid": "sonata_arctica04",
+      "name": "Reckoning Night ",
+      "date": "",
+      "img": ["sonata04.jpg"],
+      "review_done": false
+    },
+    "sonata_arctica04ep": {
+      "uid": "sonata_arctica04ep",
+      "name": "Don't Say a Word",
+      "date": "",
+      "img": ["sonata04e.jpg"],
+      "review_done": false
+    },
+    "sonata_arctica05": {
+      "uid": "sonata_arctica05",
+      "name": "Unia （戦記）",
+      "date": "",
+      "img": ["sonata05.jpg"],
+      "review_done": false
+    },
+    "sonata_arctica06": {
+      "uid": "sonata_arctica06",
+      "name": "The Days of Grays",
+      "date": "",
+      "img": ["sonata06.jpg"],
+      "review_done": false
+    },
+    "sonata_arctica07": {
+      "uid": "sonata_arctica07",
+      "name": "Stones Grow Her Name",
+      "date": "",
+      "img": ["sonata07.jpg"],
+      "review_done": false
+    },
+    "sonata_arctica08": {
+      "uid": "sonata_arctica08",
+      "name": "Pariah's Child",
+      "date": "",
+      "img": ["sonata08.jpg"],
+      "review_done": false
+    },
+    "sonata_arctica09": {
+      "uid": "sonata_arctica09",
+      "name": "The Ninth Hour",
+      "date": "",
+      "img": ["sonata09.jpg"],
+      "review_done": false
+    }
+  },
+  "singles": {},
+  "others": {}
+}

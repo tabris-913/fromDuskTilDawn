@@ -1,1 +1,16 @@
-{"uid": "showya04", "date": "", "genres": [], "review_done": false, "name": "TRADE LAST", "artist": ["SHOW-YA"], "year": 1987, "list": [{"list": [["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]]}], "rate": 0, "comment": "", "recommend": [""], "description": "4thアルバム", "type": "album", "img": ["showya04.jpg"]}
+{
+  "uid": "showya04",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "TRADE LAST",
+  "artist": ["SHOW-YA"],
+  "year": 1987,
+  "list": [{ "list": [["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "4thアルバム",
+  "type": "album",
+  "img": ["showya04.jpg"]
+}

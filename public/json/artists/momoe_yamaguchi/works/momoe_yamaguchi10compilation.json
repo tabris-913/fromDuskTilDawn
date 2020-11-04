@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi10compilation", "date": "1979-06-21", "genres": [], "review_done": false, "name": "ザ・ベスト 山口百恵", "ruby": "", "artist": "山口百恵", "year": 1979, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "10thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi10compilation",
+  "date": "1979-06-21",
+  "genres": [],
+  "review_done": false,
+  "name": "ザ・ベスト 山口百恵",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1979,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "10thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

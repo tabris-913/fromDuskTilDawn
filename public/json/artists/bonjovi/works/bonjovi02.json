@@ -1,1 +1,35 @@
-{"uid": "bonjovi02", "date": "", "genres": [], "review_done": false, "name": "7800° Fahrenheit ", "artist": ["Bon Jovi"], "year": 1985, "list": [{"list": [["", "In & Out of Love", "The Price of Love", "Only Lonely", "King of the Mountain", "Silent Night", "", "Tokyo Road", "The Hardest Part Is the Night", "Always Run to You", "(I Don't Wanna Fall) To the Fire", "Secret Dreams"]]}], "rate": 90, "comment": "日本人の好みに合ったサウンドを提示し、日本のファンの心を鷲掴みにしたデビュー作から1年超。彼ら自身も日本での歓迎ぶりを喜んだようで、今作にはなんと東京と名のつく#6が収録。前作の流れを汲んだ本作もかなりの高品質で、#1からそのレヴェルの高さが炸裂している。続くタイトル曲#2も超絶なかっこよさで強烈なインパクトを与える。前作と比べると個々の曲があまり目立っていないが、総じて点が高いのは言うまでもない。後半まで手を抜かずに、きっちりと素晴らしい曲を並べてくるあたり、さすがと言う他ない。", "recommend": ["全部　特にIn & Out of Love", "The Price of Love", "Only Lonely", "Tokyo Road", "Secret Dreams"], "description": "Jovi 2ndアルバム", "type": "album", "img": ["bonjovi02.jpg"]}
+{
+  "uid": "bonjovi02",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "7800° Fahrenheit ",
+  "artist": ["Bon Jovi"],
+  "year": 1985,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "In & Out of Love",
+          "The Price of Love",
+          "Only Lonely",
+          "King of the Mountain",
+          "Silent Night",
+          "",
+          "Tokyo Road",
+          "The Hardest Part Is the Night",
+          "Always Run to You",
+          "(I Don't Wanna Fall) To the Fire",
+          "Secret Dreams"
+        ]
+      ]
+    }
+  ],
+  "rate": 90,
+  "comment": "日本人の好みに合ったサウンドを提示し、日本のファンの心を鷲掴みにしたデビュー作から1年超。彼ら自身も日本での歓迎ぶりを喜んだようで、今作にはなんと東京と名のつく#6が収録。前作の流れを汲んだ本作もかなりの高品質で、#1からそのレヴェルの高さが炸裂している。続くタイトル曲#2も超絶なかっこよさで強烈なインパクトを与える。前作と比べると個々の曲があまり目立っていないが、総じて点が高いのは言うまでもない。後半まで手を抜かずに、きっちりと素晴らしい曲を並べてくるあたり、さすがと言う他ない。",
+  "recommend": ["全部　特にIn & Out of Love", "The Price of Love", "Only Lonely", "Tokyo Road", "Secret Dreams"],
+  "description": "Jovi 2ndアルバム",
+  "type": "album",
+  "img": ["bonjovi02.jpg"]
+}

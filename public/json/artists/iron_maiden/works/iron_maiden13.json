@@ -1,1 +1,36 @@
-{"uid": "iron_maiden13", "date": "", "genres": [], "review_done": false, "name": "Dance of Death （死の舞踏） ", "artist": ["Iron Maiden"], "year": 2003, "list": [{"list": [["", "Wildrest Dreams", "Rainmaker", "No More Lies", "Montsegur", "Dance of Death （死の舞踏）", "Gates of Tomorrow", "", "New Frontier", "Paschendale", "Face in the Sand", "Age of Innocence", "Journeyman"]]}], "rate": 87, "comment": "前作に続いて力のある作品をリリース。8分以上の曲は3曲と、プログレ具合は前作同様。メイデンらしいとっつきやすさが特徴だが、ライヴレコーディングということもあり音質はあまりよくない。アップな曲はノリがいいし、プログレな長尺曲は思慮深く聴きこむ曲だし、非常に味わい深い名盤だ。特に2曲目と5曲目はファンなら必聴だ。ただこの気持ち悪いジャケットだけはどうにかならなかったものか。", "recommend": ["全部 特にWildest Dreams", "Rainmaker", "Dance of Death"], "description": "Maiden 13thアルバム", "type": "album", "img": ["maiden13.jpg"]}
+{
+  "uid": "iron_maiden13",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Dance of Death （死の舞踏） ",
+  "artist": ["Iron Maiden"],
+  "year": 2003,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Wildrest Dreams",
+          "Rainmaker",
+          "No More Lies",
+          "Montsegur",
+          "Dance of Death （死の舞踏）",
+          "Gates of Tomorrow",
+          "",
+          "New Frontier",
+          "Paschendale",
+          "Face in the Sand",
+          "Age of Innocence",
+          "Journeyman"
+        ]
+      ]
+    }
+  ],
+  "rate": 87,
+  "comment": "前作に続いて力のある作品をリリース。8分以上の曲は3曲と、プログレ具合は前作同様。メイデンらしいとっつきやすさが特徴だが、ライヴレコーディングということもあり音質はあまりよくない。アップな曲はノリがいいし、プログレな長尺曲は思慮深く聴きこむ曲だし、非常に味わい深い名盤だ。特に2曲目と5曲目はファンなら必聴だ。ただこの気持ち悪いジャケットだけはどうにかならなかったものか。",
+  "recommend": ["全部 特にWildest Dreams", "Rainmaker", "Dance of Death"],
+  "description": "Maiden 13thアルバム",
+  "type": "album",
+  "img": ["maiden13.jpg"]
+}

@@ -1,1 +1,12 @@
-{"name": "シャッフルユニットCD 那月&トキヤ", "description": "", "date": "2013-01-09", "year": 2013, "artist": ["natsuki", "tokiya"], "list": [{"disk_no": 1, "name": "", "list": ["Still Still Still"]}], "comment": "", "uid": "utapri05shuffle", "img": ["utapri05shuffle.jpg"], "rate": 0}
+{
+  "name": "シャッフルユニットCD 那月&トキヤ",
+  "description": "",
+  "date": "2013-01-09",
+  "year": 2013,
+  "artist": ["natsuki", "tokiya"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["Still Still Still"] }],
+  "comment": "",
+  "uid": "utapri05shuffle",
+  "img": ["utapri05shuffle.jpg"],
+  "rate": 0
+}

@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi16compilation", "date": "1982-07-01", "genres": [], "review_done": false, "name": "Again 百恵 あなたへの子守唄", "ruby": "", "artist": "山口百恵", "year": 1982, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "16thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi16compilation",
+  "date": "1982-07-01",
+  "genres": [],
+  "review_done": false,
+  "name": "Again 百恵 あなたへの子守唄",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1982,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "16thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

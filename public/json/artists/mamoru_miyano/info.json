@@ -1,1 +1,20 @@
-{"name": "宮野真守", "ruby": "みやのまもる", "uid": "mamoru_miyano", "en": "Mamoru Miyano", "initial": ["ま"], "singles": ["mamoru_miyano05sg", "mamoru_miyano07sg", "mamoru_miyano08sg", "mamoru_miyano10sg", "mamoru_miyano13sg", "mamoru_miyano16sg", "mamoru_miyano18sg"], "ruby4Sort": "みやのまもる", "albums": [], "others": [], "genres": []}
+{
+  "name": "宮野真守",
+  "ruby": "みやのまもる",
+  "uid": "mamoru_miyano",
+  "en": "Mamoru Miyano",
+  "initial": ["ま"],
+  "singles": [
+    "mamoru_miyano05sg",
+    "mamoru_miyano07sg",
+    "mamoru_miyano08sg",
+    "mamoru_miyano10sg",
+    "mamoru_miyano13sg",
+    "mamoru_miyano16sg",
+    "mamoru_miyano18sg"
+  ],
+  "ruby4Sort": "みやのまもる",
+  "albums": [],
+  "others": [],
+  "genres": []
+}

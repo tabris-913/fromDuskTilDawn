@@ -9,19 +9,8 @@
   "list": [
     {
       "list": [
-        [
-          "Phoenix",
-          "Spiegel",
-          "道化師",
-          "流星群",
-          "フリージアの咲く場所",
-          "銃弾",
-          "PRAY"
-        ],
-        [
-          "Phoenix (Demo)",
-          "Spiegel (Demo)"
-        ]
+        ["Phoenix", "Spiegel", "道化師", "流星群", "フリージアの咲く場所", "銃弾", "PRAY"],
+        ["Phoenix (Demo)", "Spiegel (Demo)"]
       ]
     }
   ],

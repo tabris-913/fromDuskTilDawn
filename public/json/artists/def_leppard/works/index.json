@@ -1,1 +1,77 @@
-{"albums": {"def_leppard01": {"uid": "def_leppard01", "name": "On Through the Night", "date": "", "img": ["def01.jpg"], "review_done": false}, "def_leppard01cover": {"uid": "def_leppard01cover", "name": "Yeah!", "date": "", "img": ["def01cv.jpg"], "review_done": false}, "def_leppard02": {"uid": "def_leppard02", "name": "High'n'Dry", "date": "", "img": ["def02.jpeg"], "review_done": false}, "def_leppard03": {"uid": "def_leppard03", "name": "Pyromania", "date": "", "img": ["def03.jpg"], "review_done": false}, "def_leppard04": {"uid": "def_leppard04", "name": "Hysteria ", "date": "", "img": ["def04.jpg"], "review_done": false}, "def_leppard05": {"uid": "def_leppard05", "name": "Adrenalize ", "date": "", "img": ["def05.jpg"], "review_done": false}, "def_leppard06": {"uid": "def_leppard06", "name": "Slang", "date": "", "img": ["def06.jpg"], "review_done": false}, "def_leppard07": {"uid": "def_leppard07", "name": "Euphoria", "date": "", "img": ["def07.jpg"], "review_done": false}, "def_leppard08": {"uid": "def_leppard08", "name": "X", "date": "", "img": ["def08.jpg"], "review_done": false}, "def_leppard09": {"uid": "def_leppard09", "name": "Songs from the Sparkle Lounge", "date": "", "img": ["def09.jpg"], "review_done": false}, "def_leppard10": {"uid": "def_leppard10", "name": "Def Leppard ", "date": "", "img": ["def10.jpg"], "review_done": false}}, "singles": {}, "others": {}}
+{
+  "albums": {
+    "def_leppard01": {
+      "uid": "def_leppard01",
+      "name": "On Through the Night",
+      "date": "",
+      "img": ["def01.jpg"],
+      "review_done": false
+    },
+    "def_leppard01cover": {
+      "uid": "def_leppard01cover",
+      "name": "Yeah!",
+      "date": "",
+      "img": ["def01cv.jpg"],
+      "review_done": false
+    },
+    "def_leppard02": {
+      "uid": "def_leppard02",
+      "name": "High'n'Dry",
+      "date": "",
+      "img": ["def02.jpeg"],
+      "review_done": false
+    },
+    "def_leppard03": {
+      "uid": "def_leppard03",
+      "name": "Pyromania",
+      "date": "",
+      "img": ["def03.jpg"],
+      "review_done": false
+    },
+    "def_leppard04": {
+      "uid": "def_leppard04",
+      "name": "Hysteria ",
+      "date": "",
+      "img": ["def04.jpg"],
+      "review_done": false
+    },
+    "def_leppard05": {
+      "uid": "def_leppard05",
+      "name": "Adrenalize ",
+      "date": "",
+      "img": ["def05.jpg"],
+      "review_done": false
+    },
+    "def_leppard06": {
+      "uid": "def_leppard06",
+      "name": "Slang",
+      "date": "",
+      "img": ["def06.jpg"],
+      "review_done": false
+    },
+    "def_leppard07": {
+      "uid": "def_leppard07",
+      "name": "Euphoria",
+      "date": "",
+      "img": ["def07.jpg"],
+      "review_done": false
+    },
+    "def_leppard08": { "uid": "def_leppard08", "name": "X", "date": "", "img": ["def08.jpg"], "review_done": false },
+    "def_leppard09": {
+      "uid": "def_leppard09",
+      "name": "Songs from the Sparkle Lounge",
+      "date": "",
+      "img": ["def09.jpg"],
+      "review_done": false
+    },
+    "def_leppard10": {
+      "uid": "def_leppard10",
+      "name": "Def Leppard ",
+      "date": "",
+      "img": ["def10.jpg"],
+      "review_done": false
+    }
+  },
+  "singles": {},
+  "others": {}
+}

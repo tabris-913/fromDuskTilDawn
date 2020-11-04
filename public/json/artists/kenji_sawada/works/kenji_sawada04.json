@@ -1,1 +1,18 @@
-{"uid": "kenji_sawada04", "date": "1973-08-21", "genres": [], "review_done": false, "name": "JULIE VI ある青春", "ruby": "", "artist": "沢田研二", "year": 1973, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "4thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "kenji_sawada04",
+  "date": "1973-08-21",
+  "genres": [],
+  "review_done": false,
+  "name": "JULIE VI ある青春",
+  "ruby": "",
+  "artist": "沢田研二",
+  "year": 1973,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "4thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

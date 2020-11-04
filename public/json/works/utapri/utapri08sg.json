@@ -1,1 +1,12 @@
-{"name": "AAディスク", "description": "", "date": "2010-12-08", "year": 2010, "artist": ["otoya", "masato", "natsuki"], "list": [{"disk_no": 1, "name": "", "list": ["AMAZING LOVE"]}], "comment": "", "uid": "utapri08sg", "img": ["utapri08sg.jpg"], "rate": 0}
+{
+  "name": "AAディスク",
+  "description": "",
+  "date": "2010-12-08",
+  "year": 2010,
+  "artist": ["otoya", "masato", "natsuki"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["AMAZING LOVE"] }],
+  "comment": "",
+  "uid": "utapri08sg",
+  "img": ["utapri08sg.jpg"],
+  "rate": 0
+}

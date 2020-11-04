@@ -1,1 +1,24 @@
-{"albums": {"x_japan01": {"uid": "x_japan01", "name": "Vanishing Vision ", "date": "", "img": ["x01.jpg"], "review_done": false}, "x_japan02": {"uid": "x_japan02", "name": "BLUE BLOOD ", "date": "", "img": ["x02.jpg"], "review_done": false}, "x_japan03": {"uid": "x_japan03", "name": "Jealousy ", "date": "", "img": ["x03.jpg"], "review_done": false}, "x_japan04": {"uid": "x_japan04", "name": "ART OF LIFE ", "date": "", "img": ["x04.jpg"], "review_done": false}, "x_japan05": {"uid": "x_japan05", "name": "DAHLIA　", "date": "", "img": ["x05.jpg"], "review_done": false}, "x_japan08compilation": {"uid": "x_japan08compilation", "name": "THE WORLD ～X JAPAN初の全世界ベスト～", "date": "", "img": ["x08c.jpg"], "review_done": false}}, "singles": {}, "others": {}}
+{
+  "albums": {
+    "x_japan01": {
+      "uid": "x_japan01",
+      "name": "Vanishing Vision ",
+      "date": "",
+      "img": ["x01.jpg"],
+      "review_done": false
+    },
+    "x_japan02": { "uid": "x_japan02", "name": "BLUE BLOOD ", "date": "", "img": ["x02.jpg"], "review_done": false },
+    "x_japan03": { "uid": "x_japan03", "name": "Jealousy ", "date": "", "img": ["x03.jpg"], "review_done": false },
+    "x_japan04": { "uid": "x_japan04", "name": "ART OF LIFE ", "date": "", "img": ["x04.jpg"], "review_done": false },
+    "x_japan05": { "uid": "x_japan05", "name": "DAHLIA　", "date": "", "img": ["x05.jpg"], "review_done": false },
+    "x_japan08compilation": {
+      "uid": "x_japan08compilation",
+      "name": "THE WORLD ～X JAPAN初の全世界ベスト～",
+      "date": "",
+      "img": ["x08c.jpg"],
+      "review_done": false
+    }
+  },
+  "singles": {},
+  "others": {}
+}

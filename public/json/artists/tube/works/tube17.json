@@ -1,1 +1,18 @@
-{"uid": "tube17", "date": "1995-06-17", "genres": [], "review_done": false, "name": "ゆずれない夏", "ruby": "", "artist": "TUBE", "year": 1995, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "17thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "tube17",
+  "date": "1995-06-17",
+  "genres": [],
+  "review_done": false,
+  "name": "ゆずれない夏",
+  "ruby": "",
+  "artist": "TUBE",
+  "year": 1995,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "17thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

@@ -1,1 +1,42 @@
-{"uid": "megadeth06", "date": "", "genres": [], "review_done": false, "name": "Youthanasia", "artist": ["Megadeth"], "year": 1994, "list": [{"list": [["", "Reckoning Day （審判の日）", "Train of Consequences （終わりなき旅路）", "Addicted to Chaos （カオスへの誘惑）", "À Tout le Monde", "Elysian Fields", "The Killing Road", "Blood of Heroes", "Family Tree", "Youthanasia", "", "I Thought I Knew It All", "Black Curtains", "Victory", "(JAPANESE BONUS TRACK)", "Crown of Worms", "Holy Wars... The Punishment Due [Live]", "Symphony of Destruction [Live]", "Sweating Bullets [Live]"]]}], "rate": 77, "comment": "前作ほどではないが、全米4位、全英6位のヒット作となった6作目。しかしスラッシュ・メタルの面影はない。メタリカのようにモダンなサウンドへ転換したわけではなく、彼らの場合はパワーを減退させてオーセンティックなメタルに近づいたと言える。しかし曲自体はなかなかいいので、残念なばかりではないのが救いだ。", "recommend": ["Reckoning Day", "Addicted to Chaos", "Elysian Fields", "I Thought I Knew It All", "Victory"], "description": "6thアルバム", "type": "album", "img": ["megadeth06.jpg"]}
+{
+  "uid": "megadeth06",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Youthanasia",
+  "artist": ["Megadeth"],
+  "year": 1994,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Reckoning Day （審判の日）",
+          "Train of Consequences （終わりなき旅路）",
+          "Addicted to Chaos （カオスへの誘惑）",
+          "À Tout le Monde",
+          "Elysian Fields",
+          "The Killing Road",
+          "Blood of Heroes",
+          "Family Tree",
+          "Youthanasia",
+          "",
+          "I Thought I Knew It All",
+          "Black Curtains",
+          "Victory",
+          "(JAPANESE BONUS TRACK)",
+          "Crown of Worms",
+          "Holy Wars... The Punishment Due [Live]",
+          "Symphony of Destruction [Live]",
+          "Sweating Bullets [Live]"
+        ]
+      ]
+    }
+  ],
+  "rate": 77,
+  "comment": "前作ほどではないが、全米4位、全英6位のヒット作となった6作目。しかしスラッシュ・メタルの面影はない。メタリカのようにモダンなサウンドへ転換したわけではなく、彼らの場合はパワーを減退させてオーセンティックなメタルに近づいたと言える。しかし曲自体はなかなかいいので、残念なばかりではないのが救いだ。",
+  "recommend": ["Reckoning Day", "Addicted to Chaos", "Elysian Fields", "I Thought I Knew It All", "Victory"],
+  "description": "6thアルバム",
+  "type": "album",
+  "img": ["megadeth06.jpg"]
+}

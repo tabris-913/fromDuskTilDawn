@@ -1,1 +1,12 @@
-{"name": "Shining Dream CD", "description": "", "date": "2016-08-17", "year": 0, "artist": ["otoya", "masato", "natsuki", "tokiya", "ren", "sho", "cecil", "reiji", "rammaru", "ai", "camus"], "list": [{"disk_no": 1, "name": "", "list": ["DAY DREAM", "NIGHT DREAM"]}], "comment": "", "uid": "utapri45sg", "img": ["utapri45sg.jpg"], "rate": 0}
+{
+  "name": "Shining Dream CD",
+  "description": "",
+  "date": "2016-08-17",
+  "year": 0,
+  "artist": ["otoya", "masato", "natsuki", "tokiya", "ren", "sho", "cecil", "reiji", "rammaru", "ai", "camus"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["DAY DREAM", "NIGHT DREAM"] }],
+  "comment": "",
+  "uid": "utapri45sg",
+  "img": ["utapri45sg.jpg"],
+  "rate": 0
+}

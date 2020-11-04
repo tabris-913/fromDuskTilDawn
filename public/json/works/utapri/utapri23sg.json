@@ -1,1 +1,12 @@
-{"name": "アイドルソング 来栖翔", "description": "", "date": "2013-05-01", "year": 2013, "artist": ["sho"], "list": [{"disk_no": 1, "name": "", "list": ["TRUE WING", "CHALLENGE!"]}], "comment": "", "uid": "utapri23sg", "img": ["utapri23sg.jpg"], "rate": 0}
+{
+  "name": "アイドルソング 来栖翔",
+  "description": "",
+  "date": "2013-05-01",
+  "year": 2013,
+  "artist": ["sho"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["TRUE WING", "CHALLENGE!"] }],
+  "comment": "",
+  "uid": "utapri23sg",
+  "img": ["utapri23sg.jpg"],
+  "rate": 0
+}

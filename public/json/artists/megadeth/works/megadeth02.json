@@ -1,1 +1,33 @@
-{"uid": "megadeth02", "date": "", "genres": [], "review_done": false, "name": "Peace Sells... but Who's Buying?", "artist": ["Megadeth"], "year": 1986, "list": [{"list": [["", "Wake Up Dead", "The Conjuring （殺しの呪文）", "Peace Sells", "Devil's Island （悪魔島）", "", "Good Mourning/Black Friday", "Bad Omen", "I Ain't Superstitious （迷信の恐怖）", "My Last Words"]]}], "rate": 85, "comment": "Dave Mustaineの変態的でテクニカルなリフが登場する2作目。Master of Puppets、Reign in Blood、Among the Livingと並んでスラッシュ・メタルシーン初期の名盤とされている。まだまだ発展途上だが、かなりオリジナリティをにおわせてきている。スピーディーな曲は非常に胸が熱くなる。", "recommend": ["Wake Up Dead", "Peace Sells", "Devil's Island", "I Ain't Superstitious", "My Last Words"], "description": "2ndアルバム", "type": "album", "img": ["megadeth02.jpg"]}
+{
+  "uid": "megadeth02",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Peace Sells... but Who's Buying?",
+  "artist": ["Megadeth"],
+  "year": 1986,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Wake Up Dead",
+          "The Conjuring （殺しの呪文）",
+          "Peace Sells",
+          "Devil's Island （悪魔島）",
+          "",
+          "Good Mourning/Black Friday",
+          "Bad Omen",
+          "I Ain't Superstitious （迷信の恐怖）",
+          "My Last Words"
+        ]
+      ]
+    }
+  ],
+  "rate": 85,
+  "comment": "Dave Mustaineの変態的でテクニカルなリフが登場する2作目。Master of Puppets、Reign in Blood、Among the Livingと並んでスラッシュ・メタルシーン初期の名盤とされている。まだまだ発展途上だが、かなりオリジナリティをにおわせてきている。スピーディーな曲は非常に胸が熱くなる。",
+  "recommend": ["Wake Up Dead", "Peace Sells", "Devil's Island", "I Ain't Superstitious", "My Last Words"],
+  "description": "2ndアルバム",
+  "type": "album",
+  "img": ["megadeth02.jpg"]
+}

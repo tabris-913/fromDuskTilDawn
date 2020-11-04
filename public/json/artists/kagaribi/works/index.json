@@ -1,1 +1,41 @@
-{"albums": {}, "singles": {"kagaribi01": {"uid": "kagaribi01", "name": "エントリーNo.3 JUDAH", "date": "2015-12-23", "img": ["kagaribi01.jpg"], "review_done": false}, "kagaribi02": {"uid": "kagaribi02", "name": "エントリーNo.2 JUDAH", "date": "2016-11-16", "img": ["kagaribi02.jpg"], "review_done": false}, "kagaribi03": {"uid": "kagaribi03", "name": "エントリーNo.3 JUDAH", "date": "2017-09-20", "img": ["kagaribi03.jpg"], "review_done": false}, "kagaribi04": {"uid": "kagaribi04", "name": "エントリーNo.3 JUDAH", "date": "2018-05-16", "img": ["kagaribi04.jpg"], "review_done": false}, "kagaribi05": {"uid": "kagaribi05", "name": "エントリーNo.3 JUDAH", "date": "2019-09-18", "img": ["kagaribi05.jpg"], "review_done": false}}, "others": {}}
+{
+  "albums": {},
+  "singles": {
+    "kagaribi01": {
+      "uid": "kagaribi01",
+      "name": "エントリーNo.3 JUDAH",
+      "date": "2015-12-23",
+      "img": ["kagaribi01.jpg"],
+      "review_done": false
+    },
+    "kagaribi02": {
+      "uid": "kagaribi02",
+      "name": "エントリーNo.2 JUDAH",
+      "date": "2016-11-16",
+      "img": ["kagaribi02.jpg"],
+      "review_done": false
+    },
+    "kagaribi03": {
+      "uid": "kagaribi03",
+      "name": "エントリーNo.3 JUDAH",
+      "date": "2017-09-20",
+      "img": ["kagaribi03.jpg"],
+      "review_done": false
+    },
+    "kagaribi04": {
+      "uid": "kagaribi04",
+      "name": "エントリーNo.3 JUDAH",
+      "date": "2018-05-16",
+      "img": ["kagaribi04.jpg"],
+      "review_done": false
+    },
+    "kagaribi05": {
+      "uid": "kagaribi05",
+      "name": "エントリーNo.3 JUDAH",
+      "date": "2019-09-18",
+      "img": ["kagaribi05.jpg"],
+      "review_done": false
+    }
+  },
+  "others": {}
+}

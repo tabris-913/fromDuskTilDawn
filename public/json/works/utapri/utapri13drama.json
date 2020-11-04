@@ -1,1 +1,12 @@
-{"name": "デュエットドラマCD Fiction 嶺二&藍", "description": "", "date": "2018-10-17", "year": 0, "artist": ["reiji", "ai"], "list": [{"disk_no": 1, "name": "", "list": ["Fiction"]}], "comment": "", "uid": "utapri13drama", "img": ["utapri13drama.jpg"], "rate": 0}
+{
+  "name": "デュエットドラマCD Fiction 嶺二&藍",
+  "description": "",
+  "date": "2018-10-17",
+  "year": 0,
+  "artist": ["reiji", "ai"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["Fiction"] }],
+  "comment": "",
+  "uid": "utapri13drama",
+  "img": ["utapri13drama.jpg"],
+  "rate": 0
+}

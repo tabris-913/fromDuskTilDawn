@@ -36,6 +36,7 @@
     "tslint:prettier-check": "tslint-config-prettier-check ./tslint.json",
     "tslint": "tslint --fix --force --format stylish --project ./tsconfig.json ./{src,__tests__}/**/*.{ts,tsx}",
     "prettier": "prettier --write ./{src,__tests__}/**/*.{ts,tsx}",
+    "prettier-json": "prettier --write ./public/json/**/*.json",
     "start:server": "http-server build"
   },
   "devDependencies": {
@@ -53,6 +54,10 @@
     "http-server": "^0.12.1",
     "prettier": "^1.18.2",
     "tslint": "^6.1.3",
+    "tslint-config-airbnb": "^5.11.2",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-plugin-prettier": "^2.3.0",
+    "tslint-react": "^5.0.0",
     "typescript": "^4.0.0"
   },
   "prettier": {

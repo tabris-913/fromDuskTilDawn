@@ -1,1 +1,41 @@
-{"uid": "rhapsody_of_fire05", "date": "", "genres": [], "review_done": false, "name": "Power of the Dragonflame ", "artist": ["Rhapsody"], "year": 2002, "list": [{"list": [["", "In Tenebris （暗黒の中で）", "Knightrider of Doom", "Power of the Dragonflame", "The March of the Swordmaster", "When Demons Awake", "Agony Is My Name", "Lamento Eroico （英雄の嘆き）", "", "Steelgods of the Last Apocalypse", "The Pride of the Tyrant", "Rise from the Sea of Flames", "Gargoyles, Angels of Darkness", "", "Angeli di Pietra Mistica （不思議な石の天使）", "Warlords' Last Challenge", "...And the Legend Ends...", ""]]}], "rate": 99, "comment": "サーガ最終章後編で、最高傑作。このクオリティはやばい。出し惜しみをしていたとしか考えられない。絶対にそうに決まってる。11曲目も過去最長の19分。しかもその最後にあるフレーズは、永遠にメタラーの心に焼き付いて離れないだろう。", "recommend": ["フォニック・メタルのみならず", "ヘヴィ・メタルという音楽の歴史に残る超大傑作だ！"], "description": "5thアルバム", "type": "album", "img": ["rhapsody05.jpeg"]}
+{
+  "uid": "rhapsody_of_fire05",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Power of the Dragonflame ",
+  "artist": ["Rhapsody"],
+  "year": 2002,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "In Tenebris （暗黒の中で）",
+          "Knightrider of Doom",
+          "Power of the Dragonflame",
+          "The March of the Swordmaster",
+          "When Demons Awake",
+          "Agony Is My Name",
+          "Lamento Eroico （英雄の嘆き）",
+          "",
+          "Steelgods of the Last Apocalypse",
+          "The Pride of the Tyrant",
+          "Rise from the Sea of Flames",
+          "Gargoyles, Angels of Darkness",
+          "",
+          "Angeli di Pietra Mistica （不思議な石の天使）",
+          "Warlords' Last Challenge",
+          "...And the Legend Ends...",
+          ""
+        ]
+      ]
+    }
+  ],
+  "rate": 99,
+  "comment": "サーガ最終章後編で、最高傑作。このクオリティはやばい。出し惜しみをしていたとしか考えられない。絶対にそうに決まってる。11曲目も過去最長の19分。しかもその最後にあるフレーズは、永遠にメタラーの心に焼き付いて離れないだろう。",
+  "recommend": ["フォニック・メタルのみならず", "ヘヴィ・メタルという音楽の歴史に残る超大傑作だ！"],
+  "description": "5thアルバム",
+  "type": "album",
+  "img": ["rhapsody05.jpeg"]
+}

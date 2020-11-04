@@ -1,1 +1,12 @@
-{"name": "マジLOVE1000%", "description": "", "date": "2011-07-20", "year": 2011, "artist": ["starish"], "list": [{"disk_no": 1, "name": "", "list": ["マジLOVE1000%", "未来地図"]}], "comment": "", "uid": "utapri10sg", "img": ["utapri10sg.jpg"], "rate": 0}
+{
+  "name": "マジLOVE1000%",
+  "description": "",
+  "date": "2011-07-20",
+  "year": 2011,
+  "artist": ["starish"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["マジLOVE1000%", "未来地図"] }],
+  "comment": "",
+  "uid": "utapri10sg",
+  "img": ["utapri10sg.jpg"],
+  "rate": 0
+}

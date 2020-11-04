@@ -1,1 +1,52 @@
-{"uid": "blind_guardian07", "date": "", "genres": [], "review_done": false, "name": "A Night at the Opera", "artist": ["Blind Guardian"], "year": 2002, "list": [{"list": [["", "Precious Jerusalem", "Battlefield", "Under the Ice", "Sadly Sings Destiny", "The Maiden and the Minstrel Knight", "Wait for an Answer", "The Soulforged", "Age of False Innocence", "Punishment Divine", "And Then There Was Silence", "", "(JAPANESE BONUS TRACK)", "Harvest of Sorrow [Acoustic Version]", "(SPANISH/N-AMERICAN BONUS)", "Mies del Dolor", "(ARGENTINE BONUS TRACK)", "La Cosecha del Dolor", "(ITALIAN BONUS TRACK)", "Frutto del Buio", "(FRENCH BONUS TRACK)", "Moisson de peine"]]}], "rate": 86, "comment": "ちょっと、うん、ちょっとつまらなくなってきたかな、という7作目。というよりも6枚も素晴らしいアルバムを連続で作っていた方が奇跡と言うべきか。このアルバムがダメと言うわけではないが、以前の超ハイスペックの応酬を考えてしまうと、やはり聴き劣りする。まぁそれはあくまでちょっとだから。全然いいアルバムなんだよ。シンフォニックさは少し減退した気もするが、ブラガらしいクワイアによる勇壮さはむしろ強くなっている気もする。", "recommend": ["Precious Jerusalem", "Battlefield", "Under the Ice", "Wait for an Answer", "The Soulforged", "Punishment Divine"], "description": "Guardian 7thアルバム", "type": "album", "img": ["blind07.jpg"]}
+{
+  "uid": "blind_guardian07",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "A Night at the Opera",
+  "artist": ["Blind Guardian"],
+  "year": 2002,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Precious Jerusalem",
+          "Battlefield",
+          "Under the Ice",
+          "Sadly Sings Destiny",
+          "The Maiden and the Minstrel Knight",
+          "Wait for an Answer",
+          "The Soulforged",
+          "Age of False Innocence",
+          "Punishment Divine",
+          "And Then There Was Silence",
+          "",
+          "(JAPANESE BONUS TRACK)",
+          "Harvest of Sorrow [Acoustic Version]",
+          "(SPANISH/N-AMERICAN BONUS)",
+          "Mies del Dolor",
+          "(ARGENTINE BONUS TRACK)",
+          "La Cosecha del Dolor",
+          "(ITALIAN BONUS TRACK)",
+          "Frutto del Buio",
+          "(FRENCH BONUS TRACK)",
+          "Moisson de peine"
+        ]
+      ]
+    }
+  ],
+  "rate": 86,
+  "comment": "ちょっと、うん、ちょっとつまらなくなってきたかな、という7作目。というよりも6枚も素晴らしいアルバムを連続で作っていた方が奇跡と言うべきか。このアルバムがダメと言うわけではないが、以前の超ハイスペックの応酬を考えてしまうと、やはり聴き劣りする。まぁそれはあくまでちょっとだから。全然いいアルバムなんだよ。シンフォニックさは少し減退した気もするが、ブラガらしいクワイアによる勇壮さはむしろ強くなっている気もする。",
+  "recommend": [
+    "Precious Jerusalem",
+    "Battlefield",
+    "Under the Ice",
+    "Wait for an Answer",
+    "The Soulforged",
+    "Punishment Divine"
+  ],
+  "description": "Guardian 7thアルバム",
+  "type": "album",
+  "img": ["blind07.jpg"]
+}

@@ -1,1 +1,32 @@
-{"uid": "rhapsody_of_fire02ep", "date": "", "genres": [], "review_done": false, "name": "The Cold Embrace of Fear -A Dark Romantic Symphony", "artist": ["Rhapsody of Fire"], "year": 2010, "list": [{"list": [["", "ACT I -The Pass of Nair-Kaan", "ACT II -Dark Mystic Vision", "ACT III -The Ancient Fires of Har-Kuun", "ACT IV -The Betrayal", "", "ACT V -Neve Rosso Sangue", "ACT VI -Erian's Lost Secrets", "ACT VII -The Angels' Dark Revelation"]]}], "rate": 77, "comment": "最終章目前にしてリリースされたミニアルバム。Emerald Sword SagaでいうRain of a Thousand Flamesにあたる作品だが、あれほどの充実感はない。ナレーションやモノローグが多く、曲もメタル要素はほとんどない。前作でなんとか復活した印象を受けたのだが、もしかしたら思い違いだったのかもしれない。", "recommend": ["Dark Mystic Vision", "The Ancient Fires of Har-Kuun", "Erian's Lost Secrets"], "description": "of Fire 2ndミニアルバム", "type": "album", "img": ["rhapsody02m.jpg"]}
+{
+  "uid": "rhapsody_of_fire02ep",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "The Cold Embrace of Fear -A Dark Romantic Symphony",
+  "artist": ["Rhapsody of Fire"],
+  "year": 2010,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "ACT I -The Pass of Nair-Kaan",
+          "ACT II -Dark Mystic Vision",
+          "ACT III -The Ancient Fires of Har-Kuun",
+          "ACT IV -The Betrayal",
+          "",
+          "ACT V -Neve Rosso Sangue",
+          "ACT VI -Erian's Lost Secrets",
+          "ACT VII -The Angels' Dark Revelation"
+        ]
+      ]
+    }
+  ],
+  "rate": 77,
+  "comment": "最終章目前にしてリリースされたミニアルバム。Emerald Sword SagaでいうRain of a Thousand Flamesにあたる作品だが、あれほどの充実感はない。ナレーションやモノローグが多く、曲もメタル要素はほとんどない。前作でなんとか復活した印象を受けたのだが、もしかしたら思い違いだったのかもしれない。",
+  "recommend": ["Dark Mystic Vision", "The Ancient Fires of Har-Kuun", "Erian's Lost Secrets"],
+  "description": "of Fire 2ndミニアルバム",
+  "type": "album",
+  "img": ["rhapsody02m.jpg"]
+}

@@ -1,1 +1,18 @@
-{"uid": "kenji_sawada28", "date": "1990-06-20", "genres": [], "review_done": false, "name": "単純な永遠", "ruby": "", "artist": "沢田研二", "year": 1990, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "28thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "kenji_sawada28",
+  "date": "1990-06-20",
+  "genres": [],
+  "review_done": false,
+  "name": "単純な永遠",
+  "ruby": "",
+  "artist": "沢田研二",
+  "year": 1990,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "28thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

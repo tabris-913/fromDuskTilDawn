@@ -1,1 +1,45 @@
-{"uid": "gamma_ray06", "date": "", "genres": [], "review_done": false, "name": "Power Plant ", "artist": ["Gamma Ray"], "year": 1999, "list": [{"list": [["", "Anywhere in the Galaxy", "Razorblade Sigh", "Send Me a Sign", "Strangers in the Night", "Gardens of the Sinner", "Short as Hell", "It's a Sin", "", "Heavy Metal Univerese", "Wings of Destiny", "Hand of Fate", "Armageddon", "(JAPANESE BONUS TRACK)", "Long Live Rock'n'Roll"]]}], "rate": 90, "comment": "前作に及ぶことはないが、名盤と呼べるだけの作品をリリース！かなり熱い曲が多く、疾走曲もバラードも秀逸。さすがKai Hansen。期待を裏切らない。ただどうしてもJudas Priestなどの影響、というかパクりが見られるがまだまだ許容範囲だろう。ボーナスにはRainbowの名曲カヴァーを収録。当然Dioのヴォーカルにかなうわけもないが、それでも楽しめる程度の作品ではある。", "recommend": ["全部　特にAnywhere in the Galaxy", "Strangers in the Night", "Gardens of the Sinner", "Heavy Metal Universe", "Wings of Destiny", "\n\t\t\tArmageddon"], "description": "Ray 6thアルバム", "type": "album", "img": ["gamma06.jpg"]}
+{
+  "uid": "gamma_ray06",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Power Plant ",
+  "artist": ["Gamma Ray"],
+  "year": 1999,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Anywhere in the Galaxy",
+          "Razorblade Sigh",
+          "Send Me a Sign",
+          "Strangers in the Night",
+          "Gardens of the Sinner",
+          "Short as Hell",
+          "It's a Sin",
+          "",
+          "Heavy Metal Univerese",
+          "Wings of Destiny",
+          "Hand of Fate",
+          "Armageddon",
+          "(JAPANESE BONUS TRACK)",
+          "Long Live Rock'n'Roll"
+        ]
+      ]
+    }
+  ],
+  "rate": 90,
+  "comment": "前作に及ぶことはないが、名盤と呼べるだけの作品をリリース！かなり熱い曲が多く、疾走曲もバラードも秀逸。さすがKai Hansen。期待を裏切らない。ただどうしてもJudas Priestなどの影響、というかパクりが見られるがまだまだ許容範囲だろう。ボーナスにはRainbowの名曲カヴァーを収録。当然Dioのヴォーカルにかなうわけもないが、それでも楽しめる程度の作品ではある。",
+  "recommend": [
+    "全部　特にAnywhere in the Galaxy",
+    "Strangers in the Night",
+    "Gardens of the Sinner",
+    "Heavy Metal Universe",
+    "Wings of Destiny",
+    "\n\t\t\tArmageddon"
+  ],
+  "description": "Ray 6thアルバム",
+  "type": "album",
+  "img": ["gamma06.jpg"]
+}

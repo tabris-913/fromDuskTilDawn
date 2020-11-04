@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi04", "date": "1974-08-01", "genres": [], "review_done": false, "name": "15歳のテーマ ひと夏の経験", "ruby": "", "artist": "山口百恵", "year": 1974, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "4thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi04",
+  "date": "1974-08-01",
+  "genres": [],
+  "review_done": false,
+  "name": "15歳のテーマ ひと夏の経験",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1974,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "4thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

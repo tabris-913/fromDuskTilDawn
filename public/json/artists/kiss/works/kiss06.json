@@ -1,1 +1,35 @@
-{"uid": "kiss06", "date": "", "genres": [], "review_done": false, "name": "Love Gun ", "artist": ["Kiss"], "year": 1977, "list": [{"list": [["", "I Stole Your Love （愛の謀略）", "Christine Sixteen", "Got Love for Sale", "Shock Me", "Tomorrow and Tonight", "", "Love Gun", "Hooligan", "Almost Human", "Plaster Caster", "Then She Kissed Me"]]}], "rate": 88, "comment": "予約だけで100万枚を突破したという、当時の勢いを感じさせる6作目。一般的にはDestroyerと並ぶ名盤と評されることが多い。Deep PurpleのBurnに影響を受けたと語るスピーディーな1曲目から名曲で、続く2,3曲目ではなんと当時無名だったEddieとAlexのVan Halen兄弟がデモに参加したという。4曲目は初めてAceがヴォーカルを務めた曲。5曲目は彼らのアンセムRock and Roll All Niteを意識して作られたようだ。タイトル曲はバンドの代表曲となったシャッフル・ナンバー。このLove Gunというタイトルは、当時イギリスで興っていたパンク・ムーヴメントに触発されたもので、The Sex Pistolsへのオマージュである。悪いアルバムだとは思わないし、名盤と呼ばれることに異論はない。しかしDestroyerを超えているなんてのはどう考えてもあり得ない。", "recommend": ["I Stole Your Love", "Christine Sixteen", "Shock Me", "Tomorrow and Tonight", "Love Gun"], "description": "6thアルバム", "type": "album", "img": ["kiss06.jpg"]}
+{
+  "uid": "kiss06",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Love Gun ",
+  "artist": ["Kiss"],
+  "year": 1977,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "I Stole Your Love （愛の謀略）",
+          "Christine Sixteen",
+          "Got Love for Sale",
+          "Shock Me",
+          "Tomorrow and Tonight",
+          "",
+          "Love Gun",
+          "Hooligan",
+          "Almost Human",
+          "Plaster Caster",
+          "Then She Kissed Me"
+        ]
+      ]
+    }
+  ],
+  "rate": 88,
+  "comment": "予約だけで100万枚を突破したという、当時の勢いを感じさせる6作目。一般的にはDestroyerと並ぶ名盤と評されることが多い。Deep PurpleのBurnに影響を受けたと語るスピーディーな1曲目から名曲で、続く2,3曲目ではなんと当時無名だったEddieとAlexのVan Halen兄弟がデモに参加したという。4曲目は初めてAceがヴォーカルを務めた曲。5曲目は彼らのアンセムRock and Roll All Niteを意識して作られたようだ。タイトル曲はバンドの代表曲となったシャッフル・ナンバー。このLove Gunというタイトルは、当時イギリスで興っていたパンク・ムーヴメントに触発されたもので、The Sex Pistolsへのオマージュである。悪いアルバムだとは思わないし、名盤と呼ばれることに異論はない。しかしDestroyerを超えているなんてのはどう考えてもあり得ない。",
+  "recommend": ["I Stole Your Love", "Christine Sixteen", "Shock Me", "Tomorrow and Tonight", "Love Gun"],
+  "description": "6thアルバム",
+  "type": "album",
+  "img": ["kiss06.jpg"]
+}

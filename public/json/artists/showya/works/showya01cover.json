@@ -1,1 +1,36 @@
-{"uid": "showya01cover", "date": "", "genres": [], "review_done": false, "name": "Glamorous Show ～Japanese Legendary Rock Covers ", "artist": ["SHOW-YA"], "year": 2014, "list": [{"list": [["", "紅 [X JAPAN Cover]", "虹 [L'Arc～en～Ciel Cover]", "HOWEVER [GLAY Cover]", "MARIONETTE [BOØWY Cover]", "JAM [THE YELLOW MONKEY Cover]", "", "CRAZY NIGHT [LOUDNESS Cover]", "嵐の金曜日 [HOUND DOG Cover]", "More [EARTHSHAKER Cover]", "激しい雨が [THE MODS Cover]", "RUNNER [爆風スランプ Cover]", "ROSIER [LUNA SEA Cover]"]]}], "rate": 93, "comment": "日本を代表するガールズ(?)・メタルバンドも、もう30周年を迎えようとしている。30周年記念作品の第1弾ということで発表されたのは、日本を代表する“男性”ロックバンドのカヴァー作品。選曲はハード・ロック／ヘヴィ・メタルからグラム、ビートと様々だ。だがとりあえず俺得。発売前のプロモーションでは紅とHOWEVERが発表されていたが、それは原曲の知名度ゆえだろう。紅はともかく、HOWEVERの出来は正直並だ（他の曲が良すぎて）。ざっと聴いてインパクトがあったのはJAMとMoreとROSIER。まさか彼女たちがイエモンをカヴァーするとは思ってもなかったが（どちらかといえばイエモンよりもSIAM SHADEの方が納得できる）、これがかなり様になっている。びっくりした。発売前から一番期待していて、実際に聴いた後も一番満足感があったのはMoreだ。この哀愁を違和感なく表現できるなんて思ってもなかった。甘く見ていたよ。帯に書いてあった通り、まさに熟女なんめなよ！状態。恐れ入りました。ROSIERは原曲が持っている抑揚（Aメロの落ち着いた低音とサビの盛り上がり）を的確に再現できている。ついこのまえ華原朋美もカヴァーしていたけど比べ物にもならないね。ちゃんと「ローズィア」って発音してるし（笑）。", "recommend": ["全部　特に紅", "MARIONETTE", "JAM", "嵐の金曜日", "More", "激しい雨が", "ROSIER"], "description": "1stカヴァーアルバム", "type": "album", "img": ["showya01cv.jpg"]}
+{
+  "uid": "showya01cover",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Glamorous Show ～Japanese Legendary Rock Covers ",
+  "artist": ["SHOW-YA"],
+  "year": 2014,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "紅 [X JAPAN Cover]",
+          "虹 [L'Arc～en～Ciel Cover]",
+          "HOWEVER [GLAY Cover]",
+          "MARIONETTE [BOØWY Cover]",
+          "JAM [THE YELLOW MONKEY Cover]",
+          "",
+          "CRAZY NIGHT [LOUDNESS Cover]",
+          "嵐の金曜日 [HOUND DOG Cover]",
+          "More [EARTHSHAKER Cover]",
+          "激しい雨が [THE MODS Cover]",
+          "RUNNER [爆風スランプ Cover]",
+          "ROSIER [LUNA SEA Cover]"
+        ]
+      ]
+    }
+  ],
+  "rate": 93,
+  "comment": "日本を代表するガールズ(?)・メタルバンドも、もう30周年を迎えようとしている。30周年記念作品の第1弾ということで発表されたのは、日本を代表する“男性”ロックバンドのカヴァー作品。選曲はハード・ロック／ヘヴィ・メタルからグラム、ビートと様々だ。だがとりあえず俺得。発売前のプロモーションでは紅とHOWEVERが発表されていたが、それは原曲の知名度ゆえだろう。紅はともかく、HOWEVERの出来は正直並だ（他の曲が良すぎて）。ざっと聴いてインパクトがあったのはJAMとMoreとROSIER。まさか彼女たちがイエモンをカヴァーするとは思ってもなかったが（どちらかといえばイエモンよりもSIAM SHADEの方が納得できる）、これがかなり様になっている。びっくりした。発売前から一番期待していて、実際に聴いた後も一番満足感があったのはMoreだ。この哀愁を違和感なく表現できるなんて思ってもなかった。甘く見ていたよ。帯に書いてあった通り、まさに熟女なんめなよ！状態。恐れ入りました。ROSIERは原曲が持っている抑揚（Aメロの落ち着いた低音とサビの盛り上がり）を的確に再現できている。ついこのまえ華原朋美もカヴァーしていたけど比べ物にもならないね。ちゃんと「ローズィア」って発音してるし（笑）。",
+  "recommend": ["全部　特に紅", "MARIONETTE", "JAM", "嵐の金曜日", "More", "激しい雨が", "ROSIER"],
+  "description": "1stカヴァーアルバム",
+  "type": "album",
+  "img": ["showya01cv.jpg"]
+}

@@ -8,7 +8,10 @@
       "uid": "utapri35sg",
       "artist": ["starish"],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
@@ -33,7 +36,10 @@
       "uid": "utapri37sg",
       "artist": ["ai_mikaze"],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
@@ -52,14 +58,20 @@
       "uid": "utapri39sg",
       "artist": ["camus"],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
       "uid": "utapri40sg",
       "artist": ["rammaru_kurosaki"],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
@@ -77,14 +89,20 @@
       "uid": "utapri42sg",
       "artist": ["reiji_kotobuki"],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
       "uid": "utapri43sg",
       "artist": ["quartet_night"],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
@@ -98,7 +116,10 @@
       "uid": "utapri44sg",
       "artist": [],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     },
     {
@@ -140,7 +161,10 @@
       "uid": "utapri45sg",
       "artist": [],
       "comment": "",
-      "song_list": [{ "track_no": 1, "comment": "" }, { "track_no": 2, "comment": "" }],
+      "song_list": [
+        { "track_no": 1, "comment": "" },
+        { "track_no": 2, "comment": "" }
+      ],
       "workArtistId": "utapri"
     }
   ]

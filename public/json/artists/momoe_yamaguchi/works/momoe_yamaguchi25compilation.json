@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi25compilation", "date": "1994-07-21", "genres": [], "review_done": false, "name": "惜春 譜", "ruby": "", "artist": "山口百恵", "year": 1994, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "25thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi25compilation",
+  "date": "1994-07-21",
+  "genres": [],
+  "review_done": false,
+  "name": "惜春 譜",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1994,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "25thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

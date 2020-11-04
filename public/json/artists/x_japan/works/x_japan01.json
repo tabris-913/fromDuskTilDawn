@@ -1,1 +1,34 @@
-{"uid": "x_japan01", "date": "", "genres": [], "review_done": false, "name": "Vanishing Vision ", "artist": ["X"], "year": 1988, "list": [{"list": [["", "DEAR LOSER", "VANISHING LOVE", "PHANTOM OF GUILT", "SADISTIC DESIRE", "GIVE ME THE PLEASURE", "", "I'LL KILL YOU", "ALIVE", "KURENAI", "UN-FINISHED..."]]}], "rate": 88, "comment": "日本が世界に誇る偉大なバンドの、記念すべきデビュー作。音質は粗いが、スラッシュ・メタルに近いそのサウンドはバンドの持つ攻撃性を如実に表現している。外見だけでイロモノ扱いされていたイメージを払拭するのに十分なクオリティだ。2曲目はスピード感に優れた名曲で、4曲目はHIDEが在籍していた横須賀サーベルタイガーの楽曲をリメイクしたもの。デビューシングルのアレンジである6曲目は、後にフランスのシンフォニック・ブラック・メタルのAnorexia Nervosaもカヴァー。そして8曲目は、おそらくバンドで一番有名な曲の原曲だ。", "recommend": ["全部　特にVANISHING LOVE", "SADISTIC DESIRE", "I'LL KILL YOU", "ALIVE", "KURENAI"], "description": "1stアルバム", "type": "album", "img": ["x01.jpg"]}
+{
+  "uid": "x_japan01",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Vanishing Vision ",
+  "artist": ["X"],
+  "year": 1988,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "DEAR LOSER",
+          "VANISHING LOVE",
+          "PHANTOM OF GUILT",
+          "SADISTIC DESIRE",
+          "GIVE ME THE PLEASURE",
+          "",
+          "I'LL KILL YOU",
+          "ALIVE",
+          "KURENAI",
+          "UN-FINISHED..."
+        ]
+      ]
+    }
+  ],
+  "rate": 88,
+  "comment": "日本が世界に誇る偉大なバンドの、記念すべきデビュー作。音質は粗いが、スラッシュ・メタルに近いそのサウンドはバンドの持つ攻撃性を如実に表現している。外見だけでイロモノ扱いされていたイメージを払拭するのに十分なクオリティだ。2曲目はスピード感に優れた名曲で、4曲目はHIDEが在籍していた横須賀サーベルタイガーの楽曲をリメイクしたもの。デビューシングルのアレンジである6曲目は、後にフランスのシンフォニック・ブラック・メタルのAnorexia Nervosaもカヴァー。そして8曲目は、おそらくバンドで一番有名な曲の原曲だ。",
+  "recommend": ["全部　特にVANISHING LOVE", "SADISTIC DESIRE", "I'LL KILL YOU", "ALIVE", "KURENAI"],
+  "description": "1stアルバム",
+  "type": "album",
+  "img": ["x01.jpg"]
+}

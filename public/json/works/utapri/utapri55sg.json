@@ -1,1 +1,12 @@
-{"name": "不滅のインフェルノ", "description": "", "date": "2016-12-28", "year": 0, "artist": ["heavens"], "list": [{"disk_no": 1, "name": "", "list": ["不滅のインフェルノ", "HEAVENLY PARADE"]}], "comment": "", "uid": "utapri55sg", "img": ["utapri55sg.jpg"], "rate": 0}
+{
+  "name": "不滅のインフェルノ",
+  "description": "",
+  "date": "2016-12-28",
+  "year": 0,
+  "artist": ["heavens"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["不滅のインフェルノ", "HEAVENLY PARADE"] }],
+  "comment": "",
+  "uid": "utapri55sg",
+  "img": ["utapri55sg.jpg"],
+  "rate": 0
+}

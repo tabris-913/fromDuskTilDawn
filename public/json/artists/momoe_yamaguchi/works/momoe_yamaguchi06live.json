@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi06live", "date": "1980-11-19", "genres": [], "review_done": false, "name": "伝説から神話へ -BUDOKAN... AT LAST-", "ruby": "", "artist": "山口百恵", "year": 1980, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "6thライブアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi06live",
+  "date": "1980-11-19",
+  "genres": [],
+  "review_done": false,
+  "name": "伝説から神話へ -BUDOKAN... AT LAST-",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1980,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "6thライブアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

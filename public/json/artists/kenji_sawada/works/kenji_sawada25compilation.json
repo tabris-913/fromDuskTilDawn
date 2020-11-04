@@ -1,1 +1,18 @@
-{"uid": "kenji_sawada25compilation", "date": "1997-12-10", "genres": [], "review_done": false, "name": "Royal Straight Flush 1971-1979", "ruby": "", "artist": "沢田研二", "year": 1997, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "8thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "kenji_sawada25compilation",
+  "date": "1997-12-10",
+  "genres": [],
+  "review_done": false,
+  "name": "Royal Straight Flush 1971-1979",
+  "ruby": "",
+  "artist": "沢田研二",
+  "year": 1997,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "8thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

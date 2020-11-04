@@ -1,1 +1,29 @@
-{"name": "TBA", "description": "", "date": "2019-12-04", "year": 0, "artist": ["cecil"], "list": [{"disk_no": 1, "name": "", "list": ["DESTINY SONG", "情熱のデジャヴキス", "Eternity Love", "愛と夢とアナタと", "星のファンタジア", "Happiness", "GREEN AMBITION", "甘美なるアルカディア", "TBA", "TBA"]}], "comment": "", "uid": "utapri08", "img": ["utapri08.jpg"], "rate": 0}
+{
+  "name": "TBA",
+  "description": "",
+  "date": "2019-12-04",
+  "year": 0,
+  "artist": ["cecil"],
+  "list": [
+    {
+      "disk_no": 1,
+      "name": "",
+      "list": [
+        "DESTINY SONG",
+        "情熱のデジャヴキス",
+        "Eternity Love",
+        "愛と夢とアナタと",
+        "星のファンタジア",
+        "Happiness",
+        "GREEN AMBITION",
+        "甘美なるアルカディア",
+        "TBA",
+        "TBA"
+      ]
+    }
+  ],
+  "comment": "",
+  "uid": "utapri08",
+  "img": ["utapri08.jpg"],
+  "rate": 0
+}

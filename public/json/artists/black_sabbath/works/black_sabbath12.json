@@ -1,1 +1,34 @@
-{"uid": "black_sabbath12", "date": "", "genres": [], "review_done": false, "name": "Seventh Star", "artist": ["Black Sabbath"], "year": 1986, "list": [{"list": [["", "In for the Kill", "No Stranger to Love", "Turn to Stone", "Sphinx (The Guardian)", "Seventh Star", "", "Danger Zone", "Heart Like a Wheel", "Angry Heart", "In Memory..."]]}], "rate": 86, "comment": "Ian Gillan脱退後、Glenn Hughesをヴォーカルに迎えて制作された。当初はTony Iommiのソロとして作られていたようだ。サバスらしい音からは少し遠ざかったような気もするが、それ以上に楽曲のレベルが総じて高い。次作以降のサバスの名盤を生み出すに至る進化の過程を感じ取ることが出来る。OPを飾るに相応しい疾走チューン#1、哀愁ただよう名メロディック・ハード#2、再び爽快なスピードナンバー#3という冒頭は完璧。インスト小曲に続くタイトルチューン#5はそれまでに比べると地味だが、素朴なメロディが際立つ。後半の幕開け#6はストレートなロックチューン。以降はややテンションが落ちるものの、質が落ちることはない。", "recommend": ["In for the Kill", "No Stranger to Love", "Turn to Stone", "Danger Zone"], "description": "Sabbath 12thアルバム", "type": "album", "img": ["sabbath12.jpg"]}
+{
+  "uid": "black_sabbath12",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Seventh Star",
+  "artist": ["Black Sabbath"],
+  "year": 1986,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "In for the Kill",
+          "No Stranger to Love",
+          "Turn to Stone",
+          "Sphinx (The Guardian)",
+          "Seventh Star",
+          "",
+          "Danger Zone",
+          "Heart Like a Wheel",
+          "Angry Heart",
+          "In Memory..."
+        ]
+      ]
+    }
+  ],
+  "rate": 86,
+  "comment": "Ian Gillan脱退後、Glenn Hughesをヴォーカルに迎えて制作された。当初はTony Iommiのソロとして作られていたようだ。サバスらしい音からは少し遠ざかったような気もするが、それ以上に楽曲のレベルが総じて高い。次作以降のサバスの名盤を生み出すに至る進化の過程を感じ取ることが出来る。OPを飾るに相応しい疾走チューン#1、哀愁ただよう名メロディック・ハード#2、再び爽快なスピードナンバー#3という冒頭は完璧。インスト小曲に続くタイトルチューン#5はそれまでに比べると地味だが、素朴なメロディが際立つ。後半の幕開け#6はストレートなロックチューン。以降はややテンションが落ちるものの、質が落ちることはない。",
+  "recommend": ["In for the Kill", "No Stranger to Love", "Turn to Stone", "Danger Zone"],
+  "description": "Sabbath 12thアルバム",
+  "type": "album",
+  "img": ["sabbath12.jpg"]
+}

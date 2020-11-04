@@ -1,1 +1,44 @@
-{"uid": "helloween08", "date": "", "genres": [], "review_done": false, "name": "Better than Raw ", "artist": ["Helloween"], "year": 1998, "list": [{"list": [["", "Deliberately Limited Preliminary Prelude Period in Z", "Push", "Falling Higher", "Hey Lord!", "Don't Spit on My Mind", "", "Revelation", "Time", "I Can", "A Handful of Pain", "Laudate Dominum", "Midnight Sun"]]}], "rate": 87, "comment": "時代に合ったモダンなヘヴィ・サウンドに転換した。もうKeeper時代の音は期待しても意味がないと、前作の時点で割り切れた。大御所たちがこぞってモダンなヘヴィネスを追求し始めていたころだが、ハロウィンも例外ではない。とはいえその他のバンドと違ってかなりクオリティが高めなのだ。こういったサウンドに転換したことに関して賛否両論はありそうであるが、良い作品じゃないか。前2作よりも好きだよ。", "recommend": ["Deliberately Limited Preliminary Prelude Period in Z", "Push", "Falling Higher", "Revelation", "I Can", "Laudate Dominum", "\n\t\t\tMidnight Sun"], "description": "8thアルバム", "type": "album", "img": ["hw08.jpg"]}
+{
+  "uid": "helloween08",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Better than Raw ",
+  "artist": ["Helloween"],
+  "year": 1998,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Deliberately Limited Preliminary Prelude Period in Z",
+          "Push",
+          "Falling Higher",
+          "Hey Lord!",
+          "Don't Spit on My Mind",
+          "",
+          "Revelation",
+          "Time",
+          "I Can",
+          "A Handful of Pain",
+          "Laudate Dominum",
+          "Midnight Sun"
+        ]
+      ]
+    }
+  ],
+  "rate": 87,
+  "comment": "時代に合ったモダンなヘヴィ・サウンドに転換した。もうKeeper時代の音は期待しても意味がないと、前作の時点で割り切れた。大御所たちがこぞってモダンなヘヴィネスを追求し始めていたころだが、ハロウィンも例外ではない。とはいえその他のバンドと違ってかなりクオリティが高めなのだ。こういったサウンドに転換したことに関して賛否両論はありそうであるが、良い作品じゃないか。前2作よりも好きだよ。",
+  "recommend": [
+    "Deliberately Limited Preliminary Prelude Period in Z",
+    "Push",
+    "Falling Higher",
+    "Revelation",
+    "I Can",
+    "Laudate Dominum",
+    "\n\t\t\tMidnight Sun"
+  ],
+  "description": "8thアルバム",
+  "type": "album",
+  "img": ["hw08.jpg"]
+}

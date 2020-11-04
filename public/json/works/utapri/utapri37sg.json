@@ -1,1 +1,12 @@
-{"name": "アイドルソング 美風藍", "description": "", "date": "2015-04-29", "year": 0, "artist": ["ai"], "list": [{"disk_no": 1, "name": "", "list": ["Innocent Wind", "ムネノコドウ"]}], "comment": "", "uid": "utapri37sg", "img": ["utapri37sg.jpg"], "rate": 0}
+{
+  "name": "アイドルソング 美風藍",
+  "description": "",
+  "date": "2015-04-29",
+  "year": 0,
+  "artist": ["ai"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["Innocent Wind", "ムネノコドウ"] }],
+  "comment": "",
+  "uid": "utapri37sg",
+  "img": ["utapri37sg.jpg"],
+  "rate": 0
+}

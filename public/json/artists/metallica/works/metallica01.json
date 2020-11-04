@@ -1,1 +1,35 @@
-{"uid": "metallica01", "date": "", "genres": [], "review_done": false, "name": "Kill 'Em All （血染めの鉄槌） ", "artist": ["Metallica"], "year": 1983, "list": [{"list": [["", "Hit the Lights", "The Four Horsemen （電撃の騎士）", "Motorbreath", "Jump in the Fire （炎のジャンプ）", "(Anasthesia) -Pulling Teeth", "", "Whiplash （鞭）", "Phantom Lord", "No Remorse （懺悔無用）", "Seek & Destroy （見つけて壊せ）", "Metal Militia （メタル軍団）"]]}], "rate": 87, "comment": "スラッシュ・メタルの誕生！とはいえジャンルの創設は、あまり好意的に受け入れられるものでないのが常だ。このアルバムも例外ではなく、問題作として受け入れられることもあったそうですね。今のメタリカとは大違い。やっぱりこのスラッシーな雰囲気こそ、彼らの真の姿のはずなのに。今ではもう見る影もない。悪魔的なスレイヤーよりも聴きやすく、デビュー作はメタリカのほうが上手かな。まだ正統派に近いメロディ感覚も感じられるのが好印象。", "recommend": ["全部　特にHit the Lights", "The Four Hoursemen", "Motorbreath", "Whiplash", "Metal Militia"], "description": "1stアルバム", "type": "album", "img": ["metallica01.jpg"]}
+{
+  "uid": "metallica01",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Kill 'Em All （血染めの鉄槌） ",
+  "artist": ["Metallica"],
+  "year": 1983,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Hit the Lights",
+          "The Four Horsemen （電撃の騎士）",
+          "Motorbreath",
+          "Jump in the Fire （炎のジャンプ）",
+          "(Anasthesia) -Pulling Teeth",
+          "",
+          "Whiplash （鞭）",
+          "Phantom Lord",
+          "No Remorse （懺悔無用）",
+          "Seek & Destroy （見つけて壊せ）",
+          "Metal Militia （メタル軍団）"
+        ]
+      ]
+    }
+  ],
+  "rate": 87,
+  "comment": "スラッシュ・メタルの誕生！とはいえジャンルの創設は、あまり好意的に受け入れられるものでないのが常だ。このアルバムも例外ではなく、問題作として受け入れられることもあったそうですね。今のメタリカとは大違い。やっぱりこのスラッシーな雰囲気こそ、彼らの真の姿のはずなのに。今ではもう見る影もない。悪魔的なスレイヤーよりも聴きやすく、デビュー作はメタリカのほうが上手かな。まだ正統派に近いメロディ感覚も感じられるのが好印象。",
+  "recommend": ["全部　特にHit the Lights", "The Four Hoursemen", "Motorbreath", "Whiplash", "Metal Militia"],
+  "description": "1stアルバム",
+  "type": "album",
+  "img": ["metallica01.jpg"]
+}

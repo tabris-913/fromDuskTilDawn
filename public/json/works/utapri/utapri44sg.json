@@ -1,1 +1,12 @@
-{"name": "Shining All Star CD 2", "description": "", "date": "2015-09-30", "year": 0, "artist": ["otoya", "masato", "natsuki", "tokiya", "ren", "sho", "cecil", "reiji", "rammaru", "ai", "camus"], "list": [{"disk_no": 1, "name": "", "list": ["天空のミラクルスター", "Starlight Memory"]}], "comment": "", "uid": "utapri44sg", "img": ["utapri44sg.jpg"], "rate": 0}
+{
+  "name": "Shining All Star CD 2",
+  "description": "",
+  "date": "2015-09-30",
+  "year": 0,
+  "artist": ["otoya", "masato", "natsuki", "tokiya", "ren", "sho", "cecil", "reiji", "rammaru", "ai", "camus"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["天空のミラクルスター", "Starlight Memory"] }],
+  "comment": "",
+  "uid": "utapri44sg",
+  "img": ["utapri44sg.jpg"],
+  "rate": 0
+}

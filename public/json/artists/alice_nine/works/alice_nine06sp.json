@@ -1,32 +1,31 @@
 {
-    "uid": "alice_nine06ep",
-    "date": "2020-04-29",
-    "genres": ["pop_rock", "hard_rock", "visual_rock"],
-    "review_done": false,
-    "name": "不夜城エデン",
-    "artist": ["アリス九號."],
-    "year": 2020,
-    "list": [
-      {
-        "list": [
-          [
-            "革命開花 -epilogue-",
-            "革命開花 -Revolution Blooming-",
-            "BABYLON",
-            "TESTAMENT",
-            "游戏 -ASOBI-",
-            "罪人",
-            "CYAN",
-            "Everlasting"
-          ]
+  "uid": "alice_nine06ep",
+  "date": "2020-04-29",
+  "genres": ["pop_rock", "hard_rock", "visual_rock"],
+  "review_done": false,
+  "name": "不夜城エデン",
+  "artist": ["アリス九號."],
+  "year": 2020,
+  "list": [
+    {
+      "list": [
+        [
+          "革命開花 -epilogue-",
+          "革命開花 -Revolution Blooming-",
+          "BABYLON",
+          "TESTAMENT",
+          "游戏 -ASOBI-",
+          "罪人",
+          "CYAN",
+          "Everlasting"
         ]
-      }
-    ],
-    "rate": 83,
-    "comment": "",
-    "recommend": ["革命開花", "Everlasting"],
-    "description": "6thミニアルバム",
-    "type": "album",
-    "img": ["alice_nine06ep.png"]
-  }
-  
+      ]
+    }
+  ],
+  "rate": 83,
+  "comment": "",
+  "recommend": ["革命開花", "Everlasting"],
+  "description": "6thミニアルバム",
+  "type": "album",
+  "img": ["alice_nine06ep.png"]
+}

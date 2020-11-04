@@ -1,1 +1,18 @@
-{"uid": "shizuka_kudo17", "date": "2017-08-30", "genres": [], "review_done": false, "name": "凛", "ruby": "", "artist": "工藤静香", "year": 2017, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "17thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "shizuka_kudo17",
+  "date": "2017-08-30",
+  "genres": [],
+  "review_done": false,
+  "name": "凛",
+  "ruby": "",
+  "artist": "工藤静香",
+  "year": 2017,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "17thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

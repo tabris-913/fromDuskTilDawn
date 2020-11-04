@@ -1,1 +1,47 @@
-{"uid": "blind_guardian08", "date": "", "genres": [], "review_done": false, "name": "A Twist in the Myth", "artist": ["Blind Guardian"], "year": 2006, "list": [{"list": [["", "This Will Never End", "Otherland", "Turn the Page", "Fly", "Carry the Blessed Home", "Another Stranger Me", "Straight through the Mirror", "Lionheart", "", "Skalds and Shadows", "The Edge", "The New Order", "(JAPANESE BONUS TRACK)", "All the King's Horses", "(DIGIPACK BONUS TRACK)", "Dead Sound of Misery"]]}], "rate": 84, "comment": "曲のレヴェルは決して低くはない。しかしやはりもうネタというか、力が尽きたのか、全盛期ほどのすごさはない。それでもまだ聴けるだけの作品を創っているのだからましだろう。うん、駄作じゃないだけましだ。いや普通にいいアルバムだよ。他のバンドはここまで来たら聴くに堪えないようなものを作ることもあるのに。やっぱり彼らは素晴らしいバンドなんだ。力が衰えてなお、この水準を保っているのだから。", "recommend": ["This Will Never End", "Turn the Page", "Straight through the Mirror", "Lionheart", "The Edge", "Dead Sound of Misery"], "description": "Guardian 8thアルバム", "type": "album", "img": ["blind08.jpg"]}
+{
+  "uid": "blind_guardian08",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "A Twist in the Myth",
+  "artist": ["Blind Guardian"],
+  "year": 2006,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "This Will Never End",
+          "Otherland",
+          "Turn the Page",
+          "Fly",
+          "Carry the Blessed Home",
+          "Another Stranger Me",
+          "Straight through the Mirror",
+          "Lionheart",
+          "",
+          "Skalds and Shadows",
+          "The Edge",
+          "The New Order",
+          "(JAPANESE BONUS TRACK)",
+          "All the King's Horses",
+          "(DIGIPACK BONUS TRACK)",
+          "Dead Sound of Misery"
+        ]
+      ]
+    }
+  ],
+  "rate": 84,
+  "comment": "曲のレヴェルは決して低くはない。しかしやはりもうネタというか、力が尽きたのか、全盛期ほどのすごさはない。それでもまだ聴けるだけの作品を創っているのだからましだろう。うん、駄作じゃないだけましだ。いや普通にいいアルバムだよ。他のバンドはここまで来たら聴くに堪えないようなものを作ることもあるのに。やっぱり彼らは素晴らしいバンドなんだ。力が衰えてなお、この水準を保っているのだから。",
+  "recommend": [
+    "This Will Never End",
+    "Turn the Page",
+    "Straight through the Mirror",
+    "Lionheart",
+    "The Edge",
+    "Dead Sound of Misery"
+  ],
+  "description": "Guardian 8thアルバム",
+  "type": "album",
+  "img": ["blind08.jpg"]
+}

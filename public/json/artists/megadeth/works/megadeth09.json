@@ -1,1 +1,39 @@
-{"uid": "megadeth09", "date": "", "genres": [], "review_done": false, "name": "The World Needs a Hero", "artist": ["Megadeth"], "year": 2001, "list": [{"list": [["", "Disconnect", "The World Needs a Hero", "Moto Psycho", "1000 Times Goodbye", "Burning Bridges", "Promises", "Recipe for Hate... Warhorse", "", "Losing My Senses", "Dread and the Fugitive Mind", "Silent Scorn", "Return to Hanger", "When", "(JAPANESE BONUS TRACK)", "Coming Home"]]}], "rate": 74, "comment": "解散前最後のアルバム。サウンド的に迷走していた前作に代わり、今作ではしっかりとメタル然とした曲ばかりになっている。スラッシュ復活はしていないが、メタルらしいクールさを取り戻している。メタルらしさが戻ったのはいいが、前作に比べるとメロディは弱い。ヘヴィネスと同じくらいメロディを重視する自分にとっては、やや残念だ。", "recommend": ["The World Needs a Hero", "Moto Psycho", "Dread and the Fugitive Mind", "Return to Hunger"], "description": "9thアルバム", "type": "album", "img": ["megadeth09.jpg"]}
+{
+  "uid": "megadeth09",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "The World Needs a Hero",
+  "artist": ["Megadeth"],
+  "year": 2001,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Disconnect",
+          "The World Needs a Hero",
+          "Moto Psycho",
+          "1000 Times Goodbye",
+          "Burning Bridges",
+          "Promises",
+          "Recipe for Hate... Warhorse",
+          "",
+          "Losing My Senses",
+          "Dread and the Fugitive Mind",
+          "Silent Scorn",
+          "Return to Hanger",
+          "When",
+          "(JAPANESE BONUS TRACK)",
+          "Coming Home"
+        ]
+      ]
+    }
+  ],
+  "rate": 74,
+  "comment": "解散前最後のアルバム。サウンド的に迷走していた前作に代わり、今作ではしっかりとメタル然とした曲ばかりになっている。スラッシュ復活はしていないが、メタルらしいクールさを取り戻している。メタルらしさが戻ったのはいいが、前作に比べるとメロディは弱い。ヘヴィネスと同じくらいメロディを重視する自分にとっては、やや残念だ。",
+  "recommend": ["The World Needs a Hero", "Moto Psycho", "Dread and the Fugitive Mind", "Return to Hunger"],
+  "description": "9thアルバム",
+  "type": "album",
+  "img": ["megadeth09.jpg"]
+}

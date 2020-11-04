@@ -1,1 +1,49 @@
-{"uid": "angra04", "date": "", "genres": [], "review_done": false, "name": "Rebirth ", "artist": ["Angra"], "year": 2001, "list": [{"list": [["", "In Excelsis", "Nova Era", "Millennium Sun", "Acid Rain", "Heroes of Sand", "Unholy Wars", "", "Imperial Crown", "Forgiven Return", "", "", "Rebirth", "Judgement Day", "Running Alone", "Visions Prelude", "(JAPANESE BONUS TRACK)", "Bleeding Heart"]]}], "rate": 92, "comment": "Angra完全復活！ヴォーカルが交代し、一時は解散も考えたようだが、解散しなくてよかった！解散していたらこんなにすごいアルバムは生まれなかっただろうから。これはデビュー作をやすやすと超えた名盤だ！そして2曲目はあのCarry Onと比肩する、いやむしろ超えている名曲だ！デビュー作でもそうだったが、キラーチューンである2曲目の後はバラードだ（3曲目）。しかし今作のバラードは今までとは比べ物にならないほどレヴェルが高い。", "recommend": ["全部　特にNova Era", "Mullennium Sun", "Acid Rain", "Unholy Wars", "Judgement Day", "Running Alone", "Visions Prelude"], "description": "4thアルバム", "type": "album", "img": ["angra04.jpg"]}
+{
+  "uid": "angra04",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Rebirth ",
+  "artist": ["Angra"],
+  "year": 2001,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "In Excelsis",
+          "Nova Era",
+          "Millennium Sun",
+          "Acid Rain",
+          "Heroes of Sand",
+          "Unholy Wars",
+          "",
+          "Imperial Crown",
+          "Forgiven Return",
+          "",
+          "",
+          "Rebirth",
+          "Judgement Day",
+          "Running Alone",
+          "Visions Prelude",
+          "(JAPANESE BONUS TRACK)",
+          "Bleeding Heart"
+        ]
+      ]
+    }
+  ],
+  "rate": 92,
+  "comment": "Angra完全復活！ヴォーカルが交代し、一時は解散も考えたようだが、解散しなくてよかった！解散していたらこんなにすごいアルバムは生まれなかっただろうから。これはデビュー作をやすやすと超えた名盤だ！そして2曲目はあのCarry Onと比肩する、いやむしろ超えている名曲だ！デビュー作でもそうだったが、キラーチューンである2曲目の後はバラードだ（3曲目）。しかし今作のバラードは今までとは比べ物にならないほどレヴェルが高い。",
+  "recommend": [
+    "全部　特にNova Era",
+    "Mullennium Sun",
+    "Acid Rain",
+    "Unholy Wars",
+    "Judgement Day",
+    "Running Alone",
+    "Visions Prelude"
+  ],
+  "description": "4thアルバム",
+  "type": "album",
+  "img": ["angra04.jpg"]
+}

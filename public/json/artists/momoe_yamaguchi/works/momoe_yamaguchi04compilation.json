@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi04compilation", "date": "1976-06-01", "genres": [], "review_done": false, "name": "山口百恵のすべて", "ruby": "", "artist": "山口百恵", "year": 1976, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "4thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi04compilation",
+  "date": "1976-06-01",
+  "genres": [],
+  "review_done": false,
+  "name": "山口百恵のすべて",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1976,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "4thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

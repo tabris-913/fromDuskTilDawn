@@ -1,1 +1,6 @@
-{"uid": "neo_classical_metal", "name": "ネオクラシカル・メタル", "en": "Neo-Classical Metal", "list": ["stratovarius"]}
+{
+  "uid": "neo_classical_metal",
+  "name": "ネオクラシカル・メタル",
+  "en": "Neo-Classical Metal",
+  "list": ["stratovarius"]
+}

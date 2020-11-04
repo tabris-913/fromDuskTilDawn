@@ -1,1 +1,43 @@
-{"uid": "judas_priest17", "date": "", "genres": [], "review_done": false, "name": "Redeemer of Souls （贖罪の化身）", "artist": ["Judas Priest"], "year": 2014, "list": [{"list": [["Disc 1", "Dragonaught", "Redeemer of Souls", "Halls of Valhalla", "Sword of Damocles", "March of the Damned", "Down in Flames", "Hell & Back", "Cold Blooded", "Metalizer", "Crossfire", "Secrets of the Dead", "Battle Cry", "Beginning of the End", "Disc 2 (Bonus Disc)", "Snakebite", "Tears of Blood", "Creatures", "Bring It On", "Never Forget"]]}], "rate": 78, "comment": "まあ悪くない。だからといって名盤と言えるほどのものでもない。だがもう40年近く活動をしているにもかかわらず、これだけの作品を創っているのだから凄い。前作のような明確なコンセプトはないにしろ、楽曲のクオリティとしては安定している。Halfordのヴォーカルが中低音中心になっているのは残念。そしてあの名盤『Painkiller』のような鬼気迫る轟音というわけでもないが、もともと彼らは疾走曲よりもミドル曲でどっしり聴かせるのが主体だから問題ではない。昔からのファンにも安心して聴くことができ、新しいファンにもメタル・ゴッドの堂々たる姿を提示できる。", "recommend": ["Redeemer of Souls", "Halls of Valhalla", "Metalizer", "Snakebite"], "description": "Priest 17th Album", "type": "album", "img": ["judas17.jpg"]}
+{
+  "uid": "judas_priest17",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Redeemer of Souls （贖罪の化身）",
+  "artist": ["Judas Priest"],
+  "year": 2014,
+  "list": [
+    {
+      "list": [
+        [
+          "Disc 1",
+          "Dragonaught",
+          "Redeemer of Souls",
+          "Halls of Valhalla",
+          "Sword of Damocles",
+          "March of the Damned",
+          "Down in Flames",
+          "Hell & Back",
+          "Cold Blooded",
+          "Metalizer",
+          "Crossfire",
+          "Secrets of the Dead",
+          "Battle Cry",
+          "Beginning of the End",
+          "Disc 2 (Bonus Disc)",
+          "Snakebite",
+          "Tears of Blood",
+          "Creatures",
+          "Bring It On",
+          "Never Forget"
+        ]
+      ]
+    }
+  ],
+  "rate": 78,
+  "comment": "まあ悪くない。だからといって名盤と言えるほどのものでもない。だがもう40年近く活動をしているにもかかわらず、これだけの作品を創っているのだから凄い。前作のような明確なコンセプトはないにしろ、楽曲のクオリティとしては安定している。Halfordのヴォーカルが中低音中心になっているのは残念。そしてあの名盤『Painkiller』のような鬼気迫る轟音というわけでもないが、もともと彼らは疾走曲よりもミドル曲でどっしり聴かせるのが主体だから問題ではない。昔からのファンにも安心して聴くことができ、新しいファンにもメタル・ゴッドの堂々たる姿を提示できる。",
+  "recommend": ["Redeemer of Souls", "Halls of Valhalla", "Metalizer", "Snakebite"],
+  "description": "Priest 17th Album",
+  "type": "album",
+  "img": ["judas17.jpg"]
+}

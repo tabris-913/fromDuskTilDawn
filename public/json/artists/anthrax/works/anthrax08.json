@@ -1,1 +1,43 @@
-{"uid": "anthrax08", "date": "", "genres": [], "review_done": false, "name": "Volume 8: The Threat Is Real", "artist": ["Anthrax"], "year": 1998, "list": [{"list": [["", "Crush", "Catharsis", "Inside Out", "P&V", "604", "Toast to the Extras", "Born Again Idiot", "Killing Box", "Harms Way", "", "Hog Tied", "Big Fat", "Cupajoe", "Alpha Male", "Stealing from a Thief/Pieces", "(BONUS TRACK)", "Giving the Horns", "The Bends", "Snap/I'd Rather Be Sleeping"]]}], "rate": 64, "comment": "まだスランプを抜け出せない8作目。かつてないほどに面白みがない。記憶にも残らない。一部の曲にはPanteraからPhil AnselmoとDimebag Darrellが参加。しかし結果としては大した話題にもならなかった。たいしていい曲でもないのに本編14曲も収録したのはどう考えても失敗だ。曲数は少なくてもいいからしっかりといい曲を作るべきだったのだ。", "recommend": ["Catharsis", "604", "Killing Box", "Stealing from a Thief"], "description": "8thアルバム", "type": "album", "img": ["anthrax08.jpg"]}
+{
+  "uid": "anthrax08",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Volume 8: The Threat Is Real",
+  "artist": ["Anthrax"],
+  "year": 1998,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Crush",
+          "Catharsis",
+          "Inside Out",
+          "P&V",
+          "604",
+          "Toast to the Extras",
+          "Born Again Idiot",
+          "Killing Box",
+          "Harms Way",
+          "",
+          "Hog Tied",
+          "Big Fat",
+          "Cupajoe",
+          "Alpha Male",
+          "Stealing from a Thief/Pieces",
+          "(BONUS TRACK)",
+          "Giving the Horns",
+          "The Bends",
+          "Snap/I'd Rather Be Sleeping"
+        ]
+      ]
+    }
+  ],
+  "rate": 64,
+  "comment": "まだスランプを抜け出せない8作目。かつてないほどに面白みがない。記憶にも残らない。一部の曲にはPanteraからPhil AnselmoとDimebag Darrellが参加。しかし結果としては大した話題にもならなかった。たいしていい曲でもないのに本編14曲も収録したのはどう考えても失敗だ。曲数は少なくてもいいからしっかりといい曲を作るべきだったのだ。",
+  "recommend": ["Catharsis", "604", "Killing Box", "Stealing from a Thief"],
+  "description": "8thアルバム",
+  "type": "album",
+  "img": ["anthrax08.jpg"]
+}

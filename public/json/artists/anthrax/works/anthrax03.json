@@ -1,1 +1,34 @@
-{"uid": "anthrax03", "date": "", "genres": [], "review_done": false, "name": "Among the Living ", "artist": ["Anthrax"], "year": 1987, "list": [{"list": [["", "Among the Living", "Caught in a Moth", "I Am the Law", "Efilnikufesin (N.F.L.)", "A Skeleton in the Closet", "", "Indians", "One World", "A.D.I./Horror of It All", "Imitation of Life"]]}], "rate": 89, "comment": "前作と並んで高く評価され、最高傑作の呼び声も高い3作目。本作にも代表曲が収録され、キャリアを語る上で外すことのできない名盤だ。疾走曲は当然のようにかっこよく、Big 4ほかの3バンドの名盤と比べても見劣りしない作品だと言える。スラッシュ全盛期を支えた名盤の一つであることは間違いない。", "recommend": ["Among the Living", "I Am the Law", "Efilnikufesin", "Indians", "One World", "Imitation of Life"], "description": "3rdアルバム", "type": "album", "img": ["anthrax03.jpg"]}
+{
+  "uid": "anthrax03",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Among the Living ",
+  "artist": ["Anthrax"],
+  "year": 1987,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Among the Living",
+          "Caught in a Moth",
+          "I Am the Law",
+          "Efilnikufesin (N.F.L.)",
+          "A Skeleton in the Closet",
+          "",
+          "Indians",
+          "One World",
+          "A.D.I./Horror of It All",
+          "Imitation of Life"
+        ]
+      ]
+    }
+  ],
+  "rate": 89,
+  "comment": "前作と並んで高く評価され、最高傑作の呼び声も高い3作目。本作にも代表曲が収録され、キャリアを語る上で外すことのできない名盤だ。疾走曲は当然のようにかっこよく、Big 4ほかの3バンドの名盤と比べても見劣りしない作品だと言える。スラッシュ全盛期を支えた名盤の一つであることは間違いない。",
+  "recommend": ["Among the Living", "I Am the Law", "Efilnikufesin", "Indians", "One World", "Imitation of Life"],
+  "description": "3rdアルバム",
+  "type": "album",
+  "img": ["anthrax03.jpg"]
+}

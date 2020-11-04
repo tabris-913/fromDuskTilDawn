@@ -1,1 +1,16 @@
-{"uid": "showya02", "date": "", "genres": [], "review_done": false, "name": "QUEENDOM", "artist": ["SHOW-YA"], "year": 1986, "list": [{"list": [["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]]}], "rate": 0, "comment": "", "recommend": [""], "description": "2ndアルバム", "type": "album", "img": ["showya02.jpg"]}
+{
+  "uid": "showya02",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "QUEENDOM",
+  "artist": ["SHOW-YA"],
+  "year": 1986,
+  "list": [{ "list": [["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "2ndアルバム",
+  "type": "album",
+  "img": ["showya02.jpg"]
+}

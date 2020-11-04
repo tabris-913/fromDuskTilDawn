@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi07", "date": "1975-12-05", "genres": [], "review_done": false, "name": "ささやかな欲望", "ruby": "", "artist": "山口百恵", "year": 1975, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "7thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi07",
+  "date": "1975-12-05",
+  "genres": [],
+  "review_done": false,
+  "name": "ささやかな欲望",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1975,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "7thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

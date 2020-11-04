@@ -1,1 +1,14 @@
-{"name": "シアターシャイニング エヴリィBuddy!", "description": "", "date": "2015-12-23", "year": 0, "artist": ["reiji", "sho"], "list": [{"disk_no": 1, "name": "", "list": ["エヴリィBuddy! chapter 1", "エヴリィBuddy! chapter 2", "エヴリィBuddy!"]}], "comment": "", "uid": "utapri06thater", "img": ["utapri06thater.jpg"], "rate": 0}
+{
+  "name": "シアターシャイニング エヴリィBuddy!",
+  "description": "",
+  "date": "2015-12-23",
+  "year": 0,
+  "artist": ["reiji", "sho"],
+  "list": [
+    { "disk_no": 1, "name": "", "list": ["エヴリィBuddy! chapter 1", "エヴリィBuddy! chapter 2", "エヴリィBuddy!"] }
+  ],
+  "comment": "",
+  "uid": "utapri06thater",
+  "img": ["utapri06thater.jpg"],
+  "rate": 0
+}

@@ -1,1 +1,36 @@
-{"uid": "black_sabbath18", "date": "", "genres": [], "review_done": false, "name": "Forbidden", "artist": ["Black Sabbath"], "year": 1995, "list": [{"list": [["", "The Illusion of Power", "Get a Grip", "Can't Get Close Enough", "Shaking Off the Chains", "I Won't Cry for You", "Guilty as Hell", "", "Sick and Tired", "Rusty Angels", "Forbidden", "Kiss of Death", "Loser Gets It All"]]}], "rate": 74, "comment": "Cozy Powellらが戻ってきて、『Tyr』メンバーが揃った作品。さすがのメロディアスな楽曲が多いが、これまでのTony期の作品に比べると質は劣るといえる。ハッとする部分は多いが、全体的にはフックが弱いように思える。こう考えると、Ozzy期のラスト2作やDioの『Dehumanizer』、そして今作と、ヴォーカルによって作風は違えど、ヴォーカルが質に影響することはないのだと分かる。同じヴォーカリストでも質が大きく違うのだから。", "recommend": ["Get a Grip", "Rusty Angels", "Forbidden", "Kiss of Death"], "description": "Sabbath 18thアルバム", "type": "album", "img": ["sabbath18.jpg"]}
+{
+  "uid": "black_sabbath18",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Forbidden",
+  "artist": ["Black Sabbath"],
+  "year": 1995,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "The Illusion of Power",
+          "Get a Grip",
+          "Can't Get Close Enough",
+          "Shaking Off the Chains",
+          "I Won't Cry for You",
+          "Guilty as Hell",
+          "",
+          "Sick and Tired",
+          "Rusty Angels",
+          "Forbidden",
+          "Kiss of Death",
+          "Loser Gets It All"
+        ]
+      ]
+    }
+  ],
+  "rate": 74,
+  "comment": "Cozy Powellらが戻ってきて、『Tyr』メンバーが揃った作品。さすがのメロディアスな楽曲が多いが、これまでのTony期の作品に比べると質は劣るといえる。ハッとする部分は多いが、全体的にはフックが弱いように思える。こう考えると、Ozzy期のラスト2作やDioの『Dehumanizer』、そして今作と、ヴォーカルによって作風は違えど、ヴォーカルが質に影響することはないのだと分かる。同じヴォーカリストでも質が大きく違うのだから。",
+  "recommend": ["Get a Grip", "Rusty Angels", "Forbidden", "Kiss of Death"],
+  "description": "Sabbath 18thアルバム",
+  "type": "album",
+  "img": ["sabbath18.jpg"]
+}

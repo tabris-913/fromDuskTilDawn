@@ -1,1 +1,12 @@
-{"name": "スペシャルユニットドラマCD 翔・ナギ・シオン", "description": "", "date": "2019-02-13", "year": 0, "artist": ["sho", "nagi", "shion"], "list": [{"disk_no": 1, "name": "", "list": ["Colorfully☆Spark"]}], "comment": "", "uid": "utapri19drama", "img": ["utapri19drama.jpg"], "rate": 0}
+{
+  "name": "スペシャルユニットドラマCD 翔・ナギ・シオン",
+  "description": "",
+  "date": "2019-02-13",
+  "year": 0,
+  "artist": ["sho", "nagi", "shion"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["Colorfully☆Spark"] }],
+  "comment": "",
+  "uid": "utapri19drama",
+  "img": ["utapri19drama.jpg"],
+  "rate": 0
+}

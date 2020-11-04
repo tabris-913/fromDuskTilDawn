@@ -1,1 +1,12 @@
-{"name": "アイドルソング 神宮寺レン", "description": "", "date": "2013-05-22", "year": 2013, "artist": ["ren"], "list": [{"disk_no": 1, "name": "", "list": ["オレンジラプソディ", "FREEDOM"]}], "comment": "", "uid": "utapri26sg", "img": ["utapri26sg.jpg"], "rate": 0}
+{
+  "name": "アイドルソング 神宮寺レン",
+  "description": "",
+  "date": "2013-05-22",
+  "year": 2013,
+  "artist": ["ren"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["オレンジラプソディ", "FREEDOM"] }],
+  "comment": "",
+  "uid": "utapri26sg",
+  "img": ["utapri26sg.jpg"],
+  "rate": 0
+}

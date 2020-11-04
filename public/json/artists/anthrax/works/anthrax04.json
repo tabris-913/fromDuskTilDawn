@@ -1,1 +1,43 @@
-{"uid": "anthrax04", "date": "", "genres": [], "review_done": false, "name": "State of Euphoria", "artist": ["Anthrax"], "year": 1988, "list": [{"list": [["", "Be All, End All", "Out of Sight, Out of Mind", "Make Me Laugh", "Antisocial", "Who Cares Wins", "", "Now It's Dark", "Schism", "Misery Loves Company", "13", "Finale"]]}], "rate": 84, "comment": "純粋なスラッシュ・メタルという意味ではおそらく本作が最後。以降はさまざまなジャンルとのクロスオーヴァーを図っていくことになる。しかしすでに早くもニューメタルを思わせる曲もあり、ここからクロスオーヴァーが始まっていると言ってもいい。見事な疾走曲で終わるという構成もこれまで不変のものであるし、まだこの頃は安心して聴ける作品だ。", "recommend": ["Be All, End All", "Out of Sight, Out of Mind", "Antisocial", "Now It's Dark", "Schism", "Misery Loves Company", "Finale"], "description": "4thアルバム", "type": "album", "img": ["anthrax04.jpg"]}
+{
+  "uid": "anthrax04",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "State of Euphoria",
+  "artist": ["Anthrax"],
+  "year": 1988,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Be All, End All",
+          "Out of Sight, Out of Mind",
+          "Make Me Laugh",
+          "Antisocial",
+          "Who Cares Wins",
+          "",
+          "Now It's Dark",
+          "Schism",
+          "Misery Loves Company",
+          "13",
+          "Finale"
+        ]
+      ]
+    }
+  ],
+  "rate": 84,
+  "comment": "純粋なスラッシュ・メタルという意味ではおそらく本作が最後。以降はさまざまなジャンルとのクロスオーヴァーを図っていくことになる。しかしすでに早くもニューメタルを思わせる曲もあり、ここからクロスオーヴァーが始まっていると言ってもいい。見事な疾走曲で終わるという構成もこれまで不変のものであるし、まだこの頃は安心して聴ける作品だ。",
+  "recommend": [
+    "Be All, End All",
+    "Out of Sight, Out of Mind",
+    "Antisocial",
+    "Now It's Dark",
+    "Schism",
+    "Misery Loves Company",
+    "Finale"
+  ],
+  "description": "4thアルバム",
+  "type": "album",
+  "img": ["anthrax04.jpg"]
+}

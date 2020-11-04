@@ -1,1 +1,12 @@
-{"name": "スペシャルユニットドラマCD 音也・藍・ヴァン", "description": "", "date": "2018-12-12", "year": 0, "artist": ["otoya", "ai", "van"], "list": [{"disk_no": 1, "name": "", "list": ["Up-Down-Up!"]}], "comment": "", "uid": "utapri15drama", "img": ["utapri15drama.jpg"], "rate": 0}
+{
+  "name": "スペシャルユニットドラマCD 音也・藍・ヴァン",
+  "description": "",
+  "date": "2018-12-12",
+  "year": 0,
+  "artist": ["otoya", "ai", "van"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["Up-Down-Up!"] }],
+  "comment": "",
+  "uid": "utapri15drama",
+  "img": ["utapri15drama.jpg"],
+  "rate": 0
+}

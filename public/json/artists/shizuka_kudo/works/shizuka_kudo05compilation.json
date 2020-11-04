@@ -1,1 +1,18 @@
-{"uid": "shizuka_kudo05compilation", "date": "1992-11-20", "genres": [], "review_done": false, "name": "Best of Ballade \"Empathy\"", "ruby": "", "artist": "工藤静香", "year": 1992, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "5thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "shizuka_kudo05compilation",
+  "date": "1992-11-20",
+  "genres": [],
+  "review_done": false,
+  "name": "Best of Ballade \"Empathy\"",
+  "ruby": "",
+  "artist": "工藤静香",
+  "year": 1992,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "5thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

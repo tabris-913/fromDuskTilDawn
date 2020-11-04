@@ -1,1 +1,35 @@
-{"uid": "judas_priest09", "date": "", "genres": [], "review_done": false, "name": "Defenders of the Faith （背徳の掟） ", "artist": ["Judas Priest"], "year": 1984, "list": [{"list": [["", "Freewheel Burning", "Jawbreaker", "Rock Hard Ride Free （鋼鉄の魂）", "The Sentinel （死の番人）", "Live Bites （誘惑の牙）", "", "Eat Me Alive", "Some Heads Are Gonna Roll （叛旗の下に）", "Night Comes Down （夜が来たりて）", "Heavy Duty", "Defenders of the Faith （神への誓い）"]]}], "rate": 89, "comment": "前作よりも一枚質が上手な9作目。読者が点数をつけられるレヴューサイトでは前作よりも点数が上なのだ！つまり話題的には前作のほうが傑作と言われることが多いのだが、ファンはしっかりと判っている。前作の流れを汲みつつも、原点回帰したようなスリリングな曲が目白押し。間違いなくジューダス中期の傑作だ。ただ終わり方だけはちょっと納得がいかない。The Hellion～Electric Eyeがこちらに収録されていたら、Painkillerに匹敵する作品だっただろう。", "recommend": ["全部 特にFreewheel Burning", "Jawbreaker", "The Sentinel", "Eat Me Alive", ""], "description": "Priest 9thアルバム", "type": "album", "img": ["judas09.jpg"]}
+{
+  "uid": "judas_priest09",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Defenders of the Faith （背徳の掟） ",
+  "artist": ["Judas Priest"],
+  "year": 1984,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Freewheel Burning",
+          "Jawbreaker",
+          "Rock Hard Ride Free （鋼鉄の魂）",
+          "The Sentinel （死の番人）",
+          "Live Bites （誘惑の牙）",
+          "",
+          "Eat Me Alive",
+          "Some Heads Are Gonna Roll （叛旗の下に）",
+          "Night Comes Down （夜が来たりて）",
+          "Heavy Duty",
+          "Defenders of the Faith （神への誓い）"
+        ]
+      ]
+    }
+  ],
+  "rate": 89,
+  "comment": "前作よりも一枚質が上手な9作目。読者が点数をつけられるレヴューサイトでは前作よりも点数が上なのだ！つまり話題的には前作のほうが傑作と言われることが多いのだが、ファンはしっかりと判っている。前作の流れを汲みつつも、原点回帰したようなスリリングな曲が目白押し。間違いなくジューダス中期の傑作だ。ただ終わり方だけはちょっと納得がいかない。The Hellion～Electric Eyeがこちらに収録されていたら、Painkillerに匹敵する作品だっただろう。",
+  "recommend": ["全部 特にFreewheel Burning", "Jawbreaker", "The Sentinel", "Eat Me Alive", ""],
+  "description": "Priest 9thアルバム",
+  "type": "album",
+  "img": ["judas09.jpg"]
+}

@@ -1,1 +1,33 @@
-{"uid": "iron_maiden06", "date": "", "genres": [], "review_done": false, "name": "Somewhere in Time", "artist": ["Iron Maiden"], "year": 1986, "list": [{"list": [["", "Caught Somewhere in Time", "Wasted Years", "Sea of Madness （帰らざる航海）", "Heaven Can Wait", "", "The Loneliness of the Long Distance Runner （長距離ランナーの孤独）", "Stranger in a Strange Land", "Deja-Vu", "Alexander the Great"]]}], "rate": 86, "comment": "それまでの路線を前作で極めた彼らは、ポップな方向へ路線変更。しかし大きく変貌を遂げたわけではないので、安心して聴ける。ポップ路線の代表曲である2曲目やライヴでも定番の4曲目は大事。そのほかにも1曲目と7曲目は比較的人気の高い曲で、名盤とまでは呼べなくともいいアルバムであることに違いはない。", "recommend": ["Caught Somewhere in Time", "Wasted Years", "Heaven Can Wait", "Deja-Vu"], "description": "Maiden 6thアルバム", "type": "album", "img": ["maiden06.jpg"]}
+{
+  "uid": "iron_maiden06",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Somewhere in Time",
+  "artist": ["Iron Maiden"],
+  "year": 1986,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Caught Somewhere in Time",
+          "Wasted Years",
+          "Sea of Madness （帰らざる航海）",
+          "Heaven Can Wait",
+          "",
+          "The Loneliness of the Long Distance Runner （長距離ランナーの孤独）",
+          "Stranger in a Strange Land",
+          "Deja-Vu",
+          "Alexander the Great"
+        ]
+      ]
+    }
+  ],
+  "rate": 86,
+  "comment": "それまでの路線を前作で極めた彼らは、ポップな方向へ路線変更。しかし大きく変貌を遂げたわけではないので、安心して聴ける。ポップ路線の代表曲である2曲目やライヴでも定番の4曲目は大事。そのほかにも1曲目と7曲目は比較的人気の高い曲で、名盤とまでは呼べなくともいいアルバムであることに違いはない。",
+  "recommend": ["Caught Somewhere in Time", "Wasted Years", "Heaven Can Wait", "Deja-Vu"],
+  "description": "Maiden 6thアルバム",
+  "type": "album",
+  "img": ["maiden06.jpg"]
+}

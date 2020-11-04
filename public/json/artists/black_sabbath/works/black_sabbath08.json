@@ -1,1 +1,34 @@
-{"uid": "black_sabbath08", "date": "", "genres": [], "review_done": false, "name": "Never Say Die!", "artist": ["Black Sabbath"], "year": 1978, "list": [{"list": [["", "Never Say Die", "Johnny Blade", "Juniors Eyes", "Hard Road", "Shock Wave", "", "Air Dance", "Over to You", "Break Out", "Swinging the Chain"]]}], "rate": 70, "comment": "オジーが2ヶ月ぶりに復帰して制作された8作目。しかし残念なことに、明らかに楽曲の質が落ちている！前作同様チャート成績も芳しく無く、オジーはバンドに見切りをつける。第1期サバスの最後を飾るには、あまりにもぱっとしない作品だ。だがこの最後があったからこそ、サバスは生まれ変わり、次に繋がったのだ。", "recommend": ["Never Say Die"], "description": "Sabbath 8thアルバム", "type": "album", "img": ["sabbath08.jpg"]}
+{
+  "uid": "black_sabbath08",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Never Say Die!",
+  "artist": ["Black Sabbath"],
+  "year": 1978,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Never Say Die",
+          "Johnny Blade",
+          "Juniors Eyes",
+          "Hard Road",
+          "Shock Wave",
+          "",
+          "Air Dance",
+          "Over to You",
+          "Break Out",
+          "Swinging the Chain"
+        ]
+      ]
+    }
+  ],
+  "rate": 70,
+  "comment": "オジーが2ヶ月ぶりに復帰して制作された8作目。しかし残念なことに、明らかに楽曲の質が落ちている！前作同様チャート成績も芳しく無く、オジーはバンドに見切りをつける。第1期サバスの最後を飾るには、あまりにもぱっとしない作品だ。だがこの最後があったからこそ、サバスは生まれ変わり、次に繋がったのだ。",
+  "recommend": ["Never Say Die"],
+  "description": "Sabbath 8thアルバム",
+  "type": "album",
+  "img": ["sabbath08.jpg"]
+}

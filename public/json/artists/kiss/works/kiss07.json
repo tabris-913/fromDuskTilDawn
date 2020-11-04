@@ -1,1 +1,34 @@
-{"uid": "kiss07", "date": "", "genres": [], "review_done": false, "name": "Dynasty （地獄からの脱出）", "artist": ["Kiss"], "year": 1979, "list": [{"list": [["", "I Was Made for Lovin' You", "2,000 Man", "Sure Know Something", "Dirty Livin'", "Charisma", "", "Magic Touch", "Hard Times", "X-Ray Eyes", "Save Your Love"]]}], "rate": 86, "comment": "1年間の活動休止から復帰しての7作目。1曲目では大胆にディスコ・ビートを取り入れる異色曲だが、シングルヒット。またAceが3曲でリード・ヴォーカルを務めるなど、存在感を大きくしているのも特徴。2曲目はThe Rolling Stonesのカヴァー。Peterのソロアルバムを手掛けたVini Ponciaがプロデュースしているためか、ハード・ロック色は薄れてポップかつキャッチーな雰囲気を強めた異色作であると言える。", "recommend": ["I Was Made for Lovin' You", "2,000 Man", "Sure Know Something", "Charisma"], "description": "7thアルバム", "type": "album", "img": ["kiss07.jpg"]}
+{
+  "uid": "kiss07",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Dynasty （地獄からの脱出）",
+  "artist": ["Kiss"],
+  "year": 1979,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "I Was Made for Lovin' You",
+          "2,000 Man",
+          "Sure Know Something",
+          "Dirty Livin'",
+          "Charisma",
+          "",
+          "Magic Touch",
+          "Hard Times",
+          "X-Ray Eyes",
+          "Save Your Love"
+        ]
+      ]
+    }
+  ],
+  "rate": 86,
+  "comment": "1年間の活動休止から復帰しての7作目。1曲目では大胆にディスコ・ビートを取り入れる異色曲だが、シングルヒット。またAceが3曲でリード・ヴォーカルを務めるなど、存在感を大きくしているのも特徴。2曲目はThe Rolling Stonesのカヴァー。Peterのソロアルバムを手掛けたVini Ponciaがプロデュースしているためか、ハード・ロック色は薄れてポップかつキャッチーな雰囲気を強めた異色作であると言える。",
+  "recommend": ["I Was Made for Lovin' You", "2,000 Man", "Sure Know Something", "Charisma"],
+  "description": "7thアルバム",
+  "type": "album",
+  "img": ["kiss07.jpg"]
+}

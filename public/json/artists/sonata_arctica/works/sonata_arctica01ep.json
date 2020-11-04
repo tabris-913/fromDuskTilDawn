@@ -1,1 +1,40 @@
-{"uid": "sonata_arctica01ep", "date": "", "genres": [], "review_done": false, "name": "Successor", "artist": ["Sonata Arctica"], "year": 2000, "list": [{"list": [["", "FullMoon [Edit]", "Still Loving You", "I Want Out", "San Sebastien", "Shy", "Replica [Live]", "My Land [Live]", "", "(French Bonus Track)", "8th Commandment [Live]", "Letter to Dana [Live]", "(Japanese Bonus Track)", "UnOpened [Live]", "FullMoon [Live]", "(Argentine-Mexican Bonus Tack)", "Kingdom for a Heart [Live]"]]}], "rate": 83, "comment": "カヴァー曲やライヴ音源、新曲を収録したミニアルバム。2曲目はScorpions、3曲目はHelloweenの名曲のカヴァーだ。新曲は4,5曲目で、特に4曲目は彼らのキャリアを代表する名曲となる素晴らしい曲だ。各国で収録されるボーナストラックが異なるが、日本盤はFullMoonとUnOpenedという神曲だ！", "recommend": ["FullMoon [Edit]", "I Want Out", "San Sebastien"], "description": "Arctica 1stミニアルバム", "type": "album", "img": ["sonata01e.jpg"]}
+{
+  "uid": "sonata_arctica01ep",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Successor",
+  "artist": ["Sonata Arctica"],
+  "year": 2000,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "FullMoon [Edit]",
+          "Still Loving You",
+          "I Want Out",
+          "San Sebastien",
+          "Shy",
+          "Replica [Live]",
+          "My Land [Live]",
+          "",
+          "(French Bonus Track)",
+          "8th Commandment [Live]",
+          "Letter to Dana [Live]",
+          "(Japanese Bonus Track)",
+          "UnOpened [Live]",
+          "FullMoon [Live]",
+          "(Argentine-Mexican Bonus Tack)",
+          "Kingdom for a Heart [Live]"
+        ]
+      ]
+    }
+  ],
+  "rate": 83,
+  "comment": "カヴァー曲やライヴ音源、新曲を収録したミニアルバム。2曲目はScorpions、3曲目はHelloweenの名曲のカヴァーだ。新曲は4,5曲目で、特に4曲目は彼らのキャリアを代表する名曲となる素晴らしい曲だ。各国で収録されるボーナストラックが異なるが、日本盤はFullMoonとUnOpenedという神曲だ！",
+  "recommend": ["FullMoon [Edit]", "I Want Out", "San Sebastien"],
+  "description": "Arctica 1stミニアルバム",
+  "type": "album",
+  "img": ["sonata01e.jpg"]
+}

@@ -1,1 +1,16 @@
-{"uid": "seiko_matsuda55", "date": "2020-09-30", "genres": [], "review_done": false, "name": "SEIKO MATSUDA 2020", "artist": ["松田聖子"], "year": 2020, "list": [{"list": [[]]}], "rate": null, "comment": "", "recommend": [], "description": "55thアルバム", "type": "album", "img": ["seiko55jpg"]}
+{
+  "uid": "seiko_matsuda55",
+  "date": "2020-09-30",
+  "genres": [],
+  "review_done": false,
+  "name": "SEIKO MATSUDA 2020",
+  "artist": ["松田聖子"],
+  "year": 2020,
+  "list": [{ "list": [[]] }],
+  "rate": null,
+  "comment": "",
+  "recommend": [],
+  "description": "55thアルバム",
+  "type": "album",
+  "img": ["seiko55jpg"]
+}

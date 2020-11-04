@@ -1,1 +1,47 @@
-{"uid": "sonata_arctica01selfcover", "date": "", "genres": [], "review_done": false, "name": "Ecliptica Revisited ", "artist": ["Sonata Arctica"], "year": 2014, "list": [{"list": [["", "Blank Fire", "My Land", "8th Commandment", "Replica", "Kingdom for a Heart", "FullMoon", "Letter to Dana", "", "UnOpened", "Picturing the Past", "Destruction Preventer", "(BONUS TRACK)", "I'm Haunted", "I Can't Dance [Genesis Cover]"]]}], "rate": 87, "comment": "フィンランドの“元”スピード狂がデビュー15周年記念ということで、デビューアルバムをセルフカヴァーした作品。オリジナルでは、全部が全部疾走曲だった。始まりはバラード調でも中～終盤にかけて疾走するという徹底ぶりだった。今作では基本的には同様のスタイルを踏襲しているが、バラードはあまり疾走することなく完結している。セルフライナーノーツでもオリジナルを超えることはできないから、今の自分たちの音を見せると語っていた通りだ。もちろん疾走曲はしっかり疾走している。疾走していない曲では近年の作品でよく見られたメロディ中心のスタイルとなっている。まぁ言ってしまえばクサいことに変わりはない、ということだ。もちろんオリジナルを超えているとは毛頭思わないが、最近のスタジオ盤に比べれば遥かに優れている。そこまで本気のファンでなければ、こちらよりも原作を聴いていた方がいいだろう。", "recommend": ["全部　特にBlank Fire", "8th Commandment", "Replica", "Kingdom for a Heart", "FullMoon", "UnOpened", "Pictureing the Past", "I'm Haunted"], "description": "Arctica セルフカヴァーアルバム", "type": "album", "img": ["sonata01sc.jpg"]}
+{
+  "uid": "sonata_arctica01selfcover",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Ecliptica Revisited ",
+  "artist": ["Sonata Arctica"],
+  "year": 2014,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Blank Fire",
+          "My Land",
+          "8th Commandment",
+          "Replica",
+          "Kingdom for a Heart",
+          "FullMoon",
+          "Letter to Dana",
+          "",
+          "UnOpened",
+          "Picturing the Past",
+          "Destruction Preventer",
+          "(BONUS TRACK)",
+          "I'm Haunted",
+          "I Can't Dance [Genesis Cover]"
+        ]
+      ]
+    }
+  ],
+  "rate": 87,
+  "comment": "フィンランドの“元”スピード狂がデビュー15周年記念ということで、デビューアルバムをセルフカヴァーした作品。オリジナルでは、全部が全部疾走曲だった。始まりはバラード調でも中～終盤にかけて疾走するという徹底ぶりだった。今作では基本的には同様のスタイルを踏襲しているが、バラードはあまり疾走することなく完結している。セルフライナーノーツでもオリジナルを超えることはできないから、今の自分たちの音を見せると語っていた通りだ。もちろん疾走曲はしっかり疾走している。疾走していない曲では近年の作品でよく見られたメロディ中心のスタイルとなっている。まぁ言ってしまえばクサいことに変わりはない、ということだ。もちろんオリジナルを超えているとは毛頭思わないが、最近のスタジオ盤に比べれば遥かに優れている。そこまで本気のファンでなければ、こちらよりも原作を聴いていた方がいいだろう。",
+  "recommend": [
+    "全部　特にBlank Fire",
+    "8th Commandment",
+    "Replica",
+    "Kingdom for a Heart",
+    "FullMoon",
+    "UnOpened",
+    "Pictureing the Past",
+    "I'm Haunted"
+  ],
+  "description": "Arctica セルフカヴァーアルバム",
+  "type": "album",
+  "img": ["sonata01sc.jpg"]
+}

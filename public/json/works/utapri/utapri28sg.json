@@ -1,1 +1,12 @@
-{"name": "アイドルソング 愛島セシル", "description": "", "date": "2013-06-05", "year": 2013, "artist": ["cecil"], "list": [{"disk_no": 1, "name": "", "list": ["星のファンタジア", "Happiness"]}], "comment": "", "uid": "utapri28sg", "img": ["utapri28sg.jpg"], "rate": 0}
+{
+  "name": "アイドルソング 愛島セシル",
+  "description": "",
+  "date": "2013-06-05",
+  "year": 2013,
+  "artist": ["cecil"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["星のファンタジア", "Happiness"] }],
+  "comment": "",
+  "uid": "utapri28sg",
+  "img": ["utapri28sg.jpg"],
+  "rate": 0
+}

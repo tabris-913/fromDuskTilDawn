@@ -1,1 +1,36 @@
-{"uid": "def_leppard06", "date": "", "genres": [], "review_done": false, "name": "Slang", "artist": ["Def Leppard"], "year": 1996, "list": [{"list": [["", "Truth", "Turn to Dust", "Slang", "All I Want Is Everything", "Work It Out", "Breathe a Sigh", "", "Deliver Me", "Gift of Flesh", "Blood Runs Cold", "Where Does Love Go When It Die", "Pearl of Euphoria"]]}], "rate": 71, "comment": "当時の流行に乗る形で方向転換をした作品。まさかのオルタナティヴ／グランジに転ぶなどと、一体誰が予想できただろうか。全米14位とチャート成績はそこそこだったものの、セールス的にはガタ落ちしてしまった。ところどころで彼ららしポップさを感じることはできるが、そもそも路線が全く違うので、魅力は半減どころではない。数曲良いと思えるものはあるが、全体的に見れば不要なものばかりだ。", "recommend": ["Turn to Dust", "Gift of Flesh"], "description": "Leppard 6thアルバム", "type": "album", "img": ["def06.jpg"]}
+{
+  "uid": "def_leppard06",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Slang",
+  "artist": ["Def Leppard"],
+  "year": 1996,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Truth",
+          "Turn to Dust",
+          "Slang",
+          "All I Want Is Everything",
+          "Work It Out",
+          "Breathe a Sigh",
+          "",
+          "Deliver Me",
+          "Gift of Flesh",
+          "Blood Runs Cold",
+          "Where Does Love Go When It Die",
+          "Pearl of Euphoria"
+        ]
+      ]
+    }
+  ],
+  "rate": 71,
+  "comment": "当時の流行に乗る形で方向転換をした作品。まさかのオルタナティヴ／グランジに転ぶなどと、一体誰が予想できただろうか。全米14位とチャート成績はそこそこだったものの、セールス的にはガタ落ちしてしまった。ところどころで彼ららしポップさを感じることはできるが、そもそも路線が全く違うので、魅力は半減どころではない。数曲良いと思えるものはあるが、全体的に見れば不要なものばかりだ。",
+  "recommend": ["Turn to Dust", "Gift of Flesh"],
+  "description": "Leppard 6thアルバム",
+  "type": "album",
+  "img": ["def06.jpg"]
+}

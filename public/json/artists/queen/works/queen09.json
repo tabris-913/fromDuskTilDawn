@@ -1,1 +1,43 @@
-{"uid": "queen09", "date": "", "genres": [], "review_done": false, "name": "Flash Gordon", "artist": ["Queen"], "year": 1980, "list": [{"list": [["", "Flash's Theme", "In the Space Capsule (The Love Theme) （フラッシュ・ゴードン愛のテーマ）", "Ming's Theme (In the Court of Ming the Merciless) （ミン皇帝のテーマ）", "The Ring (Hypnotic Seduction of Dale)", "Football Fight", "In the Death Cell (Love Theme Reprise) （死の独房）", "Execution of Flash （フラッシュの処刑）", "The Kiss (Aura Resurrects Flash)", "Arboria (Planet of the Tree Man) （森林惑星アーボリア）", "", "Escape from the Swamp", "Flash to the Rescue", "Vultan's Theme (Attack of the Hawk Men) （鷹人間バルタンのテーマ）", "Battle Theme （宇宙戦争のテーマ）", "The Wedding March", "Marriage of Dale and Ming (And Flash Approaching) （デイルとミン皇帝の結婚）", "Crash Dive on Mingo City （ミンゴ・シティへ急降下）", "Flash's Theme Reprise (Victory Celebrations)", "The Hero"]]}], "rate": 64, "comment": "映画のサウンドトラックとなった9枚目のアルバム。ヴォーカルが入っているのは1曲目と18曲目のみで、それ以外はインスト。ストーリーに沿ったセリフや効果音が入っているが、邪魔以外の何物でもない。前作同様かなり高い割合でシンセサイザーが用いられている。「Flash！Ah Ah... いっせいので笑わす」(笑)", "recommend": ["Flash's Theme", "Football Fight", "The Wedding March", "Flash's Theme Reprise", "The Hero"], "description": "9thアルバム", "type": "album", "img": ["queen09.jpg"]}
+{
+  "uid": "queen09",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Flash Gordon",
+  "artist": ["Queen"],
+  "year": 1980,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Flash's Theme",
+          "In the Space Capsule (The Love Theme) （フラッシュ・ゴードン愛のテーマ）",
+          "Ming's Theme (In the Court of Ming the Merciless) （ミン皇帝のテーマ）",
+          "The Ring (Hypnotic Seduction of Dale)",
+          "Football Fight",
+          "In the Death Cell (Love Theme Reprise) （死の独房）",
+          "Execution of Flash （フラッシュの処刑）",
+          "The Kiss (Aura Resurrects Flash)",
+          "Arboria (Planet of the Tree Man) （森林惑星アーボリア）",
+          "",
+          "Escape from the Swamp",
+          "Flash to the Rescue",
+          "Vultan's Theme (Attack of the Hawk Men) （鷹人間バルタンのテーマ）",
+          "Battle Theme （宇宙戦争のテーマ）",
+          "The Wedding March",
+          "Marriage of Dale and Ming (And Flash Approaching) （デイルとミン皇帝の結婚）",
+          "Crash Dive on Mingo City （ミンゴ・シティへ急降下）",
+          "Flash's Theme Reprise (Victory Celebrations)",
+          "The Hero"
+        ]
+      ]
+    }
+  ],
+  "rate": 64,
+  "comment": "映画のサウンドトラックとなった9枚目のアルバム。ヴォーカルが入っているのは1曲目と18曲目のみで、それ以外はインスト。ストーリーに沿ったセリフや効果音が入っているが、邪魔以外の何物でもない。前作同様かなり高い割合でシンセサイザーが用いられている。「Flash！Ah Ah... いっせいので笑わす」(笑)",
+  "recommend": ["Flash's Theme", "Football Fight", "The Wedding March", "Flash's Theme Reprise", "The Hero"],
+  "description": "9thアルバム",
+  "type": "album",
+  "img": ["queen09.jpg"]
+}

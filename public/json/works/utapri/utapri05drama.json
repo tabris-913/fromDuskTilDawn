@@ -1,1 +1,12 @@
-{"name": "デュエットドラマCD 那月&翔", "description": "", "date": "2010-12-22", "year": 2010, "artist": ["natsuki", "sho"], "list": [{"disk_no": 1, "name": "", "list": ["遊園地でラブソングを", "GO!×2ジェットコースター", "ずっと仲良し"]}], "comment": "", "uid": "utapri05drama", "img": ["utapri05drama.jpg"], "rate": 0}
+{
+  "name": "デュエットドラマCD 那月&翔",
+  "description": "",
+  "date": "2010-12-22",
+  "year": 2010,
+  "artist": ["natsuki", "sho"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["遊園地でラブソングを", "GO!×2ジェットコースター", "ずっと仲良し"] }],
+  "comment": "",
+  "uid": "utapri05drama",
+  "img": ["utapri05drama.jpg"],
+  "rate": 0
+}

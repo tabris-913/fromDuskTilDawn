@@ -1,1 +1,37 @@
-{"uid": "gamma_ray02", "date": "", "genres": [], "review_done": false, "name": "Sigh No More", "artist": ["Gamma Ray"], "year": 1991, "list": [{"list": [["", "Changes", "Rich and Famous", "As Time Goes By", "(We Won't) Stop the War", "Father and Son", "One with the World", "", "Start Running", "Countdown", "Dream Healer", "The Spirit", "(JAPANESE BONUS TRACK)", "Sail On [Live]"]]}], "rate": 71, "comment": "一気に正統派メタルにアプローチした作品。とはいえファンが彼らに臨んでいる音楽はこれではない。これではハロウィンと一緒じゃないか！名盤の翌年にこれを出すなんて何を考えてるんだよ。良い曲がないわけじゃないけど、アルバム全体がこれでは……", "recommend": ["Rick and Famous", "As Time Goes By", "Start Running"], "description": "Ray 2ndアルバム", "type": "album", "img": ["gamma02.jpg"]}
+{
+  "uid": "gamma_ray02",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Sigh No More",
+  "artist": ["Gamma Ray"],
+  "year": 1991,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Changes",
+          "Rich and Famous",
+          "As Time Goes By",
+          "(We Won't) Stop the War",
+          "Father and Son",
+          "One with the World",
+          "",
+          "Start Running",
+          "Countdown",
+          "Dream Healer",
+          "The Spirit",
+          "(JAPANESE BONUS TRACK)",
+          "Sail On [Live]"
+        ]
+      ]
+    }
+  ],
+  "rate": 71,
+  "comment": "一気に正統派メタルにアプローチした作品。とはいえファンが彼らに臨んでいる音楽はこれではない。これではハロウィンと一緒じゃないか！名盤の翌年にこれを出すなんて何を考えてるんだよ。良い曲がないわけじゃないけど、アルバム全体がこれでは……",
+  "recommend": ["Rick and Famous", "As Time Goes By", "Start Running"],
+  "description": "Ray 2ndアルバム",
+  "type": "album",
+  "img": ["gamma02.jpg"]
+}

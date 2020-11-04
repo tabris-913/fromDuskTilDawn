@@ -1,1 +1,33 @@
-{"uid": "black_sabbath03", "date": "", "genres": [], "review_done": false, "name": "Master of Reality ", "artist": ["Black Sabbath"], "year": 1971, "list": [{"list": [["", "Sweet Leaf", "After Forever", "Embryo", "Children of the Grave", "", "Orchid", "Lord of This World", "Solitude", "Into the Void"]]}], "rate": 87, "comment": "前2作と並んで名盤の誉れ高い3作目。#1,2というキャリアを代表する名曲が収録されているが、これらは前2作の流れを汲んだストレートなナンバー。ヘヴィでおどろおどろしい雰囲気を感じさせつつも、前作で開拓した疾走感感じる爽やかさもある。それに並んで名曲と呼ばれる#4は、ヘヴィかつクールなリフが素晴らしい曲で、テンポも心地よい。それ以外もSabbathらしい重くドロドロしたものを中心にカッコいいものが並んでいる。", "recommend": ["Sweet Leaf", "After Forever", "Children of the Grave", "Into the Void"], "description": "Sabbath 3rdアルバム", "type": "album", "img": ["sabbath03.jpg"]}
+{
+  "uid": "black_sabbath03",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Master of Reality ",
+  "artist": ["Black Sabbath"],
+  "year": 1971,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Sweet Leaf",
+          "After Forever",
+          "Embryo",
+          "Children of the Grave",
+          "",
+          "Orchid",
+          "Lord of This World",
+          "Solitude",
+          "Into the Void"
+        ]
+      ]
+    }
+  ],
+  "rate": 87,
+  "comment": "前2作と並んで名盤の誉れ高い3作目。#1,2というキャリアを代表する名曲が収録されているが、これらは前2作の流れを汲んだストレートなナンバー。ヘヴィでおどろおどろしい雰囲気を感じさせつつも、前作で開拓した疾走感感じる爽やかさもある。それに並んで名曲と呼ばれる#4は、ヘヴィかつクールなリフが素晴らしい曲で、テンポも心地よい。それ以外もSabbathらしい重くドロドロしたものを中心にカッコいいものが並んでいる。",
+  "recommend": ["Sweet Leaf", "After Forever", "Children of the Grave", "Into the Void"],
+  "description": "Sabbath 3rdアルバム",
+  "type": "album",
+  "img": ["sabbath03.jpg"]
+}

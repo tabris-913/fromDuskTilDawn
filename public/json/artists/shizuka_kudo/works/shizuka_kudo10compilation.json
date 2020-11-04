@@ -1,1 +1,18 @@
-{"uid": "shizuka_kudo10compilation", "date": "2007-08-29", "genres": [], "review_done": false, "name": "Shizuka Kudo 20th Anniversary the Best", "ruby": "", "artist": "工藤静香", "year": 2007, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "10thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "shizuka_kudo10compilation",
+  "date": "2007-08-29",
+  "genres": [],
+  "review_done": false,
+  "name": "Shizuka Kudo 20th Anniversary the Best",
+  "ruby": "",
+  "artist": "工藤静香",
+  "year": 2007,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "10thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

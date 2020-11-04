@@ -1,1 +1,748 @@
-{"albums": {"seiko_matsuda01": {"uid": "seiko_matsuda01", "name": "SQUALL", "date": "1980-08-01", "img": ["seiko01.jpg"], "review_done": true}, "seiko_matsuda02": {"uid": "seiko_matsuda02", "name": "North Wind", "date": "1980-12-01", "img": ["seiko02.jpg"], "review_done": true}, "seiko_matsuda03": {"uid": "seiko_matsuda03", "name": "Silhouette -シルエット-", "date": "1981-05-21", "img": ["seiko03.jpg"], "review_done": true}, "seiko_matsuda04": {"uid": "seiko_matsuda04", "name": "風立ちぬ ", "date": "1981-10-21", "img": ["seiko04.jpg"], "review_done": true}, "seiko_matsuda05": {"uid": "seiko_matsuda05", "name": "Pineapple", "date": "1982-05-21", "img": ["seiko05.jpg"], "review_done": true}, "seiko_matsuda06": {"uid": "seiko_matsuda06", "name": "Candy", "date": "1982-11-10", "img": ["seiko06.jpg"], "review_done": true}, "seiko_matsuda07": {"uid": "seiko_matsuda07", "name": "ユートピア", "date": "1983-06-01", "img": ["seiko07.jpg"], "review_done": true}, "seiko_matsuda08": {"uid": "seiko_matsuda08", "name": "Canary", "date": "1983-12-10", "img": ["seiko08.jpg"], "review_done": true}, "seiko_matsuda09": {"uid": "seiko_matsuda09", "name": "Tinker Bell", "date": "1984-06-10", "img": ["seiko09.jpg"], "review_done": true}, "seiko_matsuda10": {"uid": "seiko_matsuda10", "name": "Windy Shadow", "date": "1984-12-08", "img": ["seiko10.jpg"], "review_done": true}, "seiko_matsuda11": {"uid": "seiko_matsuda11", "name": "The 9th Wave", "date": "1985-06-05", "img": ["seiko11.jpg"], "review_done": true}, "seiko_matsuda12": {"uid": "seiko_matsuda12", "name": "SOUND OF MY HEART", "date": "1985-08-15", "img": ["seiko12.jpg"], "review_done": true}, "seiko_matsuda13": {"uid": "seiko_matsuda13", "name": "SUPREME", "date": "1986-06-01", "img": ["seiko13.jpg"], "review_done": true}, "seiko_matsuda14": {"uid": "seiko_matsuda14", "name": "Strawberry Time", "date": "1987-05-16", "img": ["seiko14.jpg"], "review_done": true}, "seiko_matsuda15": {"uid": "seiko_matsuda15", "name": "Citron", "date": "1988-05-11", "img": ["seiko15.jpg"], "review_done": true}, "seiko_matsuda16": {"uid": "seiko_matsuda16", "name": "Precious Moment", "date": "1989-12-06", "img": ["seiko16.jpg"], "review_done": true}, "seiko_matsuda17": {"uid": "seiko_matsuda17", "name": "Seiko", "date": "1990-06-07", "img": ["seiko17.jpg"], "review_done": true}, "seiko_matsuda18": {"uid": "seiko_matsuda18", "name": "We Are Love", "date": "1990-12-10", "img": ["seiko18.jpg"], "review_done": true}, "seiko_matsuda19": {"uid": "seiko_matsuda19", "name": "Eternal", "date": "1991-05-02", "img": ["seiko19.jpg"], "review_done": true}, "seiko_matsuda20": {"uid": "seiko_matsuda20", "name": "1992 Nouvelle Vague", "date": "1992-03-25", "img": ["seiko20.jpg"], "review_done": true}, "seiko_matsuda21": {"uid": "seiko_matsuda21", "name": "Sweet Memories'93", "date": "1992-12-02", "img": ["seiko21.jpg"], "review_done": true}, "seiko_matsuda22": {"uid": "seiko_matsuda22", "name": "DIAMOND EXPRESSION", "date": "1993-05-21", "img": ["seiko22.jpg"], "review_done": true}, "seiko_matsuda23": {"uid": "seiko_matsuda23", "name": "A Time for Love", "date": "1993-11-21", "img": ["seiko23.jpg"], "review_done": true}, "seiko_matsuda24": {"uid": "seiko_matsuda24", "name": "Glorious Revolution", "date": "1994-06-12", "img": ["seiko24.jpg"], "review_done": true}, "seiko_matsuda25": {"uid": "seiko_matsuda25", "name": "It's Style'95", "date": "1995-05-21", "img": ["seiko25.jpg"], "review_done": true}, "seiko_matsuda27": {"uid": "seiko_matsuda27", "name": "Vanity Fair", "date": "1996-05-27", "img": ["seiko27.jpg"], "review_done": true}, "seiko_matsuda26": {"uid": "seiko_matsuda26", "name": "WAS IT THE FUTURE", "date": "1996-06-10", "img": ["seiko26.jpg"], "review_done": true}, "seiko_matsuda28": {"uid": "seiko_matsuda28", "name": "Guardian Angel", "date": "1996-12-05", "img": ["seiko28.jpg"], "review_done": true}, "seiko_matsuda29": {"uid": "seiko_matsuda29", "name": "My Story", "date": "1997-05-21", "img": ["seiko29.jpg"], "review_done": true}, "seiko_matsuda30": {"uid": "seiko_matsuda30", "name": "Sweetest Time", "date": "1997-12-05", "img": ["seiko30.jpg"], "review_done": true}, "seiko_matsuda31": {"uid": "seiko_matsuda31", "name": "Forever", "date": "1998-05-08", "img": ["seiko31.jpg"], "review_done": true}, "seiko_matsuda32": {"uid": "seiko_matsuda32", "name": "永遠の少女", "date": "1999-12-18", "img": ["seiko32.jpg"], "review_done": true}, "seiko_matsuda33": {"uid": "seiko_matsuda33", "name": "20th Party", "date": "2000-06-28", "img": ["seiko33.jpg"], "review_done": true}, "seiko_matsuda34": {"uid": "seiko_matsuda34", "name": "LOVE & EMOTION VOL. 1", "date": "2001-06-20", "img": ["seiko34.jpg"], "review_done": true}, "seiko_matsuda35": {"uid": "seiko_matsuda35", "name": "LOVE & EMOTION VOL. 2", "date": "2001-11-28", "img": ["seiko35.jpg"], "review_done": true}, "seiko_matsuda36": {"uid": "seiko_matsuda36", "name": "area62", "date": "2002-06-21", "img": ["seiko36.jpg"], "review_done": true}, "seiko_matsuda37": {"uid": "seiko_matsuda37", "name": "Sunshine", "date": "2004-06-09", "img": ["seiko37.jpg"], "review_done": true}, "seiko_matsuda38": {"uid": "seiko_matsuda38", "name": "fairy", "date": "2005-04-06", "img": ["seiko38.jpg"], "review_done": true}, "seiko_matsuda39": {"uid": "seiko_matsuda39", "name": "Under the beautiful stars", "date": "2005-12-07", "img": ["seiko39.jpg"], "review_done": false}, "seiko_matsuda40": {"uid": "seiko_matsuda40", "name": "bless you", "date": "2006-05-31", "img": ["seiko40.jpg"], "review_done": false}, "seiko_matsuda41": {"uid": "seiko_matsuda41", "name": "Eternal II", "date": "2006-12-06", "img": ["seiko41.jpg"], "review_done": false}, "seiko_matsuda42": {"uid": "seiko_matsuda42", "name": "Baby's breath ", "date": "2007-06-06", "img": ["seiko42.jpg"], "review_done": false}, "seiko_matsuda43": {"uid": "seiko_matsuda43", "name": "My pure melody", "date": "2008-05-21", "img": ["seiko43.jpg"], "review_done": false}, "seiko_matsuda44": {"uid": "seiko_matsuda44", "name": "My Prelude", "date": "2010-05-26", "img": ["seiko44.jpg"], "review_done": false}, "seiko_matsuda45": {"uid": "seiko_matsuda45", "name": "Cherish", "date": "2011-06-01", "img": ["seiko45.jpg"], "review_done": false}, "seiko_matsuda46": {"uid": "seiko_matsuda46", "name": "Very Very", "date": "2012-06-06", "img": ["seiko46.jpg"], "review_done": false}, "seiko_matsuda47": {"uid": "seiko_matsuda47", "name": "A Girl in the Wonder Land", "date": "2013-06-05", "img": ["seiko47.jpg"], "review_done": false}, "seiko_matsuda48": {"uid": "seiko_matsuda48", "name": "Dream & Fantasy", "date": "2014-06-04", "img": ["seiko48.jpg"], "review_done": false}, "seiko_matsuda41compilation": {"uid": "seiko_matsuda41compilation", "name": "Seiko Matsuda Best Ballad", "date": "2014-12-24", "img": ["seiko41c_b.jpg"], "review_done": false}, "seiko_matsuda49": {"uid": "seiko_matsuda49", "name": "Bibbidi-Bobbidi-Boo ", "date": "2015-06-10", "img": ["seiko49_c.jpg"], "review_done": false}, "seiko_matsuda42compilation": {"uid": "seiko_matsuda42compilation", "name": "We Love SEIKO -35th Anniversary 松田聖子究極オールタイムベスト 50Songs-", "date": "2015-12-09", "img": ["seiko42c_c.png"], "review_done": false}, "seiko_matsuda50": {"uid": "seiko_matsuda50", "name": "Shining Star", "date": "2016-06-08", "img": ["seiko50.jpg"], "review_done": false}, "seiko_matsuda51": {"uid": "seiko_matsuda51", "name": "SEIKO JAZZ", "date": "2017-03-29", "img": ["seiko51.jpg"], "review_done": false}, "seiko_matsuda52": {"uid": "seiko_matsuda52", "name": "Daisy", "date": "2017-06-07", "img": ["seiko52.jpg"], "review_done": false}, "seiko_matsuda53": {"uid": "seiko_matsuda53", "name": "Merry-go-round", "date": "2018-06-06", "img": ["seiko53.jpg"], "review_done": false}, "seiko_matsuda54": {"uid": "seiko_matsuda54", "name": "SEIKO JAZZ 2", "date": "2019-02-20", "img": ["seiko54.jpg"], "review_done": false}, "seiko_matsuda55": {"uid": "seiko_matsuda55", "name": "SEIKO MATSUDA 2020", "date": "2020-09-30", "img": ["seiko55jpg"], "review_done": false}}, "singles": {}, "others": {}}
+{
+  "albums": {
+    "seiko_matsuda01": {
+      "uid": "seiko_matsuda01",
+      "name": "SQUALL",
+      "date": "1980-08-01",
+      "img": ["seiko01.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda02": {
+      "uid": "seiko_matsuda02",
+      "name": "North Wind",
+      "date": "1980-12-01",
+      "img": ["seiko02.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda03": {
+      "uid": "seiko_matsuda03",
+      "name": "Silhouette -シルエット-",
+      "date": "1981-05-21",
+      "img": ["seiko03.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda04": {
+      "uid": "seiko_matsuda04",
+      "name": "風立ちぬ ",
+      "date": "1981-10-21",
+      "img": ["seiko04.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda01compilation": {
+      "uid": "seiko_matsuda01compilation",
+      "name": "聖子・fragrance",
+      "date": "1981-11-01",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda05": {
+      "uid": "seiko_matsuda05",
+      "name": "Pineapple",
+      "date": "1982-05-21",
+      "img": ["seiko05.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda02compilation": {
+      "uid": "seiko_matsuda02compilation",
+      "name": "Seiko・index",
+      "date": "1982-07-01",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda06": {
+      "uid": "seiko_matsuda06",
+      "name": "Candy",
+      "date": "1982-11-10",
+      "img": ["seiko06.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda03compilation": {
+      "uid": "seiko_matsuda03compilation",
+      "name": "金色のリボン",
+      "date": "1982-12-05",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda07": {
+      "uid": "seiko_matsuda07",
+      "name": "ユートピア",
+      "date": "1983-06-01",
+      "img": ["seiko07.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda01special": {
+      "uid": "seiko_matsuda01special",
+      "name": "CARAVELLI PLAYS聖子",
+      "date": "1983-08-25",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda04compilation": {
+      "uid": "seiko_matsuda04compilation",
+      "name": "Seiko・plaza",
+      "date": "1983-11-11",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda08": {
+      "uid": "seiko_matsuda08",
+      "name": "Canary",
+      "date": "1983-12-10",
+      "img": ["seiko08.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda05compilation": {
+      "uid": "seiko_matsuda05compilation",
+      "name": "Touch Me, Seiko",
+      "date": "1984-03-15",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda09": {
+      "uid": "seiko_matsuda09",
+      "name": "Tinker Bell",
+      "date": "1984-06-10",
+      "img": ["seiko09.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda06compilation": {
+      "uid": "seiko_matsuda06compilation",
+      "name": "Seiko・Town",
+      "date": "1984-11-01",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda07compilation": {
+      "uid": "seiko_matsuda07compilation",
+      "name": "Seiko・Avenue",
+      "date": "1984-11-21",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda10": {
+      "uid": "seiko_matsuda10",
+      "name": "Windy Shadow",
+      "date": "1984-12-08",
+      "img": ["seiko10.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda08compilation": {
+      "uid": "seiko_matsuda08compilation",
+      "name": "Seiko-Train",
+      "date": "1985-03-06",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda11": {
+      "uid": "seiko_matsuda11",
+      "name": "The 9th Wave",
+      "date": "1985-06-05",
+      "img": ["seiko11.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda12": {
+      "uid": "seiko_matsuda12",
+      "name": "SOUND OF MY HEART",
+      "date": "1985-08-15",
+      "img": ["seiko12.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda09compilation": {
+      "uid": "seiko_matsuda09compilation",
+      "name": "Seiko Box",
+      "date": "1985-11-10",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda13": {
+      "uid": "seiko_matsuda13",
+      "name": "SUPREME",
+      "date": "1986-06-01",
+      "img": ["seiko13.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda10compilation": {
+      "uid": "seiko_matsuda10compilation",
+      "name": "LOVE BALLADE",
+      "date": "1986-11-21",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda14": {
+      "uid": "seiko_matsuda14",
+      "name": "Strawberry Time",
+      "date": "1987-05-16",
+      "img": ["seiko14.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda11compilation": {
+      "uid": "seiko_matsuda11compilation",
+      "name": "Snow Garden",
+      "date": "1987-11-21",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda15": {
+      "uid": "seiko_matsuda15",
+      "name": "Citron",
+      "date": "1988-05-11",
+      "img": ["seiko15.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda12compilation": {
+      "uid": "seiko_matsuda12compilation",
+      "name": "Seiko Monument",
+      "date": "1988-07-21",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda02special": {
+      "uid": "seiko_matsuda02special",
+      "name": "ゴヤ…歌でつづる生涯",
+      "date": "1989-05-02",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda16": {
+      "uid": "seiko_matsuda16",
+      "name": "Precious Moment",
+      "date": "1989-12-06",
+      "img": ["seiko16.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda17": {
+      "uid": "seiko_matsuda17",
+      "name": "Seiko",
+      "date": "1990-05-15",
+      "img": ["seiko17.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda18": {
+      "uid": "seiko_matsuda18",
+      "name": "We Are Love",
+      "date": "1990-12-10",
+      "img": ["seiko18.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda19": {
+      "uid": "seiko_matsuda19",
+      "name": "Eternal",
+      "date": "1991-05-02",
+      "img": ["seiko19.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda13compilation": {
+      "uid": "seiko_matsuda13compilation",
+      "name": "Christmas Tree",
+      "date": "1991-11-21",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda14compilation": {
+      "uid": "seiko_matsuda14compilation",
+      "name": "Bible",
+      "date": "1991-12-01",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda20": {
+      "uid": "seiko_matsuda20",
+      "name": "1992 Nouvelle Vague",
+      "date": "1992-03-25",
+      "img": ["seiko20.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda21": {
+      "uid": "seiko_matsuda21",
+      "name": "Sweet Memories'93",
+      "date": "1992-12-02",
+      "img": ["seiko21.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda22": {
+      "uid": "seiko_matsuda22",
+      "name": "DIAMOND EXPRESSION",
+      "date": "1993-05-21",
+      "img": ["seiko22.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda23": {
+      "uid": "seiko_matsuda23",
+      "name": "A Time for Love",
+      "date": "1993-11-21",
+      "img": ["seiko23.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda24": {
+      "uid": "seiko_matsuda24",
+      "name": "Glorious Revolution",
+      "date": "1994-06-12",
+      "img": ["seiko24.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda15compilation": {
+      "uid": "seiko_matsuda15compilation",
+      "name": "Bible II",
+      "date": "1994-12-01",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda25": {
+      "uid": "seiko_matsuda25",
+      "name": "It's Style'95",
+      "date": "1995-05-21",
+      "img": ["seiko25.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda16compilation": {
+      "uid": "seiko_matsuda16compilation",
+      "name": "Bible III",
+      "date": "1996-03-01",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda26": {
+      "uid": "seiko_matsuda26",
+      "name": "WAS IT THE FUTURE",
+      "date": "1996-05-14",
+      "img": ["seiko26.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda27": {
+      "uid": "seiko_matsuda27",
+      "name": "Vanity Fair",
+      "date": "1996-05-27",
+      "img": ["seiko27.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda17compilation": {
+      "uid": "seiko_matsuda17compilation",
+      "name": "Complete Bible",
+      "date": "1996-09-21",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda18compilation": {
+      "uid": "seiko_matsuda18compilation",
+      "name": "Winter Tales",
+      "date": "1996-11-01",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda28": {
+      "uid": "seiko_matsuda28",
+      "name": "Guardian Angel",
+      "date": "1996-12-05",
+      "img": ["seiko28.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda19compilation": {
+      "uid": "seiko_matsuda19compilation",
+      "name": "Seiko Matsuda 1980-1995",
+      "date": "1997-04-01",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda29": {
+      "uid": "seiko_matsuda29",
+      "name": "My Story",
+      "date": "1997-05-21",
+      "img": ["seiko29.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda20compilation": {
+      "uid": "seiko_matsuda20compilation",
+      "name": "Seaside ～Summer Tales～",
+      "date": "1997-06-21",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda21compilation": {
+      "uid": "seiko_matsuda21compilation",
+      "name": "Dear",
+      "date": "1997-11-21",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda30": {
+      "uid": "seiko_matsuda30",
+      "name": "Sweetest Time",
+      "date": "1997-12-05",
+      "img": ["seiko30.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda31": {
+      "uid": "seiko_matsuda31",
+      "name": "Forever",
+      "date": "1998-05-08",
+      "img": ["seiko31.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda22compilation": {
+      "uid": "seiko_matsuda22compilation",
+      "name": "Seiko Celebration",
+      "date": "1998-07-18",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda23compilation": {
+      "uid": "seiko_matsuda23compilation",
+      "name": "Seiko '96-'98",
+      "date": "1998-11-30",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda24compilation": {
+      "uid": "seiko_matsuda24compilation",
+      "name": "Ballad ～20th Anniversary",
+      "date": "1999-04-01",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda01remix": {
+      "uid": "seiko_matsuda01remix",
+      "name": "SEIKO MATSUDA:RE-MIXES",
+      "date": "1999-10-06",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda32": {
+      "uid": "seiko_matsuda32",
+      "name": "永遠の少女",
+      "date": "1999-12-18",
+      "img": ["seiko32.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda33": {
+      "uid": "seiko_matsuda33",
+      "name": "20th Party",
+      "date": "2000-06-28",
+      "img": ["seiko33.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda25compilation": {
+      "uid": "seiko_matsuda25compilation",
+      "name": "SEIKO SUITE",
+      "date": "2000-07-05",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda02remix": {
+      "uid": "seiko_matsuda02remix",
+      "name": "seiko remixes 2000",
+      "date": "2000-09-27",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda26compilation": {
+      "uid": "seiko_matsuda26compilation",
+      "name": "LOVE",
+      "date": "2000-11-29",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda27compilation": {
+      "uid": "seiko_matsuda27compilation",
+      "name": "SUPER COLLECTION",
+      "date": "2000-??-??",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda34": {
+      "uid": "seiko_matsuda34",
+      "name": "LOVE & EMOTION VOL. 1",
+      "date": "2001-06-20",
+      "img": ["seiko34.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda35": {
+      "uid": "seiko_matsuda35",
+      "name": "LOVE & EMOTION VOL. 2",
+      "date": "2001-11-28",
+      "img": ["seiko35.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda36": {
+      "uid": "seiko_matsuda36",
+      "name": "area62",
+      "date": "2002-06-11",
+      "img": ["seiko36.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda28compilation": {
+      "uid": "seiko_matsuda28compilation",
+      "name": "Another side of Seiko 27",
+      "date": "2003-11-27",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda29compilation": {
+      "uid": "seiko_matsuda29compilation",
+      "name": "Best of Best 27",
+      "date": "2004-04-14",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda37": {
+      "uid": "seiko_matsuda37",
+      "name": "Sunshine",
+      "date": "2004-06-09",
+      "img": ["seiko37.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda30compilation": {
+      "uid": "seiko_matsuda30compilation",
+      "name": "Seiko Smile",
+      "date": "2005-01-26",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda38": {
+      "uid": "seiko_matsuda38",
+      "name": "fairy",
+      "date": "2005-04-06",
+      "img": ["seiko38.jpg"],
+      "review_done": true
+    },
+    "seiko_matsuda03special": {
+      "uid": "seiko_matsuda03special",
+      "name": "I'll fall in love 愛的禮物",
+      "date": "2005-09-01",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda39": {
+      "uid": "seiko_matsuda39",
+      "name": "Under the beautiful stars",
+      "date": "2005-12-07",
+      "img": ["seiko39.jpg"],
+      "review_done": false
+    },
+    "seiko_matsuda40": {
+      "uid": "seiko_matsuda40",
+      "name": "bless you",
+      "date": "2006-05-31",
+      "img": ["seiko40.jpg"],
+      "review_done": false
+    },
+    "seiko_matsuda31compilation": {
+      "uid": "seiko_matsuda31compilation",
+      "name": "Seiko Matsuda",
+      "date": "2006-07-19",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda41": {
+      "uid": "seiko_matsuda41",
+      "name": "Eternal II",
+      "date": "2006-12-06",
+      "img": ["seiko41.jpg"],
+      "review_done": false
+    },
+    "seiko_matsuda42": {
+      "uid": "seiko_matsuda42",
+      "name": "Baby's breath ",
+      "date": "2007-06-06",
+      "img": ["seiko42.jpg"],
+      "review_done": false
+    },
+    "seiko_matsuda43": {
+      "uid": "seiko_matsuda43",
+      "name": "My pure melody",
+      "date": "2008-05-21",
+      "img": ["seiko43.jpg"],
+      "review_done": false
+    },
+    "seiko_matsuda32compilation": {
+      "uid": "seiko_matsuda32compilation",
+      "name": "Premium Diamond Bible",
+      "date": "2009-09-30",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda33compilation": {
+      "uid": "seiko_matsuda33compilation",
+      "name": "Seiko Matsuda Christmas Songs",
+      "date": "2009-11-11",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda34compilation": {
+      "uid": "seiko_matsuda34compilation",
+      "name": "Seiko Matsuda Single Collection 30th Anniversary Box ～The voice of a Queen～",
+      "date": "2010-05-26",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda44": {
+      "uid": "seiko_matsuda44",
+      "name": "My Prelude",
+      "date": "2010-05-26",
+      "img": ["seiko44.jpg"],
+      "review_done": false
+    },
+    "seiko_matsuda35compilation": {
+      "uid": "seiko_matsuda35compilation",
+      "name": "Touch Me, Seiko II",
+      "date": "2010-09-22",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda45": {
+      "uid": "seiko_matsuda45",
+      "name": "Cherish",
+      "date": "2011-06-01",
+      "img": ["seiko45.jpg"],
+      "review_done": false
+    },
+    "seiko_matsuda36compilation": {
+      "uid": "seiko_matsuda36compilation",
+      "name": "SEIKO STORY ～80's HITS COLLECTION～",
+      "date": "2011-12-07",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda37compilation": {
+      "uid": "seiko_matsuda37compilation",
+      "name": "松田聖子 スーパー・ヒットコレクション Vol.1",
+      "date": "2012-02-23",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda38compilation": {
+      "uid": "seiko_matsuda38compilation",
+      "name": "松田聖子 スーパー・ヒットコレクション Vol.2",
+      "date": "2012-02-23",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda39compilation": {
+      "uid": "seiko_matsuda39compilation",
+      "name": "エトランゼ",
+      "date": "2012-05-30",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda46": {
+      "uid": "seiko_matsuda46",
+      "name": "Very Very",
+      "date": "2012-06-06",
+      "img": ["seiko46.jpg"],
+      "review_done": false
+    },
+    "seiko_matsuda40compilation": {
+      "uid": "seiko_matsuda40compilation",
+      "name": "Calendar",
+      "date": "2012-11-07",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda47": {
+      "uid": "seiko_matsuda47",
+      "name": "A Girl in the Wonder Land",
+      "date": "2013-06-05",
+      "img": ["seiko47.jpg"],
+      "review_done": false
+    },
+    "seiko_matsuda48": {
+      "uid": "seiko_matsuda48",
+      "name": "Dream & Fantasy",
+      "date": "2014-06-04",
+      "img": ["seiko48.jpg"],
+      "review_done": false
+    },
+    "seiko_matsuda41compilation": {
+      "uid": "seiko_matsuda41compilation",
+      "name": "Seiko Matsuda Best Ballad",
+      "date": "2014-12-24",
+      "img": ["seiko41c_b.jpg"],
+      "review_done": false
+    },
+    "seiko_matsuda49": {
+      "uid": "seiko_matsuda49",
+      "name": "Bibbidi-Bobbidi-Boo ",
+      "date": "2015-06-10",
+      "img": ["seiko49_c.jpg"],
+      "review_done": false
+    },
+    "seiko_matsuda42compilation": {
+      "uid": "seiko_matsuda42compilation",
+      "name": "We Love SEIKO -35th Anniversary 松田聖子究極オールタイムベスト 50Songs-",
+      "date": "2015-12-09",
+      "img": ["seiko42c_c.png"],
+      "review_done": false
+    },
+    "seiko_matsuda50": {
+      "uid": "seiko_matsuda50",
+      "name": "Shining Star",
+      "date": "2016-06-08",
+      "img": ["seiko50.jpg"],
+      "review_done": false
+    },
+    "seiko_matsuda51": {
+      "uid": "seiko_matsuda51",
+      "name": "SEIKO JAZZ",
+      "date": "2017-03-29",
+      "img": ["seiko51.jpg"],
+      "review_done": false
+    },
+    "seiko_matsuda52": {
+      "uid": "seiko_matsuda52",
+      "name": "Daisy",
+      "date": "2017-06-07",
+      "img": ["seiko52.jpg"],
+      "review_done": false
+    },
+    "seiko_matsuda43compilation": {
+      "uid": "seiko_matsuda43compilation",
+      "name": "Seiko Matsuda sweet days",
+      "date": "2018-01-31",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda44compilation": {
+      "uid": "seiko_matsuda44compilation",
+      "name": "SEIKO MEMORIES ～Masaaki Omura Works～",
+      "date": "2018-02-28",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda53": {
+      "uid": "seiko_matsuda53",
+      "name": "Merry-go-round",
+      "date": "2018-06-06",
+      "img": ["seiko53.jpg"],
+      "review_done": false
+    },
+    "seiko_matsuda54": {
+      "uid": "seiko_matsuda54",
+      "name": "SEIKO JAZZ 2",
+      "date": "2019-02-20",
+      "img": ["seiko54.jpg"],
+      "review_done": false
+    },
+    "seiko_matsuda45compilation": {
+      "uid": "seiko_matsuda45compilation",
+      "name": "SEIKO STORY ～90s-00s HITS COLLECTION～",
+      "date": "2019-08-07",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda46compilation": {
+      "uid": "seiko_matsuda46compilation",
+      "name": "40th Anniversary Bible -Blooming pink-",
+      "date": "2020-04-01",
+      "img": [],
+      "review_done": false
+    },
+    "seiko_matsuda55": {
+      "uid": "seiko_matsuda55",
+      "name": "SEIKO MATSUDA 2020",
+      "date": "2020-09-30",
+      "img": ["seiko55jpg"],
+      "review_done": false
+    }
+  },
+  "singles": {},
+  "others": {}
+}

@@ -1,1 +1,18 @@
-{"uid": "shizuka_kudo15", "date": "2002-07-03", "genres": [], "review_done": false, "name": "Jewelry Box", "ruby": "", "artist": "工藤静香", "year": 2002, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "15thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "shizuka_kudo15",
+  "date": "2002-07-03",
+  "genres": [],
+  "review_done": false,
+  "name": "Jewelry Box",
+  "ruby": "",
+  "artist": "工藤静香",
+  "year": 2002,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "15thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

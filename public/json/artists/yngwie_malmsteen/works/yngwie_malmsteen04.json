@@ -1,1 +1,43 @@
-{"uid": "yngwie_malmsteen04", "date": "", "genres": [], "review_done": false, "name": "Odyssey", "artist": ["Yngwie J. Malmsteen's Rising Force"], "year": 1988, "list": [{"list": [["", "Rising Force", "Hold On", "Heaven Tonight", "Dreaming (Tell Me)", "Bite the Bullet", "Riot in the Dungeons", "", "Deja Vu", "Crystal Ball", "Now Is the Time", "Faster than the Speed of Light", "Krakatau", "Memories"]]}], "rate": 86, "comment": "自動車事故に遭い手を負傷。以前のようなキレのあるプレイができなくなってしまった。とはいえメロディの良さはまだ十分なほどであり、けがを補うだけの力がある。特に1曲目はタイトルからもわかる通り、彼の率いるバンドのテーマソングともいうべき名曲だ。3曲目はかなりキャッチーでポップな曲だが、メロディ・センスの高さが良く分かる曲だ。名盤とまでは呼べないが、けがをしてなお疑うことのできない確かな実力を感じる作品となっている。", "recommend": ["Rising Force", "Heaven Tonight", "Riot in the Dungeons", "Now Is the Time", "Faster than the Speed of Light"], "description": "J. Malmsteen's Rising Force 4thアルバム", "type": "album", "img": ["yngwie04.jpg"]}
+{
+  "uid": "yngwie_malmsteen04",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Odyssey",
+  "artist": ["Yngwie J. Malmsteen's Rising Force"],
+  "year": 1988,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Rising Force",
+          "Hold On",
+          "Heaven Tonight",
+          "Dreaming (Tell Me)",
+          "Bite the Bullet",
+          "Riot in the Dungeons",
+          "",
+          "Deja Vu",
+          "Crystal Ball",
+          "Now Is the Time",
+          "Faster than the Speed of Light",
+          "Krakatau",
+          "Memories"
+        ]
+      ]
+    }
+  ],
+  "rate": 86,
+  "comment": "自動車事故に遭い手を負傷。以前のようなキレのあるプレイができなくなってしまった。とはいえメロディの良さはまだ十分なほどであり、けがを補うだけの力がある。特に1曲目はタイトルからもわかる通り、彼の率いるバンドのテーマソングともいうべき名曲だ。3曲目はかなりキャッチーでポップな曲だが、メロディ・センスの高さが良く分かる曲だ。名盤とまでは呼べないが、けがをしてなお疑うことのできない確かな実力を感じる作品となっている。",
+  "recommend": [
+    "Rising Force",
+    "Heaven Tonight",
+    "Riot in the Dungeons",
+    "Now Is the Time",
+    "Faster than the Speed of Light"
+  ],
+  "description": "J. Malmsteen's Rising Force 4thアルバム",
+  "type": "album",
+  "img": ["yngwie04.jpg"]
+}

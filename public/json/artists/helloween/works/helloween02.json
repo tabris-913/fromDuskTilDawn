@@ -1,1 +1,33 @@
-{"uid": "helloween02", "date": "", "genres": [], "review_done": false, "name": "Keeper of the Seven Keys, Pt. 1 ", "artist": ["Helloween"], "year": 1987, "list": [{"list": [["", "Initation （序章）", "I'm Alive", "A Little Time", "Twilight of the Gods", "", "A Tale That Wasn't Right", "Future World", "Halloween", "Follow the Sign"]]}], "rate": 94, "comment": "専任ヴォーカルとして、今やメタル界を代表するヴォーカリストとなったMichael Kiskeを加入させた。当時はまだ未成年だったが、オペラティックな歌唱でハロウィンのメロディアスな音楽を引き立たせることに成功。ついに彼ら独自の音楽ジャンルであるメロディック・パワー・メタルを生み出したのだ。世界で50万枚を売るなど、名実ともにジャーマン・メタルを代表するバンドに上り詰めた。しかしそのせいでこの“ジャーマン・メタル”と言う言葉が、彼らのようなメロディアスなメタルを指す言葉と勘違いされることになってしまう。本来は2枚組になる予定だったが、曲がきちんと揃っていなかったことなどから別々でのリリースとなった。当時Michael Weikathは神経衰弱に陥っていたと言い、本作では5,8曲目の作曲に携わったのみである。新ジャンル創設と言う歴史的に重要さ作品であり、全メタラー必聴の名盤だ。", "recommend": ["全部　特にI'm Alive", "Twilight of the Gods", "Future World", "Halloween"], "description": "2ndアルバム", "type": "album", "img": ["hw02.jpg"]}
+{
+  "uid": "helloween02",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Keeper of the Seven Keys, Pt. 1 ",
+  "artist": ["Helloween"],
+  "year": 1987,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Initation （序章）",
+          "I'm Alive",
+          "A Little Time",
+          "Twilight of the Gods",
+          "",
+          "A Tale That Wasn't Right",
+          "Future World",
+          "Halloween",
+          "Follow the Sign"
+        ]
+      ]
+    }
+  ],
+  "rate": 94,
+  "comment": "専任ヴォーカルとして、今やメタル界を代表するヴォーカリストとなったMichael Kiskeを加入させた。当時はまだ未成年だったが、オペラティックな歌唱でハロウィンのメロディアスな音楽を引き立たせることに成功。ついに彼ら独自の音楽ジャンルであるメロディック・パワー・メタルを生み出したのだ。世界で50万枚を売るなど、名実ともにジャーマン・メタルを代表するバンドに上り詰めた。しかしそのせいでこの“ジャーマン・メタル”と言う言葉が、彼らのようなメロディアスなメタルを指す言葉と勘違いされることになってしまう。本来は2枚組になる予定だったが、曲がきちんと揃っていなかったことなどから別々でのリリースとなった。当時Michael Weikathは神経衰弱に陥っていたと言い、本作では5,8曲目の作曲に携わったのみである。新ジャンル創設と言う歴史的に重要さ作品であり、全メタラー必聴の名盤だ。",
+  "recommend": ["全部　特にI'm Alive", "Twilight of the Gods", "Future World", "Halloween"],
+  "description": "2ndアルバム",
+  "type": "album",
+  "img": ["hw02.jpg"]
+}

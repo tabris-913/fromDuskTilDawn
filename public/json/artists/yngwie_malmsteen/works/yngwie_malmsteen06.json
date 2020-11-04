@@ -1,1 +1,41 @@
-{"uid": "yngwie_malmsteen06", "date": "", "genres": [], "review_done": false, "name": "Fire and Ice", "artist": ["Yngwie Malmsteen"], "year": 1992, "list": [{"list": [["", "Perpetual", "Dragonfly", "Teaser", "How Many Miles to Babylon", "Cry No More", "No Mercy", "C'est la Vie", "Leviathan", "", "Fire and Ice", "Forever Is a Long Time", "I'm My Own Enemy", "All I Want Is Everything", "Golden Dawn", "Final Curtain", "(JAPANESE BONUS TRACK)", "Broken Glass"]]}], "rate": 80, "comment": "趣味の悪いジャケットは置いといて、中身も凡作。良い曲がないわけではないが、彼にしては凡作。1曲目のインストを聴いた時点では、期待できそうだったのだが、2曲目になった途端に、期待がやや風化。3曲目はメロディック・ハードやプログレ・ハード的な雰囲気を持っているが、なかなかの名曲だ。オリコンチャートで1位になったアルバムでもあり、しかも洋楽チャートではなく総合チャートでだ！しかし翌週には93位まで転落し、最も1位から落ちたアルバムという不名誉極まりない記録まで打ち立てた。現在でもやぶられていない。", "recommend": ["Perpetual", "Teaser", "No Mercy", "Forever Is a Long Time"], "description": "Malmsteen 6thアルバム", "type": "album", "img": ["yngwie06.jpg"]}
+{
+  "uid": "yngwie_malmsteen06",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Fire and Ice",
+  "artist": ["Yngwie Malmsteen"],
+  "year": 1992,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Perpetual",
+          "Dragonfly",
+          "Teaser",
+          "How Many Miles to Babylon",
+          "Cry No More",
+          "No Mercy",
+          "C'est la Vie",
+          "Leviathan",
+          "",
+          "Fire and Ice",
+          "Forever Is a Long Time",
+          "I'm My Own Enemy",
+          "All I Want Is Everything",
+          "Golden Dawn",
+          "Final Curtain",
+          "(JAPANESE BONUS TRACK)",
+          "Broken Glass"
+        ]
+      ]
+    }
+  ],
+  "rate": 80,
+  "comment": "趣味の悪いジャケットは置いといて、中身も凡作。良い曲がないわけではないが、彼にしては凡作。1曲目のインストを聴いた時点では、期待できそうだったのだが、2曲目になった途端に、期待がやや風化。3曲目はメロディック・ハードやプログレ・ハード的な雰囲気を持っているが、なかなかの名曲だ。オリコンチャートで1位になったアルバムでもあり、しかも洋楽チャートではなく総合チャートでだ！しかし翌週には93位まで転落し、最も1位から落ちたアルバムという不名誉極まりない記録まで打ち立てた。現在でもやぶられていない。",
+  "recommend": ["Perpetual", "Teaser", "No Mercy", "Forever Is a Long Time"],
+  "description": "Malmsteen 6thアルバム",
+  "type": "album",
+  "img": ["yngwie06.jpg"]
+}

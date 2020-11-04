@@ -1,1 +1,53 @@
-{"uid": "helloween14", "date": "", "genres": [], "review_done": false, "name": "Straight Out of Hell ", "artist": ["Helloween"], "year": 2013, "list": [{"list": [["", "Nabataea", "World of War", "Live Now!", "Far from the Stars", "Burning Sun", "Waiting for the Thunder", "Hold Me in Your Arms", "Wanna Be God", "Straight Out of Hell", "Asshole", "", "Years", "Make Fire Catch the Fly", "Church Breaks Down", "(LIMITED EDITION BONUS TRACK)", "Another Shot of Life", "Burning Sun [Hammond Version]", "(JAPANESE BONUS TRACK)", "No Eternity", "Burning Sun [Hammond Version]"]]}], "rate": 93, "comment": "なんとKeeper Pt. 2を超え、ドイツで4位にランクインした14作目。しかも初めて全米Top 100にランクインした。Keeperの新章と並ぶかそれ以上のクオリティで、紛れもない名盤だ。ドラマティックな曲もあれば、ストレートなメロパワもある。特に1曲目と5曲目はずば抜けた出来の名曲。8曲目はFreddie Mercuryに捧げられた曲で、We Will Rock Youのようなリズムが印象的だ。15曲目は5曲目のギターを片方ハモンドに置き換えたもので、亡くなったJohn Lordへ捧げたものになっている。", "recommend": ["全部　特にNabataea", "World of War", "Far from the Stars", "Burning Sun", "Straight Out of Hell", "Years", "Church Breaks Down", "\n\t\t\tNo Eternity"], "description": "14thアルバム", "type": "album", "img": ["hw14.jpg"]}
+{
+  "uid": "helloween14",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Straight Out of Hell ",
+  "artist": ["Helloween"],
+  "year": 2013,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Nabataea",
+          "World of War",
+          "Live Now!",
+          "Far from the Stars",
+          "Burning Sun",
+          "Waiting for the Thunder",
+          "Hold Me in Your Arms",
+          "Wanna Be God",
+          "Straight Out of Hell",
+          "Asshole",
+          "",
+          "Years",
+          "Make Fire Catch the Fly",
+          "Church Breaks Down",
+          "(LIMITED EDITION BONUS TRACK)",
+          "Another Shot of Life",
+          "Burning Sun [Hammond Version]",
+          "(JAPANESE BONUS TRACK)",
+          "No Eternity",
+          "Burning Sun [Hammond Version]"
+        ]
+      ]
+    }
+  ],
+  "rate": 93,
+  "comment": "なんとKeeper Pt. 2を超え、ドイツで4位にランクインした14作目。しかも初めて全米Top 100にランクインした。Keeperの新章と並ぶかそれ以上のクオリティで、紛れもない名盤だ。ドラマティックな曲もあれば、ストレートなメロパワもある。特に1曲目と5曲目はずば抜けた出来の名曲。8曲目はFreddie Mercuryに捧げられた曲で、We Will Rock Youのようなリズムが印象的だ。15曲目は5曲目のギターを片方ハモンドに置き換えたもので、亡くなったJohn Lordへ捧げたものになっている。",
+  "recommend": [
+    "全部　特にNabataea",
+    "World of War",
+    "Far from the Stars",
+    "Burning Sun",
+    "Straight Out of Hell",
+    "Years",
+    "Church Breaks Down",
+    "\n\t\t\tNo Eternity"
+  ],
+  "description": "14thアルバム",
+  "type": "album",
+  "img": ["hw14.jpg"]
+}

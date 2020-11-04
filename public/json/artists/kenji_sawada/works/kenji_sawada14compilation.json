@@ -1,1 +1,18 @@
-{"uid": "kenji_sawada14compilation", "date": "1981-12-15", "genres": [], "review_done": false, "name": "Royal Straight Flush II", "ruby": "", "artist": "沢田研二", "year": 1981, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "5thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "kenji_sawada14compilation",
+  "date": "1981-12-15",
+  "genres": [],
+  "review_done": false,
+  "name": "Royal Straight Flush II",
+  "ruby": "",
+  "artist": "沢田研二",
+  "year": 1981,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "5thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

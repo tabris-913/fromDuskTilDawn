@@ -1,1 +1,18 @@
-{"uid": "kenji_sawada06", "date": "1974-12-21", "genres": [], "review_done": false, "name": "THE FUGITIVE 愛の逃亡者", "ruby": "", "artist": "沢田研二", "year": 1974, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "6thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "kenji_sawada06",
+  "date": "1974-12-21",
+  "genres": [],
+  "review_done": false,
+  "name": "THE FUGITIVE 愛の逃亡者",
+  "ruby": "",
+  "artist": "沢田研二",
+  "year": 1974,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "6thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

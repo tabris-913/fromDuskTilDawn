@@ -1,1 +1,18 @@
-{"uid": "kenji_sawada03ep", "date": "2012-03-11", "genres": [], "review_done": false, "name": "3月8日の雲", "ruby": "", "artist": "沢田研二", "year": 2012, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "3thミニアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "kenji_sawada03ep",
+  "date": "2012-03-11",
+  "genres": [],
+  "review_done": false,
+  "name": "3月8日の雲",
+  "ruby": "",
+  "artist": "沢田研二",
+  "year": 2012,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "3thミニアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

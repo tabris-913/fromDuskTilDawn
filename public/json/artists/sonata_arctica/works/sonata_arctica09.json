@@ -1,1 +1,43 @@
-{"uid": "sonata_arctica09", "date": "", "genres": [], "review_done": false, "name": "The Ninth Hour", "artist": ["Sonata Arctica"], "year": 2016, "list": [{"list": [["", "Closer to an Animal", "Life", "Fairytale", "We Are What We Are", "Till Death's Done Us Apart", "Among the Shooting Stars", "", "Rise a Night", "Fly, Navigate, Communicate", "Candle Lawns", "White Pearl, Black Oceans -Part II, By the Grace of the Ocean", "On the Faultline (Closure to an Animal)"]]}], "rate": 85, "comment": "北欧の元スピード狂が2年ぶりにリリースした作品。スピードを抑えてシンフォニック度を向上させた近年の流れから大幅にズレてはいないが、多少はパワーが戻ってきている。アルバムの顔たる冒頭3曲では、疾走感はなくても持ち前の高品質メロディが炸裂している。正直疾走感は前作より少ないのだが、ことメロディに関しては今作のほうが優れている。5曲目はところどころで聴こえるチェンバロが心をかき乱す（曲自体は普通）。7曲目はスロー曲ミドル曲が続いたところで現れる突然の疾走曲！待ってました！やはりソナタはこういう曲でこそ輝く。9曲目はそのメロディを活かした秀逸バラードで、やはりこういう曲を書かせてもハズれないのがメロパワの強みだ。10曲目は『Reckoning Night』収録の名曲の続編。こちらもかなり美しい仕上がりなっており、サビでの盛り上がりも感動的。", "recommend": ["Closer to an Animal", "Life", "Fairytale", "Rise a Night", "Candle Lawns", "By the Grace of the Ocean"], "description": "Arctica 9thアルバム", "type": "album", "img": ["sonata09.jpg"]}
+{
+  "uid": "sonata_arctica09",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "The Ninth Hour",
+  "artist": ["Sonata Arctica"],
+  "year": 2016,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Closer to an Animal",
+          "Life",
+          "Fairytale",
+          "We Are What We Are",
+          "Till Death's Done Us Apart",
+          "Among the Shooting Stars",
+          "",
+          "Rise a Night",
+          "Fly, Navigate, Communicate",
+          "Candle Lawns",
+          "White Pearl, Black Oceans -Part II, By the Grace of the Ocean",
+          "On the Faultline (Closure to an Animal)"
+        ]
+      ]
+    }
+  ],
+  "rate": 85,
+  "comment": "北欧の元スピード狂が2年ぶりにリリースした作品。スピードを抑えてシンフォニック度を向上させた近年の流れから大幅にズレてはいないが、多少はパワーが戻ってきている。アルバムの顔たる冒頭3曲では、疾走感はなくても持ち前の高品質メロディが炸裂している。正直疾走感は前作より少ないのだが、ことメロディに関しては今作のほうが優れている。5曲目はところどころで聴こえるチェンバロが心をかき乱す（曲自体は普通）。7曲目はスロー曲ミドル曲が続いたところで現れる突然の疾走曲！待ってました！やはりソナタはこういう曲でこそ輝く。9曲目はそのメロディを活かした秀逸バラードで、やはりこういう曲を書かせてもハズれないのがメロパワの強みだ。10曲目は『Reckoning Night』収録の名曲の続編。こちらもかなり美しい仕上がりなっており、サビでの盛り上がりも感動的。",
+  "recommend": [
+    "Closer to an Animal",
+    "Life",
+    "Fairytale",
+    "Rise a Night",
+    "Candle Lawns",
+    "By the Grace of the Ocean"
+  ],
+  "description": "Arctica 9thアルバム",
+  "type": "album",
+  "img": ["sonata09.jpg"]
+}

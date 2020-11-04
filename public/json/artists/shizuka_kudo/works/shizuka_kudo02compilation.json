@@ -1,1 +1,18 @@
-{"uid": "shizuka_kudo02compilation", "date": "1989-12-06", "genres": [], "review_done": false, "name": "HARVEST", "ruby": "", "artist": "工藤静香", "year": 1989, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "2thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "shizuka_kudo02compilation",
+  "date": "1989-12-06",
+  "genres": [],
+  "review_done": false,
+  "name": "HARVEST",
+  "ruby": "",
+  "artist": "工藤静香",
+  "year": 1989,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "2thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

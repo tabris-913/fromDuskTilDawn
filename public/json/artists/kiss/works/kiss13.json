@@ -1,1 +1,42 @@
-{"uid": "kiss13", "date": "", "genres": [], "review_done": false, "name": "ASYLUM ", "artist": ["Kiss"], "year": 1985, "list": [{"list": [["", "King of the Mountain", "Any Way You Slice It", "Who Wants to Be Lonely", "Trial by Fire", "I'm Alive", "", "Love's a Deadly Weapon", "Tears Are Falling", "Secretly Cruel", "Rader for Love", "Uh! All Night"]]}], "rate": 95, "comment": "前作で完成されたキッス・メタルをさらに発展させた名盤。よりキャッチーさが際立っており、ポップ・メタルに歩み寄った雰囲気。しかも前作よりもスピード・チューンが増えている。シングルとなった7曲目はやはりミドル曲だが、メロディに重きを置いたがゆえだろう。ラストもメロディが重視された曲で、前作よりも終わり方がいい。", "recommend": ["全部　特にKing of the Mountain", "Any Way You Slice It", "I'm Alive", "Love's a Deadly Weapon", "Tears Are Falling", "Uh! All Night"], "description": "13thアルバム", "type": "album", "img": ["kiss13.jpg"]}
+{
+  "uid": "kiss13",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "ASYLUM ",
+  "artist": ["Kiss"],
+  "year": 1985,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "King of the Mountain",
+          "Any Way You Slice It",
+          "Who Wants to Be Lonely",
+          "Trial by Fire",
+          "I'm Alive",
+          "",
+          "Love's a Deadly Weapon",
+          "Tears Are Falling",
+          "Secretly Cruel",
+          "Rader for Love",
+          "Uh! All Night"
+        ]
+      ]
+    }
+  ],
+  "rate": 95,
+  "comment": "前作で完成されたキッス・メタルをさらに発展させた名盤。よりキャッチーさが際立っており、ポップ・メタルに歩み寄った雰囲気。しかも前作よりもスピード・チューンが増えている。シングルとなった7曲目はやはりミドル曲だが、メロディに重きを置いたがゆえだろう。ラストもメロディが重視された曲で、前作よりも終わり方がいい。",
+  "recommend": [
+    "全部　特にKing of the Mountain",
+    "Any Way You Slice It",
+    "I'm Alive",
+    "Love's a Deadly Weapon",
+    "Tears Are Falling",
+    "Uh! All Night"
+  ],
+  "description": "13thアルバム",
+  "type": "album",
+  "img": ["kiss13.jpg"]
+}

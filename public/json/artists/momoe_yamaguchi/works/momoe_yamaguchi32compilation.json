@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi32compilation", "date": "1997-07-21", "genres": [], "review_done": false, "name": "ベスト・セレクション Vol.2", "ruby": "", "artist": "山口百恵", "year": 1997, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "32thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi32compilation",
+  "date": "1997-07-21",
+  "genres": [],
+  "review_done": false,
+  "name": "ベスト・セレクション Vol.2",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1997,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "32thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

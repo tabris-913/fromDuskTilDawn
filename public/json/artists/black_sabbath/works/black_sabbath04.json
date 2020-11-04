@@ -1,1 +1,35 @@
-{"uid": "black_sabbath04", "date": "", "genres": [], "review_done": false, "name": "Black Sabbath Vol. 4 ", "artist": ["Black Sabbath"], "year": 1972, "list": [{"list": [["", "Wheels of Confusion / The Straightener", "Tomorrow's Dream", "Changes", "FX", "Supernaut", "", "Snowblind", "Cornucopia", "Laguna Sunrise", "St. Vitus' Dance", "Under the Sun (Every Day Comes and Goes)"]]}], "rate": 87, "comment": "さらに安定感が増してより現代的なメタルサウンドに近づいた4作目。オープニング#1や#5のようなテンポの良さは聴き手を作品に惹きこむ魔力がある。もちろん#2,7のように従来のヘヴィに特化したものもある。まさか彼らがピアノを取り入れるとはという衝撃を与えてくれる#3は、非常に美しい。代表曲の1つに数えられる#6は堅実なリフと耳から離れないメロディが特徴。前述の#3やアコースティックな#8、どこかロックンロールの匂いを感じる#9など、意表を突かれるものが少なくない。", "recommend": ["Wheels of Confusion", "The Straightener", "Changes", "Supernaut", "Snowblind"], "description": "Sabbath 4thアルバム", "type": "album", "img": ["sabbath04.jpg"]}
+{
+  "uid": "black_sabbath04",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Black Sabbath Vol. 4 ",
+  "artist": ["Black Sabbath"],
+  "year": 1972,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Wheels of Confusion / The Straightener",
+          "Tomorrow's Dream",
+          "Changes",
+          "FX",
+          "Supernaut",
+          "",
+          "Snowblind",
+          "Cornucopia",
+          "Laguna Sunrise",
+          "St. Vitus' Dance",
+          "Under the Sun (Every Day Comes and Goes)"
+        ]
+      ]
+    }
+  ],
+  "rate": 87,
+  "comment": "さらに安定感が増してより現代的なメタルサウンドに近づいた4作目。オープニング#1や#5のようなテンポの良さは聴き手を作品に惹きこむ魔力がある。もちろん#2,7のように従来のヘヴィに特化したものもある。まさか彼らがピアノを取り入れるとはという衝撃を与えてくれる#3は、非常に美しい。代表曲の1つに数えられる#6は堅実なリフと耳から離れないメロディが特徴。前述の#3やアコースティックな#8、どこかロックンロールの匂いを感じる#9など、意表を突かれるものが少なくない。",
+  "recommend": ["Wheels of Confusion", "The Straightener", "Changes", "Supernaut", "Snowblind"],
+  "description": "Sabbath 4thアルバム",
+  "type": "album",
+  "img": ["sabbath04.jpg"]
+}

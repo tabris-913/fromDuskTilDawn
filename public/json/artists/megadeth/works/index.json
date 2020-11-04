@@ -1,1 +1,119 @@
-{"albums": {"megadeth01": {"uid": "megadeth01", "name": "Killing Is My Business... and Business Is Good!", "date": "", "img": ["megadeth01.jpg"], "review_done": false}, "megadeth01ep": {"uid": "megadeth01ep", "name": "Maximum Megadeth ", "date": "", "img": ["megadeth01e.jpg"], "review_done": false}, "megadeth02": {"uid": "megadeth02", "name": "Peace Sells... but Who's Buying?", "date": "", "img": ["megadeth02.jpg"], "review_done": false}, "megadeth02ep": {"uid": "megadeth02ep", "name": "Hidden Treasures", "date": "", "img": ["megadeth02e.jpg"], "review_done": false}, "megadeth03": {"uid": "megadeth03", "name": "So Far, So Good... So What!", "date": "", "img": ["megadeth03.jpg"], "review_done": false}, "megadeth04": {"uid": "megadeth04", "name": "Rust in Peace ", "date": "", "img": ["megadeth04.jpg"], "review_done": false}, "megadeth05": {"uid": "megadeth05", "name": "Countdown to Extinction （破滅へのカウントダウン）", "date": "", "img": ["megadeth05.jpg"], "review_done": false}, "megadeth06": {"uid": "megadeth06", "name": "Youthanasia", "date": "", "img": ["megadeth06.jpg"], "review_done": false}, "megadeth07": {"uid": "megadeth07", "name": "Cryptic Writings", "date": "", "img": ["megadeth07.gif"], "review_done": false}, "megadeth08": {"uid": "megadeth08", "name": "Risk", "date": "", "img": ["megadeth08.jpg"], "review_done": false}, "megadeth09": {"uid": "megadeth09", "name": "The World Needs a Hero", "date": "", "img": ["megadeth09.jpg"], "review_done": false}, "megadeth10": {"uid": "megadeth10", "name": "The System Had Failed", "date": "", "img": ["megadeth10.jpg"], "review_done": false}, "megadeth11": {"uid": "megadeth11", "name": "United Abominations", "date": "", "img": ["megadeth11.jpg"], "review_done": false}, "megadeth12": {"uid": "megadeth12", "name": "Endgame ", "date": "", "img": ["megadeth12.jpg"], "review_done": false}, "megadeth13": {"uid": "megadeth13", "name": "Th1rt3en", "date": "", "img": ["megadeth13.jpg"], "review_done": false}, "megadeth14": {"uid": "megadeth14", "name": "Super Collider", "date": "", "img": ["megadeth14.jpg"], "review_done": false}, "megadeth15": {"uid": "megadeth15", "name": "Dystopia ", "date": "", "img": ["megadeth15.jpg"], "review_done": false}}, "singles": {}, "others": {}}
+{
+  "albums": {
+    "megadeth01": {
+      "uid": "megadeth01",
+      "name": "Killing Is My Business... and Business Is Good!",
+      "date": "",
+      "img": ["megadeth01.jpg"],
+      "review_done": false
+    },
+    "megadeth01ep": {
+      "uid": "megadeth01ep",
+      "name": "Maximum Megadeth ",
+      "date": "",
+      "img": ["megadeth01e.jpg"],
+      "review_done": false
+    },
+    "megadeth02": {
+      "uid": "megadeth02",
+      "name": "Peace Sells... but Who's Buying?",
+      "date": "",
+      "img": ["megadeth02.jpg"],
+      "review_done": false
+    },
+    "megadeth02ep": {
+      "uid": "megadeth02ep",
+      "name": "Hidden Treasures",
+      "date": "",
+      "img": ["megadeth02e.jpg"],
+      "review_done": false
+    },
+    "megadeth03": {
+      "uid": "megadeth03",
+      "name": "So Far, So Good... So What!",
+      "date": "",
+      "img": ["megadeth03.jpg"],
+      "review_done": false
+    },
+    "megadeth04": {
+      "uid": "megadeth04",
+      "name": "Rust in Peace ",
+      "date": "",
+      "img": ["megadeth04.jpg"],
+      "review_done": false
+    },
+    "megadeth05": {
+      "uid": "megadeth05",
+      "name": "Countdown to Extinction （破滅へのカウントダウン）",
+      "date": "",
+      "img": ["megadeth05.jpg"],
+      "review_done": false
+    },
+    "megadeth06": {
+      "uid": "megadeth06",
+      "name": "Youthanasia",
+      "date": "",
+      "img": ["megadeth06.jpg"],
+      "review_done": false
+    },
+    "megadeth07": {
+      "uid": "megadeth07",
+      "name": "Cryptic Writings",
+      "date": "",
+      "img": ["megadeth07.gif"],
+      "review_done": false
+    },
+    "megadeth08": { "uid": "megadeth08", "name": "Risk", "date": "", "img": ["megadeth08.jpg"], "review_done": false },
+    "megadeth09": {
+      "uid": "megadeth09",
+      "name": "The World Needs a Hero",
+      "date": "",
+      "img": ["megadeth09.jpg"],
+      "review_done": false
+    },
+    "megadeth10": {
+      "uid": "megadeth10",
+      "name": "The System Had Failed",
+      "date": "",
+      "img": ["megadeth10.jpg"],
+      "review_done": false
+    },
+    "megadeth11": {
+      "uid": "megadeth11",
+      "name": "United Abominations",
+      "date": "",
+      "img": ["megadeth11.jpg"],
+      "review_done": false
+    },
+    "megadeth12": {
+      "uid": "megadeth12",
+      "name": "Endgame ",
+      "date": "",
+      "img": ["megadeth12.jpg"],
+      "review_done": false
+    },
+    "megadeth13": {
+      "uid": "megadeth13",
+      "name": "Th1rt3en",
+      "date": "",
+      "img": ["megadeth13.jpg"],
+      "review_done": false
+    },
+    "megadeth14": {
+      "uid": "megadeth14",
+      "name": "Super Collider",
+      "date": "",
+      "img": ["megadeth14.jpg"],
+      "review_done": false
+    },
+    "megadeth15": {
+      "uid": "megadeth15",
+      "name": "Dystopia ",
+      "date": "",
+      "img": ["megadeth15.jpg"],
+      "review_done": false
+    }
+  },
+  "singles": {},
+  "others": {}
+}

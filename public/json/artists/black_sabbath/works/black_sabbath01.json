@@ -1,1 +1,33 @@
-{"uid": "black_sabbath01", "date": "", "genres": [], "review_done": false, "name": "Black Sabbath （黒い安息日）", "artist": ["Black Sabbath"], "year": 1970, "list": [{"list": [["", "Black Sabbath", "The Wizard", "Behind the Wall of Sleep", "N.I.B.", "", "Evil Woman (Don't Play Your Game with Me)", "Sleeping Village", "The Warning", "Wicked World"]]}], "rate": 86, "comment": "正真正銘世界初のヘヴィ・メタル。たったそれだけでこのアルバムの価値がどれほどのものなのか分かるだろう。商用的には成功したものの、当時専門誌からは酷評されたのも頷ける。こういう革新的な作品はたいてい、最初は受け入れられないものだから。それが頭の硬い連中には特に。それまでのどの音楽よりもヘヴィでダーク。ほぼ一発撮りというから驚きだ。ただ#7などのブルーズのカヴァーでは、逆にそのラフな感じがマッチしているのだと思う。おどろおどろしく猥雑ながらも、どこか洗練されたように感じるのは、メタルというものを聴き慣れているからだろう。音が綿密に詰まった現代のメタルとは違って、より少ない音数でヘヴィ・メタルを表現しているのだから。", "recommend": ["Black Sabbath", "N.I.B.", "Evil Woman", "Sleeping Village", "The Warning"], "description": "Sabbath 1stアルバム", "type": "album", "img": ["sabbath01.jpg"]}
+{
+  "uid": "black_sabbath01",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Black Sabbath （黒い安息日）",
+  "artist": ["Black Sabbath"],
+  "year": 1970,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Black Sabbath",
+          "The Wizard",
+          "Behind the Wall of Sleep",
+          "N.I.B.",
+          "",
+          "Evil Woman (Don't Play Your Game with Me)",
+          "Sleeping Village",
+          "The Warning",
+          "Wicked World"
+        ]
+      ]
+    }
+  ],
+  "rate": 86,
+  "comment": "正真正銘世界初のヘヴィ・メタル。たったそれだけでこのアルバムの価値がどれほどのものなのか分かるだろう。商用的には成功したものの、当時専門誌からは酷評されたのも頷ける。こういう革新的な作品はたいてい、最初は受け入れられないものだから。それが頭の硬い連中には特に。それまでのどの音楽よりもヘヴィでダーク。ほぼ一発撮りというから驚きだ。ただ#7などのブルーズのカヴァーでは、逆にそのラフな感じがマッチしているのだと思う。おどろおどろしく猥雑ながらも、どこか洗練されたように感じるのは、メタルというものを聴き慣れているからだろう。音が綿密に詰まった現代のメタルとは違って、より少ない音数でヘヴィ・メタルを表現しているのだから。",
+  "recommend": ["Black Sabbath", "N.I.B.", "Evil Woman", "Sleeping Village", "The Warning"],
+  "description": "Sabbath 1stアルバム",
+  "type": "album",
+  "img": ["sabbath01.jpg"]
+}

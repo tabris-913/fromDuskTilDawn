@@ -1,1 +1,37 @@
-{"uid": "angra02", "date": "", "genres": [], "review_done": false, "name": "Holy Land", "artist": ["Angra"], "year": 1996, "list": [{"list": [["", "Crossing", "Nothing to Say", "Silence and Distance", "Carolina IV", "Holy Land", "The Shaman", "", "Make Believe", "Z.I.T.O.", "Deep Blue", "Lullaby for Lucifer", "(BONUS TRACK)", "Queen of the Night"]]}], "rate": 79, "comment": "前作よりもブラジルの民族音楽の要素を取り入れた2作目。前作のような音を期待していると、少しだけ違和感を覚える。とはいっても駄作と言うわけでもなく、これくらいの割合ならば民族音楽が入っているのもいいだろう。フォーク・メタルともとれる。4曲目は特にその色が良く表れていると言える。", "recommend": ["Nothing to Say", "Z.I.T.O."], "description": "2ndアルバム", "type": "album", "img": ["angra02.jpg"]}
+{
+  "uid": "angra02",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Holy Land",
+  "artist": ["Angra"],
+  "year": 1996,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Crossing",
+          "Nothing to Say",
+          "Silence and Distance",
+          "Carolina IV",
+          "Holy Land",
+          "The Shaman",
+          "",
+          "Make Believe",
+          "Z.I.T.O.",
+          "Deep Blue",
+          "Lullaby for Lucifer",
+          "(BONUS TRACK)",
+          "Queen of the Night"
+        ]
+      ]
+    }
+  ],
+  "rate": 79,
+  "comment": "前作よりもブラジルの民族音楽の要素を取り入れた2作目。前作のような音を期待していると、少しだけ違和感を覚える。とはいっても駄作と言うわけでもなく、これくらいの割合ならば民族音楽が入っているのもいいだろう。フォーク・メタルともとれる。4曲目は特にその色が良く表れていると言える。",
+  "recommend": ["Nothing to Say", "Z.I.T.O."],
+  "description": "2ndアルバム",
+  "type": "album",
+  "img": ["angra02.jpg"]
+}

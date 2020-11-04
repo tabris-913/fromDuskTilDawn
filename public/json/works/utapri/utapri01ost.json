@@ -1,1 +1,49 @@
-{"name": "サウンドの☆プリンスさまっ♪", "description": "", "date": "2010-06-30", "year": 0, "artist": [], "list": [{"disk_no": 1, "name": "", "list": ["Welcome to UTA☆PRI world!!", "citrus♪skip", "CURE☆POP☆ORANGE", "Logical Day Dream", "Summer Shower Station", "つま弾きのsky green", "pink almond vacation", "引き寄せられたgraphite", "風薫るturquoise", "cafe au lait TIME", "しのび足のclare", "悪戯なcoral red", "DOUBLE×old lilac", "無敵のsunshine yellow", "wistaria eyes", "胸に広がるcloud", "saxe blueな雨模様", "真摯なsignal red", "battleship gray", "caramelグラデーション", "strawberryのささやき", "snow whiteの足跡", "blue blue wing", "まっすぐのびたscarlet", "indigoに響く夢", "双眸に映すforest green", "black crystalの輝き", "jaune brillantの素顔", "舞い踊るpowder pink", "DESTINY SONG"]}], "comment": "", "uid": "utapri01ost", "img": ["utapri01ost.jpg"], "rate": 0}
+{
+  "name": "サウンドの☆プリンスさまっ♪",
+  "description": "",
+  "date": "2010-06-30",
+  "year": 0,
+  "artist": [],
+  "list": [
+    {
+      "disk_no": 1,
+      "name": "",
+      "list": [
+        "Welcome to UTA☆PRI world!!",
+        "citrus♪skip",
+        "CURE☆POP☆ORANGE",
+        "Logical Day Dream",
+        "Summer Shower Station",
+        "つま弾きのsky green",
+        "pink almond vacation",
+        "引き寄せられたgraphite",
+        "風薫るturquoise",
+        "cafe au lait TIME",
+        "しのび足のclare",
+        "悪戯なcoral red",
+        "DOUBLE×old lilac",
+        "無敵のsunshine yellow",
+        "wistaria eyes",
+        "胸に広がるcloud",
+        "saxe blueな雨模様",
+        "真摯なsignal red",
+        "battleship gray",
+        "caramelグラデーション",
+        "strawberryのささやき",
+        "snow whiteの足跡",
+        "blue blue wing",
+        "まっすぐのびたscarlet",
+        "indigoに響く夢",
+        "双眸に映すforest green",
+        "black crystalの輝き",
+        "jaune brillantの素顔",
+        "舞い踊るpowder pink",
+        "DESTINY SONG"
+      ]
+    }
+  ],
+  "comment": "",
+  "uid": "utapri01ost",
+  "img": ["utapri01ost.jpg"],
+  "rate": 0
+}

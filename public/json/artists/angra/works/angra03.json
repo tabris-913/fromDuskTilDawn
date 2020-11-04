@@ -1,1 +1,37 @@
-{"uid": "angra03", "date": "", "genres": [], "review_done": false, "name": "Fireworks", "artist": ["Angra"], "year": 1998, "list": [{"list": [["", "Wings of Reality", "Petrified Eyes", "Lisbon", "Metal Icarus", "Paradise", "Mystery Machine", "", "Fireworks", "Extreme Dream", "Gentle Change", "Speed", "(JAPANESE BONUS TRACK)", "Rainy Nights"]]}], "rate": 83, "comment": "フォーク・メタルに近づいた前作に対し、全体的により硬派なメタルに戻った印象を受ける。とはいってもデビュー作に収録されていた曲ほどの質はない。前作よりも聴きやすいのは断言できる。これくらいのハードさがないとやっぱり駄目だね。3曲目はフォーク・メタル路線と、パワー・メタル路線がうまく絡み合った曲で、名曲と呼ばれることもある。", "recommend": ["Wings of Reality", "Lisbon", "Metal Icarus", "Mystery Machine", "Speed"], "description": "3rdアルバム", "type": "album", "img": ["angra03.jpg"]}
+{
+  "uid": "angra03",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Fireworks",
+  "artist": ["Angra"],
+  "year": 1998,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Wings of Reality",
+          "Petrified Eyes",
+          "Lisbon",
+          "Metal Icarus",
+          "Paradise",
+          "Mystery Machine",
+          "",
+          "Fireworks",
+          "Extreme Dream",
+          "Gentle Change",
+          "Speed",
+          "(JAPANESE BONUS TRACK)",
+          "Rainy Nights"
+        ]
+      ]
+    }
+  ],
+  "rate": 83,
+  "comment": "フォーク・メタルに近づいた前作に対し、全体的により硬派なメタルに戻った印象を受ける。とはいってもデビュー作に収録されていた曲ほどの質はない。前作よりも聴きやすいのは断言できる。これくらいのハードさがないとやっぱり駄目だね。3曲目はフォーク・メタル路線と、パワー・メタル路線がうまく絡み合った曲で、名曲と呼ばれることもある。",
+  "recommend": ["Wings of Reality", "Lisbon", "Metal Icarus", "Mystery Machine", "Speed"],
+  "description": "3rdアルバム",
+  "type": "album",
+  "img": ["angra03.jpg"]
+}

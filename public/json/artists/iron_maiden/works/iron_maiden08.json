@@ -1,1 +1,35 @@
-{"uid": "iron_maiden08", "date": "", "genres": [], "review_done": false, "name": "No Prayer for the Dying", "artist": ["Iron Maiden"], "year": 1990, "list": [{"list": [["", "Tailgunner", "Holy Smoke", "No Prayer for the Dying", "Public Enema Number One", "Fates Warning （悪魔か？神か？）", "", "The Assassin （暗殺者）", "Run Silent Run Deep", "Hooks in You", "Bring Your Daughter... to the Slaughter", "Mother Russia （母なるロシア）"]]}], "rate": 80, "comment": "メイデンらしさが薄く、地味な印象の作品。まぁよく聴けば良さがわかってくるのだが、即効性に欠けるのは痛手だ。中間から終盤にかけての地味さは凄い。タイトルはかっこいいのに中身が付いて行っていないという感じだ。ただ一つ9曲目だけは地味ではないが、だからといってメイデンらしいというわけでもない。ちなみにこの9曲目はBruce Dickinsonのソロ曲をメイデンでセルフカヴァーしたもので、全英1位のヒット曲になった。", "recommend": ["Tailgunner", "Holy Smoke", "Public Enema Number One", "Bring Your Daughter... to the Slaughter"], "description": "Maiden 8thアルバム", "type": "album", "img": ["maiden08.jpg"]}
+{
+  "uid": "iron_maiden08",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "No Prayer for the Dying",
+  "artist": ["Iron Maiden"],
+  "year": 1990,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Tailgunner",
+          "Holy Smoke",
+          "No Prayer for the Dying",
+          "Public Enema Number One",
+          "Fates Warning （悪魔か？神か？）",
+          "",
+          "The Assassin （暗殺者）",
+          "Run Silent Run Deep",
+          "Hooks in You",
+          "Bring Your Daughter... to the Slaughter",
+          "Mother Russia （母なるロシア）"
+        ]
+      ]
+    }
+  ],
+  "rate": 80,
+  "comment": "メイデンらしさが薄く、地味な印象の作品。まぁよく聴けば良さがわかってくるのだが、即効性に欠けるのは痛手だ。中間から終盤にかけての地味さは凄い。タイトルはかっこいいのに中身が付いて行っていないという感じだ。ただ一つ9曲目だけは地味ではないが、だからといってメイデンらしいというわけでもない。ちなみにこの9曲目はBruce Dickinsonのソロ曲をメイデンでセルフカヴァーしたもので、全英1位のヒット曲になった。",
+  "recommend": ["Tailgunner", "Holy Smoke", "Public Enema Number One", "Bring Your Daughter... to the Slaughter"],
+  "description": "Maiden 8thアルバム",
+  "type": "album",
+  "img": ["maiden08.jpg"]
+}

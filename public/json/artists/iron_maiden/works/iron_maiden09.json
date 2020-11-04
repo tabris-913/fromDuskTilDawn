@@ -1,1 +1,44 @@
-{"uid": "iron_maiden09", "date": "", "genres": [], "review_done": false, "name": "Fear of the Dark ", "artist": ["Iron Maiden"], "year": 1992, "list": [{"list": [["", "Be Quick or Be Dead", "From Here to Eternity", "Afraid to Shoot Strangers （殺戮の恐怖）", "Fear Is the Key", "Children's End （絶望の淵）", "Wasting Love", "", "The Fugitive （終わりなき逃亡）", "Chains of Misery", "The Apparition （妖しき者）", "Judas Be My Guide", "Weekend Warrior", "Fear of the Dark"]]}], "rate": 92, "comment": "正直微妙だった前作に続く作品ということもあり、期待半分といったところだったが、いざ聴いてみると紛れもない名作。1曲目の12曲目のためだけに買っても損はない。1曲目はJudas PriestのPainkillerを彷彿とさせる攻撃的なファスト・チューン。12曲目はライヴでの大合唱がお決まりとなった名曲だ。もちろんそれ以外にも名曲はあり、3曲目は2分半過ぎころから壮大なメロディが聴ける超名曲。6曲目はメロディアスなバラードよりの曲でセンスの良さがわかる。", "recommend": ["Be Quick or Be Dead", "From Here to Eternity", "Afraid to Shoot Strangers", "Children's End", "Wasting Love", "Fear of the Dark"], "description": "Maiden 9thアルバム", "type": "album", "img": ["maiden09.jpg"]}
+{
+  "uid": "iron_maiden09",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Fear of the Dark ",
+  "artist": ["Iron Maiden"],
+  "year": 1992,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Be Quick or Be Dead",
+          "From Here to Eternity",
+          "Afraid to Shoot Strangers （殺戮の恐怖）",
+          "Fear Is the Key",
+          "Children's End （絶望の淵）",
+          "Wasting Love",
+          "",
+          "The Fugitive （終わりなき逃亡）",
+          "Chains of Misery",
+          "The Apparition （妖しき者）",
+          "Judas Be My Guide",
+          "Weekend Warrior",
+          "Fear of the Dark"
+        ]
+      ]
+    }
+  ],
+  "rate": 92,
+  "comment": "正直微妙だった前作に続く作品ということもあり、期待半分といったところだったが、いざ聴いてみると紛れもない名作。1曲目の12曲目のためだけに買っても損はない。1曲目はJudas PriestのPainkillerを彷彿とさせる攻撃的なファスト・チューン。12曲目はライヴでの大合唱がお決まりとなった名曲だ。もちろんそれ以外にも名曲はあり、3曲目は2分半過ぎころから壮大なメロディが聴ける超名曲。6曲目はメロディアスなバラードよりの曲でセンスの良さがわかる。",
+  "recommend": [
+    "Be Quick or Be Dead",
+    "From Here to Eternity",
+    "Afraid to Shoot Strangers",
+    "Children's End",
+    "Wasting Love",
+    "Fear of the Dark"
+  ],
+  "description": "Maiden 9thアルバム",
+  "type": "album",
+  "img": ["maiden09.jpg"]
+}

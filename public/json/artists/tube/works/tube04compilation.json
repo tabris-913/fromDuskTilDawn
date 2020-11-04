@@ -1,1 +1,18 @@
-{"uid": "tube04compilation", "date": "2000-05-13", "genres": [], "review_done": false, "name": "TUBEst III", "ruby": "", "artist": "TUBE", "year": 2000, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "4thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "tube04compilation",
+  "date": "2000-05-13",
+  "genres": [],
+  "review_done": false,
+  "name": "TUBEst III",
+  "ruby": "",
+  "artist": "TUBE",
+  "year": 2000,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "4thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

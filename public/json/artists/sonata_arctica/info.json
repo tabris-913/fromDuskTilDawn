@@ -1,1 +1,31 @@
-{"uid": "sonata_arctica", "name": "Sonata Arctica", "ruby": "ソナタ・アークティカ", "ruby4Sort": "そなたあーくてぃか", "en": "Sonata Arctica", "initial": ["S", "さ"], "kind": "バンド", "genres": [], "albums": ["sonata_arctica01", "sonata_arctica01ep", "sonata_arctica01selfcover", "sonata_arctica02", "sonata_arctica02ep", "sonata_arctica03", "sonata_arctica03ep", "sonata_arctica04", "sonata_arctica04ep", "sonata_arctica05", "sonata_arctica06", "sonata_arctica07", "sonata_arctica08", "sonata_arctica09"], "singles": [], "others": [], "akas": [], "logo": [], "related": []}
+{
+  "uid": "sonata_arctica",
+  "name": "Sonata Arctica",
+  "ruby": "ソナタ・アークティカ",
+  "ruby4Sort": "そなたあーくてぃか",
+  "en": "Sonata Arctica",
+  "initial": ["S", "さ"],
+  "kind": "バンド",
+  "genres": [],
+  "albums": [
+    "sonata_arctica01",
+    "sonata_arctica01ep",
+    "sonata_arctica01selfcover",
+    "sonata_arctica02",
+    "sonata_arctica02ep",
+    "sonata_arctica03",
+    "sonata_arctica03ep",
+    "sonata_arctica04",
+    "sonata_arctica04ep",
+    "sonata_arctica05",
+    "sonata_arctica06",
+    "sonata_arctica07",
+    "sonata_arctica08",
+    "sonata_arctica09"
+  ],
+  "singles": [],
+  "others": [],
+  "akas": [],
+  "logo": [],
+  "related": []
+}

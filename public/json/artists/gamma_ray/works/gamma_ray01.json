@@ -1,1 +1,45 @@
-{"uid": "gamma_ray01", "date": "", "genres": [], "review_done": false, "name": "Heading for Tomorrow ", "artist": ["Gamma Ray"], "year": 1990, "list": [{"list": [["", "Welcome", "Lust for Life", "Heaven Can Wait", "Space Eater", "Money", "The Silence", "", "Hold Your Ground", "Free Time", "Heading for Tomorrow", "Look at Yourself", "(JAPANESE BONUS TRACK)", "Mr. Outlaw"]]}], "rate": 87, "comment": "最高傑作にあげる人も少なくないデビュー作。優劣はあれど捨て曲はなく、特に2,3曲目はバンドを代表する曲でもある。本家ハロウィンが微妙な時に、救世主のような存在感を持ったアルバムだ。10曲目はイギリスのハードロックバンドUriah Heepのカヴァーだが、意外な選曲でびっくりだ。Kai Hansenがメロパワの父として当たり前のようにこのアルバムを出してきて、初期ハロウィンファンは安心しただろう。", "recommend": ["Lust for Life", "Heaven Can Wait", "Money", "The Silence", "Hold Your Ground", "Heading for Tomorrow", "Look at Yourself"], "description": "Ray 1stアルバム", "type": "album", "img": ["gamma01.jpg"]}
+{
+  "uid": "gamma_ray01",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Heading for Tomorrow ",
+  "artist": ["Gamma Ray"],
+  "year": 1990,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Welcome",
+          "Lust for Life",
+          "Heaven Can Wait",
+          "Space Eater",
+          "Money",
+          "The Silence",
+          "",
+          "Hold Your Ground",
+          "Free Time",
+          "Heading for Tomorrow",
+          "Look at Yourself",
+          "(JAPANESE BONUS TRACK)",
+          "Mr. Outlaw"
+        ]
+      ]
+    }
+  ],
+  "rate": 87,
+  "comment": "最高傑作にあげる人も少なくないデビュー作。優劣はあれど捨て曲はなく、特に2,3曲目はバンドを代表する曲でもある。本家ハロウィンが微妙な時に、救世主のような存在感を持ったアルバムだ。10曲目はイギリスのハードロックバンドUriah Heepのカヴァーだが、意外な選曲でびっくりだ。Kai Hansenがメロパワの父として当たり前のようにこのアルバムを出してきて、初期ハロウィンファンは安心しただろう。",
+  "recommend": [
+    "Lust for Life",
+    "Heaven Can Wait",
+    "Money",
+    "The Silence",
+    "Hold Your Ground",
+    "Heading for Tomorrow",
+    "Look at Yourself"
+  ],
+  "description": "Ray 1stアルバム",
+  "type": "album",
+  "img": ["gamma01.jpg"]
+}

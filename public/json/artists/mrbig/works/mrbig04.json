@@ -1,1 +1,40 @@
-{"uid": "mrbig04", "date": "", "genres": [], "review_done": false, "name": "Hey Man", "artist": ["Mr. Big"], "year": 1996, "list": [{"list": [["", "Trapped in Toyland", "Take Cover", "Jane Doe", "Goin' Where the Wind Blows （風にまかせて）", "The Chain", "Where Do I Fit in?", "If That's What It Takes", "", "Out of the Underground", "Dancin' Right into the Flame", "Mama D.", "Fool Us Today", "(EUROPEAN BONUS TRACK)", "Little Mistake", "(JAPANESE BONUS TRACK)", "Tears"]]}], "rate": 85, "comment": "オリコンで1位に輝くヒットとなった4作目。まさにミスター・ビッグ・イン・ジャパン。そして今作でもロックンロールとは言えない2曲目がヒット。もはやここまでくるとロックで売れようという気は薄れてしまっているのでは？曲の質に関しては、メロディやパワーにおいて衰えが感じられるが決して悪くはない。とはいえ前作や前々作に比べると捨て曲があるのは否めない。Daddy, BrotherやColorado Bulldogのように即効性のある疾走曲がないのは痛手だ。", "recommend": ["Trapped in Toyland", "Take Cover"], "description": "Big 4thアルバム", "type": "album", "img": ["mrbig04.jpg"]}
+{
+  "uid": "mrbig04",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Hey Man",
+  "artist": ["Mr. Big"],
+  "year": 1996,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Trapped in Toyland",
+          "Take Cover",
+          "Jane Doe",
+          "Goin' Where the Wind Blows （風にまかせて）",
+          "The Chain",
+          "Where Do I Fit in?",
+          "If That's What It Takes",
+          "",
+          "Out of the Underground",
+          "Dancin' Right into the Flame",
+          "Mama D.",
+          "Fool Us Today",
+          "(EUROPEAN BONUS TRACK)",
+          "Little Mistake",
+          "(JAPANESE BONUS TRACK)",
+          "Tears"
+        ]
+      ]
+    }
+  ],
+  "rate": 85,
+  "comment": "オリコンで1位に輝くヒットとなった4作目。まさにミスター・ビッグ・イン・ジャパン。そして今作でもロックンロールとは言えない2曲目がヒット。もはやここまでくるとロックで売れようという気は薄れてしまっているのでは？曲の質に関しては、メロディやパワーにおいて衰えが感じられるが決して悪くはない。とはいえ前作や前々作に比べると捨て曲があるのは否めない。Daddy, BrotherやColorado Bulldogのように即効性のある疾走曲がないのは痛手だ。",
+  "recommend": ["Trapped in Toyland", "Take Cover"],
+  "description": "Big 4thアルバム",
+  "type": "album",
+  "img": ["mrbig04.jpg"]
+}

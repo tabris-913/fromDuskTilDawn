@@ -1,1 +1,18 @@
-{"uid": "tube30", "date": "2008-07-16", "genres": [], "review_done": false, "name": "Paradiso", "ruby": "", "artist": "TUBE", "year": 2008, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "30thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "tube30",
+  "date": "2008-07-16",
+  "genres": [],
+  "review_done": false,
+  "name": "Paradiso",
+  "ruby": "",
+  "artist": "TUBE",
+  "year": 2008,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "30thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

@@ -1,1 +1,39 @@
-{"uid": "megadeth07", "date": "", "genres": [], "review_done": false, "name": "Cryptic Writings", "artist": ["Megadeth"], "year": 1997, "list": [{"list": [["", "Trust", "Almost Honest", "Use the Man", "Mastermind", "The Disintegrators", "I'll Get Even", "Sin", "", "A Secret Place", "Heve Cool, Will Travel", "She-Wolf", "Vortex", "FFF", "(JAPANESE BONUS TRACK)", "One Thing"]]}], "rate": 69, "comment": "全米10位となった7作目。これまではスラッシュから正統派へのアプローチを見せていたが、なぜかここで少しモダンなテイストを取り入れてしまった。しかし3曲目では全く違う方向にぶっ飛び、なんかメタルかどうかすら危ういラインだ。しかし5曲目は昔のスラッシュ時代を思い出させる名曲だ！後半に行くにつれてしっかりメタルしている感じになる。", "recommend": ["The Disintegrator", "A Secret Place", "She-Wolf", "Vortex", "FFF"], "description": "7thアルバム", "type": "album", "img": ["megadeth07.gif"]}
+{
+  "uid": "megadeth07",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Cryptic Writings",
+  "artist": ["Megadeth"],
+  "year": 1997,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Trust",
+          "Almost Honest",
+          "Use the Man",
+          "Mastermind",
+          "The Disintegrators",
+          "I'll Get Even",
+          "Sin",
+          "",
+          "A Secret Place",
+          "Heve Cool, Will Travel",
+          "She-Wolf",
+          "Vortex",
+          "FFF",
+          "(JAPANESE BONUS TRACK)",
+          "One Thing"
+        ]
+      ]
+    }
+  ],
+  "rate": 69,
+  "comment": "全米10位となった7作目。これまではスラッシュから正統派へのアプローチを見せていたが、なぜかここで少しモダンなテイストを取り入れてしまった。しかし3曲目では全く違う方向にぶっ飛び、なんかメタルかどうかすら危ういラインだ。しかし5曲目は昔のスラッシュ時代を思い出させる名曲だ！後半に行くにつれてしっかりメタルしている感じになる。",
+  "recommend": ["The Disintegrator", "A Secret Place", "She-Wolf", "Vortex", "FFF"],
+  "description": "7thアルバム",
+  "type": "album",
+  "img": ["megadeth07.gif"]
+}

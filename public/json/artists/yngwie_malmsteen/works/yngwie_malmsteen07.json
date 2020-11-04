@@ -1,1 +1,39 @@
-{"uid": "yngwie_malmsteen07", "date": "", "genres": [], "review_done": false, "name": "The Seventh Sign ", "artist": ["Yngwie Malmsteen"], "year": 1994, "list": [{"list": [["", "Never Die", "I Don't Know", "Meant to Be", "Forever One", "Hairtrigger", "Brothers", "Seventh Sign", "", "Bad Blood", "Prisoner of Your Love", "Pyramid of Cheops", "Crash and Burn", "Sorrow", "(JAPANESE BONUS TRACK)", "Angel in Heat"]]}], "rate": 89, "comment": "元LOUDNESSのMichael Vesceraにヴォーカルが交代した作品。90年代の普通のスタジオ作の中ではEclipseと並んで非常にレヴェルの高いアルバムとなっている。1曲目なんかは紛れもなく90年代の代表曲であるし、6曲目は彼の全キャリアを通しても屈指のエモーショナルなインストナンバーだ。前作に続いてオリコン1位とはならなかったが、なんと今作は2位にランクイン。日本での絶対的な人気を手にしていた時期だと言える。", "recommend": ["全部　特にNever Die", "I Don't Know", "Brothers", "Seventh Sign"], "description": "Malmsteen 7thアルバム", "type": "album", "img": ["yngwie07.jpg"]}
+{
+  "uid": "yngwie_malmsteen07",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "The Seventh Sign ",
+  "artist": ["Yngwie Malmsteen"],
+  "year": 1994,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Never Die",
+          "I Don't Know",
+          "Meant to Be",
+          "Forever One",
+          "Hairtrigger",
+          "Brothers",
+          "Seventh Sign",
+          "",
+          "Bad Blood",
+          "Prisoner of Your Love",
+          "Pyramid of Cheops",
+          "Crash and Burn",
+          "Sorrow",
+          "(JAPANESE BONUS TRACK)",
+          "Angel in Heat"
+        ]
+      ]
+    }
+  ],
+  "rate": 89,
+  "comment": "元LOUDNESSのMichael Vesceraにヴォーカルが交代した作品。90年代の普通のスタジオ作の中ではEclipseと並んで非常にレヴェルの高いアルバムとなっている。1曲目なんかは紛れもなく90年代の代表曲であるし、6曲目は彼の全キャリアを通しても屈指のエモーショナルなインストナンバーだ。前作に続いてオリコン1位とはならなかったが、なんと今作は2位にランクイン。日本での絶対的な人気を手にしていた時期だと言える。",
+  "recommend": ["全部　特にNever Die", "I Don't Know", "Brothers", "Seventh Sign"],
+  "description": "Malmsteen 7thアルバム",
+  "type": "album",
+  "img": ["yngwie07.jpg"]
+}

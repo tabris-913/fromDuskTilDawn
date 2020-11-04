@@ -1,1 +1,41 @@
-{"uid": "mrbig02", "date": "", "genres": [], "review_done": false, "name": "Lean into It ", "artist": ["Mr. Big"], "year": 1991, "list": [{"list": [["", "Daddy, Brother, Lover, Little Boy (The Electric Drill Song)", "Alice and Kickin'", "Green-Tinted Sixties Mind", "CDFF-Lucky This Time", "Voodoo Kiss", "Never Say Never", "", "Just Take My Heart", "My Kinda Woman", "A Little Too Much", "Road to Ruin", "To Be with You", "Love Makes You Strong"]]}], "rate": 90, "comment": "演奏技術はそのままに、前作よりも音楽性の幅の広さを打ち出している。11曲目がビルボード1位になったことや、1曲目においてギターを電動ドリルで演奏していることばかりに注目がいくが、それ以外の曲のクオリティも非常に高くミドル曲のレヴェルは前作以上！前作よりも全体的にメロディが生きており、聴きやすいという点がヒットにつながった一番の理由ではないかと思う。しかし3曲目と11曲目と言う、本来の路線とは異なる音楽性を持った曲が売れてしまったのは皮肉なものだ。このインパクトのあるジャケットは、1895年フランスはモンパルナス駅で実際に起こった事故の写真だそうだ。", "recommend": ["5,9曲目以外全部　特にDaddy, Brother, Lover, Little Boy", "Green-Tinted Sixties Mind", "Love Makes You Strong"], "description": "Big 2ndアルバム", "type": "album", "img": ["mrbig02.jpg"]}
+{
+  "uid": "mrbig02",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Lean into It ",
+  "artist": ["Mr. Big"],
+  "year": 1991,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Daddy, Brother, Lover, Little Boy (The Electric Drill Song)",
+          "Alice and Kickin'",
+          "Green-Tinted Sixties Mind",
+          "CDFF-Lucky This Time",
+          "Voodoo Kiss",
+          "Never Say Never",
+          "",
+          "Just Take My Heart",
+          "My Kinda Woman",
+          "A Little Too Much",
+          "Road to Ruin",
+          "To Be with You",
+          "Love Makes You Strong"
+        ]
+      ]
+    }
+  ],
+  "rate": 90,
+  "comment": "演奏技術はそのままに、前作よりも音楽性の幅の広さを打ち出している。11曲目がビルボード1位になったことや、1曲目においてギターを電動ドリルで演奏していることばかりに注目がいくが、それ以外の曲のクオリティも非常に高くミドル曲のレヴェルは前作以上！前作よりも全体的にメロディが生きており、聴きやすいという点がヒットにつながった一番の理由ではないかと思う。しかし3曲目と11曲目と言う、本来の路線とは異なる音楽性を持った曲が売れてしまったのは皮肉なものだ。このインパクトのあるジャケットは、1895年フランスはモンパルナス駅で実際に起こった事故の写真だそうだ。",
+  "recommend": [
+    "5,9曲目以外全部　特にDaddy, Brother, Lover, Little Boy",
+    "Green-Tinted Sixties Mind",
+    "Love Makes You Strong"
+  ],
+  "description": "Big 2ndアルバム",
+  "type": "album",
+  "img": ["mrbig02.jpg"]
+}

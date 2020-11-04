@@ -1,1 +1,12 @@
-{"name": "デュエットアイドルソング 一ノ瀬トキヤ&鳳瑛二", "description": "", "date": "2016-10-26", "year": 0, "artist": ["tokiya", "eiji"], "list": [{"disk_no": 1, "name": "", "list": ["Mighty Aura", "Be the light!", "Dreamer"]}], "comment": "", "uid": "utapri47sg", "img": ["utapri47sg.jpg"], "rate": 0}
+{
+  "name": "デュエットアイドルソング 一ノ瀬トキヤ&鳳瑛二",
+  "description": "",
+  "date": "2016-10-26",
+  "year": 0,
+  "artist": ["tokiya", "eiji"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["Mighty Aura", "Be the light!", "Dreamer"] }],
+  "comment": "",
+  "uid": "utapri47sg",
+  "img": ["utapri47sg.jpg"],
+  "rate": 0
+}

@@ -1,1 +1,12 @@
-{"name": "アイドルソング 聖川真斗", "description": "", "date": "2011-08-03", "year": 2011, "artist": ["masato"], "list": [{"disk_no": 1, "name": "", "list": ["Knocking on the mind", "Mostフォルティシモ"]}], "comment": "", "uid": "utapri12sg", "img": ["utapri12sg.jpg"], "rate": 0}
+{
+  "name": "アイドルソング 聖川真斗",
+  "description": "",
+  "date": "2011-08-03",
+  "year": 2011,
+  "artist": ["masato"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["Knocking on the mind", "Mostフォルティシモ"] }],
+  "comment": "",
+  "uid": "utapri12sg",
+  "img": ["utapri12sg.jpg"],
+  "rate": 0
+}

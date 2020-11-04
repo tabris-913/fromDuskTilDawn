@@ -1,1 +1,43 @@
-{"uid": "yngwie_malmsteen11", "date": "", "genres": [], "review_done": false, "name": "Alchemy", "artist": ["Yngwie J. Malmsteen's Rising Force"], "year": 1999, "list": [{"list": [["", "Blitzkrieg", "Leonardo", "Playing with Fire", "Stand (The)", "Wield My Sword", "Blue", "Legion of the Damned", "Demon Dance", "", "Hanger 18, Area 51", "Voodoo Nights", "Asylum", "", "Asylum", "Sky Euphoria", "Quantum Leap", "", "(JAPANESE BONUS TRACK)", "God Is God"]]}], "rate": 83, "comment": "過去最大級のダサさを誇るジャケットにはもう何も言うまい。ダサいジャケットもイングヴェイの代名詞の一つだろう、もはや。とりあえず今作では、ひたすらギターを弾きまくっているという印象を受ける。Trilogyでヴォーカルを務めたMark Boalsが復帰しているから救われているという印象もぬぐえない。とりあえずイングヴェイのギターは巧いというのは周知のこと。それなのに今更こうして技術をひけらかすようなアルバム創らなくてもいいのに。その分曲をよくしてくれよ。", "recommend": ["Blitzkrieg", "Wield My Sword", "Blue", "Hanger 18, Area 51", "Alchemy"], "description": "J. Malmsteen's Rising Force 11thアルバム", "type": "album", "img": ["yngwie11.jpg"]}
+{
+  "uid": "yngwie_malmsteen11",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Alchemy",
+  "artist": ["Yngwie J. Malmsteen's Rising Force"],
+  "year": 1999,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Blitzkrieg",
+          "Leonardo",
+          "Playing with Fire",
+          "Stand (The)",
+          "Wield My Sword",
+          "Blue",
+          "Legion of the Damned",
+          "Demon Dance",
+          "",
+          "Hanger 18, Area 51",
+          "Voodoo Nights",
+          "Asylum",
+          "",
+          "Asylum",
+          "Sky Euphoria",
+          "Quantum Leap",
+          "",
+          "(JAPANESE BONUS TRACK)",
+          "God Is God"
+        ]
+      ]
+    }
+  ],
+  "rate": 83,
+  "comment": "過去最大級のダサさを誇るジャケットにはもう何も言うまい。ダサいジャケットもイングヴェイの代名詞の一つだろう、もはや。とりあえず今作では、ひたすらギターを弾きまくっているという印象を受ける。Trilogyでヴォーカルを務めたMark Boalsが復帰しているから救われているという印象もぬぐえない。とりあえずイングヴェイのギターは巧いというのは周知のこと。それなのに今更こうして技術をひけらかすようなアルバム創らなくてもいいのに。その分曲をよくしてくれよ。",
+  "recommend": ["Blitzkrieg", "Wield My Sword", "Blue", "Hanger 18, Area 51", "Alchemy"],
+  "description": "J. Malmsteen's Rising Force 11thアルバム",
+  "type": "album",
+  "img": ["yngwie11.jpg"]
+}

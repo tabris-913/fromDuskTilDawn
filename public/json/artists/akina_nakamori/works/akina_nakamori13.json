@@ -1,1 +1,35 @@
-{"uid": "akina_nakamori13", "date": "1988-08-03", "genres": [], "review_done": false, "name": "Femme Fatale ", "artist": ["中森明菜"], "year": 1988, "list": [{"list": [["", "Reversion (Desire)", "Heartbreak", "抱きしめていて (Love Is My Favorite Lesson)", "Femme Fatale", "I Know 孤独のせい", "", "La Liberté", "So Mad", "Paradise Lost (Love Is In Fashion)", "Move Me (Strictly Confidential)", "Jive"]]}], "rate": 90, "comment": "セクシーで妖艶な世界を演出する13作目。ダンスビートの効いたサウンドが中心となっており、ポップさの中にエロスを感じる。『Stock』とはまた異なった大人っぽさを見せている。そして『Stock』とは異なった方向性で名盤を生み出したのだ。#2,5というダンス系統の極みはもちろんだが、ダンスロックとも言うべき#6,10のカッコよさも半端じゃない。タイトルだけを見ると『Cross My Palm』と同系統かとも思えるが、中身は全く異なる。こちらのほうが断然かっこよく断然品がある。まさに黄金期というべき豪華さだ。怪しくも力強い輝きが感じられる作品。", "recommend": ["Reversion", "Heartbreak", "Femme Fatale", "I Know 孤独のせい", "La Liberté", "Paradise Lost", "Jive"], "description": "13thアルバム", "type": "album", "img": ["akina13.jpg"]}
+{
+  "uid": "akina_nakamori13",
+  "date": "1988-08-03",
+  "genres": [],
+  "review_done": false,
+  "name": "Femme Fatale ",
+  "artist": ["中森明菜"],
+  "year": 1988,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Reversion (Desire)",
+          "Heartbreak",
+          "抱きしめていて (Love Is My Favorite Lesson)",
+          "Femme Fatale",
+          "I Know 孤独のせい",
+          "",
+          "La Liberté",
+          "So Mad",
+          "Paradise Lost (Love Is In Fashion)",
+          "Move Me (Strictly Confidential)",
+          "Jive"
+        ]
+      ]
+    }
+  ],
+  "rate": 90,
+  "comment": "セクシーで妖艶な世界を演出する13作目。ダンスビートの効いたサウンドが中心となっており、ポップさの中にエロスを感じる。『Stock』とはまた異なった大人っぽさを見せている。そして『Stock』とは異なった方向性で名盤を生み出したのだ。#2,5というダンス系統の極みはもちろんだが、ダンスロックとも言うべき#6,10のカッコよさも半端じゃない。タイトルだけを見ると『Cross My Palm』と同系統かとも思えるが、中身は全く異なる。こちらのほうが断然かっこよく断然品がある。まさに黄金期というべき豪華さだ。怪しくも力強い輝きが感じられる作品。",
+  "recommend": ["Reversion", "Heartbreak", "Femme Fatale", "I Know 孤独のせい", "La Liberté", "Paradise Lost", "Jive"],
+  "description": "13thアルバム",
+  "type": "album",
+  "img": ["akina13.jpg"]
+}

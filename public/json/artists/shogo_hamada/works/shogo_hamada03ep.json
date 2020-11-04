@@ -1,1 +1,31 @@
-{"uid": "shogo_hamada03ep", "date": "2015-01-14", "genres": [], "review_done": false, "name": "Dream Catcher ", "artist": ["浜田省吾"], "year": 2015, "list": [{"list": [["", "Prelude to \"Dream Catcher\"", "夢のつづき Dream Cather", "光と影の季節 Flash and Shadow", "", "I am a Father", "BASEBALL KID'S ROCK", "君が人生の時… Time of Your Life"]]}], "rate": 87, "comment": "映画への提供曲である2曲目をリードトラックとして、その映画をコンセプトに選出され再録された楽曲で構成されるミニアルバム。新曲は実に2005年以来10年ぶりの発表となっている。3,4曲目は共に、その2005年に発表された『My First Love』からのシングル曲。5曲目は1993年のアルバム『その永遠の一秒に ～The moment of the moment～』、6曲目は1979年のアルバム『君が人生の時…』の収録曲。特に6曲目は彼のキャリアにおいてもかなり重要な位置を占める代表曲であり、ライナーノーツによるともともとはこの曲のアレンジが映画のテーマソングになるはずだったという。ある意味セルフカヴァーアルバムとしての側面も強いが、当然捨て曲なんてあるわけもない。", "recommend": ["全部　特に光と影の季節", "君が人生の時…"], "description": "3rdミニアルバム", "type": "album", "img": ["shogo03e.jpg"]}
+{
+  "uid": "shogo_hamada03ep",
+  "date": "2015-01-14",
+  "genres": [],
+  "review_done": false,
+  "name": "Dream Catcher ",
+  "artist": ["浜田省吾"],
+  "year": 2015,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Prelude to \"Dream Catcher\"",
+          "夢のつづき Dream Cather",
+          "光と影の季節 Flash and Shadow",
+          "",
+          "I am a Father",
+          "BASEBALL KID'S ROCK",
+          "君が人生の時… Time of Your Life"
+        ]
+      ]
+    }
+  ],
+  "rate": 87,
+  "comment": "映画への提供曲である2曲目をリードトラックとして、その映画をコンセプトに選出され再録された楽曲で構成されるミニアルバム。新曲は実に2005年以来10年ぶりの発表となっている。3,4曲目は共に、その2005年に発表された『My First Love』からのシングル曲。5曲目は1993年のアルバム『その永遠の一秒に ～The moment of the moment～』、6曲目は1979年のアルバム『君が人生の時…』の収録曲。特に6曲目は彼のキャリアにおいてもかなり重要な位置を占める代表曲であり、ライナーノーツによるともともとはこの曲のアレンジが映画のテーマソングになるはずだったという。ある意味セルフカヴァーアルバムとしての側面も強いが、当然捨て曲なんてあるわけもない。",
+  "recommend": ["全部　特に光と影の季節", "君が人生の時…"],
+  "description": "3rdミニアルバム",
+  "type": "album",
+  "img": ["shogo03e.jpg"]
+}

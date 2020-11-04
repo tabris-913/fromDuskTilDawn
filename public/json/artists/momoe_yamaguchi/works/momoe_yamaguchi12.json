@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi12", "date": "1977-08-21", "genres": [], "review_done": false, "name": "GOLDEN FLIGHT", "ruby": "", "artist": "山口百恵", "year": 1977, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "12thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi12",
+  "date": "1977-08-21",
+  "genres": [],
+  "review_done": false,
+  "name": "GOLDEN FLIGHT",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1977,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "12thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

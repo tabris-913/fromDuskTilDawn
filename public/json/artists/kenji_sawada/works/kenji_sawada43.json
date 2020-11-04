@@ -1,1 +1,18 @@
-{"uid": "kenji_sawada43", "date": "2005-05-09", "genres": [], "review_done": false, "name": "greenboy", "ruby": "", "artist": "沢田研二", "year": 2005, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "43thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "kenji_sawada43",
+  "date": "2005-05-09",
+  "genres": [],
+  "review_done": false,
+  "name": "greenboy",
+  "ruby": "",
+  "artist": "沢田研二",
+  "year": 2005,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "43thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

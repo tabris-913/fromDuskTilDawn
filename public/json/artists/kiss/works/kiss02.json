@@ -1,1 +1,35 @@
-{"uid": "kiss02", "date": "", "genres": [], "review_done": false, "name": "Hotter than Hell （地獄のさけび）", "artist": ["Kiss"], "year": 1974, "list": [{"list": [["", "Got to Choose", "Parasite", "Goin' Blind", "Hotter than Hell", "Let Me Go, Rock'n'Roll", "", "All the Way", "Watchin' You", "Mainline", "Comin' Home", "Strange Ways"]]}], "rate": 84, "comment": "なぜか日本語がジャケットに使われている2作目。これは日本のマンガがアートワークに影響しているからだそうだ。全部とは言えないが、前作のように曲のレヴェルが高めだ。とはいっても前作ほどの濃さはないので、残念な気もする。しかも前半ばかりにいい曲が集まってしまっているのも気になる。悪くはないんだけれど。", "recommend": ["Got to Choose", "Parasite", "Hotter than Hell", "Let Me Go, Rock'n'Roll", "Comin' Home"], "description": "2ndアルバム", "type": "album", "img": ["kiss02.jpg"]}
+{
+  "uid": "kiss02",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Hotter than Hell （地獄のさけび）",
+  "artist": ["Kiss"],
+  "year": 1974,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Got to Choose",
+          "Parasite",
+          "Goin' Blind",
+          "Hotter than Hell",
+          "Let Me Go, Rock'n'Roll",
+          "",
+          "All the Way",
+          "Watchin' You",
+          "Mainline",
+          "Comin' Home",
+          "Strange Ways"
+        ]
+      ]
+    }
+  ],
+  "rate": 84,
+  "comment": "なぜか日本語がジャケットに使われている2作目。これは日本のマンガがアートワークに影響しているからだそうだ。全部とは言えないが、前作のように曲のレヴェルが高めだ。とはいっても前作ほどの濃さはないので、残念な気もする。しかも前半ばかりにいい曲が集まってしまっているのも気になる。悪くはないんだけれど。",
+  "recommend": ["Got to Choose", "Parasite", "Hotter than Hell", "Let Me Go, Rock'n'Roll", "Comin' Home"],
+  "description": "2ndアルバム",
+  "type": "album",
+  "img": ["kiss02.jpg"]
+}

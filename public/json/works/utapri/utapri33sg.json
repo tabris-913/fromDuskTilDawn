@@ -1,1 +1,12 @@
-{"name": "アイドルソング カミュ", "description": "", "date": "2014-07-30", "year": 2014, "artist": ["camus"], "list": [{"disk_no": 1, "name": "", "list": ["純潔なる愛 -Aspiration-", "AURORA"]}], "comment": "", "uid": "utapri33sg", "img": ["utapri33sg.jpg"], "rate": 0}
+{
+  "name": "アイドルソング カミュ",
+  "description": "",
+  "date": "2014-07-30",
+  "year": 2014,
+  "artist": ["camus"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["純潔なる愛 -Aspiration-", "AURORA"] }],
+  "comment": "",
+  "uid": "utapri33sg",
+  "img": ["utapri33sg.jpg"],
+  "rate": 0
+}

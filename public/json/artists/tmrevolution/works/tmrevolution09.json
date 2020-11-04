@@ -1,1 +1,53 @@
-{"uid": "tmrevolution09", "date": "", "genres": [], "review_done": false, "name": "CLOUD NINE", "artist": ["T.M.Revolution"], "year": 2011, "list": [{"list": [["", "CLOUD NINE", "Pearl in the shell", "Naked arms", "resonance [bonus track]", "Imaginary Ark [bonus track]", "水に映る月", "Wasteland Lost", "Thousands Morning Refrain", "SWORD SUMMIT", "", "crosswise [bonus track]", "Ø9 Lives", "Fate and Faith", "Reload", "Fortune Maker", "soul's crossing [bonus track]", "Lakers [bonus track]", "Save The One, Save The All", "vestige -ヴェスティージ- [bonus track]"]]}], "rate": 78, "comment": "前作から6年超ぶりとなる9作目。震災の影響で発売日が延期された。初回盤Bにはその間に発表されたシングル等がボーナストラックとして収録されている。そうやってシングルでごまかしている感が否めない。アルバム曲のスペックは正直高くない。前半に置かれた曲はなかなか良い曲がおおいのだが、後半は微妙だ。前作も新しいことに挑戦はしていたが、きちんと充分な結果を提示していた。しかし今回はなんとも言えない、決して成功とはいえないものになっている。はっきり言おう。兄貴初の駄作だ。", "recommend": ["Pearl in the shell", "resonance", "Imaginary Ark", "水に映る月", "Thousands Morning Refrain", "SWORD SUMMIT", "\n\t\t\tLakers", "Save The One, Save The All", "vestige"], "description": "9thアルバム", "type": "album", "img": ["tmr09.jpg"]}
+{
+  "uid": "tmrevolution09",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "CLOUD NINE",
+  "artist": ["T.M.Revolution"],
+  "year": 2011,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "CLOUD NINE",
+          "Pearl in the shell",
+          "Naked arms",
+          "resonance [bonus track]",
+          "Imaginary Ark [bonus track]",
+          "水に映る月",
+          "Wasteland Lost",
+          "Thousands Morning Refrain",
+          "SWORD SUMMIT",
+          "",
+          "crosswise [bonus track]",
+          "Ø9 Lives",
+          "Fate and Faith",
+          "Reload",
+          "Fortune Maker",
+          "soul's crossing [bonus track]",
+          "Lakers [bonus track]",
+          "Save The One, Save The All",
+          "vestige -ヴェスティージ- [bonus track]"
+        ]
+      ]
+    }
+  ],
+  "rate": 78,
+  "comment": "前作から6年超ぶりとなる9作目。震災の影響で発売日が延期された。初回盤Bにはその間に発表されたシングル等がボーナストラックとして収録されている。そうやってシングルでごまかしている感が否めない。アルバム曲のスペックは正直高くない。前半に置かれた曲はなかなか良い曲がおおいのだが、後半は微妙だ。前作も新しいことに挑戦はしていたが、きちんと充分な結果を提示していた。しかし今回はなんとも言えない、決して成功とはいえないものになっている。はっきり言おう。兄貴初の駄作だ。",
+  "recommend": [
+    "Pearl in the shell",
+    "resonance",
+    "Imaginary Ark",
+    "水に映る月",
+    "Thousands Morning Refrain",
+    "SWORD SUMMIT",
+    "\n\t\t\tLakers",
+    "Save The One, Save The All",
+    "vestige"
+  ],
+  "description": "9thアルバム",
+  "type": "album",
+  "img": ["tmr09.jpg"]
+}

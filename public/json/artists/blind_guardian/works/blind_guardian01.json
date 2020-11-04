@@ -1,1 +1,35 @@
-{"uid": "blind_guardian01", "date": "", "genres": [], "review_done": false, "name": "Battalions of Fear ", "artist": ["Blind Guardian"], "year": 1988, "list": [{"list": [["", "Majesty", "Guardian of the Blind", "Trial by the Archon", "Wizard's Crown", "Run for the Night", "", "The Martyr", "Battalions of Fear", "By the Gates of Moria", "(BONUS TRACK)", "Gandalf's Rebirth"]]}], "rate": 88, "comment": "RPGのようなイントロから驚かされるデビュー作。しかしすぐにアグレッシヴなメタルサウンドに切り替わり、安心する。この頃はまだスラッシュ・メタルにも通じる疾走メタルで、とにかくそのスピードが印象的。クイーンを彷彿とさせる重厚なギター・オーケストレーションも聴くことができる。全曲ハイクオリティな一枚だ。", "recommend": ["全部"], "description": "Guardian 1stアルバム", "type": "album", "img": ["blind01.jpg"]}
+{
+  "uid": "blind_guardian01",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Battalions of Fear ",
+  "artist": ["Blind Guardian"],
+  "year": 1988,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Majesty",
+          "Guardian of the Blind",
+          "Trial by the Archon",
+          "Wizard's Crown",
+          "Run for the Night",
+          "",
+          "The Martyr",
+          "Battalions of Fear",
+          "By the Gates of Moria",
+          "(BONUS TRACK)",
+          "Gandalf's Rebirth"
+        ]
+      ]
+    }
+  ],
+  "rate": 88,
+  "comment": "RPGのようなイントロから驚かされるデビュー作。しかしすぐにアグレッシヴなメタルサウンドに切り替わり、安心する。この頃はまだスラッシュ・メタルにも通じる疾走メタルで、とにかくそのスピードが印象的。クイーンを彷彿とさせる重厚なギター・オーケストレーションも聴くことができる。全曲ハイクオリティな一枚だ。",
+  "recommend": ["全部"],
+  "description": "Guardian 1stアルバム",
+  "type": "album",
+  "img": ["blind01.jpg"]
+}

@@ -1,1 +1,71 @@
-{"albums": {"queen01": {"uid": "queen01", "name": "Queen （戦慄の王女）", "date": "", "img": ["queen01.jpg"], "review_done": false}, "queen01special": {"uid": "queen01special", "name": "The Cosmos Rocks", "date": "", "img": ["queen01s.jpg"], "review_done": false}, "queen02": {"uid": "queen02", "name": "Queen II ", "date": "", "img": ["queen02.jpg"], "review_done": false}, "queen03": {"uid": "queen03", "name": "Sheer Heart Attack ", "date": "", "img": ["queen03.jpg"], "review_done": false}, "queen04": {"uid": "queen04", "name": "A Night at the Opera （オペラ座の夜） ", "date": "", "img": ["queen04.jpg"], "review_done": false}, "queen05": {"uid": "queen05", "name": "A Day at the Races （華麗なるレース）", "date": "", "img": ["queen05.jpg"], "review_done": false}, "queen06": {"uid": "queen06", "name": "News of the World （世界に捧ぐ）", "date": "", "img": ["queen06.jpg"], "review_done": false}, "queen07": {"uid": "queen07", "name": "Jazz ", "date": "", "img": ["queen07.jpg"], "review_done": false}, "queen08": {"uid": "queen08", "name": "The Game", "date": "", "img": ["queen08.jpg"], "review_done": false}, "queen09": {"uid": "queen09", "name": "Flash Gordon", "date": "", "img": ["queen09.jpg"], "review_done": false}, "queen10": {"uid": "queen10", "name": "Hot Space", "date": "", "img": ["queen10.jpg"], "review_done": false}, "queen11": {"uid": "queen11", "name": "The Works", "date": "", "img": ["queen11.jpg"], "review_done": false}, "queen12": {"uid": "queen12", "name": "A Kind of Magic", "date": "", "img": ["queen12.jpg"], "review_done": false}, "queen13": {"uid": "queen13", "name": "The Miracle", "date": "", "img": ["queen13.jpg"], "review_done": false}, "queen14": {"uid": "queen14", "name": "Innuendo ", "date": "", "img": ["queen14.jpg"], "review_done": false}, "queen14compilation": {"uid": "queen14compilation", "name": "Queen Forever", "date": "", "img": ["queen14c.jpg"], "review_done": false}, "queen15": {"uid": "queen15", "name": "Made in Heaven ", "date": "", "img": ["queen15.jpg"], "review_done": false}}, "singles": {}, "others": {}}
+{
+  "albums": {
+    "queen01": {
+      "uid": "queen01",
+      "name": "Queen （戦慄の王女）",
+      "date": "",
+      "img": ["queen01.jpg"],
+      "review_done": false
+    },
+    "queen01special": {
+      "uid": "queen01special",
+      "name": "The Cosmos Rocks",
+      "date": "",
+      "img": ["queen01s.jpg"],
+      "review_done": false
+    },
+    "queen02": { "uid": "queen02", "name": "Queen II ", "date": "", "img": ["queen02.jpg"], "review_done": false },
+    "queen03": {
+      "uid": "queen03",
+      "name": "Sheer Heart Attack ",
+      "date": "",
+      "img": ["queen03.jpg"],
+      "review_done": false
+    },
+    "queen04": {
+      "uid": "queen04",
+      "name": "A Night at the Opera （オペラ座の夜） ",
+      "date": "",
+      "img": ["queen04.jpg"],
+      "review_done": false
+    },
+    "queen05": {
+      "uid": "queen05",
+      "name": "A Day at the Races （華麗なるレース）",
+      "date": "",
+      "img": ["queen05.jpg"],
+      "review_done": false
+    },
+    "queen06": {
+      "uid": "queen06",
+      "name": "News of the World （世界に捧ぐ）",
+      "date": "",
+      "img": ["queen06.jpg"],
+      "review_done": false
+    },
+    "queen07": { "uid": "queen07", "name": "Jazz ", "date": "", "img": ["queen07.jpg"], "review_done": false },
+    "queen08": { "uid": "queen08", "name": "The Game", "date": "", "img": ["queen08.jpg"], "review_done": false },
+    "queen09": { "uid": "queen09", "name": "Flash Gordon", "date": "", "img": ["queen09.jpg"], "review_done": false },
+    "queen10": { "uid": "queen10", "name": "Hot Space", "date": "", "img": ["queen10.jpg"], "review_done": false },
+    "queen11": { "uid": "queen11", "name": "The Works", "date": "", "img": ["queen11.jpg"], "review_done": false },
+    "queen12": {
+      "uid": "queen12",
+      "name": "A Kind of Magic",
+      "date": "",
+      "img": ["queen12.jpg"],
+      "review_done": false
+    },
+    "queen13": { "uid": "queen13", "name": "The Miracle", "date": "", "img": ["queen13.jpg"], "review_done": false },
+    "queen14": { "uid": "queen14", "name": "Innuendo ", "date": "", "img": ["queen14.jpg"], "review_done": false },
+    "queen14compilation": {
+      "uid": "queen14compilation",
+      "name": "Queen Forever",
+      "date": "",
+      "img": ["queen14c.jpg"],
+      "review_done": false
+    },
+    "queen15": { "uid": "queen15", "name": "Made in Heaven ", "date": "", "img": ["queen15.jpg"], "review_done": false }
+  },
+  "singles": {},
+  "others": {}
+}

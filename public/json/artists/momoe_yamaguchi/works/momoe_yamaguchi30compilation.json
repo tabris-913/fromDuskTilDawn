@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi30compilation", "date": "1996-08-21", "genres": [], "review_done": false, "name": "百惠神話 ONE AND ONLY 1973～1980", "ruby": "", "artist": "山口百恵", "year": 1996, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "30thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi30compilation",
+  "date": "1996-08-21",
+  "genres": [],
+  "review_done": false,
+  "name": "百惠神話 ONE AND ONLY 1973～1980",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1996,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "30thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

@@ -1,1 +1,39 @@
-{"uid": "iron_maiden10", "date": "", "genres": [], "review_done": false, "name": "The X Factor", "artist": ["Iron Maiden"], "year": 1995, "list": [{"list": [["Disc 1", "Sign of the Cross", "Lord of the Flies", "Man on the Edge", "Fortunes of War", "Look for the Truth", "The Aftermath", "Judgement of Heaven", "Blood on the World's Hands", "The Edge of Darkness", "2 A.M.", "The Unbeliever", "Disc 2 (Japanese Bonus Disc)", "Judgement Day", "Justice of the Peace", "I Live My Way"]]}], "rate": 77, "comment": "ヴォーカルが交替して曲を殺してしまっている感が否めない10作目。新たなヴォーカルが下手というわけではなく、音域も狭くメイデンの音に合っていないのだ。（ブラック・メタル歌わせたらいい感じになりそう。）しかし曲これまでのメイデンと大きく変わっておらず、1曲目なんかは壮大な名曲だ。ただヴォーカルが合っていない。せめて彼の声に合うような曲をもう少し増やしてあげれば、まだマシになったのではないだろうか。3曲目もなかなか疾走感があって、メロディもいいし名曲と呼べるだろう。日本でのボーナスディスクとなった2枚目に収録された曲（Man on the Edgeがシングルになった時のカップリング3曲）をなんで本編にいれなかったのだろうか。", "recommend": ["Sign of the Cross", "Man on the Edge", "Disc 2全部"], "description": "Maiden 10thアルバム", "type": "album", "img": ["maiden10.jpg"]}
+{
+  "uid": "iron_maiden10",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "The X Factor",
+  "artist": ["Iron Maiden"],
+  "year": 1995,
+  "list": [
+    {
+      "list": [
+        [
+          "Disc 1",
+          "Sign of the Cross",
+          "Lord of the Flies",
+          "Man on the Edge",
+          "Fortunes of War",
+          "Look for the Truth",
+          "The Aftermath",
+          "Judgement of Heaven",
+          "Blood on the World's Hands",
+          "The Edge of Darkness",
+          "2 A.M.",
+          "The Unbeliever",
+          "Disc 2 (Japanese Bonus Disc)",
+          "Judgement Day",
+          "Justice of the Peace",
+          "I Live My Way"
+        ]
+      ]
+    }
+  ],
+  "rate": 77,
+  "comment": "ヴォーカルが交替して曲を殺してしまっている感が否めない10作目。新たなヴォーカルが下手というわけではなく、音域も狭くメイデンの音に合っていないのだ。（ブラック・メタル歌わせたらいい感じになりそう。）しかし曲これまでのメイデンと大きく変わっておらず、1曲目なんかは壮大な名曲だ。ただヴォーカルが合っていない。せめて彼の声に合うような曲をもう少し増やしてあげれば、まだマシになったのではないだろうか。3曲目もなかなか疾走感があって、メロディもいいし名曲と呼べるだろう。日本でのボーナスディスクとなった2枚目に収録された曲（Man on the Edgeがシングルになった時のカップリング3曲）をなんで本編にいれなかったのだろうか。",
+  "recommend": ["Sign of the Cross", "Man on the Edge", "Disc 2全部"],
+  "description": "Maiden 10thアルバム",
+  "type": "album",
+  "img": ["maiden10.jpg"]
+}

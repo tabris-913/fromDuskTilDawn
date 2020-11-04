@@ -1,1 +1,35 @@
-{"uid": "akina_nakamori23", "date": "2009-08-26", "genres": [], "review_done": false, "name": "DIVA", "artist": ["中森明菜"], "year": 2009, "list": [{"list": [["", "GIVE TAKE", "DIVA", "thinking of you", "REVERSE", "逢えなくて", "", "X lady", "HEARTBREAK", "with", "茜色の風", "Going home"]]}], "rate": 84, "comment": "海外アーティストの手によるR&Bや、その他バラード等を収録した23作目。前作より一層ダンス要素が濃くなっており、それに伴ってデジタル要素も色濃く出ている。後にシングルカットされる#2を始めとして質の高い楽曲も多く、充実した作品。#7は『Femme Fatale』の名曲とは異なる曲だが、こちらはこちらでなかなかの名曲だ。基本的には海外アーティストによる曲の方が上手だが、ラストトラックは名バラードだ。柔らかく包み込むような歌唱で、R&Bを聴き疲れた耳が癒やされる。", "recommend": ["GIVE TAKE", "DIVA", "REVERSE", "X lady", "HEARTBREAK", "Going home"], "description": "23rdアルバム", "type": "album", "img": ["akina23.jpg"]}
+{
+  "uid": "akina_nakamori23",
+  "date": "2009-08-26",
+  "genres": [],
+  "review_done": false,
+  "name": "DIVA",
+  "artist": ["中森明菜"],
+  "year": 2009,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "GIVE TAKE",
+          "DIVA",
+          "thinking of you",
+          "REVERSE",
+          "逢えなくて",
+          "",
+          "X lady",
+          "HEARTBREAK",
+          "with",
+          "茜色の風",
+          "Going home"
+        ]
+      ]
+    }
+  ],
+  "rate": 84,
+  "comment": "海外アーティストの手によるR&Bや、その他バラード等を収録した23作目。前作より一層ダンス要素が濃くなっており、それに伴ってデジタル要素も色濃く出ている。後にシングルカットされる#2を始めとして質の高い楽曲も多く、充実した作品。#7は『Femme Fatale』の名曲とは異なる曲だが、こちらはこちらでなかなかの名曲だ。基本的には海外アーティストによる曲の方が上手だが、ラストトラックは名バラードだ。柔らかく包み込むような歌唱で、R&Bを聴き疲れた耳が癒やされる。",
+  "recommend": ["GIVE TAKE", "DIVA", "REVERSE", "X lady", "HEARTBREAK", "Going home"],
+  "description": "23rdアルバム",
+  "type": "album",
+  "img": ["akina23.jpg"]
+}

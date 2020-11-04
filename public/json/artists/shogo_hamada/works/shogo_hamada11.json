@@ -1,1 +1,37 @@
-{"uid": "shogo_hamada11", "date": "1987-06-28", "genres": [], "review_done": false, "name": "CLUB SURF&SNOWBOUND", "artist": ["浜田省吾"], "year": 1987, "list": [{"list": [["", "二人の夏", "GEAR UP 409", "LITTLE SURFER GIRL", "曳航", "プールサイド", "HOT SUMMER NIGHT", "HARBOR LIGHTS", "", "CHAMPAGNE NIGHT", "SNOWBOUND PARTY -Tonight Vistors OK!-", "MIDNIGHT FLIGHT -ひとりぼっちのクリスマス・イブ-", "SNOW ON THE ROOF -Just Like You And me-", "SENTIMENTAL CHRISTMAS"]]}], "rate": 73, "comment": "ミニアルバムとしてリリースされた「CLUB SURFBOUND」と「CLUB SNOWBOUND」を合わせた1枚。といっても後者は本作と同時リリースされた。スタジオ作品としてラインナップされているが、非常に企画色が強く、「DOWN BY THE MAINSTREET」から続く物語にも組み込まれていない。普段はバックヴォーカルを務める町支寛二がリードを取る楽曲もあり、遊び心が感じられる作品だ。なかなかいいメロディをもったポップソングも収録されており、所詮企画だと切り捨てるには惜しいものもある。とはいえ所詮企画モノだ。", "recommend": ["GEAR UP 409", "LITTLE SURFER GIRL", "HOT SUMMER NIGHT", "SNOWBOUND PARTY", "MIDNIGHT FLIGHT"], "description": "11thアルバム", "type": "album", "img": ["shogo11.jpg"]}
+{
+  "uid": "shogo_hamada11",
+  "date": "1987-06-28",
+  "genres": [],
+  "review_done": false,
+  "name": "CLUB SURF&SNOWBOUND",
+  "artist": ["浜田省吾"],
+  "year": 1987,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "二人の夏",
+          "GEAR UP 409",
+          "LITTLE SURFER GIRL",
+          "曳航",
+          "プールサイド",
+          "HOT SUMMER NIGHT",
+          "HARBOR LIGHTS",
+          "",
+          "CHAMPAGNE NIGHT",
+          "SNOWBOUND PARTY -Tonight Vistors OK!-",
+          "MIDNIGHT FLIGHT -ひとりぼっちのクリスマス・イブ-",
+          "SNOW ON THE ROOF -Just Like You And me-",
+          "SENTIMENTAL CHRISTMAS"
+        ]
+      ]
+    }
+  ],
+  "rate": 73,
+  "comment": "ミニアルバムとしてリリースされた「CLUB SURFBOUND」と「CLUB SNOWBOUND」を合わせた1枚。といっても後者は本作と同時リリースされた。スタジオ作品としてラインナップされているが、非常に企画色が強く、「DOWN BY THE MAINSTREET」から続く物語にも組み込まれていない。普段はバックヴォーカルを務める町支寛二がリードを取る楽曲もあり、遊び心が感じられる作品だ。なかなかいいメロディをもったポップソングも収録されており、所詮企画だと切り捨てるには惜しいものもある。とはいえ所詮企画モノだ。",
+  "recommend": ["GEAR UP 409", "LITTLE SURFER GIRL", "HOT SUMMER NIGHT", "SNOWBOUND PARTY", "MIDNIGHT FLIGHT"],
+  "description": "11thアルバム",
+  "type": "album",
+  "img": ["shogo11.jpg"]
+}

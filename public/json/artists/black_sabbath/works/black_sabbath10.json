@@ -1,1 +1,40 @@
-{"uid": "black_sabbath10", "date": "", "genres": [], "review_done": false, "name": "Mob Rules （悪魔の掟） ", "artist": ["Black Sabbath"], "year": 1981, "list": [{"list": [["", "Turn Up the Night", "Voodoo", "The Sign of the Southern Cross", "E5150", "The Mob Rules", "", "Country Girl", "Slipping Away", "Falling Off the Edge of the World", "Over and Over"]]}], "rate": 88, "comment": "前作に引き続きアグレッシヴでテンポの良い作品。前作ほどの即効性はないが、それでもOzzy期の終盤の作品に比べれば遥かに素晴らしい。ミドルテンポでもクラシック・メタルらしいメロディに溢れている。長尺の#3やテンポよく駆け抜ける#1,5は本作の中でも重要なパートだ。やはり前作は奇跡の産物というわけではなく、Dioの加入により必然的に生まれた作品だったのだ。続く今作の質の高さで、それが証明されたというわけだ。", "recommend": ["Turn Up the Night", "The Sign of the Southern Cross", "The Mob Rules", "Country Girl", "Falling Off the Edge of the World"], "description": "Sabbath 10thアルバム", "type": "album", "img": ["sabbath10.jpg"]}
+{
+  "uid": "black_sabbath10",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Mob Rules （悪魔の掟） ",
+  "artist": ["Black Sabbath"],
+  "year": 1981,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Turn Up the Night",
+          "Voodoo",
+          "The Sign of the Southern Cross",
+          "E5150",
+          "The Mob Rules",
+          "",
+          "Country Girl",
+          "Slipping Away",
+          "Falling Off the Edge of the World",
+          "Over and Over"
+        ]
+      ]
+    }
+  ],
+  "rate": 88,
+  "comment": "前作に引き続きアグレッシヴでテンポの良い作品。前作ほどの即効性はないが、それでもOzzy期の終盤の作品に比べれば遥かに素晴らしい。ミドルテンポでもクラシック・メタルらしいメロディに溢れている。長尺の#3やテンポよく駆け抜ける#1,5は本作の中でも重要なパートだ。やはり前作は奇跡の産物というわけではなく、Dioの加入により必然的に生まれた作品だったのだ。続く今作の質の高さで、それが証明されたというわけだ。",
+  "recommend": [
+    "Turn Up the Night",
+    "The Sign of the Southern Cross",
+    "The Mob Rules",
+    "Country Girl",
+    "Falling Off the Edge of the World"
+  ],
+  "description": "Sabbath 10thアルバム",
+  "type": "album",
+  "img": ["sabbath10.jpg"]
+}

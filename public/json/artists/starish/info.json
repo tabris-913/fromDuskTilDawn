@@ -1,1 +1,22 @@
-{"name": "ST☆RISH", "ruby": "スターリッシュ", "uid": "starish", "related": ["otoya_ittoki", "masato_hijirikawa", "natsuki_shinomiya", "tokiya_ichinose", "ren_jinguji", "sho_kurusu", "cecil_aijima", "shining_stars"], "ruby4Sort": "すたーりっしゅ", "initial": ["さ", "S"], "singles": [], "others": [], "en": "ST☆RISH", "albums": [], "genres": []}
+{
+  "name": "ST☆RISH",
+  "ruby": "スターリッシュ",
+  "uid": "starish",
+  "related": [
+    "otoya_ittoki",
+    "masato_hijirikawa",
+    "natsuki_shinomiya",
+    "tokiya_ichinose",
+    "ren_jinguji",
+    "sho_kurusu",
+    "cecil_aijima",
+    "shining_stars"
+  ],
+  "ruby4Sort": "すたーりっしゅ",
+  "initial": ["さ", "S"],
+  "singles": [],
+  "others": [],
+  "en": "ST☆RISH",
+  "albums": [],
+  "genres": []
+}

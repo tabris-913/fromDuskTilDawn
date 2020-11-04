@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi01live", "date": "1975-10-01", "genres": [], "review_done": false, "name": "百恵ライブ -百恵ちゃん祭りより-", "ruby": "", "artist": "山口百恵", "year": 1975, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "1thライブアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi01live",
+  "date": "1975-10-01",
+  "genres": [],
+  "review_done": false,
+  "name": "百恵ライブ -百恵ちゃん祭りより-",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1975,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "1thライブアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

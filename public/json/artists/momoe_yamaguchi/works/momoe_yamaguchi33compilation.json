@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi33compilation", "date": "1997-11-21", "genres": [], "review_done": false, "name": "GOLDEN J-POP/THE BEST 山口百恵", "ruby": "", "artist": "山口百恵", "year": 1997, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "33thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi33compilation",
+  "date": "1997-11-21",
+  "genres": [],
+  "review_done": false,
+  "name": "GOLDEN J-POP/THE BEST 山口百恵",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1997,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "33thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

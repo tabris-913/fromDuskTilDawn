@@ -1,1 +1,16 @@
-{"uid": "bonjovi", "name": "Bon Jovi", "ruby": "ボン・ジョヴィ", "ruby4Sort": "ぼんじょゔぃ", "en": "Bon Jovi", "initial": ["B", "は"], "kind": "", "genres": [], "albums": ["bonjovi01", "bonjovi02", "bonjovi03", "bonjovi04", "bonjovi05", "bonjovi13"], "singles": [], "others": [], "akas": [], "logo": [], "related": []}
+{
+  "uid": "bonjovi",
+  "name": "Bon Jovi",
+  "ruby": "ボン・ジョヴィ",
+  "ruby4Sort": "ぼんじょゔぃ",
+  "en": "Bon Jovi",
+  "initial": ["B", "は"],
+  "kind": "",
+  "genres": [],
+  "albums": ["bonjovi01", "bonjovi02", "bonjovi03", "bonjovi04", "bonjovi05", "bonjovi13"],
+  "singles": [],
+  "others": [],
+  "akas": [],
+  "logo": [],
+  "related": []
+}

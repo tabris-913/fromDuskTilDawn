@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi18compilation", "date": "1983-12-21", "genres": [], "review_done": false, "name": "3650 Momoe 百惠十年", "ruby": "", "artist": "山口百恵", "year": 1983, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "18thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi18compilation",
+  "date": "1983-12-21",
+  "genres": [],
+  "review_done": false,
+  "name": "3650 Momoe 百惠十年",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1983,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "18thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

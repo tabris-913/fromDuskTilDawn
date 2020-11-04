@@ -1,1 +1,33 @@
-{"uid": "megadeth02ep", "date": "", "genres": [], "review_done": false, "name": "Hidden Treasures", "artist": ["Megadeth"], "year": 1995, "list": [{"list": [["", "No More Mr. Nice Guy", "Breakpoint", "Go to Hell", "Angry Again", "", "99 Ways to Die", "Paranoid", "Diadems", "Problems"]]}], "rate": 65, "comment": "カヴァー曲やサウトラ収録曲を集めたミニアルバム。ブラック・サバスのカヴァーやセックス・ピストルズのカヴァーはなかなかいい。サウトラへの提供曲はなんか微妙な曲ばかりで残念。Paranoidが聴きたければ手に入れればいいし、興味がないなら手に入れる必要はない。", "recommend": ["Breakpoint", "99 Ways to Die", "Paranoid", "Problems"], "description": "2ndミニアルバム", "type": "album", "img": ["megadeth02e.jpg"]}
+{
+  "uid": "megadeth02ep",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Hidden Treasures",
+  "artist": ["Megadeth"],
+  "year": 1995,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "No More Mr. Nice Guy",
+          "Breakpoint",
+          "Go to Hell",
+          "Angry Again",
+          "",
+          "99 Ways to Die",
+          "Paranoid",
+          "Diadems",
+          "Problems"
+        ]
+      ]
+    }
+  ],
+  "rate": 65,
+  "comment": "カヴァー曲やサウトラ収録曲を集めたミニアルバム。ブラック・サバスのカヴァーやセックス・ピストルズのカヴァーはなかなかいい。サウトラへの提供曲はなんか微妙な曲ばかりで残念。Paranoidが聴きたければ手に入れればいいし、興味がないなら手に入れる必要はない。",
+  "recommend": ["Breakpoint", "99 Ways to Die", "Paranoid", "Problems"],
+  "description": "2ndミニアルバム",
+  "type": "album",
+  "img": ["megadeth02e.jpg"]
+}

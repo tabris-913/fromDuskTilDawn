@@ -1,1 +1,48 @@
-{"uid": "kiss20", "date": "", "genres": [], "review_done": false, "name": "Monster （地獄の獣神） ", "artist": ["Kiss"], "year": 2012, "list": [{"list": [["", "Hell or Hallelujah", "Wall of Sound", "Freak", "Back to the Stone Age", "Shout Mercy", "Long Way Down", "Eat Your Heart Out", "The Devil Is Me", "", "Outta This World", "All for the Love of Rock'n'Roll", "Take Me Down Below", "Last Chance", "(iTunes BONUS TRACK)", "Right Here Right Now", "(JAPANESE BONUS TRACK)", "King of the Night Time World [live]"]]}], "rate": 88, "comment": "3年ぶり、通算20枚目のスタジオアルバム！オリジナルアルバムとしてはLick It Up以来29年ぶりに邦題に地獄の文字が使われた。なかなかの健闘を見せていた前作をさらに超え、これはもう黄金期に並ぶと言ってもいい作品を作ってきた。3曲目でのピアノ以外はバンドサウンド音しか全く使っていないという意気込みも買いだ。1曲目から飛ばしてきている。この曲が先行リリースされた時からアルバムが楽しみで仕方なかったが、いざアルバムが出て聴いてみれば、その楽しみが具現がしたような作品で満足したのを覚えている。全米3位とさすがの順位にも納得。そして2014年にはついにロックの殿堂入りを果たすことになった。", "recommend": ["全部　特にHell or Hallelujah", "Freak", "Long Way Down", "Outta This World", "Take Me Down Below", "Last Chance"], "description": "20thアルバム", "type": "album", "img": ["kiss20.jpg"]}
+{
+  "uid": "kiss20",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Monster （地獄の獣神） ",
+  "artist": ["Kiss"],
+  "year": 2012,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Hell or Hallelujah",
+          "Wall of Sound",
+          "Freak",
+          "Back to the Stone Age",
+          "Shout Mercy",
+          "Long Way Down",
+          "Eat Your Heart Out",
+          "The Devil Is Me",
+          "",
+          "Outta This World",
+          "All for the Love of Rock'n'Roll",
+          "Take Me Down Below",
+          "Last Chance",
+          "(iTunes BONUS TRACK)",
+          "Right Here Right Now",
+          "(JAPANESE BONUS TRACK)",
+          "King of the Night Time World [live]"
+        ]
+      ]
+    }
+  ],
+  "rate": 88,
+  "comment": "3年ぶり、通算20枚目のスタジオアルバム！オリジナルアルバムとしてはLick It Up以来29年ぶりに邦題に地獄の文字が使われた。なかなかの健闘を見せていた前作をさらに超え、これはもう黄金期に並ぶと言ってもいい作品を作ってきた。3曲目でのピアノ以外はバンドサウンド音しか全く使っていないという意気込みも買いだ。1曲目から飛ばしてきている。この曲が先行リリースされた時からアルバムが楽しみで仕方なかったが、いざアルバムが出て聴いてみれば、その楽しみが具現がしたような作品で満足したのを覚えている。全米3位とさすがの順位にも納得。そして2014年にはついにロックの殿堂入りを果たすことになった。",
+  "recommend": [
+    "全部　特にHell or Hallelujah",
+    "Freak",
+    "Long Way Down",
+    "Outta This World",
+    "Take Me Down Below",
+    "Last Chance"
+  ],
+  "description": "20thアルバム",
+  "type": "album",
+  "img": ["kiss20.jpg"]
+}

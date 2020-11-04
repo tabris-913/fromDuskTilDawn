@@ -1,1 +1,40 @@
-{"uid": "mrbig07", "date": "", "genres": [], "review_done": false, "name": "What If... ", "artist": ["Mr. Big"], "year": 2010, "list": [{"list": [["", "Undertow", "American Beauty", "Stranger in My Life", "Nobody Left to Blame", "Still Ain't Enough for Me", "Once Upon a Time", "As Far As I Can See", "All the Way Up", "", "I Won't Get in My Way", "Around the World", "I Get the Feeling", "(JAPANESE, KOREAN BONUS TRACK)", "Kill Me with a Kiss", "(EUROPEAN, AMERICAL BONUS TRACK)", "Unforgiven"]]}], "rate": 96, "comment": "奇跡の復活作！そして現時点で最高傑作！Mr. BigもLean into ItもBump Aheadも超えた！見事なハードロック・アルバムで、少なくとも欠点は見当たらない。パワーも十分だし、スピーディーな曲もあるし。ただ一点音質がなんか微妙だ。しかし全盛期のような良質メロディも戻って、パワフルで疾走感もあって、音質の悪さなんか気にならない。Iron MaidenやRushを手がけたKevin Shirleyがプロデュースしたのも大きいかもしれない。かつてのように良い曲が目立つような作品ではないが、それは全曲の質がいい意味で拮抗しているからだ。", "recommend": ["全部　特にUndertow", "Still Ain't Enough for Me", "Once Upon a Time", "Around the World"], "description": "Big 7thアルバム", "type": "album", "img": ["mrbig07.jpg"]}
+{
+  "uid": "mrbig07",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "What If... ",
+  "artist": ["Mr. Big"],
+  "year": 2010,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Undertow",
+          "American Beauty",
+          "Stranger in My Life",
+          "Nobody Left to Blame",
+          "Still Ain't Enough for Me",
+          "Once Upon a Time",
+          "As Far As I Can See",
+          "All the Way Up",
+          "",
+          "I Won't Get in My Way",
+          "Around the World",
+          "I Get the Feeling",
+          "(JAPANESE, KOREAN BONUS TRACK)",
+          "Kill Me with a Kiss",
+          "(EUROPEAN, AMERICAL BONUS TRACK)",
+          "Unforgiven"
+        ]
+      ]
+    }
+  ],
+  "rate": 96,
+  "comment": "奇跡の復活作！そして現時点で最高傑作！Mr. BigもLean into ItもBump Aheadも超えた！見事なハードロック・アルバムで、少なくとも欠点は見当たらない。パワーも十分だし、スピーディーな曲もあるし。ただ一点音質がなんか微妙だ。しかし全盛期のような良質メロディも戻って、パワフルで疾走感もあって、音質の悪さなんか気にならない。Iron MaidenやRushを手がけたKevin Shirleyがプロデュースしたのも大きいかもしれない。かつてのように良い曲が目立つような作品ではないが、それは全曲の質がいい意味で拮抗しているからだ。",
+  "recommend": ["全部　特にUndertow", "Still Ain't Enough for Me", "Once Upon a Time", "Around the World"],
+  "description": "Big 7thアルバム",
+  "type": "album",
+  "img": ["mrbig07.jpg"]
+}

@@ -1,1 +1,12 @@
-{"name": "劇団シャイニング JOKER TRAP", "description": "", "date": "2014-02-26", "year": 2014, "artist": ["rammaru", "camus", "tokiya", "ren"], "list": [{"disk_no": 1, "name": "", "list": ["JOKER TRAP"]}], "comment": "", "uid": "utapri03theater", "img": ["utapri03theater.jpg"], "rate": 0}
+{
+  "name": "劇団シャイニング JOKER TRAP",
+  "description": "",
+  "date": "2014-02-26",
+  "year": 2014,
+  "artist": ["rammaru", "camus", "tokiya", "ren"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["JOKER TRAP"] }],
+  "comment": "",
+  "uid": "utapri03theater",
+  "img": ["utapri03theater.jpg"],
+  "rate": 0
+}

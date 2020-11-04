@@ -1,1 +1,35 @@
-{"uid": "bonjovi03", "date": "", "genres": [], "review_done": false, "name": "Slippery When Wet （ワイルド・イン・ザ・ストリーツ）", "artist": ["Bon Jovi"], "year": 1986, "list": [{"list": [["", "Let It Rock", "You Give Love a Bad Name", "Livin' on a Prayer", "Social Disease", "Wanted Dead or Alve", "", "Raise Your Hands", "Without Love", "I'd Die for You", "Never Say Goodbye", "Wild in the Streets"]]}], "rate": 92, "comment": "全米1位をはじめ世界的な大ヒットを記録し、一躍トップバンドに上り詰めた作品。#2,3はシングルチャートで全米1位を獲得し、まさに80年代最高峰のアルバム。デビュー当時の日本人好みの哀愁あるメロディはやや後退し、よりアメリカンな泥臭さを取り入れた。ストレートなロックチューン#1から始まり、キャリア最高峰の名曲#2、キャリア屈指の代表曲#3という冒頭は神がかっている。ヒットしただけあって当然どの曲も良いのだが、上に挙げた以外だとノリの良い#6やイントロが明らかにかの名曲「Runaway」を意識している名曲#8、妙に軽薄なノリとテンポで展開する#10などもある。なぜ放題はこの#10のタイトルを選んだのだろうか。タイトルにするほど名曲ってわけでもないのに。", "recommend": ["全部　特にYou Give Love a Bad Name", "Livin' on a Prayer", "Wanted Dead or Alive", "I'd Die for You"], "description": "Jovi 3rdアルバム", "type": "album", "img": ["bonjovi03_b.jpg"]}
+{
+  "uid": "bonjovi03",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Slippery When Wet （ワイルド・イン・ザ・ストリーツ）",
+  "artist": ["Bon Jovi"],
+  "year": 1986,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Let It Rock",
+          "You Give Love a Bad Name",
+          "Livin' on a Prayer",
+          "Social Disease",
+          "Wanted Dead or Alve",
+          "",
+          "Raise Your Hands",
+          "Without Love",
+          "I'd Die for You",
+          "Never Say Goodbye",
+          "Wild in the Streets"
+        ]
+      ]
+    }
+  ],
+  "rate": 92,
+  "comment": "全米1位をはじめ世界的な大ヒットを記録し、一躍トップバンドに上り詰めた作品。#2,3はシングルチャートで全米1位を獲得し、まさに80年代最高峰のアルバム。デビュー当時の日本人好みの哀愁あるメロディはやや後退し、よりアメリカンな泥臭さを取り入れた。ストレートなロックチューン#1から始まり、キャリア最高峰の名曲#2、キャリア屈指の代表曲#3という冒頭は神がかっている。ヒットしただけあって当然どの曲も良いのだが、上に挙げた以外だとノリの良い#6やイントロが明らかにかの名曲「Runaway」を意識している名曲#8、妙に軽薄なノリとテンポで展開する#10などもある。なぜ放題はこの#10のタイトルを選んだのだろうか。タイトルにするほど名曲ってわけでもないのに。",
+  "recommend": ["全部　特にYou Give Love a Bad Name", "Livin' on a Prayer", "Wanted Dead or Alive", "I'd Die for You"],
+  "description": "Jovi 3rdアルバム",
+  "type": "album",
+  "img": ["bonjovi03_b.jpg"]
+}

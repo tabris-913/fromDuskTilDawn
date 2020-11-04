@@ -1,1 +1,12 @@
-{"name": "ユニットドラマCD 嶺二&音也&トキヤ", "description": "", "date": "2011-12-21", "year": 2011, "artist": ["reiji", "otoya", "tokiya"], "list": [{"disk_no": 1, "name": "", "list": ["ガムシャラROman☆Tic"]}], "comment": "", "uid": "utapri11drama", "img": ["utapri11drama.jpg"], "rate": 0}
+{
+  "name": "ユニットドラマCD 嶺二&音也&トキヤ",
+  "description": "",
+  "date": "2011-12-21",
+  "year": 2011,
+  "artist": ["reiji", "otoya", "tokiya"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["ガムシャラROman☆Tic"] }],
+  "comment": "",
+  "uid": "utapri11drama",
+  "img": ["utapri11drama.jpg"],
+  "rate": 0
+}

@@ -1,1 +1,13 @@
-{"name": "Veronica", "ruby": "ヴェロニカ", "uid": "veronica", "ruby4Sort": "ゔぇろにか", "kind": "バンド", "initial": ["あ", "V"], "singles": ["veronica01", "veronica02", "veronica03", "veronica04", "veronica05"], "albums": [], "en": "Veronica", "genres": ["hard_rock"], "others": []}
+{
+  "name": "Veronica",
+  "ruby": "ヴェロニカ",
+  "uid": "veronica",
+  "ruby4Sort": "ゔぇろにか",
+  "kind": "バンド",
+  "initial": ["あ", "V"],
+  "singles": ["veronica01", "veronica02", "veronica03", "veronica04", "veronica05"],
+  "albums": [],
+  "en": "Veronica",
+  "genres": ["hard_rock"],
+  "others": []
+}

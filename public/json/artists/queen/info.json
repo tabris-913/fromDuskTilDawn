@@ -1,1 +1,34 @@
-{"uid": "queen", "name": "Queen", "ruby": "クイーン", "ruby4Sort": "くいーん", "en": "Queen", "initial": ["Q", "か"], "kind": "バンド", "genres": [], "albums": ["queen01", "queen01special", "queen02", "queen03", "queen04", "queen05", "queen06", "queen07", "queen08", "queen09", "queen10", "queen11", "queen12", "queen13", "queen14", "queen14compilation", "queen15"], "singles": [], "others": [], "akas": [], "logo": [], "related": []}
+{
+  "uid": "queen",
+  "name": "Queen",
+  "ruby": "クイーン",
+  "ruby4Sort": "くいーん",
+  "en": "Queen",
+  "initial": ["Q", "か"],
+  "kind": "バンド",
+  "genres": [],
+  "albums": [
+    "queen01",
+    "queen01special",
+    "queen02",
+    "queen03",
+    "queen04",
+    "queen05",
+    "queen06",
+    "queen07",
+    "queen08",
+    "queen09",
+    "queen10",
+    "queen11",
+    "queen12",
+    "queen13",
+    "queen14",
+    "queen14compilation",
+    "queen15"
+  ],
+  "singles": [],
+  "others": [],
+  "akas": [],
+  "logo": [],
+  "related": []
+}

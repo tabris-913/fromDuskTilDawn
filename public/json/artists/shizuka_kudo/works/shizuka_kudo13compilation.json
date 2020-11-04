@@ -1,1 +1,18 @@
-{"uid": "shizuka_kudo13compilation", "date": "2016-03-09", "genres": [], "review_done": false, "name": "My Heartful Best", "ruby": "", "artist": "工藤静香", "year": 2016, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "13thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "shizuka_kudo13compilation",
+  "date": "2016-03-09",
+  "genres": [],
+  "review_done": false,
+  "name": "My Heartful Best",
+  "ruby": "",
+  "artist": "工藤静香",
+  "year": 2016,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "13thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

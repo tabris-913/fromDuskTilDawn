@@ -1,1 +1,12 @@
-{"name": "ユニットドラマCD カミュ&セシル", "description": "", "date": "2011-10-26", "year": 2011, "artist": ["camus", "cecil"], "list": [{"disk_no": 1, "name": "", "list": ["NorthWind and SunShine"]}], "comment": "", "uid": "utapri08drama", "img": ["utapri08drama.jpg"], "rate": 0}
+{
+  "name": "ユニットドラマCD カミュ&セシル",
+  "description": "",
+  "date": "2011-10-26",
+  "year": 2011,
+  "artist": ["camus", "cecil"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["NorthWind and SunShine"] }],
+  "comment": "",
+  "uid": "utapri08drama",
+  "img": ["utapri08drama.jpg"],
+  "rate": 0
+}

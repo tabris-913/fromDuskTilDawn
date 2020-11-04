@@ -1,1 +1,38 @@
-{"uid": "megadeth12", "date": "", "genres": [], "review_done": false, "name": "Endgame ", "artist": ["Megadeth"], "year": 2009, "list": [{"list": [["", "Dialectic Chaos", "This Day We Fight!", "44 Minites", "1,320", "Bite the Hand", "Bodies", "Endgame", "", "The Hardest Part of Letting Go... Sealed with a Kiss", "Head Crusher", "How the Story Ends", "The Right to Go Insane", "(JAPANESE BONUS TRACK)", "Washington Is Next! [Live]"]]}], "rate": 88, "comment": "パワー、スピード、キレの3点セットが揃った名盤！BURRN!誌で2009年のベストアルバムに選ばれたのも納得だ。いずれの曲もアグレッシヴで、全盛期の勢いに匹敵どころが凌駕してしまってる感もある。9曲目は最強だ。今後もこの高品質が続いてくれればいいのだが、まぁあまり期待はしないでおこうという気持ちになる。", "recommend": ["全部　特にDialectic Chaos", "This Day We Fight!", "1,320", "Bite the Hand", "Head Crusher", ""], "description": "12thアルバム", "type": "album", "img": ["megadeth12.jpg"]}
+{
+  "uid": "megadeth12",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Endgame ",
+  "artist": ["Megadeth"],
+  "year": 2009,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Dialectic Chaos",
+          "This Day We Fight!",
+          "44 Minites",
+          "1,320",
+          "Bite the Hand",
+          "Bodies",
+          "Endgame",
+          "",
+          "The Hardest Part of Letting Go... Sealed with a Kiss",
+          "Head Crusher",
+          "How the Story Ends",
+          "The Right to Go Insane",
+          "(JAPANESE BONUS TRACK)",
+          "Washington Is Next! [Live]"
+        ]
+      ]
+    }
+  ],
+  "rate": 88,
+  "comment": "パワー、スピード、キレの3点セットが揃った名盤！BURRN!誌で2009年のベストアルバムに選ばれたのも納得だ。いずれの曲もアグレッシヴで、全盛期の勢いに匹敵どころが凌駕してしまってる感もある。9曲目は最強だ。今後もこの高品質が続いてくれればいいのだが、まぁあまり期待はしないでおこうという気持ちになる。",
+  "recommend": ["全部　特にDialectic Chaos", "This Day We Fight!", "1,320", "Bite the Hand", "Head Crusher", ""],
+  "description": "12thアルバム",
+  "type": "album",
+  "img": ["megadeth12.jpg"]
+}

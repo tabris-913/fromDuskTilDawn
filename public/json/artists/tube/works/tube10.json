@@ -1,1 +1,18 @@
-{"uid": "tube10", "date": "1990-06-15", "genres": [], "review_done": false, "name": "N・A・T・S・U", "ruby": "", "artist": "TUBE", "year": 1990, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "10thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "tube10",
+  "date": "1990-06-15",
+  "genres": [],
+  "review_done": false,
+  "name": "N・A・T・S・U",
+  "ruby": "",
+  "artist": "TUBE",
+  "year": 1990,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "10thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

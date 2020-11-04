@@ -1,1 +1,33 @@
-{"uid": "judas_priest03", "date": "", "genres": [], "review_done": false, "name": "Sin after Sin （背信の門）", "artist": ["Judas Priest"], "year": 1977, "list": [{"list": [["", "Sinner （罪業人）", "Diamonds & Rust", "Starbreaker", "Last Rose of Summer （最後の夏のバラ）", "", "Let Us Prey/Call for the Priest （危害者）", "Raw Deal （不当なる弾圧）", "Here Come the Tears （孤立の涙）", "Dissident Aggressor （異端からの反撃）"]]}], "rate": 86, "comment": "メタルバンドとしてさらに躍進を遂げた3作目。なんといっても1曲目は書記のジューダスを代表する名曲で、これはまぎれもないヘヴィ・メタルだ。爽快な疾走を見せる5曲目も素晴らしい。のちにSlayerがカヴァーした8曲目はどこか悪魔的で異端という邦題がぴったりな雰囲気。前作よりもアグレッションが数段増した名作だ。", "recommend": ["1～3曲目", "Let Us Prey/Call for the Priest", "Raw Deal", "Dissident Aggressor"], "description": "Priest 3rdアルバム", "type": "album", "img": ["judas03.jpg"]}
+{
+  "uid": "judas_priest03",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Sin after Sin （背信の門）",
+  "artist": ["Judas Priest"],
+  "year": 1977,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Sinner （罪業人）",
+          "Diamonds & Rust",
+          "Starbreaker",
+          "Last Rose of Summer （最後の夏のバラ）",
+          "",
+          "Let Us Prey/Call for the Priest （危害者）",
+          "Raw Deal （不当なる弾圧）",
+          "Here Come the Tears （孤立の涙）",
+          "Dissident Aggressor （異端からの反撃）"
+        ]
+      ]
+    }
+  ],
+  "rate": 86,
+  "comment": "メタルバンドとしてさらに躍進を遂げた3作目。なんといっても1曲目は書記のジューダスを代表する名曲で、これはまぎれもないヘヴィ・メタルだ。爽快な疾走を見せる5曲目も素晴らしい。のちにSlayerがカヴァーした8曲目はどこか悪魔的で異端という邦題がぴったりな雰囲気。前作よりもアグレッションが数段増した名作だ。",
+  "recommend": ["1～3曲目", "Let Us Prey/Call for the Priest", "Raw Deal", "Dissident Aggressor"],
+  "description": "Priest 3rdアルバム",
+  "type": "album",
+  "img": ["judas03.jpg"]
+}

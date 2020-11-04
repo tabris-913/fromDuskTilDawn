@@ -1,1 +1,46 @@
-{"uid": "queen03", "date": "", "genres": [], "review_done": false, "name": "Sheer Heart Attack ", "artist": ["Queen"], "year": 1974, "list": [{"list": [["", "Brighton Rock", "Killer Queen", "Tenement Funster", "Flick on the Wrist", "Lily of the Valley （谷間のゆり）", "Now I'm Here （誘惑のロックンロール）", "In the Lap of the Gods （神々の業）", "", "Stone Cold Crazy", "Dear Friends", "Misfire", "Bring Back That Leroy Brown", "She Makes Me (Stormtrooper in Stilettos)", "In the Lap of the Gods... Revisited （神々の業）"]]}], "rate": 95, "comment": "前作の劇的な雰囲気を、大衆向けにコンパクトにした3作目。おそらく前作と同じ路線では、前作を超えることはできないと判断してのことだろう。前2作と本作の1,2曲目でやりたいことは全部やりつくしたという。個人的には前作よりも次作よりも好きだ。なんといっても聴きどころは津軽三味線のインスパイアされたという1曲目のギターソロと、重厚なクワイアが聴ける2曲目、のちにMetallicaがカヴァーしたことでも知られる名HR/HM8曲目だ。クイーンのすごいところは、1曲として同じような曲がないところだ。", "recommend": ["全部　特にBrighton Rock", "Killer Queen", "In the Lap of the Gods", "Stone Cold Crazy", "Dear Friends", "Misfire", "\n\t\t\tBring Back That Leroy Brown"], "description": "3rdアルバム", "type": "album", "img": ["queen03.jpg"]}
+{
+  "uid": "queen03",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Sheer Heart Attack ",
+  "artist": ["Queen"],
+  "year": 1974,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Brighton Rock",
+          "Killer Queen",
+          "Tenement Funster",
+          "Flick on the Wrist",
+          "Lily of the Valley （谷間のゆり）",
+          "Now I'm Here （誘惑のロックンロール）",
+          "In the Lap of the Gods （神々の業）",
+          "",
+          "Stone Cold Crazy",
+          "Dear Friends",
+          "Misfire",
+          "Bring Back That Leroy Brown",
+          "She Makes Me (Stormtrooper in Stilettos)",
+          "In the Lap of the Gods... Revisited （神々の業）"
+        ]
+      ]
+    }
+  ],
+  "rate": 95,
+  "comment": "前作の劇的な雰囲気を、大衆向けにコンパクトにした3作目。おそらく前作と同じ路線では、前作を超えることはできないと判断してのことだろう。前2作と本作の1,2曲目でやりたいことは全部やりつくしたという。個人的には前作よりも次作よりも好きだ。なんといっても聴きどころは津軽三味線のインスパイアされたという1曲目のギターソロと、重厚なクワイアが聴ける2曲目、のちにMetallicaがカヴァーしたことでも知られる名HR/HM8曲目だ。クイーンのすごいところは、1曲として同じような曲がないところだ。",
+  "recommend": [
+    "全部　特にBrighton Rock",
+    "Killer Queen",
+    "In the Lap of the Gods",
+    "Stone Cold Crazy",
+    "Dear Friends",
+    "Misfire",
+    "\n\t\t\tBring Back That Leroy Brown"
+  ],
+  "description": "3rdアルバム",
+  "type": "album",
+  "img": ["queen03.jpg"]
+}

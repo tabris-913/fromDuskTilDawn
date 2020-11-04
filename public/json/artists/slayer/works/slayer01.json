@@ -1,1 +1,41 @@
-{"uid": "slayer01", "date": "", "genres": [], "review_done": false, "name": "Show No Mercy ", "artist": ["Slayer"], "year": 1984, "list": [{"list": [["", "Evil Has No Boundaries", "The Antichrist", "Die by the Sword", "Fight till Death", "Metalstorm / Face the Slayer", "", "Black Magic", "Tormentor", "The Final Command", "Crionics", "Show No Mercy"]]}], "rate": 87, "comment": "我らがスレイヤーの悪魔のごときデビューアルバム！ブラック・メタルと呼ばれることはないが、そのサタニックさは精神面でブラックに影響を与えた。さらにそのアグレッションはデスメタルにも影響を与えたと言われている。デビュー作にしてこの影響力。Big 4のほかのバンドなんて目じゃない。彼らこそまさにスラッシュ・メタルの帝王だ。他の追随を許さない。", "recommend": ["全部　特にEvil Has No Boudaries", "The Antichrist", "Die by the Sword", "The Final Command", "Show No Mercy"], "description": "1stアルバム", "type": "album", "img": ["slayer01.jpg"]}
+{
+  "uid": "slayer01",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Show No Mercy ",
+  "artist": ["Slayer"],
+  "year": 1984,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Evil Has No Boundaries",
+          "The Antichrist",
+          "Die by the Sword",
+          "Fight till Death",
+          "Metalstorm / Face the Slayer",
+          "",
+          "Black Magic",
+          "Tormentor",
+          "The Final Command",
+          "Crionics",
+          "Show No Mercy"
+        ]
+      ]
+    }
+  ],
+  "rate": 87,
+  "comment": "我らがスレイヤーの悪魔のごときデビューアルバム！ブラック・メタルと呼ばれることはないが、そのサタニックさは精神面でブラックに影響を与えた。さらにそのアグレッションはデスメタルにも影響を与えたと言われている。デビュー作にしてこの影響力。Big 4のほかのバンドなんて目じゃない。彼らこそまさにスラッシュ・メタルの帝王だ。他の追随を許さない。",
+  "recommend": [
+    "全部　特にEvil Has No Boudaries",
+    "The Antichrist",
+    "Die by the Sword",
+    "The Final Command",
+    "Show No Mercy"
+  ],
+  "description": "1stアルバム",
+  "type": "album",
+  "img": ["slayer01.jpg"]
+}

@@ -1,1 +1,12 @@
-{"name": "スペシャルユニットドラマCD レン・嶺二・綺羅", "description": "", "date": "2019-01-30", "year": 0, "artist": ["ren", "reiji", "kira"], "list": [{"disk_no": 1, "name": "", "list": ["相愛トロイメライ"]}], "comment": "", "uid": "utapri18drama", "img": ["utapri18drama.jpg"], "rate": 0}
+{
+  "name": "スペシャルユニットドラマCD レン・嶺二・綺羅",
+  "description": "",
+  "date": "2019-01-30",
+  "year": 0,
+  "artist": ["ren", "reiji", "kira"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["相愛トロイメライ"] }],
+  "comment": "",
+  "uid": "utapri18drama",
+  "img": ["utapri18drama.jpg"],
+  "rate": 0
+}

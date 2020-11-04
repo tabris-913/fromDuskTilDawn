@@ -1,1 +1,12 @@
-{"name": "Shining Live テーマソングCD", "description": "", "date": "2017-11-15", "year": 0, "artist": ["starish", "qn"], "list": [{"disk_no": 1, "name": "", "list": ["Shining☆Romance", "FORCE LIVE"]}], "comment": "", "uid": "utapri58sg", "img": ["utapri58sg.jpg"], "rate": 0}
+{
+  "name": "Shining Live テーマソングCD",
+  "description": "",
+  "date": "2017-11-15",
+  "year": 0,
+  "artist": ["starish", "qn"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["Shining☆Romance", "FORCE LIVE"] }],
+  "comment": "",
+  "uid": "utapri58sg",
+  "img": ["utapri58sg.jpg"],
+  "rate": 0
+}

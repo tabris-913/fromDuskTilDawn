@@ -1,1 +1,18 @@
-{"uid": "tube09", "date": "1989-06-21", "genres": [], "review_done": false, "name": "SUMMER CITY", "ruby": "", "artist": "TUBE", "year": 1989, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "9thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "tube09",
+  "date": "1989-06-21",
+  "genres": [],
+  "review_done": false,
+  "name": "SUMMER CITY",
+  "ruby": "",
+  "artist": "TUBE",
+  "year": 1989,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "9thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

@@ -1,1 +1,45 @@
-{"uid": "blind_guardian10", "date": "", "genres": [], "review_done": false, "name": "Beyond the Red Mirror", "artist": ["Blind Guardian"], "year": 2015, "list": [{"list": [["", "The Ninth Wave", "Twilight of the Gods", "Prophecies", "At the Edge of Time", "Ashes of Eternity", "Distant Memories", "", "The Holy Grail", "The Throne", "Sacred Mind", "Maracle Machine", "Grand Parade", "Doom"]]}], "rate": 84, "comment": "メロパワの大物としてはAngraに次ぐ新作リリース。そのAngraの新作は見方によっては駄作と言える作品だったわけだが、彼らの新作はいったいどうなるのであろうか。高いとも低いともいえない期待を抱いていたところに、かの名盤『Imaginations from the Other Side』(1995)と関連のある内容だとの情報が。ここで一気に期待が高まった。デビューから6作連続で名盤をリリースし続けた、その中の一枚だ。1曲目から9分を超える大曲を配置するのは前作と同様の構成。その後も力強くも何か物足りない曲が続く。決して悪いわけではないのだが。4曲目なんてタイトルからアウトテイク臭丸出しだろう。4年超ぶりの新作なのだから、もっと本気出して作ってもらいたかった。期待してたのに。", "recommend": ["The Ninth Wave", "Twilight of the Gods", "Prophecies", "Ashes of Eternity", "The Holy Grail", "The Throne", "Grand Parade"], "description": "Guardian 10thアルバム", "type": "album", "img": ["blind10.jpg"]}
+{
+  "uid": "blind_guardian10",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Beyond the Red Mirror",
+  "artist": ["Blind Guardian"],
+  "year": 2015,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "The Ninth Wave",
+          "Twilight of the Gods",
+          "Prophecies",
+          "At the Edge of Time",
+          "Ashes of Eternity",
+          "Distant Memories",
+          "",
+          "The Holy Grail",
+          "The Throne",
+          "Sacred Mind",
+          "Maracle Machine",
+          "Grand Parade",
+          "Doom"
+        ]
+      ]
+    }
+  ],
+  "rate": 84,
+  "comment": "メロパワの大物としてはAngraに次ぐ新作リリース。そのAngraの新作は見方によっては駄作と言える作品だったわけだが、彼らの新作はいったいどうなるのであろうか。高いとも低いともいえない期待を抱いていたところに、かの名盤『Imaginations from the Other Side』(1995)と関連のある内容だとの情報が。ここで一気に期待が高まった。デビューから6作連続で名盤をリリースし続けた、その中の一枚だ。1曲目から9分を超える大曲を配置するのは前作と同様の構成。その後も力強くも何か物足りない曲が続く。決して悪いわけではないのだが。4曲目なんてタイトルからアウトテイク臭丸出しだろう。4年超ぶりの新作なのだから、もっと本気出して作ってもらいたかった。期待してたのに。",
+  "recommend": [
+    "The Ninth Wave",
+    "Twilight of the Gods",
+    "Prophecies",
+    "Ashes of Eternity",
+    "The Holy Grail",
+    "The Throne",
+    "Grand Parade"
+  ],
+  "description": "Guardian 10thアルバム",
+  "type": "album",
+  "img": ["blind10.jpg"]
+}

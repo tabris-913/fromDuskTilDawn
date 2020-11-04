@@ -1,1 +1,33 @@
-{"uid": "black_sabbath07", "date": "", "genres": [], "review_done": false, "name": "Technical Ecstasy", "artist": ["Black Sabbath"], "year": 1976, "list": [{"list": [["", "Back Street Kids", "You Won't Change Me", "It's Alright", "Gypsy", "", "All Moving Parts (Stand Still)", "Rock'n'Roll Doctor", "She's Gone", "Dirty Women"]]}], "rate": 78, "comment": "チャート的にも振るわなかった7作目。ファンもそろそろ飽きてきたのだろう。初期からのヘヴィと、途中から取り入れ始めたアコースティックが共存するスタイルももう何回目か。とか言いつつ毎回収録されているクラシカル系の曲は好みに合うので全力で否定は出来ない。今作では#7がそれにあたる。ストリングスの音色が心に染み入る。これもサバスの音なんです。本作リリース後、ほんの一時期だけオジーが脱退する。メンバーもいい加減マンネリってたんじゃないか。", "recommend": ["Back Street Kids", "She's Gone", "Dirty Women"], "description": "Sabbath 7thアルバム", "type": "album", "img": ["sabbath07.jpg"]}
+{
+  "uid": "black_sabbath07",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Technical Ecstasy",
+  "artist": ["Black Sabbath"],
+  "year": 1976,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Back Street Kids",
+          "You Won't Change Me",
+          "It's Alright",
+          "Gypsy",
+          "",
+          "All Moving Parts (Stand Still)",
+          "Rock'n'Roll Doctor",
+          "She's Gone",
+          "Dirty Women"
+        ]
+      ]
+    }
+  ],
+  "rate": 78,
+  "comment": "チャート的にも振るわなかった7作目。ファンもそろそろ飽きてきたのだろう。初期からのヘヴィと、途中から取り入れ始めたアコースティックが共存するスタイルももう何回目か。とか言いつつ毎回収録されているクラシカル系の曲は好みに合うので全力で否定は出来ない。今作では#7がそれにあたる。ストリングスの音色が心に染み入る。これもサバスの音なんです。本作リリース後、ほんの一時期だけオジーが脱退する。メンバーもいい加減マンネリってたんじゃないか。",
+  "recommend": ["Back Street Kids", "She's Gone", "Dirty Women"],
+  "description": "Sabbath 7thアルバム",
+  "type": "album",
+  "img": ["sabbath07.jpg"]
+}

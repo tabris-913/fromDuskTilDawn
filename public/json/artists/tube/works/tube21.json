@@ -1,1 +1,18 @@
-{"uid": "tube21", "date": "1999-06-12", "genres": [], "review_done": false, "name": "Blue Reef", "ruby": "", "artist": "TUBE", "year": 1999, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "21thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "tube21",
+  "date": "1999-06-12",
+  "genres": [],
+  "review_done": false,
+  "name": "Blue Reef",
+  "ruby": "",
+  "artist": "TUBE",
+  "year": 1999,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "21thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

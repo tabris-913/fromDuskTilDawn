@@ -1,35 +1,34 @@
 {
-    "uid": "alice_nine02selfcover",
-    "date": "2019-04-24",
-    "genres": ["pop_rock", "hard_rock", "visual_rock"],
-    "review_done": false,
-    "name": "風月ノ詩",
-    "artist": ["A9"],
-    "year": 2019,
-    "list": [
-      {
-        "list": [
-          [
-            "NUMBER SIX.",
-            "-Dice-",
-            "虹彩",
-            "RAINBOWS",
-            "CROSS GAME",
-            "the beautiful name",
-            "Waterfall",
-            "Le Grand Bleu",
-            "GEMINI-0-eternal",
-            "GEMINI-I-the void",
-            "GEMINI-II-the luv"
-          ]
+  "uid": "alice_nine02selfcover",
+  "date": "2019-04-24",
+  "genres": ["pop_rock", "hard_rock", "visual_rock"],
+  "review_done": false,
+  "name": "風月ノ詩",
+  "artist": ["A9"],
+  "year": 2019,
+  "list": [
+    {
+      "list": [
+        [
+          "NUMBER SIX.",
+          "-Dice-",
+          "虹彩",
+          "RAINBOWS",
+          "CROSS GAME",
+          "the beautiful name",
+          "Waterfall",
+          "Le Grand Bleu",
+          "GEMINI-0-eternal",
+          "GEMINI-I-the void",
+          "GEMINI-II-the luv"
         ]
-      }
-    ],
-    "rate": 86,
-    "comment": "",
-    "recommend": [],
-    "description": "2ndセルフカヴァーアルバム",
-    "type": "album",
-    "img": ["alice_nine02selfcover.jpg"]
-  }
-  
+      ]
+    }
+  ],
+  "rate": 86,
+  "comment": "",
+  "recommend": [],
+  "description": "2ndセルフカヴァーアルバム",
+  "type": "album",
+  "img": ["alice_nine02selfcover.jpg"]
+}

@@ -1,1 +1,16 @@
-{"uid": "akina_nakamori03ep", "date": "1985-12-21", "genres": [], "review_done": false, "name": "MY BEST THANKS", "artist": ["中森明菜"], "year": 1985, "list": [{"list": [["", "ありふれた風景", "予感", "", "Don't Tell Me This is Love"]]}], "rate": 84, "comment": "3枚目のクリスマス向けミニアルバム。前作とは違ってクリスマスがテーマにされているわけではない。既存曲1つと新曲2つが収録されている。新曲である#1は落ち着いた雰囲気のバラードで、どちらかというとエンディング向けだ。もう1つの新曲である#3は初めて全編英詩に挑戦したもの。はつらつとしたサビが印象的だ。", "recommend": ["全部"], "description": "3rdミニアルバム", "type": "album", "img": ["akina03e.jpg"]}
+{
+  "uid": "akina_nakamori03ep",
+  "date": "1985-12-21",
+  "genres": [],
+  "review_done": false,
+  "name": "MY BEST THANKS",
+  "artist": ["中森明菜"],
+  "year": 1985,
+  "list": [{ "list": [["", "ありふれた風景", "予感", "", "Don't Tell Me This is Love"]] }],
+  "rate": 84,
+  "comment": "3枚目のクリスマス向けミニアルバム。前作とは違ってクリスマスがテーマにされているわけではない。既存曲1つと新曲2つが収録されている。新曲である#1は落ち着いた雰囲気のバラードで、どちらかというとエンディング向けだ。もう1つの新曲である#3は初めて全編英詩に挑戦したもの。はつらつとしたサビが印象的だ。",
+  "recommend": ["全部"],
+  "description": "3rdミニアルバム",
+  "type": "album",
+  "img": ["akina03e.jpg"]
+}

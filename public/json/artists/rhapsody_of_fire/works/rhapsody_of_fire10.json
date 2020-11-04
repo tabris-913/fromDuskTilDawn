@@ -1,1 +1,38 @@
-{"uid": "rhapsody_of_fire10", "date": "", "genres": [], "review_done": false, "name": "Dark Wings of Steel", "artist": ["Rhapsody of Fire"], "year": 2013, "list": [{"list": [["", "Vis Divina", "Rising from Tragic Flames", "Angel of Light", "Tears of Pain", "Fly to Crystal Skies", "My Sacrifice", "Silver Lake of Tears", "", "Custode di Pace （平和の光）", "A Take of Magic", "Dark Wings of Steel", "Sad Mystic Moon", "(BONUS TRACK)", "A Candle to Light [Custode di Pace French Version] （貴方に届けたい）"]]}], "rate": 86, "comment": "Rhapsodyが二つに分裂し、そのうちの本家が久々にリリースした最新作。ここからは、かつてのように壮大な物語を紡ぐことはなくなった。そしてLucaの脱退を受けてサウンドも変化が見られた。根本はRhapsodyらしいシンフォニックなサウンドだが、うーん何かが違う。悪くない、むしろ全然いいアルバムなんだけど、やっぱりなんかRhapsodyとはちょっと違う気がする。なんというか心がない。シンフォニックなのにたんぱくなのだ。きちんとメタルアルバムにはなっているがミドル曲中心なのも少し残念。", "recommend": ["Rising from Tragic Flames", "Silver Lake of Tears", "A Tale of Magic", "Dark Wings of Steel"], "description": "of Fire 10thアルバム", "type": "album", "img": ["rhapsody10.jpg"]}
+{
+  "uid": "rhapsody_of_fire10",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Dark Wings of Steel",
+  "artist": ["Rhapsody of Fire"],
+  "year": 2013,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Vis Divina",
+          "Rising from Tragic Flames",
+          "Angel of Light",
+          "Tears of Pain",
+          "Fly to Crystal Skies",
+          "My Sacrifice",
+          "Silver Lake of Tears",
+          "",
+          "Custode di Pace （平和の光）",
+          "A Take of Magic",
+          "Dark Wings of Steel",
+          "Sad Mystic Moon",
+          "(BONUS TRACK)",
+          "A Candle to Light [Custode di Pace French Version] （貴方に届けたい）"
+        ]
+      ]
+    }
+  ],
+  "rate": 86,
+  "comment": "Rhapsodyが二つに分裂し、そのうちの本家が久々にリリースした最新作。ここからは、かつてのように壮大な物語を紡ぐことはなくなった。そしてLucaの脱退を受けてサウンドも変化が見られた。根本はRhapsodyらしいシンフォニックなサウンドだが、うーん何かが違う。悪くない、むしろ全然いいアルバムなんだけど、やっぱりなんかRhapsodyとはちょっと違う気がする。なんというか心がない。シンフォニックなのにたんぱくなのだ。きちんとメタルアルバムにはなっているがミドル曲中心なのも少し残念。",
+  "recommend": ["Rising from Tragic Flames", "Silver Lake of Tears", "A Tale of Magic", "Dark Wings of Steel"],
+  "description": "of Fire 10thアルバム",
+  "type": "album",
+  "img": ["rhapsody10.jpg"]
+}

@@ -1,1 +1,37 @@
-{"uid": "x_japan08compilation", "date": "", "genres": [], "review_done": false, "name": "THE WORLD ～X JAPAN初の全世界ベスト～", "artist": ["X JAPAN"], "year": 2014, "list": [{"list": [["Disc 1", "Silent Jealousy", "Rusty Nail", "SCARS", "ENDLESS RAIN", "WEEK END", "紅", "Forever Love", "DAHLIA", "Amethyst (THE LAST LIVE ～最後の夜～ Live Version)", "X (THE LAST LIVE ～最後の夜～ Live Version)", "Without You (LIVE VERSION)", "Disc 2", "ART OF LIFE"]]}], "rate": 86, "comment": "選曲は割とありきたり。音源としてもレアというほどのものは何もない。全部そろえたいというファンとCD持ってないという人は買うだろうが、そこまでのファンでなければ買うこともないだろう。そんなアルバムでもオリコン2位にランクインしたことから、今でもXの人気が変わらないことを裏付けている。ただ個人的にSay Anythingは入れてほしかった...", "recommend": [], "description": "JAPAN 8thベストアルバム", "type": "album", "img": ["x08c.jpg"]}
+{
+  "uid": "x_japan08compilation",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "THE WORLD ～X JAPAN初の全世界ベスト～",
+  "artist": ["X JAPAN"],
+  "year": 2014,
+  "list": [
+    {
+      "list": [
+        [
+          "Disc 1",
+          "Silent Jealousy",
+          "Rusty Nail",
+          "SCARS",
+          "ENDLESS RAIN",
+          "WEEK END",
+          "紅",
+          "Forever Love",
+          "DAHLIA",
+          "Amethyst (THE LAST LIVE ～最後の夜～ Live Version)",
+          "X (THE LAST LIVE ～最後の夜～ Live Version)",
+          "Without You (LIVE VERSION)",
+          "Disc 2",
+          "ART OF LIFE"
+        ]
+      ]
+    }
+  ],
+  "rate": 86,
+  "comment": "選曲は割とありきたり。音源としてもレアというほどのものは何もない。全部そろえたいというファンとCD持ってないという人は買うだろうが、そこまでのファンでなければ買うこともないだろう。そんなアルバムでもオリコン2位にランクインしたことから、今でもXの人気が変わらないことを裏付けている。ただ個人的にSay Anythingは入れてほしかった...",
+  "recommend": [],
+  "description": "JAPAN 8thベストアルバム",
+  "type": "album",
+  "img": ["x08c.jpg"]
+}

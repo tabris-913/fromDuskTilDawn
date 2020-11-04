@@ -1,1 +1,18 @@
-{"uid": "tube11", "date": "1991-05-29", "genres": [], "review_done": false, "name": "湘南", "ruby": "", "artist": "TUBE", "year": 1991, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "11thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "tube11",
+  "date": "1991-05-29",
+  "genres": [],
+  "review_done": false,
+  "name": "湘南",
+  "ruby": "",
+  "artist": "TUBE",
+  "year": 1991,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "11thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

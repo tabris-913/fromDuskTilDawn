@@ -1,1 +1,16 @@
-{"uid": "showya03", "date": "", "genres": [], "review_done": false, "name": "WAYS", "artist": ["SHOW-YA"], "year": 1986, "list": [{"list": [["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]]}], "rate": 0, "comment": "", "recommend": [""], "description": "3rdアルバム", "type": "album", "img": ["showya03.jpg"]}
+{
+  "uid": "showya03",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "WAYS",
+  "artist": ["SHOW-YA"],
+  "year": 1986,
+  "list": [{ "list": [["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [""],
+  "description": "3rdアルバム",
+  "type": "album",
+  "img": ["showya03.jpg"]
+}

@@ -1,1 +1,12 @@
-{"name": "HEAVEN SKY エピソードCD", "description": "", "date": "2017-11-01", "year": 0, "artist": ["heavens"], "list": [{"disk_no": 1, "name": "", "list": ["HEAVENS SKY"]}], "comment": "", "uid": "utapri12drama", "img": ["utapri12drama.jpg"], "rate": 0}
+{
+  "name": "HEAVEN SKY エピソードCD",
+  "description": "",
+  "date": "2017-11-01",
+  "year": 0,
+  "artist": ["heavens"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["HEAVENS SKY"] }],
+  "comment": "",
+  "uid": "utapri12drama",
+  "img": ["utapri12drama.jpg"],
+  "rate": 0
+}

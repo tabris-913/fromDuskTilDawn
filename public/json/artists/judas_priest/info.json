@@ -1,1 +1,34 @@
-{"uid": "judas_priest", "name": "Judas Priest", "ruby": "ジューダス・プリースト", "ruby4Sort": "じゅーだすぷりーすと", "en": "Judas Priest", "initial": ["J", "さ"], "kind": "バンド", "genres": [], "albums": ["judas_priest01", "judas_priest02", "judas_priest03", "judas_priest04", "judas_priest05", "judas_priest06", "judas_priest07", "judas_priest08", "judas_priest09", "judas_priest10", "judas_priest11", "judas_priest12", "judas_priest13", "judas_priest14", "judas_priest15", "judas_priest16", "judas_priest17"], "singles": [], "others": [], "akas": [], "logo": [], "related": []}
+{
+  "uid": "judas_priest",
+  "name": "Judas Priest",
+  "ruby": "ジューダス・プリースト",
+  "ruby4Sort": "じゅーだすぷりーすと",
+  "en": "Judas Priest",
+  "initial": ["J", "さ"],
+  "kind": "バンド",
+  "genres": [],
+  "albums": [
+    "judas_priest01",
+    "judas_priest02",
+    "judas_priest03",
+    "judas_priest04",
+    "judas_priest05",
+    "judas_priest06",
+    "judas_priest07",
+    "judas_priest08",
+    "judas_priest09",
+    "judas_priest10",
+    "judas_priest11",
+    "judas_priest12",
+    "judas_priest13",
+    "judas_priest14",
+    "judas_priest15",
+    "judas_priest16",
+    "judas_priest17"
+  ],
+  "singles": [],
+  "others": [],
+  "akas": [],
+  "logo": [],
+  "related": []
+}

@@ -1,1 +1,34 @@
-{"uid": "kiss10", "date": "", "genres": [], "review_done": false, "name": "Creatures of the Night （暗黒の神話）", "artist": ["Kiss"], "year": 1982, "list": [{"list": [["", "Creatures of the Night （真夜中の使者）", "Saint and Sinner", "Keep Me Comin'", "Rock and Roll Hell （地獄のロックンロール）", "Danger", "", "I Love It Loud （勇士の叫び）", "I Still Love You （遥かなる誓い）", "Killer", "War Machine"]]}], "rate": 87, "comment": "前作までの不振を振り切るかのように、一気にヘヴィ・メタル路線へ転換した10作目。1曲目から迷いのないハードぶりを見せる。平均的にいい曲ばかりだが、ずば抜けた曲が少ないような気もする。とはいえ、イントロが日本でも有名な6曲目やライヴでもよく演奏される9曲目が収録されるなど、現在では一定の評価を受ける作品。", "recommend": ["Creatures of the Night", "I Love It Loud", "War Machine"], "description": "10thアルバム", "type": "album", "img": ["kiss10.jpg"]}
+{
+  "uid": "kiss10",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Creatures of the Night （暗黒の神話）",
+  "artist": ["Kiss"],
+  "year": 1982,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Creatures of the Night （真夜中の使者）",
+          "Saint and Sinner",
+          "Keep Me Comin'",
+          "Rock and Roll Hell （地獄のロックンロール）",
+          "Danger",
+          "",
+          "I Love It Loud （勇士の叫び）",
+          "I Still Love You （遥かなる誓い）",
+          "Killer",
+          "War Machine"
+        ]
+      ]
+    }
+  ],
+  "rate": 87,
+  "comment": "前作までの不振を振り切るかのように、一気にヘヴィ・メタル路線へ転換した10作目。1曲目から迷いのないハードぶりを見せる。平均的にいい曲ばかりだが、ずば抜けた曲が少ないような気もする。とはいえ、イントロが日本でも有名な6曲目やライヴでもよく演奏される9曲目が収録されるなど、現在では一定の評価を受ける作品。",
+  "recommend": ["Creatures of the Night", "I Love It Loud", "War Machine"],
+  "description": "10thアルバム",
+  "type": "album",
+  "img": ["kiss10.jpg"]
+}

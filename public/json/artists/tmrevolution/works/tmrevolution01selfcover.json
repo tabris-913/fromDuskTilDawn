@@ -1,1 +1,40 @@
-{"uid": "tmrevolution01selfcover", "date": "", "genres": [], "review_done": false, "name": "UNDER:COVER ", "artist": ["T.M.Revolution"], "year": 2006, "list": [{"list": [["Disc 1", "HIGH PRESSURE", "WHITE BREATH", "HEART OF SWORD ～夜明け前～", "AQUALOVERS ～DEEP into the night", "Zips", "THUNDERBIRD", "BOARDING", "HOT LIMIT", "Joker", "LOVE SAVER", "夢の雫", "魔弾 ～Der Freischütz～", "Twinkle Million Rendezvous", "LIGHT MY FIRE", "Disc 2", "Meteor -ミーティア-"]]}], "rate": 98, "comment": "初のセルフカヴァーアルバム。ファン投票上位14位の楽曲をすべて新アレンジで再録。順位と収録順は異なるが、キャリアを代表する重要な曲ばかりが収録されている。ビッグセールスを記録したシングルはもちろん、アルバム曲からも幅広く選曲されている。大胆なアレンジが施された曲もおおいが、ミスアレンジはない。近年はこのアレンジで披露されることもおおいので、新参ファンでも安心して聴ける。選曲も完璧。アレンジも秀逸。まさに最高傑作。", "recommend": ["全部"], "description": "1stセルフカヴァーアルバム", "type": "album", "img": ["tmr01sc.jpg"]}
+{
+  "uid": "tmrevolution01selfcover",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "UNDER:COVER ",
+  "artist": ["T.M.Revolution"],
+  "year": 2006,
+  "list": [
+    {
+      "list": [
+        [
+          "Disc 1",
+          "HIGH PRESSURE",
+          "WHITE BREATH",
+          "HEART OF SWORD ～夜明け前～",
+          "AQUALOVERS ～DEEP into the night",
+          "Zips",
+          "THUNDERBIRD",
+          "BOARDING",
+          "HOT LIMIT",
+          "Joker",
+          "LOVE SAVER",
+          "夢の雫",
+          "魔弾 ～Der Freischütz～",
+          "Twinkle Million Rendezvous",
+          "LIGHT MY FIRE",
+          "Disc 2",
+          "Meteor -ミーティア-"
+        ]
+      ]
+    }
+  ],
+  "rate": 98,
+  "comment": "初のセルフカヴァーアルバム。ファン投票上位14位の楽曲をすべて新アレンジで再録。順位と収録順は異なるが、キャリアを代表する重要な曲ばかりが収録されている。ビッグセールスを記録したシングルはもちろん、アルバム曲からも幅広く選曲されている。大胆なアレンジが施された曲もおおいが、ミスアレンジはない。近年はこのアレンジで披露されることもおおいので、新参ファンでも安心して聴ける。選曲も完璧。アレンジも秀逸。まさに最高傑作。",
+  "recommend": ["全部"],
+  "description": "1stセルフカヴァーアルバム",
+  "type": "album",
+  "img": ["tmr01sc.jpg"]
+}

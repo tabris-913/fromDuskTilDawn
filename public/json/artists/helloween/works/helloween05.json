@@ -1,1 +1,37 @@
-{"uid": "helloween05", "date": "", "genres": [], "review_done": false, "name": "Chameleon ", "artist": ["Helloween"], "year": 1993, "list": [{"list": [["", "First Time", "When the Sinner", "I Don't Wanna Cry No More", "Crazy Cat", "Giants", "Windmill", "", "Revolution Now", "In the Night", "Music", "Step Out of Hell", "I Believe", "Longing"]]}], "rate": 88, "comment": "ハロウィン史上最大の問題作。実際に作曲したのはKiskeではないが、間違いなく彼の意見が作曲面で大きな存在感を感じさせる。一番悪いアルバムとされているが、俺は個人的に嫌いではない。変にハロウィンぽさが残っていた前作よりも、こちらのほうが良いアルバムだと思う。割り切って聴くことができるからな。1曲目はポップ・メタルとしてかなりの名曲だと思うし、2曲目もどことなく壮大な雰囲気漂う名曲だ。Keeperを期待して聴くと大きく裏切られるが、別のバンドのアルバムだと思って聴くと良い。名盤だよ。もしこれをHelloweenの、しかもKeeperを期待して聴いた時には点数は50点だ。ロカビリーを思わせる4曲目にはかなり驚かされるが、正直それ以前に驚かされすぎてこれくらいではもう驚かない。", "recommend": ["全部　特にFirst Time", "When the Sinner", "Giants", "Windmill", "Step Out of Hell", "I Believe"], "description": "5thアルバム", "type": "album", "img": ["hw05.jpg"]}
+{
+  "uid": "helloween05",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Chameleon ",
+  "artist": ["Helloween"],
+  "year": 1993,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "First Time",
+          "When the Sinner",
+          "I Don't Wanna Cry No More",
+          "Crazy Cat",
+          "Giants",
+          "Windmill",
+          "",
+          "Revolution Now",
+          "In the Night",
+          "Music",
+          "Step Out of Hell",
+          "I Believe",
+          "Longing"
+        ]
+      ]
+    }
+  ],
+  "rate": 88,
+  "comment": "ハロウィン史上最大の問題作。実際に作曲したのはKiskeではないが、間違いなく彼の意見が作曲面で大きな存在感を感じさせる。一番悪いアルバムとされているが、俺は個人的に嫌いではない。変にハロウィンぽさが残っていた前作よりも、こちらのほうが良いアルバムだと思う。割り切って聴くことができるからな。1曲目はポップ・メタルとしてかなりの名曲だと思うし、2曲目もどことなく壮大な雰囲気漂う名曲だ。Keeperを期待して聴くと大きく裏切られるが、別のバンドのアルバムだと思って聴くと良い。名盤だよ。もしこれをHelloweenの、しかもKeeperを期待して聴いた時には点数は50点だ。ロカビリーを思わせる4曲目にはかなり驚かされるが、正直それ以前に驚かされすぎてこれくらいではもう驚かない。",
+  "recommend": ["全部　特にFirst Time", "When the Sinner", "Giants", "Windmill", "Step Out of Hell", "I Believe"],
+  "description": "5thアルバム",
+  "type": "album",
+  "img": ["hw05.jpg"]
+}

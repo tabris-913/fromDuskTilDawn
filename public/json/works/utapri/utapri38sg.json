@@ -1,1 +1,12 @@
-{"name": "クロスユニットアイドルソング 神宮寺レン・来栖翔・愛島セシル", "description": "", "date": "2015-05-08", "year": 0, "artist": ["ren", "sho", "cecil"], "list": [{"disk_no": 1, "name": "", "list": ["Code:T.V.U", "Mellow×2 Chu", "すべてを歌にっ！", "GREEN AMBITION"]}], "comment": "", "uid": "utapri38sg", "img": ["utapri38sg.jpg"], "rate": 0}
+{
+  "name": "クロスユニットアイドルソング 神宮寺レン・来栖翔・愛島セシル",
+  "description": "",
+  "date": "2015-05-08",
+  "year": 0,
+  "artist": ["ren", "sho", "cecil"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["Code:T.V.U", "Mellow×2 Chu", "すべてを歌にっ！", "GREEN AMBITION"] }],
+  "comment": "",
+  "uid": "utapri38sg",
+  "img": ["utapri38sg.jpg"],
+  "rate": 0
+}

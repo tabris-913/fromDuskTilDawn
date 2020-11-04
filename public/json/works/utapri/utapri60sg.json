@@ -1,1 +1,12 @@
-{"name": "FLY TO THE FUTURE", "description": "", "date": "2018-08-01", "year": 0, "artist": ["qn"], "list": [{"disk_no": 1, "name": "", "list": ["FLY TO THE FUTURE", "THE WORLD IS MINE"]}], "comment": "", "uid": "utapri60sg", "img": ["utapri60sg.jpg"], "rate": 0}
+{
+  "name": "FLY TO THE FUTURE",
+  "description": "",
+  "date": "2018-08-01",
+  "year": 0,
+  "artist": ["qn"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["FLY TO THE FUTURE", "THE WORLD IS MINE"] }],
+  "comment": "",
+  "uid": "utapri60sg",
+  "img": ["utapri60sg.jpg"],
+  "rate": 0
+}

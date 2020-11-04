@@ -1,1 +1,40 @@
-{"uid": "anthrax10", "date": "", "genres": [], "review_done": false, "name": "Worship Music", "artist": ["Anthrax"], "year": 2011, "list": [{"list": [["", "Worship", "Earth on Hell", "The Devil You Know", "Fight 'Em 'Til You Can't", "I'm Alive", "Hymn 1", "In the End", "The Giant", "", "Hymn 2", "Judas Priest", "Crawl", "The Constant", "Revolution Screams/New Noise", "(JAPANESE BONUS TRACK)", "Crawl [Orc Mix]"]]}], "rate": 79, "comment": "メタリカにしろメガデスにしろ、一度スラッシュから遠ざかったバンドは2000年代後半以降元のサウンドに戻るないしは近づくという展開を見せている。アンスラックスもその例外ではない！このアルバムは紛れもなくスラッシュ・メタルだ。と最初は思ったのだが、案外そうではなかった。まだグルーヴ的な要素も残っており、完全復活とまでは言えないのだ。非常に残念。2014年現在このアルバム以降新作は発表されていないが、次のアルバムこそは完全にスラッシュへ回帰してくれることを祈っている。", "recommend": ["Earth on Hell", "The Devil You Know", "The Giant", "Revolution Screams"], "description": "10thアルバム", "type": "album", "img": ["anthrax10.jpg"]}
+{
+  "uid": "anthrax10",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Worship Music",
+  "artist": ["Anthrax"],
+  "year": 2011,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Worship",
+          "Earth on Hell",
+          "The Devil You Know",
+          "Fight 'Em 'Til You Can't",
+          "I'm Alive",
+          "Hymn 1",
+          "In the End",
+          "The Giant",
+          "",
+          "Hymn 2",
+          "Judas Priest",
+          "Crawl",
+          "The Constant",
+          "Revolution Screams/New Noise",
+          "(JAPANESE BONUS TRACK)",
+          "Crawl [Orc Mix]"
+        ]
+      ]
+    }
+  ],
+  "rate": 79,
+  "comment": "メタリカにしろメガデスにしろ、一度スラッシュから遠ざかったバンドは2000年代後半以降元のサウンドに戻るないしは近づくという展開を見せている。アンスラックスもその例外ではない！このアルバムは紛れもなくスラッシュ・メタルだ。と最初は思ったのだが、案外そうではなかった。まだグルーヴ的な要素も残っており、完全復活とまでは言えないのだ。非常に残念。2014年現在このアルバム以降新作は発表されていないが、次のアルバムこそは完全にスラッシュへ回帰してくれることを祈っている。",
+  "recommend": ["Earth on Hell", "The Devil You Know", "The Giant", "Revolution Screams"],
+  "description": "10thアルバム",
+  "type": "album",
+  "img": ["anthrax10.jpg"]
+}

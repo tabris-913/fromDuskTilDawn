@@ -1,1 +1,26 @@
-{"name": "THE BEST Rock Out!!! #2 レオード・モモチ・ヨシュア", "description": "", "date": "2018-09-19", "year": 2018, "comment": "", "list": [{"disk_no": 1, "name": "", "list": ["Beyond the Limit", "騙り鳥", "あなたへと。", "アンビシャスナイト", "Crazy≒Nutrient", "New World", "Mi★Amigo", "Keep looking", "Silver Rain Saga"]}], "img": ["dearvo03c.jpg"], "uid": "dearvo03c"}
+{
+  "name": "THE BEST Rock Out!!! #2 レオード・モモチ・ヨシュア",
+  "description": "",
+  "date": "2018-09-19",
+  "year": 2018,
+  "comment": "",
+  "list": [
+    {
+      "disk_no": 1,
+      "name": "",
+      "list": [
+        "Beyond the Limit",
+        "騙り鳥",
+        "あなたへと。",
+        "アンビシャスナイト",
+        "Crazy≒Nutrient",
+        "New World",
+        "Mi★Amigo",
+        "Keep looking",
+        "Silver Rain Saga"
+      ]
+    }
+  ],
+  "img": ["dearvo03c.jpg"],
+  "uid": "dearvo03c"
+}

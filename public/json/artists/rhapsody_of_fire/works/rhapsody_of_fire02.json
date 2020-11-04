@@ -1,1 +1,49 @@
-{"uid": "rhapsody_of_fire02", "date": "", "genres": [], "review_done": false, "name": "Symphony of Enchanted Lands ", "artist": ["Rhapsody"], "year": 1998, "list": [{"list": [["", "Epicus Furor", "Emerald Sword", "Wisdom of the Kings", "Heroes of the Lost Valley", "", "Entering the Waterfall's Realm", "The Dragon's Pride", "", "Eternal Glory", "Beyond the Gates of Infinity", "", "Wings of Destiny", "The Dark Tower of Abyss", "Riding the Winds of Eternity", "Symphony of Enchanted Lands", "", "Tharo's Last Flight", "Hymn of the Warrior", "Rex Tremende", "The Immortal Fire"]]}], "rate": 92, "comment": "エメラルド・ソード・サーガ第2章。まさにエピック・メタルだ。2曲目はすべてのシンフォニック・メタラー、メロディック・メタラーのアンセム。この曲のサビを歌えないやつは偽物メタラーだ。前作に比べると疾走曲が減ったが、ラプソディの持ち味の一つであるフォーク・メタル要素が色濃い。13分を超える10曲目は民謡あり疾走ありシンフォあり女声コーラスありのドラマティック！", "recommend": ["全部 特にEmerald Sword", "Wisdom of the Kings", "The Dark Tower of Abyss", "Riding the Winds of Eternity"], "description": "2mdアルバム", "type": "album", "img": ["rhapsody02.jpg"]}
+{
+  "uid": "rhapsody_of_fire02",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Symphony of Enchanted Lands ",
+  "artist": ["Rhapsody"],
+  "year": 1998,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Epicus Furor",
+          "Emerald Sword",
+          "Wisdom of the Kings",
+          "Heroes of the Lost Valley",
+          "",
+          "Entering the Waterfall's Realm",
+          "The Dragon's Pride",
+          "",
+          "Eternal Glory",
+          "Beyond the Gates of Infinity",
+          "",
+          "Wings of Destiny",
+          "The Dark Tower of Abyss",
+          "Riding the Winds of Eternity",
+          "Symphony of Enchanted Lands",
+          "",
+          "Tharo's Last Flight",
+          "Hymn of the Warrior",
+          "Rex Tremende",
+          "The Immortal Fire"
+        ]
+      ]
+    }
+  ],
+  "rate": 92,
+  "comment": "エメラルド・ソード・サーガ第2章。まさにエピック・メタルだ。2曲目はすべてのシンフォニック・メタラー、メロディック・メタラーのアンセム。この曲のサビを歌えないやつは偽物メタラーだ。前作に比べると疾走曲が減ったが、ラプソディの持ち味の一つであるフォーク・メタル要素が色濃い。13分を超える10曲目は民謡あり疾走ありシンフォあり女声コーラスありのドラマティック！",
+  "recommend": [
+    "全部 特にEmerald Sword",
+    "Wisdom of the Kings",
+    "The Dark Tower of Abyss",
+    "Riding the Winds of Eternity"
+  ],
+  "description": "2mdアルバム",
+  "type": "album",
+  "img": ["rhapsody02.jpg"]
+}

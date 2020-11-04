@@ -1,1 +1,40 @@
-{"uid": "dragonforce03", "date": "", "genres": [], "review_done": false, "name": "Inhuman Rampage ", "artist": ["DragonForce"], "year": 2005, "list": [{"list": [["", "Through Fire and Flames", "Revolution Deathsquad", "Storming Burning Fields", "Operation Ground and Pound", "Body Breakdown", "", "Cry for Eternity", "The Flame of Youth", "Trail of Broken Hearts", "(BONUS TRACK)", "Lost Souls in Endless Time"]]}], "rate": 99, "comment": "これぞドラフォの最高傑作！デビュー以来貫いている爆走スタイルは不変だ。だが今までよりも進化（深化）している点があり、それは複雑さだ。ここにきてプログレのような深みをもたせてきた。しかも妙に明るい雰囲気で覆われていて、哀愁を求めると肩透かしを食らう。俺も哀愁好きだがなぜかこのアルバムは物凄くしっくりくる。哀愁ないのに。何と言っても1曲目の破壊力はパワー・メタル史上最上級。メロディ、スピード、パワーが満点。", "recommend": ["全部　特に全部　特に特にThrough the Fire and Flames", "Revolution Deathsquad", "Storming Burning Fields", "Operation Ground and Pound"], "description": "3rdアルバム", "type": "album", "img": ["df03.jpg"]}
+{
+  "uid": "dragonforce03",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Inhuman Rampage ",
+  "artist": ["DragonForce"],
+  "year": 2005,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Through Fire and Flames",
+          "Revolution Deathsquad",
+          "Storming Burning Fields",
+          "Operation Ground and Pound",
+          "Body Breakdown",
+          "",
+          "Cry for Eternity",
+          "The Flame of Youth",
+          "Trail of Broken Hearts",
+          "(BONUS TRACK)",
+          "Lost Souls in Endless Time"
+        ]
+      ]
+    }
+  ],
+  "rate": 99,
+  "comment": "これぞドラフォの最高傑作！デビュー以来貫いている爆走スタイルは不変だ。だが今までよりも進化（深化）している点があり、それは複雑さだ。ここにきてプログレのような深みをもたせてきた。しかも妙に明るい雰囲気で覆われていて、哀愁を求めると肩透かしを食らう。俺も哀愁好きだがなぜかこのアルバムは物凄くしっくりくる。哀愁ないのに。何と言っても1曲目の破壊力はパワー・メタル史上最上級。メロディ、スピード、パワーが満点。",
+  "recommend": [
+    "全部　特に全部　特に特にThrough the Fire and Flames",
+    "Revolution Deathsquad",
+    "Storming Burning Fields",
+    "Operation Ground and Pound"
+  ],
+  "description": "3rdアルバム",
+  "type": "album",
+  "img": ["df03.jpg"]
+}

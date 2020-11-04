@@ -1,1 +1,47 @@
-{"uid": "yngwie_malmsteen08", "date": "", "genres": [], "review_done": false, "name": "Magnum Opus ", "artist": ["Yngwie Malmsteen"], "year": 1995, "list": [{"list": [["", "Vengeance", "No Love Lost", "Tomorrow's Gone", "The Only One", "I'd Die Without You", "Overture 1622", "Voodoo", "", "Cross the Line", "Time Will Tell", "Fire in the Sky", "Amberdawn", "(JAPANESE BONUS TRACK)", "Cantabile Op.10 No.3 RV428 \"Il Cardellino\""]]}], "rate": 87, "comment": "前作に続いてMichael Vesceraがヴォーカルを務める8作目。本作はおそらく過去一番メロディが微妙な作品だ。それは本人も認めていることだ。しかし1曲目を聴くとわかるが、曲は悪くない。と言うよりむしろ個人的に1曲目は彼の全キャリアでも1,2を争うくらいに好きな曲だ。6曲目は、おそらく初期のIcarus Dream SuiteやTrilogy Suite、前作収録のBrothersと並ぶほどの名インスト曲だ。俺はMichael Vesceraのヴォーカルが好きだからかもしれないが、いいアルバムだ。捨て曲はあるのだが、一般的に酷評されるほどレヴェルが低いとは思えない。それを補ってなお余りある曲が1曲目と6曲目、そして10曲目であるのだ。とはいえこのアルバムのタイトルはちょっと大げさすぎる気がする。", "recommend": ["Vengeance", "No Love Lost", "The Only One", "Overture 1622", "Voodoo", "Fire in the Sky", "Amberdawn", "Cantabile"], "description": "Malmsteen 8thアルバム", "type": "album", "img": ["yngwie08.jpg"]}
+{
+  "uid": "yngwie_malmsteen08",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Magnum Opus ",
+  "artist": ["Yngwie Malmsteen"],
+  "year": 1995,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Vengeance",
+          "No Love Lost",
+          "Tomorrow's Gone",
+          "The Only One",
+          "I'd Die Without You",
+          "Overture 1622",
+          "Voodoo",
+          "",
+          "Cross the Line",
+          "Time Will Tell",
+          "Fire in the Sky",
+          "Amberdawn",
+          "(JAPANESE BONUS TRACK)",
+          "Cantabile Op.10 No.3 RV428 \"Il Cardellino\""
+        ]
+      ]
+    }
+  ],
+  "rate": 87,
+  "comment": "前作に続いてMichael Vesceraがヴォーカルを務める8作目。本作はおそらく過去一番メロディが微妙な作品だ。それは本人も認めていることだ。しかし1曲目を聴くとわかるが、曲は悪くない。と言うよりむしろ個人的に1曲目は彼の全キャリアでも1,2を争うくらいに好きな曲だ。6曲目は、おそらく初期のIcarus Dream SuiteやTrilogy Suite、前作収録のBrothersと並ぶほどの名インスト曲だ。俺はMichael Vesceraのヴォーカルが好きだからかもしれないが、いいアルバムだ。捨て曲はあるのだが、一般的に酷評されるほどレヴェルが低いとは思えない。それを補ってなお余りある曲が1曲目と6曲目、そして10曲目であるのだ。とはいえこのアルバムのタイトルはちょっと大げさすぎる気がする。",
+  "recommend": [
+    "Vengeance",
+    "No Love Lost",
+    "The Only One",
+    "Overture 1622",
+    "Voodoo",
+    "Fire in the Sky",
+    "Amberdawn",
+    "Cantabile"
+  ],
+  "description": "Malmsteen 8thアルバム",
+  "type": "album",
+  "img": ["yngwie08.jpg"]
+}

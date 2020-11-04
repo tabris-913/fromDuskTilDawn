@@ -1,1 +1,12 @@
-{"name": "夢を歌へと...!", "description": "", "date": "2017-01-11", "year": 0, "artist": ["starish", "qn", "heavens"], "list": [{"disk_no": 1, "name": "", "list": ["夢を歌へと...!"]}], "comment": "", "uid": "utapri08sp", "img": ["utapri08sp.jpg"], "rate": 0}
+{
+  "name": "夢を歌へと...!",
+  "description": "",
+  "date": "2017-01-11",
+  "year": 0,
+  "artist": ["starish", "qn", "heavens"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["夢を歌へと...!"] }],
+  "comment": "",
+  "uid": "utapri08sp",
+  "img": ["utapri08sp.jpg"],
+  "rate": 0
+}

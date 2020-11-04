@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi37compilation", "date": "2005-05-25", "genres": [], "review_done": false, "name": "コンプリート百恵回帰", "ruby": "", "artist": "山口百恵", "year": 2005, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "37thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi37compilation",
+  "date": "2005-05-25",
+  "genres": [],
+  "review_done": false,
+  "name": "コンプリート百恵回帰",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 2005,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "37thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

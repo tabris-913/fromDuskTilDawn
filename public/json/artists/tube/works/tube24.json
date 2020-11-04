@@ -1,1 +1,18 @@
-{"uid": "tube24", "date": "2002-07-31", "genres": [], "review_done": false, "name": "good day sunshine", "ruby": "", "artist": "TUBE", "year": 2002, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "24thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "tube24",
+  "date": "2002-07-31",
+  "genres": [],
+  "review_done": false,
+  "name": "good day sunshine",
+  "ruby": "",
+  "artist": "TUBE",
+  "year": 2002,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "24thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

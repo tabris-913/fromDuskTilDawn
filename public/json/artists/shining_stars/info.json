@@ -1,1 +1,12 @@
-{"name": "シャイニング・スターズ", "uid": "shining_stars", "en": "Shining Stars", "initial": ["さ"], "related": ["starish", "quartet_night"], "ruby4Sort": "しゃいにんぐ・すたーず", "others": [], "albums": [], "singles": [], "genres": []}
+{
+  "name": "シャイニング・スターズ",
+  "uid": "shining_stars",
+  "en": "Shining Stars",
+  "initial": ["さ"],
+  "related": ["starish", "quartet_night"],
+  "ruby4Sort": "しゃいにんぐ・すたーず",
+  "others": [],
+  "albums": [],
+  "singles": [],
+  "genres": []
+}

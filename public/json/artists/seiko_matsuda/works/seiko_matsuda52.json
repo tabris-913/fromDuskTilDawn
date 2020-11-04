@@ -1,1 +1,16 @@
-{"uid": "seiko_matsuda52", "date": "2017-06-07", "genres": [], "review_done": false, "name": "Daisy", "artist": ["松田聖子"], "year": 2017, "list": [{"list": [[]]}], "rate": null, "comment": "", "recommend": [], "description": "52ndアルバム", "type": "album", "img": ["seiko52.jpg"]}
+{
+  "uid": "seiko_matsuda52",
+  "date": "2017-06-07",
+  "genres": [],
+  "review_done": false,
+  "name": "Daisy",
+  "artist": ["松田聖子"],
+  "year": 2017,
+  "list": [{ "list": [[]] }],
+  "rate": null,
+  "comment": "",
+  "recommend": [],
+  "description": "52ndアルバム",
+  "type": "album",
+  "img": ["seiko52.jpg"]
+}

@@ -1,1 +1,18 @@
-{"uid": "shizuka_kudo10", "date": "1995-08-02", "genres": [], "review_done": false, "name": "Purple", "ruby": "", "artist": "工藤静香", "year": 1995, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "10thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "shizuka_kudo10",
+  "date": "1995-08-02",
+  "genres": [],
+  "review_done": false,
+  "name": "Purple",
+  "ruby": "",
+  "artist": "工藤静香",
+  "year": 1995,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "10thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

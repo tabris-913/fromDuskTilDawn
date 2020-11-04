@@ -1,1 +1,45 @@
-{"uid": "gamma_ray07", "date": "", "genres": [], "review_done": false, "name": "No World Order!", "artist": ["Gamma Ray"], "year": 2002, "list": [{"list": [["", "Induction", "Dethrone Tyranny", "The Heart of the Unicorn", "Heaven or Hell", "New World Order", "Damn the Machine", "Solid", "", "Fire Below", "Follow Me", "Eagle", "Lake of Tears", "(JAPANESE BONUS TRACK)", "Trouble"]]}], "rate": 86, "comment": "一段とパクリが濃くなったことで、大きく評価が傾いた作品。しかしそんなのは気にしない俺はなかなかいいアルバムだと思う。1曲目は日本の格闘技番組でよく使われる曲であり、認知度も高い。前作よりは疾走曲が減り、正統派寄りのアプローチも見せている。名盤と呼べるかどうかは微妙なラインだが、パクりを気にしない人には全然受け入れられる作品だ。", "recommend": ["Induction", "Dethrone Tyranny", "The Heat of the Universe", "Heaven or Hell", "New World Order", "Solid"], "description": "Ray 7thアルバム", "type": "album", "img": ["gamma.jpg"]}
+{
+  "uid": "gamma_ray07",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "No World Order!",
+  "artist": ["Gamma Ray"],
+  "year": 2002,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Induction",
+          "Dethrone Tyranny",
+          "The Heart of the Unicorn",
+          "Heaven or Hell",
+          "New World Order",
+          "Damn the Machine",
+          "Solid",
+          "",
+          "Fire Below",
+          "Follow Me",
+          "Eagle",
+          "Lake of Tears",
+          "(JAPANESE BONUS TRACK)",
+          "Trouble"
+        ]
+      ]
+    }
+  ],
+  "rate": 86,
+  "comment": "一段とパクリが濃くなったことで、大きく評価が傾いた作品。しかしそんなのは気にしない俺はなかなかいいアルバムだと思う。1曲目は日本の格闘技番組でよく使われる曲であり、認知度も高い。前作よりは疾走曲が減り、正統派寄りのアプローチも見せている。名盤と呼べるかどうかは微妙なラインだが、パクりを気にしない人には全然受け入れられる作品だ。",
+  "recommend": [
+    "Induction",
+    "Dethrone Tyranny",
+    "The Heat of the Universe",
+    "Heaven or Hell",
+    "New World Order",
+    "Solid"
+  ],
+  "description": "Ray 7thアルバム",
+  "type": "album",
+  "img": ["gamma.jpg"]
+}

@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi20", "date": "1980-05-21", "genres": [], "review_done": false, "name": "メビウス・ゲーム", "ruby": "", "artist": "山口百恵", "year": 1980, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "20thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi20",
+  "date": "1980-05-21",
+  "genres": [],
+  "review_done": false,
+  "name": "メビウス・ゲーム",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1980,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "20thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

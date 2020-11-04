@@ -1,1 +1,18 @@
-{"uid": "tube26", "date": "2004-07-22", "genres": [], "review_done": false, "name": "夏景色", "ruby": "", "artist": "TUBE", "year": 2004, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "26thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "tube26",
+  "date": "2004-07-22",
+  "genres": [],
+  "review_done": false,
+  "name": "夏景色",
+  "ruby": "",
+  "artist": "TUBE",
+  "year": 2004,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "26thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

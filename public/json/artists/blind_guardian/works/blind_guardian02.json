@@ -1,1 +1,43 @@
-{"uid": "blind_guardian02", "date": "", "genres": [], "review_done": false, "name": "Follow the Blind ", "artist": ["Blind Guardian"], "year": 1989, "list": [{"list": [["", "Inquisition", "Banish from Sanctuary", "Damned for All Time", "Follow the Blind", "Hall of the King", "", "Fast to Madness", "Beyond the Ice", "Valhalla", "Don't Break the Circle", "Barbara Ann"]]}], "rate": 87, "comment": "前作と同路線の疾走アグレッシヴ・メタル。メロディの良さは前作も同じで後にエピック・メタルの先駆者となる片鱗は見せているが、まだまだパワーのほうが上回っている。カイ・ハンセンが8曲目でゲスト参加している。とりあえずスラッシュ由来のスピード時代はここまでで、次のアルバムでエピックの扉を開けることになるわけだが、このアルバムも十分名盤と呼べるクオリティの高さだ。", "recommend": ["Banish from Sanctuary", "Damned for All Time", "Hall of the King", "Fast to Madness", "Beyond the Ice", "Valhalla", "Don't Break the Circle"], "description": "Guardian 2ndアルバム", "type": "album", "img": ["blind02.jpg"]}
+{
+  "uid": "blind_guardian02",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Follow the Blind ",
+  "artist": ["Blind Guardian"],
+  "year": 1989,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Inquisition",
+          "Banish from Sanctuary",
+          "Damned for All Time",
+          "Follow the Blind",
+          "Hall of the King",
+          "",
+          "Fast to Madness",
+          "Beyond the Ice",
+          "Valhalla",
+          "Don't Break the Circle",
+          "Barbara Ann"
+        ]
+      ]
+    }
+  ],
+  "rate": 87,
+  "comment": "前作と同路線の疾走アグレッシヴ・メタル。メロディの良さは前作も同じで後にエピック・メタルの先駆者となる片鱗は見せているが、まだまだパワーのほうが上回っている。カイ・ハンセンが8曲目でゲスト参加している。とりあえずスラッシュ由来のスピード時代はここまでで、次のアルバムでエピックの扉を開けることになるわけだが、このアルバムも十分名盤と呼べるクオリティの高さだ。",
+  "recommend": [
+    "Banish from Sanctuary",
+    "Damned for All Time",
+    "Hall of the King",
+    "Fast to Madness",
+    "Beyond the Ice",
+    "Valhalla",
+    "Don't Break the Circle"
+  ],
+  "description": "Guardian 2ndアルバム",
+  "type": "album",
+  "img": ["blind02.jpg"]
+}

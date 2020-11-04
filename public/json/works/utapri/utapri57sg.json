@@ -1,1 +1,12 @@
-{"name": "アイドルソング 蘭丸&藍", "description": "", "date": "2017-05-24", "year": 0, "artist": ["rammaru", "ai"], "list": [{"disk_no": 1, "name": "", "list": ["ハルハナ", "BE PROUD", "シンクロニズム"]}], "comment": "", "uid": "utapri57sg", "img": ["utapri57sg.jpg"], "rate": 0}
+{
+  "name": "アイドルソング 蘭丸&藍",
+  "description": "",
+  "date": "2017-05-24",
+  "year": 0,
+  "artist": ["rammaru", "ai"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["ハルハナ", "BE PROUD", "シンクロニズム"] }],
+  "comment": "",
+  "uid": "utapri57sg",
+  "img": ["utapri57sg.jpg"],
+  "rate": 0
+}

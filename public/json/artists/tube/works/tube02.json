@@ -1,1 +1,18 @@
-{"uid": "tube02", "date": "1985-12-01", "genres": [], "review_done": false, "name": "OFF SHORE DREAMIN'", "ruby": "", "artist": "The TUBE", "year": 1985, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "2thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "tube02",
+  "date": "1985-12-01",
+  "genres": [],
+  "review_done": false,
+  "name": "OFF SHORE DREAMIN'",
+  "ruby": "",
+  "artist": "The TUBE",
+  "year": 1985,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "2thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

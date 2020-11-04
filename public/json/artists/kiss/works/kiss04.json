@@ -1,1 +1,35 @@
-{"uid": "kiss04", "date": "", "genres": [], "review_done": false, "name": "Destroyer （地獄の軍団） ", "artist": ["Kiss"], "year": 1976, "list": [{"list": [["", "Detroit Rock City", "King of the Night Time World （暗黒の帝王）", "God of Thunder （雷神）", "Great Expectations （地獄の遺産）", "Flaming Youth （燃えたぎる血気）", "", "Sweet Pain", "Shout It Out Loud （狂気の叫び）", "Beth", "Do You Love Me", "Rock and Roll Party"]]}], "rate": 98, "comment": "神盤。同期のQueenを彷彿とさせる重厚なギターオーケストレーションが取り入れられ、以前のシンプルなハード・ロックサウンドにドラマティックさを持たせることに成功した。1,3,7,8曲目はバンドを代表する曲！3曲目はハード・ロックよりもメタルに近いと評されることもある。しかし何といっても個人的にツボなのは4曲出目、本物のオーケストラも導入している！シンフォサウンド好きにはたまらんのだよ。しかもこの曲はベートーヴェンのピアノソナタ8番「悲愴」がフィーチャーされている。それにしてもなんでDo You Love Meを終わりに持ってきたのだろうか。エンディングにはあまりふさわしくないような気もする。もっと終わり方がまともなら間違いなく99点だ。", "recommend": ["全部　特にSweet Pain以外　特に特にDetroit Rock City", "God of Thunder", "Great Expectations"], "description": "4thアルバム", "type": "album", "img": ["kiss04.jpg"]}
+{
+  "uid": "kiss04",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Destroyer （地獄の軍団） ",
+  "artist": ["Kiss"],
+  "year": 1976,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Detroit Rock City",
+          "King of the Night Time World （暗黒の帝王）",
+          "God of Thunder （雷神）",
+          "Great Expectations （地獄の遺産）",
+          "Flaming Youth （燃えたぎる血気）",
+          "",
+          "Sweet Pain",
+          "Shout It Out Loud （狂気の叫び）",
+          "Beth",
+          "Do You Love Me",
+          "Rock and Roll Party"
+        ]
+      ]
+    }
+  ],
+  "rate": 98,
+  "comment": "神盤。同期のQueenを彷彿とさせる重厚なギターオーケストレーションが取り入れられ、以前のシンプルなハード・ロックサウンドにドラマティックさを持たせることに成功した。1,3,7,8曲目はバンドを代表する曲！3曲目はハード・ロックよりもメタルに近いと評されることもある。しかし何といっても個人的にツボなのは4曲出目、本物のオーケストラも導入している！シンフォサウンド好きにはたまらんのだよ。しかもこの曲はベートーヴェンのピアノソナタ8番「悲愴」がフィーチャーされている。それにしてもなんでDo You Love Meを終わりに持ってきたのだろうか。エンディングにはあまりふさわしくないような気もする。もっと終わり方がまともなら間違いなく99点だ。",
+  "recommend": ["全部　特にSweet Pain以外　特に特にDetroit Rock City", "God of Thunder", "Great Expectations"],
+  "description": "4thアルバム",
+  "type": "album",
+  "img": ["kiss04.jpg"]
+}

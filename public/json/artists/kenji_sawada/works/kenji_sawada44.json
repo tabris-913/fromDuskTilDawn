@@ -1,1 +1,18 @@
-{"uid": "kenji_sawada44", "date": "2006-04-21", "genres": [], "review_done": false, "name": "俺たち最高", "ruby": "", "artist": "沢田研二", "year": 2006, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "44thアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "kenji_sawada44",
+  "date": "2006-04-21",
+  "genres": [],
+  "review_done": false,
+  "name": "俺たち最高",
+  "ruby": "",
+  "artist": "沢田研二",
+  "year": 2006,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "44thアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}

@@ -1,1 +1,12 @@
-{"name": "Eternal Song CD 雪月花", "description": "", "date": "2018-11-21", "year": 0, "artist": ["otoya", "masato", "natsuki", "tokiya", "ren", "sho", "cecil", "reiji", "rammaru", "ai", "camus"], "list": [{"disk_no": 1, "name": "", "list": ["雪月花"]}], "comment": "", "uid": "utapri61sg", "img": ["utapri61sg.jpg"], "rate": 0}
+{
+  "name": "Eternal Song CD 雪月花",
+  "description": "",
+  "date": "2018-11-21",
+  "year": 0,
+  "artist": ["otoya", "masato", "natsuki", "tokiya", "ren", "sho", "cecil", "reiji", "rammaru", "ai", "camus"],
+  "list": [{ "disk_no": 1, "name": "", "list": ["雪月花"] }],
+  "comment": "",
+  "uid": "utapri61sg",
+  "img": ["utapri61sg.jpg"],
+  "rate": 0
+}

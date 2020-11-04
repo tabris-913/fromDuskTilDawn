@@ -1,1 +1,44 @@
-{"uid": "yngwie_malmsteen01cover", "date": "", "genres": [], "review_done": false, "name": "Inspiration", "artist": ["Yngwie Malmsteen"], "year": 1996, "list": [{"list": [["", "Carry on Wayward Son", "Pictures of Home", "Gates of Babylon", "Manic Depression", "In the Dead of Night", "Mistreated", "", "The Sails of Charon", "Demon's Eye", "Anthem", "Child in Time", "(JAPANESE BONUS TRACK)", "Spanish Castle Magic"]]}], "rate": 85, "comment": "過去メンバーだったヴォーカリストが参加しているカヴァーアルバム。本人は、これはカヴァーアルバムではなくインスピレーションだ！などと意味不明なことをのたまっているが、気にしない方向で。Deep PurpleやRainbowなど、Ritchie Blackmore関連の曲が5曲も収録されている。ほかにはRushやKansas、U.K.などのプログレッシヴ系も収録されている。相変わらずジャケットはダサいが、彼のルーツを知るにはいいアルバムだろう。", "recommend": ["Carry on Wayward Son", "Pictures of Home", "Gates of Babylon", "In the Dead of Night", "Demon's Eye", "Child in Time"], "description": "Malmsteen 1stカヴァーアルバム", "type": "album", "img": ["yngwie01c.jpg"]}
+{
+  "uid": "yngwie_malmsteen01cover",
+  "date": "",
+  "genres": [],
+  "review_done": false,
+  "name": "Inspiration",
+  "artist": ["Yngwie Malmsteen"],
+  "year": 1996,
+  "list": [
+    {
+      "list": [
+        [
+          "",
+          "Carry on Wayward Son",
+          "Pictures of Home",
+          "Gates of Babylon",
+          "Manic Depression",
+          "In the Dead of Night",
+          "Mistreated",
+          "",
+          "The Sails of Charon",
+          "Demon's Eye",
+          "Anthem",
+          "Child in Time",
+          "(JAPANESE BONUS TRACK)",
+          "Spanish Castle Magic"
+        ]
+      ]
+    }
+  ],
+  "rate": 85,
+  "comment": "過去メンバーだったヴォーカリストが参加しているカヴァーアルバム。本人は、これはカヴァーアルバムではなくインスピレーションだ！などと意味不明なことをのたまっているが、気にしない方向で。Deep PurpleやRainbowなど、Ritchie Blackmore関連の曲が5曲も収録されている。ほかにはRushやKansas、U.K.などのプログレッシヴ系も収録されている。相変わらずジャケットはダサいが、彼のルーツを知るにはいいアルバムだろう。",
+  "recommend": [
+    "Carry on Wayward Son",
+    "Pictures of Home",
+    "Gates of Babylon",
+    "In the Dead of Night",
+    "Demon's Eye",
+    "Child in Time"
+  ],
+  "description": "Malmsteen 1stカヴァーアルバム",
+  "type": "album",
+  "img": ["yngwie01c.jpg"]
+}

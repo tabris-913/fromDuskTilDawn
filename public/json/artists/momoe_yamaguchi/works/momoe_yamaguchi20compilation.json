@@ -1,1 +1,18 @@
-{"uid": "momoe_yamaguchi20compilation", "date": "1985-04-21", "genres": [], "review_done": false, "name": "山口百恵ベスト・コレクション", "ruby": "", "artist": "山口百恵", "year": 1985, "list": [{"list": [[]]}], "rate": 0, "comment": "", "recommend": [], "description": "20thベストアルバム", "type": "album", "img": [], "akas": []}
+{
+  "uid": "momoe_yamaguchi20compilation",
+  "date": "1985-04-21",
+  "genres": [],
+  "review_done": false,
+  "name": "山口百恵ベスト・コレクション",
+  "ruby": "",
+  "artist": "山口百恵",
+  "year": 1985,
+  "list": [{ "list": [[]] }],
+  "rate": 0,
+  "comment": "",
+  "recommend": [],
+  "description": "20thベストアルバム",
+  "type": "album",
+  "img": [],
+  "akas": []
+}
