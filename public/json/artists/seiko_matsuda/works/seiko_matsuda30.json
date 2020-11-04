@@ -1,1 +1,29 @@
-{"uid": "seiko_matsuda30", "date": "1997-12-05", "genres": [], "review_done": false, "name": "Sweetest Time", "artist": ["松田聖子"], "year": 1997, "list": [{"list": [["", "Gone with the rain", "Why Say Goodbye", "KissしてX'mas", "", "Gone with the rain [English Version]", "Why Say Goodbye [English Version]", "あなたに逢いたくて ～Missing You～ [English Version]"]]}], "rate": 83, "comment": "前年に続いてリリースされた冬のミニアルバム。1曲目は先行シングルで、90年代後半屈指の名曲だ。2曲目は結構耳残りの良いメロディを駆使していて、やはりミニの方が完成度が高いとわかる。3曲目はあまりアップテンポではないクリスマスソングで、雰囲気が伝わってくる。4,5曲目は1,2曲目の英語verで、6曲目はミリオンヒット曲の英語ver.。下手にフルで作った前作が中途半端な作品に仕上がってしまい、ミニのこちらは普通にいい。単発でシングルヒットが出ていることで慢心し、クオリティが二の次になってしまっていたのだろう。", "recommend": ["Gone with the rain", "Why Say Goodbye", "KissしてX'mas"], "description": "30thアルバム", "type": "album", "img": ["seiko30.jpg"]}
+{
+  "uid": "seiko_matsuda30",
+  "date": "1997-12-05",
+  "genres": ["pops"],
+  "review_done": true,
+  "name": "Sweetest Time",
+  "artist": ["松田聖子"],
+  "year": 1997,
+  "list": [
+    {
+      "list": [
+        [
+          "Gone with the rain",
+          "Why Say Goodbye",
+          "KissしてX'mas",
+          "Gone with the rain [English Version]",
+          "Why Say Goodbye [English Version]",
+          "あなたに逢いたくて ～Missing You～ [English Version]"
+        ]
+      ]
+    }
+  ],
+  "rate": 80,
+  "comment": "前年に続いてリリースされた冬のミニアルバム。1曲目は先行シングルで、90年代後半屈指の名曲だ。2曲目は結構耳残りの良いメロディを駆使していて、やはりミニの方が完成度が高いとわかる。3曲目はあまりアップテンポではないクリスマスソングで、雰囲気が伝わってくる。4,5曲目は1,2曲目の英語verで、6曲目はミリオンヒット曲の英語ver.。下手にフルで作った前作が中途半端な作品に仕上がってしまい、ミニのこちらは普通にいい。単発でシングルヒットが出ていることで慢心し、クオリティが二の次になってしまっていたのだろう。",
+  "recommend": ["Gone with the rain", "Why Say Goodbye", "KissしてX'mas"],
+  "description": "30thアルバム",
+  "type": "album",
+  "img": ["seiko30.jpg"]
+}

@@ -1,1 +1,33 @@
-{"uid": "seiko_matsuda23", "date": "1993-11-21", "genres": [], "review_done": false, "name": "A Time for Love", "artist": ["松田聖子"], "year": 1993, "list": [{"list": [["", "Together for Christmas", "夜空へドライブ ～A wink to santa", "You're My World ～微笑みにかえて～", "Time for Love [English Version]", "Forever Your Everything", "", "Through Your Love", "When I Met You ～恋の予感", "外は白い雪", "Time for Love", "You're My World [English Version]"]]}], "rate": 76, "comment": "前年の『Sweet Memories'93』と同様に、クリスマス向けの企画盤。1曲目は明るいクリスマスソングで、ノリがいい。2曲目もクリスマスソングだが、こちらのほうがメロディの質が高い。3曲目はのちにバラードコンピに収録されたが、これまでの多くのバラードと比べるとやや弱い。4曲目はタイトル曲の英語詩ver.で、デュエットになっている。5曲目は「あなたのすべてになりたい」の英詩ver.で、聴いた限りヴォーカルだけ新録だろう。6曲目はかなりマイナーな曲で、インパクトも弱い。7曲目はのちに90年代ベストに収録されたが、正直理由がいまいち分からない。8曲目は素晴らしい冬のバラードで、このアルバムの白眉といえるだろう。9曲目はタイトル曲の日本語ver.で、こちらはソロだ。10曲目は3曲目の英詩ver.だが、ラストトラックとしては締りが悪い。やはり所詮は企画盤だという印象を拭えない。本気さが伝わってこない。", "recommend": ["夜空へドライブ", "Forever Your Everything", "外は白い雪", "Time for Love"], "description": "23rdアルバム", "type": "album", "img": ["seiko23.jpg"]}
+{
+  "uid": "seiko_matsuda23",
+  "date": "1993-11-21",
+  "genres": ["pops"],
+  "review_done": true,
+  "name": "A Time for Love",
+  "artist": ["松田聖子"],
+  "year": 1993,
+  "list": [
+    {
+      "list": [
+        [
+          "Together for Christmas",
+          "夜空へドライブ ～A wink to santa",
+          "You're My World ～微笑みにかえて～",
+          "Time for Love [English Version]",
+          "Forever Your Everything",
+          "Through Your Love",
+          "When I Met You ～恋の予感",
+          "外は白い雪",
+          "Time for Love",
+          "You're My World [English Version]"
+        ]
+      ]
+    }
+  ],
+  "rate": 74,
+  "comment": "前年の『Sweet Memories'93』と同様に、クリスマス向けの企画盤。1曲目は明るいクリスマスソングで、ノリがいい。2曲目もクリスマスソングだが、こちらのほうがメロディの質が高い。3曲目はのちにバラードコンピに収録されたが、これまでの多くのバラードと比べるとやや弱い。4曲目はタイトル曲の英語詩ver.で、デュエットになっている。5曲目は「あなたのすべてになりたい」の英詩ver.で、聴いた限りヴォーカルだけ新録だろう。6曲目はかなりマイナーな曲で、インパクトも弱い。7曲目はのちに90年代ベストに収録されたが、正直理由がいまいち分からない。8曲目は素晴らしい冬のバラードで、このアルバムの白眉といえるだろう。9曲目はタイトル曲の日本語ver.で、こちらはソロだ。10曲目は3曲目の英詩ver.だが、ラストトラックとしては締りが悪い。やはり所詮は企画盤だという印象を拭えない。本気さが伝わってこない。",
+  "recommend": ["夜空へドライブ", "Forever Your Everything", "外は白い雪", "Time for Love"],
+  "description": "23rdアルバム",
+  "type": "album",
+  "img": ["seiko23.jpg"]
+}

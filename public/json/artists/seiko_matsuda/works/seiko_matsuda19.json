@@ -1,1 +1,33 @@
-{"uid": "seiko_matsuda19", "date": "1991-05-02", "genres": [], "review_done": false, "name": "Eternal", "artist": ["松田聖子"], "year": 1991, "list": [{"list": [["", "Hold On [English Version]", "How Can I Fall?", "All This Time", "Eternal Flame", "Here We Are", "", "Everything", "How Am I Supposed to Live Without You", "Shower Me with Your Love", "Totally in Love with You", "Crazy For You [English Version]"]]}], "rate": 72, "comment": "初の洋楽カヴァー・アルバム。しかしそのほとんどは日本語詞にアレンジされている。1曲目はWilson Phillipsのカヴァーで、耳残りの良い曲だ。2曲目はBreatheのカヴァーで、アダルト・コンテンポラリーなバラード。3曲目はTiffanyのカヴァーで、こちらもACな雰囲気が漂う。4曲目はThe Banglesの全米全英No.1ソングのカヴァーだが、アレンジが微妙だ。5曲目はGloria Estefanのカヴァーで、印象の薄い出来。6曲目はJody Watleyのカヴァーで、なかなかの良アレンジだ。7曲目はLaura Braniganのカヴァーで、今作の中では一番古い原曲だ。8曲目はSurfaceのカヴァーで、R&B色が少し薄れて聞こえる。9曲目はオリジナル曲で、松田聖子らしさも感じるものの、このアルバムの中にあって違和感がない、つまり洋楽に染まりきった雰囲気。10曲目はMadonnaが歌った初バラードのカヴァー。もともとの曲のレヴェルが非常に高いため、このアルバムの中でも光っている。あくまで企画盤として楽しむべき作品だ。", "recommend": ["Hold On", "How Can I Fall?", "Everything", "How Am I Supposed to Live Without You", "Crazy For You"], "description": "19thアルバム", "type": "album", "img": ["seiko19.jpg"]}
+{
+  "uid": "seiko_matsuda19",
+  "date": "1991-05-02",
+  "genres": ["pops"],
+  "review_done": true,
+  "name": "Eternal",
+  "artist": ["松田聖子"],
+  "year": 1991,
+  "list": [
+    {
+      "list": [
+        [
+          "Hold On [English Version]",
+          "How Can I Fall?",
+          "All This Time",
+          "Eternal Flame",
+          "Here We Are",
+          "Everything",
+          "How Am I Supposed to Live Without You",
+          "Shower Me with Your Love",
+          "Totally in Love with You",
+          "Crazy For You [English Version]"
+        ]
+      ]
+    }
+  ],
+  "rate": 62,
+  "comment": "初の洋楽カヴァー・アルバム。しかしそのほとんどは日本語詞にアレンジされている。1曲目はWilson Phillipsのカヴァーで、耳残りの良い曲だ。2曲目はBreatheのカヴァーで、アダルト・コンテンポラリーなバラード。3曲目はTiffanyのカヴァーで、こちらもACな雰囲気が漂う。4曲目はThe Banglesの全米全英No.1ソングのカヴァーだが、アレンジが微妙だ。5曲目はGloria Estefanのカヴァーで、印象の薄い出来。6曲目はJody Watleyのカヴァーで、なかなかの良アレンジだ。7曲目はLaura Braniganのカヴァーで、今作の中では一番古い原曲だ。8曲目はSurfaceのカヴァーで、R&B色が少し薄れて聞こえる。9曲目はオリジナル曲で、松田聖子らしさも感じるものの、このアルバムの中にあって違和感がない、つまり洋楽に染まりきった雰囲気。10曲目はMadonnaが歌った初バラードのカヴァー。もともとの曲のレヴェルが非常に高いため、このアルバムの中でも光っている。あくまで企画盤として楽しむべき作品だ。",
+  "recommend": ["Hold On", "How Can I Fall?", "Everything", "How Am I Supposed to Live Without You", "Crazy For You"],
+  "description": "19thアルバム",
+  "type": "album",
+  "img": ["seiko19.jpg"]
+}

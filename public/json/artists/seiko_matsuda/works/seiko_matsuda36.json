@@ -1,1 +1,36 @@
-{"uid": "seiko_matsuda36", "date": "2002-06-21", "genres": [], "review_done": false, "name": "area62", "artist": ["SEIKO"], "year": 2002, "list": [{"list": [["", "all to you", "just for tonight", "I'm right here", "never need another", "let's fall in love again", "everything I am", "chameleon", "", "downtown tokyo", "ave maria", "downtown tokyo [japanese]", "all to you [japanese]", "all to you [remix 4-5]", "ave maria [wavemix]"]]}], "rate": 74, "comment": "3枚目の全米リリースアルバムとなる36作目。『WAS IT THE FUTURE』よりもダンス色が濃くなり、かなりクセが強いものもある。1曲目はプロモート・シングルとしてリリースされた曲で、途中で日本語による語りが入る。2曲目はなかなかメロディも秀逸なダンス・チューンで、ノリもいい。3曲目はとりあえずダンスチューンで、悪くないメロディだが印象は弱い。4曲目はこれもなかなか耳残りが良く、非常に耳に心地よい雰囲気だ。5曲目はダンスビートが明るさを演出し、縦ノリ感が強く出ている。6曲目はサビになるとやや壮大めの雰囲気をまとう。7曲目はかなりクセの強いダンスサウンドだが、非常にインパクトがある。8曲目はデジタル色がやや強く感じられる曲で、内容も同じものの繰り返し。9曲目はかの有名な「アヴェ・マリア」をアレンジしたもの。ラップが取り入れられるのは初だ。10曲目以降は収録曲の別ver.が続く。後半は微妙だが、前半の出来は全米向けアルバムではかなりレヴェルの高いほうだ。後半までこれが維持できていれば、間違いなく素晴らしい作品になっていただろう。", "recommend": ["all to you", "just for tonight", "let's fall in love again", "chameleon"], "description": "36thアルバム", "type": "album", "img": ["seiko36.jpg"]}
+{
+  "uid": "seiko_matsuda36",
+  "date": "2002-06-21",
+  "genres": ["club", "house"],
+  "review_done": true,
+  "name": "area62",
+  "artist": ["SEIKO"],
+  "year": 2002,
+  "list": [
+    {
+      "list": [
+        [
+          "all to you",
+          "just for tonight",
+          "I'm right here",
+          "never need another",
+          "let's fall in love again",
+          "everything I am",
+          "chameleon",
+          "downtown tokyo",
+          "ave maria",
+          "downtown tokyo [japanese]",
+          "all to you [japanese]",
+          "all to you [remix 4-5]",
+          "ave maria [wavemix]"
+        ]
+      ]
+    }
+  ],
+  "rate": 61,
+  "comment": "3枚目の全米リリースアルバムとなる36作目。『WAS IT THE FUTURE』よりもダンス色が濃くなり、かなりクセが強いものもある。1曲目はプロモート・シングルとしてリリースされた曲で、途中で日本語による語りが入る。2曲目はなかなかメロディも秀逸なダンス・チューンで、ノリもいい。3曲目はとりあえずダンスチューンで、悪くないメロディだが印象は弱い。4曲目はこれもなかなか耳残りが良く、非常に耳に心地よい雰囲気だ。5曲目はダンスビートが明るさを演出し、縦ノリ感が強く出ている。6曲目はサビになるとやや壮大めの雰囲気をまとう。7曲目はかなりクセの強いダンスサウンドだが、非常にインパクトがある。8曲目はデジタル色がやや強く感じられる曲で、内容も同じものの繰り返し。9曲目はかの有名な「アヴェ・マリア」をアレンジしたもの。ラップが取り入れられるのは初だ。10曲目以降は収録曲の別ver.が続く。後半は微妙だが、前半の出来は全米向けアルバムではかなりレヴェルの高いほうだ。後半までこれが維持できていれば、間違いなく素晴らしい作品になっていただろう。",
+  "recommend": ["all to you", "just for tonight", "let's fall in love again", "chameleon"],
+  "description": "36thアルバム",
+  "type": "album",
+  "img": ["seiko36.jpg"]
+}
