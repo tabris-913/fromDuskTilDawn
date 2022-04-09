@@ -11,7 +11,7 @@
     "connected-react-router": "^6.4.0",
     "formik": "^2.2.0",
     "history": "^4.9.0",
-    "moment": "^2.29.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.25",
     "querystring": "^0.2.0",
     "ramda": "^0.27.1",
